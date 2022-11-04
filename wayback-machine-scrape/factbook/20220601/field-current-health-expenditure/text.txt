@@ -1,0 +1,511 @@
+Current Health Expenditure (CHE) describes the share of spending on health in each country relative to the size of its economy.  It includes expenditures corresponding to the final consumption of health care goods and services and excludes investment, exports, and intermediate consumption.  CHE shows the importance of the health sector in the economy and indicates the priority given to health in monetary terms.  Note: Current Health Expenditure replaces the former Health Expenditures field and is calculated differently.
+
+Topic: Afghanistan13.2% (2019)
+
+Topic: AkrotiriNA
+
+Topic: Albania5.2% (2018)
+
+Topic: Algeria6.2% (2019)
+
+Topic: American SamoaNA
+
+Topic: Andorra6.7% (2019)
+
+Topic: Angola2.5% (2019)
+
+Topic: AnguillaNA
+
+Topic: Antigua and Barbuda4.4% (2019)
+
+Topic: Argentina9.5% (2019)
+
+Topic: Armenia11.3% (2019)
+
+Topic: ArubaNA
+
+Topic: Ashmore and Cartier IslandsNA
+
+Topic: Australia9.9% (2019)
+
+Topic: Austria10.4% (2019)
+
+Topic: Azerbaijan4% (2019)
+
+Topic: Bahamas, The5.8% (2019)
+
+Topic: Bahrain4% (2019)
+
+Topic: Bangladesh2.5% (2019)
+
+Topic: Barbados6.3% (2019)
+
+Topic: Belarus5.9% (2019)
+
+Topic: Belgium10.7% (2019)
+
+Topic: Belize6% (2019)
+
+Topic: Benin2.4% (2019)
+
+Topic: BermudaNA
+
+Topic: Bhutan3.6% (2019)
+
+Topic: Bolivia6.9% (2019)
+
+Topic: Bosnia and Herzegovina9.1% (2019)
+
+Topic: Botswana6.1% (2019)
+
+Topic: Bouvet IslandNA
+
+Topic: Brazil9.6% (2019)
+
+Topic: British Indian Ocean TerritoryNA
+
+Topic: British Virgin IslandsNA
+
+Topic: Brunei2.2% (2019)
+
+Topic: Bulgaria7.1% (2019)
+
+Topic: Burkina Faso5.5% (2019)
+
+Topic: Burma4.7% (2019)
+
+Topic: Burundi8% (2019)
+
+Topic: Cabo Verde4.9% (2019)
+
+Topic: Cambodia7% (2019)
+
+Topic: Cameroon3.6% (2019)
+
+Topic: Canada10.8% (2019)
+
+Topic: Cayman IslandsNA
+
+Topic: Central African Republic7.8% (2019)
+
+Topic: Chad4.4% (2019)
+
+Topic: Chile9.3% (2019)
+
+Topic: China5.4% (2019)
+
+Topic: Christmas IslandNA
+
+Topic: Clipperton IslandNA
+
+Topic: Cocos (Keeling) IslandsNA
+
+Topic: Colombia7.7% (2019)
+
+Topic: Comoros5.2% (2019)
+
+Topic: Congo, Democratic Republic of the3.5% (2019)
+
+Topic: Congo, Republic of the2.1% (2019)
+
+Topic: Cook Islands3.1% (2019)
+
+Topic: Coral Sea IslandsNA
+
+Topic: Costa Rica7.3% (2019)
+
+Topic: Cote d'Ivoire3.3% (2019)
+
+Topic: Croatia7% (2019)
+
+Topic: Cuba11.3% (2019)
+
+Topic: CuracaoNA
+
+Topic: Cyprus7% (2019)
+
+Topic: Czechia7.8% (2019)
+
+Topic: Denmark10% (2019)
+
+Topic: DhekeliaNA
+
+Topic: Djibouti1.8% (2019)
+
+Topic: Dominica5.5% (2019)
+
+Topic: Dominican Republic5.9% (2019)
+
+Topic: Ecuador7.8% (2019)
+
+Topic: Egypt4.7% (2019)
+
+Topic: El Salvador7.2% (2019)
+
+Topic: Equatorial Guinea3.1% (2019)
+
+Topic: Eritrea4.5% (2019)
+
+Topic: Estonia6.7% (2019)
+
+Topic: Eswatini6.8% (2019)
+
+Topic: Ethiopia3.2% (2019)
+
+Topic: European Union9.9% (2016)
+
+Topic: Falkland Islands (Islas Malvinas)NA
+
+Topic: Faroe IslandsNA
+
+Topic: Fiji3.8% (2019)
+
+Topic: Finland9.2% (2019)
+
+Topic: France11.1% (2019)
+
+Topic: French PolynesiaNA
+
+Topic: French Southern and Antarctic LandsNA
+
+Topic: Gabon2.8% (2019)
+
+Topic: Gambia, The3.8% (2019)
+
+Topic: Gaza StripNA
+
+Topic: Georgia6.7% (2019)
+
+Topic: Germany11.7% (2019)
+
+Topic: Ghana3.4% (2019)
+
+Topic: GibraltarNA
+
+Topic: Greece7.8% (2019)
+
+Topic: GreenlandNA
+
+Topic: Grenada5% (2019)
+
+Topic: GuamNA
+
+Topic: Guatemala6.2% (2019)
+
+Topic: GuernseyNA
+
+Topic: Guinea4% (2019)
+
+Topic: Guinea-Bissau8.4% (2019)
+
+Topic: Guyana4.9% (2019)
+
+Topic: Haiti4.7% (2019)
+
+Topic: Heard Island and McDonald IslandsNA
+
+Topic: Holy See (Vatican City)NA
+
+Topic: Honduras7.3% (2019)
+
+Topic: Hong KongNA
+
+Topic: Hungary6.4% (2019)
+
+Topic: Iceland8.6% (2019)
+
+Topic: India3% (2019)
+
+Topic: Indonesia2.9% (2019)
+
+Topic: Iran6.7% (2019)
+
+Topic: Iraq4.5% (2019)
+
+Topic: Ireland6.7% (2019)
+
+Topic: Isle of ManNA
+
+Topic: Israel7.5% (2019)
+
+Topic: Italy8.7% (2019)
+
+Topic: Jamaica6.1% (2019)
+
+Topic: Jan MayenNA
+
+Topic: Japan10.7% (2019)
+
+Topic: JerseyNA
+
+Topic: Jordan7.6% (2019)
+
+Topic: Kazakhstan2.8% (2019)
+
+Topic: Kenya4.6% (2019)
+
+Topic: Kiribati10.3% (2019)
+
+Topic: Korea, NorthNA
+
+Topic: Korea, South8.2% (2019)
+
+Topic: KosovoNA
+
+Topic: Kuwait5.5% (2019)
+
+Topic: Kyrgyzstan4.5% (2019)
+
+Topic: Laos2.6% (2019)
+
+Topic: Latvia6.6% (2019)
+
+Topic: Lebanon8.7% (2019)
+
+Topic: Lesotho11.3% (2019)
+
+Topic: Liberia8.5% (2019)
+
+Topic: LibyaNA
+
+Topic: LiechtensteinNA
+
+Topic: Lithuania7% (2019)
+
+Topic: Luxembourg5.4% (2019)
+
+Topic: MacauNA
+
+Topic: Madagascar3.7% (2019)
+
+Topic: Malawi7.4% (2019)
+
+Topic: Malaysia3.8% (2019)
+
+Topic: Maldives8% (2019)
+
+Topic: Mali3.9% (2019)
+
+Topic: Malta8.2% (2019)
+
+Topic: Marshall Islands16.3% (2019)
+
+Topic: Mauritania3.3% (2019)
+
+Topic: Mauritius6.2% (2019)
+
+Topic: Mexico5.4% (2019)
+
+Topic: Micronesia, Federated States of11.4% (2019)
+
+Topic: Moldova6.4% (2019)
+
+Topic: Monaco1.5% (2019)
+
+Topic: Mongolia3.8% (2019)
+
+Topic: Montenegro8.3% (2019)
+
+Topic: MontserratNA
+
+Topic: Morocco5.3% (2019)
+
+note: does not include data from the former Western Sahara
+
+Topic: Mozambique7.8% (2019)
+
+Topic: Namibia8.5% (2019)
+
+Topic: Nauru9.8% (2019)
+
+Topic: Navassa IslandNA
+
+Topic: Nepal4.5% (2019)
+
+Topic: Netherlands10.1% (2019)
+
+Topic: New CaledoniaNA
+
+Topic: New Zealand9.7% (2019)
+
+Topic: Nicaragua8.4% (2019)
+
+Topic: Niger5.7% (2019)
+
+Topic: Nigeria3% (2019)
+
+Topic: Niue5.3% (2019)
+
+Topic: Norfolk IslandNA
+
+Topic: North Macedonia7.3% (2019)
+
+Topic: Northern Mariana IslandsNA
+
+Topic: Norway10.5% (2019)
+
+Topic: Oman4.1% (2019)
+
+Topic: Pakistan3.4% (2019)
+
+Topic: Palau15.2% (2019)
+
+Topic: Panama7.6% (2019)
+
+Topic: Papua New Guinea2.3% (2019)
+
+Topic: Paracel IslandsNA
+
+Topic: Paraguay7.2% (2019)
+
+Topic: Peru5.2% (2019)
+
+Topic: Philippines4.1% (2019)
+
+Topic: Pitcairn IslandsNA
+
+Topic: Poland6.5% (2019)
+
+Topic: Portugal9.5% (2019)
+
+Topic: Puerto RicoNA
+
+Topic: Qatar2.9% (2019)
+
+Topic: Romania5.7% (2019)
+
+Topic: Russia5.7% (2019)
+
+Topic: Rwanda6.4% (2019)
+
+Topic: Saint BarthelemyNA
+
+Topic: Saint Helena, Ascension, and Tristan da CunhaNA
+
+Topic: Saint Kitts and Nevis5.4% (2019)
+
+Topic: Saint Lucia4.3% (2019)
+
+Topic: Saint MartinNA
+
+Topic: Saint Pierre and MiquelonNA
+
+Topic: Saint Vincent and the Grenadines4.8% (2019)
+
+Topic: Samoa6.4% (2019)
+
+Topic: San Marino6.4% (2019)
+
+Topic: Sao Tome and Principe5.5% (2019)
+
+Topic: Saudi Arabia5.7% (2019)
+
+Topic: Senegal4.1% (2019)
+
+Topic: Serbia8.7% (2019)
+
+Topic: Seychelles5.2% (2019)
+
+Topic: Sierra Leone8.8% (2019)
+
+Topic: Singapore4.1% (2019)
+
+Topic: Sint MaartenNA
+
+Topic: Slovakia7% (2019)
+
+Topic: Slovenia8.5% (2019)
+
+Topic: Solomon Islands4.8% (2019)
+
+Topic: SomaliaNA
+
+Topic: South Africa9.1% (2019)
+
+Topic: South Georgia and South Sandwich IslandsNA
+
+Topic: South Sudan6% (2019)
+
+Topic: Spain9.1% (2019)
+
+Topic: Spratly IslandsNA
+
+Topic: Sri Lanka4.1% (2019)
+
+Topic: Sudan4.6% (2019)
+
+Topic: Suriname9.7% (2019)
+
+Topic: SvalbardNA
+
+Topic: Sweden10.9% (2019)
+
+Topic: Switzerland11.3% (2019)
+
+Topic: SyriaNA
+
+Topic: TaiwanNA
+
+Topic: Tajikistan7.1% (2019)
+
+Topic: Tanzania3.8% (2019)
+
+Topic: Thailand3.8% (2019)
+
+Topic: Timor-Leste7.2% (2019)
+
+Topic: Togo5.7% (2019)
+
+Topic: TokelauNA
+
+Topic: Tonga5% (2019)
+
+Topic: Trinidad and Tobago7% (2019)
+
+Topic: Tunisia7% (2019)
+
+Topic: Turkey4.3% (2019)
+
+Topic: Turkmenistan6.6% (2019)
+
+Topic: Turks and Caicos IslandsNA
+
+Topic: Tuvalu24% (2019)
+
+Topic: Uganda3.8% (2019)
+
+Topic: Ukraine7.1% (2019)
+
+Topic: United Arab Emirates4.3% (2019)
+
+Topic: United Kingdom10.2% (2019)
+
+Topic: United States16.8% (2019)
+
+Topic: United States Pacific Island Wildlife RefugesNA
+
+Topic: Uruguay9.4% (2019)
+
+Topic: Uzbekistan5.6% (2019)
+
+Topic: Vanuatu3.4% (2019)
+
+Topic: Venezuela5.4% (2019)
+
+Topic: Vietnam5.3% (2019)
+
+Topic: Virgin IslandsNA
+
+Topic: Wake IslandNA
+
+Topic: Wallis and FutunaNA
+
+Topic: West BankNA
+
+Topic: World10% (2016)
+
+Topic: Yemen4.3% (2015)
+
+Topic: Zambia5.3% (2019)
+
+Topic: Zimbabwe7.7% (2019)

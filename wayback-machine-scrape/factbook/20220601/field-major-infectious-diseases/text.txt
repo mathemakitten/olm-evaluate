@@ -1,0 +1,1037 @@
+This entry lists major infectious diseases likely to be encountered in countries where the risk of such diseases is assessed to be very high as compared to the United States. These infectious diseases represent risks to US Government personnel traveling to the specified country for a period of less than three years. The degree of risk is assessed by considering the foreign nature of these infectious diseases, their severity, and the probability of being affected by the diseases present. The diseases listed do not necessarily represent the total disease burden experienced by the local population.
+The risk to an individual traveler varies considerably by the specific location, visit duration, type of activities, type of accommodations, time of year, and other factors. Consultation with a travel medicine physician is needed to evaluate individual risk and recommend appropriate preventive measures such as vaccines.
+Diseases are organized into the following six exposure categories shown in italics and listed in typical descending order of risk. Note: The sequence of exposure categories listed in individual country entries may vary according to local conditions.
+
+food or waterborne diseases acquired through eating or drinking:
+Hepatitis A - viral disease that interferes with the functioning of the liver; spread through consumption of food or water contaminated with fecal matter, principally in areas of poor sanitation; victims exhibit fever, jaundice, and diarrhea; 15% of victims will experience prolonged symptoms over 6-9 months; vaccine available.
+Hepatitis E - water-borne viral disease that interferes with the functioning of the liver; most commonly spread through fecal contamination of drinking water; victims exhibit jaundice, fatigue, abdominal pain, and dark colored urine.
+Typhoid fever - bacterial disease spread through contact with food or water contaminated by fecal matter or sewage; victims exhibit sustained high fevers; left untreated, mortality rates can reach 20%.
+
+vector-borne diseases acquired through the bite of an infected arthropod:
+Malaria - caused by single-cell parasitic protozoa Plasmodium; transmitted to humans via the bite of the female Anopheles mosquito; parasites multiply in the liver attacking red blood cells resulting in cycles of fever, chills, and sweats accompanied by anemia; death due to damage to vital organs and interruption of blood supply to the brain; endemic in 85, mostly tropical, countries with 95% of cases and the majority of 0.4-0.6 million estimated annual deaths occurring in sub-Saharan Africa (six countries – Nigeria, the Democratic Republic of the Congo, Uganda, Mozambique, Angola and Burkina Faso – accounted for just over half of all malaria deaths globally in 2020).
+Dengue fever - mosquito-borne (Aedes aegypti) viral disease associated with urban environments; manifests as sudden onset of fever and severe headache; occasionally produces shock and hemorrhage leading to death in 5% of cases.
+Yellow fever - mosquito-borne (in urban areas Aedes aegypti) viral disease associated with urban environments; severity ranges from influenza-like symptoms to severe hepatitis and hemorrhagic fever; occurs only in tropical South America and sub-Saharan Africa, where most cases are reported; fatality rate is less than 20%.
+Japanese Encephalitis - mosquito-borne (Culex tritaeniorhynchus) viral disease associated with rural areas in Asia; acute encephalitis can progress to paralysis, coma, and death; fatality rates 30%.
+African Trypanosomiasis - caused by the parasitic protozoa Trypanosoma; transmitted to humans via the bite of bloodsucking tsetse flies; infection leads to malaise and irregular fevers and, in advanced cases when the parasites invade the central nervous system, coma and death; endemic in 36 countries of sub-Saharan Africa; cattle and wild animals act as reservoir hosts for the parasites.
+Cutaneous Leishmaniasis - caused by the parasitic protozoa leishmania; transmitted to humans via the bite of sandflies; results in skin lesions that may become chronic; endemic in 88 countries; 90% of cases occur in Iran, Afghanistan, Syria, Saudi Arabia, Brazil, and Peru; wild and domesticated animals as well as humans can act as reservoirs of infection.
+Plague - bacterial disease transmitted by fleas normally associated with rats; person-to-person airborne transmission also possible; recent plague epidemics occurred in areas of Asia, Africa, and South America associated with rural areas or small towns and villages; manifests as fever, headache, and painfully swollen lymph nodes; disease progresses rapidly and without antibiotic treatment leads to pneumonic form with a death rate in excess of 50%.
+Crimean-Congo hemorrhagic fever - tick-borne viral disease; infection may also result from exposure to infected animal blood or tissue; geographic distribution includes Africa, Asia, the Middle East, and Eastern Europe; sudden onset of fever, headache, and muscle aches followed by hemorrhaging in the bowels, urine, nose, and gums; mortality rate is approximately 30%.
+Rift Valley fever - viral disease affecting domesticated animals and humans; transmission is by mosquito and other biting insects; infection may also occur through handling of infected meat or contact with blood; geographic distribution includes eastern and southern Africa where cattle and sheep are raised; symptoms are generally mild with fever and some liver abnormalities, but the disease may progress to hemorrhagic fever, encephalitis, or ocular disease; fatality rates are low at about 1% of cases.
+Chikungunya - mosquito-borne (Aedes aegypti) viral disease associated with urban environments, similar to Dengue Fever; characterized by sudden onset of fever, rash, and severe joint pain usually lasting 3-7 days, some cases result in persistent arthritis.
+
+water-contact diseases acquired through swimming or wading in freshwater lakes, streams, and rivers:
+Leptospirosis - bacterial disease that affects animals and humans; infection occurs through contact with water, food, or soil contaminated by animal urine; symptoms include high fever, severe headache, vomiting, jaundice, and diarrhea; untreated, the disease can result in kidney damage, liver failure, meningitis, or respiratory distress; fatality rates are low but left untreated recovery can take months.
+Schistosomiasis - caused by parasitic trematode flatworm Schistosoma; fresh water snails act as intermediate host and release larval form of parasite that penetrates the skin of people exposed to contaminated water; worms mature and reproduce in the blood vessels, liver, kidneys, and intestines releasing eggs, which become trapped in tissues triggering an immune response; may manifest as either urinary or intestinal disease resulting in decreased work or learning capacity; mortality, while generally low, may occur in advanced cases usually due to bladder cancer; endemic in 74 developing countries with 80% of infected people living in sub-Saharan Africa; humans act as the reservoir for this parasite.
+
+aerosolized dust or soil-contact disease acquired through inhalation of aerosols contaminated with rodent urine:
+Lassa fever - viral disease carried by rats of the genus Mastomys; endemic in portions of West Africa; infection occurs through direct contact with or consumption of food contaminated by rodent urine or fecal matter containing virus particles; fatality rate can reach 50% in epidemic outbreaks.
+
+respiratory disease acquired through close contact with an infectious person:
+Meningococcal meningitis - bacterial disease causing an inflammation of the lining of the brain and spinal cord; one of the most important bacterial pathogens is Neisseria meningitidis because of its potential to cause epidemics; symptoms include stiff neck, high fever, headaches, and vomiting; bacteria are transmitted from person to person by respiratory droplets and facilitated by close and prolonged contact resulting from crowded living conditions, often with a seasonal distribution; death occurs in 5-15% of cases, typically within 24-48 hours of onset of symptoms; highest burden of meningococcal disease occurs in the hyperendemic region of sub-Saharan Africa known as the "Meningitis Belt" which stretches from Senegal east to Ethiopia.
+
+animal-contact disease acquired through direct contact with local animals:
+Rabies - viral disease of mammals usually transmitted through the bite of an infected animal, most commonly dogs; virus affects the central nervous system causing brain alteration and death; symptoms initially are non-specific fever and headache progressing to neurological symptoms; death occurs within days of the onset of symptoms.
+
+Topic: Afghanistandegree of risk: intermediate (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: Crimea-Congo hemorrhagic fever, malaria
+
+note: Afghanistan is one of two countries with endemic wild polio virus (the other is Pakistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Angoladegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, typhoid fever
+
+vectorborne diseases: dengue fever, malaria
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+Topic: Argentinanote: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 30 March 2022, Argentina has reported a total of 9,028,730 cases of COVID-19 or 19,976.93 cumulative cases of COVID-19 per 100,000 population with a total of 127,943 cumulative deaths or 283.08 cumulative deaths per 100,000 population; as of 29 March 2022, 89.69% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: Bangladeshdegree of risk: high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever
+
+vectorborne diseases: dengue fever and malaria are high risks in some locations
+
+water contact diseases: leptospirosis
+
+animal contact diseases: rabies
+
+note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 30 March 2022, Bangladesh has reported a total of 1,951,432 cases of COVID-19 or 1,184.91 cumulative cases of COVID-19 per 100,000 population with a total of 29,120 cumulative deaths or a rate of 16.78 cumulative deaths per 100,000 population; as of 29 March 2022, 76.69% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: Benindegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever and malaria
+
+animal contact diseases: rabies
+
+respiratory diseases: meningococcal meningitis
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Benin is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Boliviadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial diarrhea and hepatitis A
+
+vectorborne diseases: dengue fever and malaria
+
+Topic: Botswanadegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria
+
+Topic: Brazildegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial diarrhea and hepatitis A
+
+vectorborne diseases: dengue fever and malaria
+
+water contact diseases: schistosomiasis
+
+note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 30 March 2022, Brazil has reported a total of 29,852,341 cases of COVID-19 or 14,044.23 cumulative cases of COVID-19 per 100,000 population with a total of 658,956 cumulative deaths or a rate 310.01 cumulative deaths per 100,000 population; as of 29 March 2022, 84.62% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: Burkina Fasodegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever and malaria
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+respiratory diseases: meningococcal meningitis
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Burkina Faso is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Burmadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever, malaria, and Japanese encephalitis
+
+animal contact diseases: rabies
+
+Topic: Burundidegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+Topic: Cambodiadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever, Japanese encephalitis, and malaria
+
+Topic: Cameroondegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+respiratory diseases: meningococcal meningitis
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Cameroon is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Central African Republicdegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+respiratory diseases: meningococcal meningitis
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Central African Republic is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Chaddegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+respiratory diseases: meningococcal meningitis
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Chad is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Chinadegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: Crimean-Congo hemorrhagic fever, Japanese encephalitis
+
+soil contact diseases: hantaviral hemorrhagic fever with renal syndrome (HFRS)
+
+note: a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 30 March 2022, China has reported a total of 899,803 cases of COVID-19 or 61.15 cumulative cases of COVID-19 per 100,000 population with a total of 13,062 cumulative deaths or a rate 0.88 cumulative deaths per 100,000 population; as of 29 March 2022, 88.32% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: Colombiadegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: dengue fever, malaria, and yellow fever
+
+note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 30 March 2022, Columbia has reported a total of 6,083,939 cases of COVID-19 or 11,956.74 cumulative cases of COVID-19 per 100,000 population with a total of 139,585 cumulative deaths or a rate 274.32 cumulative deaths per 100,000 population; as of 29 March 2022, 81.8% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: Congo, Democratic Republic of thedegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria, dengue fever, and trypanosomiasis-gambiense (African sleeping sickness)
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Democratic Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Congo, Republic of thedegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Cook Islandsdegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: malaria
+
+Topic: Costa Ricadegree of risk: intermediate (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: dengue fever
+
+Topic: Cote d'Ivoiredegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria, dengue fever, and yellow fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+respiratory diseases: meningococcal meningitis
+
+Topic: Croatiadegree of risk: intermediate (2020)
+
+vectorborne diseases: tickborne encephalitis
+
+Topic: Cubadegree of risk: intermediate (2020)
+
+food or waterborne diseases: bacterial diarrhea and hepatitis A
+
+vectorborne diseases: dengue fever
+
+Topic: Djiboutidegree of risk: high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Djibouti is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Dominican Republicdegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever
+
+Topic: Ecuadordegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever and malaria
+
+Topic: Egyptdegree of risk: intermediate (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+water contact diseases: schistosomiasis
+
+Topic: El Salvadordegree of risk: high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea
+
+vectorborne diseases: dengue fever
+
+Topic: Equatorial Guineadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+animal contact diseases: rabies
+
+Topic: Eritreadegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+Topic: Estoniadegree of risk: intermediate (2020)
+
+vectorborne diseases: tickborne encephalitis
+
+Topic: Eswatinidegree of risk: intermediate (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria
+
+water contact diseases: schistosomiasis
+
+Topic: Ethiopiadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+respiratory diseases: meningococcal meningitis
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Ethiopia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: European Unionnote: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring regionally; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the European Union’s Schengen Area (comprised of the following 26 European states: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and Switzerland) to travel through select airports where the US Government has implemented enhanced screening procedures
+
+Topic: Fijidegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: malaria
+
+Topic: Francenote: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 30 March 2022, France has reported a total of 24,527,949 cases of COVID-19 or 37,712.47 cumulative cases of COVID-19 per 100,000 population with a total of 138,802 cumulative deaths or a rate 213.41 cumulative deaths per 100,000 population; as of 29 March 2022, 80.09% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: French Polynesiadegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: malaria
+
+Topic: Gabondegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+Topic: Gambia, Thedegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+respiratory diseases: meningococcal meningitis
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; The Gambia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Gaza Stripnote: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; the Gaza Strip is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccinenote: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; the Gaza Strip is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Ghanadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria, dengue fever, and yellow fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+respiratory diseases: meningococcal meningitis
+
+note: since October 2021, there has been a yellow fever outbreak in Ghana with numerous cases, including some deaths, in the following regions: Savannah, Upper West, Bono, and Oti; the CDC recommends travelers going to Ghana should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak; there are no medications to treat or cure yellow fever
+
+Topic: Guatemaladegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever and malaria
+
+Topic: Guineadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria, dengue fever, and yellow fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+aerosolized dust or soil contact diseases: Lassa fever (2016)
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Guinea is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Guinea-Bissaudegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria, dengue fever, and yellow fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Guinea-Bissau is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Guyanadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever and malaria
+
+Topic: Haitidegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever
+
+vectorborne diseases: dengue fever and malaria
+
+Topic: Hondurasdegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever and malaria
+
+Topic: Hungarydegree of risk: intermediate (2016)
+
+vectorborne diseases: tickborne encephalitis (2016)
+
+Topic: Indiadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A and E, and typhoid fever
+
+vectorborne diseases: dengue fever, Crimean-Congo hemorrhagic fever, Japanese encephalitis, and malaria
+
+water contact diseases: leptospirosis
+
+animal contact diseases: rabies
+
+note: clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 30 March 2022, India has reported a total of 43,023,215 cases of COVID-19 or 3,117.61 cumulative cases of COVID-19 per 100,000 population with a total of 521,101 cumulative deaths or a rate 37.76 cumulative deaths per 100,000 population; as of 29 March 2022, 70.68% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: Indonesiadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever and malaria
+
+note: a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 30 March 2022, Indonesia has reported a total of 6,005,646 cases of COVID-19 or 2,195.66 cumulative cases of COVID-19 per 100,000 population with a total of 154,882 cumulative deaths or a rate 56.62 cumulative deaths per 100,000 population; as of 29 March 2022, 71.01% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: Irandegree of risk: intermediate (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: Crimean-Congo hemorrhagic fever
+
+note: a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 30 March 2022, Iran has reported a total of 7,156,746 cases of COVID-19 or 8,520.65 cumulative cases of COVID-19 per 100,000 population with a total of 140,109 cumulative deaths or a rate 166.81 cumulative deaths per 100,000 population; as of 29 March 2022, 75.12% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: Iraqdegree of risk: intermediate (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Iraq; as of 30 March 2022, Iraq has reported a total of 2,318,865 cases of COVID-19 or 5,765.09 cumulative cases of COVID-19 per 100,000 population with a total of 25,160 cumulative deaths or a rate of 62.55 cumulative deaths per 100,000 population; as of 29 March 2022, 24.93% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: Israelnote: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Israel is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccinenote: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Israel is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Italyrespiratory diseases: Covid-19 (see note) (2020)
+
+note: a new coronavirus is causing  respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 30 March 2022, Italy has reported a total of 14,496,579 cases of COVID-19 or 24,306.19 cumulative cases of COVID-19 per 100,000 population with a total of 159,054 cumulative deaths or a rate of 266.68 cumulative deaths per 100,000 population; as of 29 March 2022, 84.02% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures
+
+Topic: Japanrespiratory diseases: Covid-19 (see note) (2020)
+
+note: clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 30 March 2022, Japan has reported a total of 6,452,108 cases of COVID-19 or 5,101.43 cumulative cases of COVID-19 per 100,000 population with a total of 27,913 cumulative deaths or a rate of 22.07 cumulative deaths per 100,000 population; as of 29 March 2022, 81.29% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: Jordannote: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 30 March 2022, Jordan has reported a total of 1,692,485 cases of COVID-19 or 16,587.89 cumulative cases of COVID-19 per 100,000 population with a total of 14,031 cumulative deaths or a rate of 137.51 cumulative deaths per 100,000 population; as of 29 March 2022, 45.91% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: Kenyadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria, dengue fever, and Rift Valley fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+Topic: Kiribatidegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: malaria
+
+Topic: Korea, Southrespiratory diseases: Covid-19 (see note) (2020)
+
+note: a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 30 March 2022, South Korea has reported a total of 12,774,956 cases of COVID-19 or 24,917.41 cumulative cases of COVID-19 per 100,000 population with a total of 15,855 cumulative deaths or a rate of 30.92 cumulative deaths per 100,000 population; as of 29 March 2022, 87.61% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: Laosdegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever and malaria
+
+Topic: Latviadegree of risk: intermediate (2020)
+
+vectorborne diseases: tickborne encephalitis
+
+Topic: Lebanonnote: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 30 March 2022, Lebanon has reported a total of 1,091,413 cases of COVID-19 or 15,990.35 cumulative cases of COVID-19 per 100,000 population with a total of 10,291 cumulative deaths or a rate of 150.77 cumulative deaths per 100,000 population; as of 29 March 2022, 37.17% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: Lesothodegree of risk: intermediate (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+Topic: Liberiadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria, dengue fever, and yellow fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+aerosolized dust or soil contact diseases: Lassa fever
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Liberia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Lithuaniadegree of risk: intermediate (2020)
+
+vectorborne diseases: tickborne encephalitis
+
+Topic: Madagascardegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Madagascar is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Malawidegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Malawi is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Malaysiadegree of risk: intermediate (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: dengue fever
+
+water contact diseases: leptospirosis
+
+Topic: Malidegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+respiratory diseases: meningococcal meningitis
+
+Topic: Marshall Islandsdegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: malaria
+
+Topic: Mauritaniadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+animal contact diseases: rabies
+
+respiratory diseases: meningococcal meningitis
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mauritania is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Mexicodegree of risk: intermediate (2020)
+
+food or waterborne diseases: bacterial diarrhea and hepatitis A
+
+vectorborne diseases: dengue fever
+
+note: a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 30 March 2022, Mexico has reported a total of 5,651,553 cases of COVID-19 or 4,383.33 cumulative cases of COVID-19 per 100,000 population with a total of 322,761 cumulative deaths or a rate of 250.33 cumulative deaths per 100,000 population; as of 29 March 2022, 65.70% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: Micronesia, Federated States ofdegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: malaria
+
+Topic: Montenegrodegree of risk: intermediate (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: Crimean-Congo hemorrhagic fever
+
+Topic: Morocconote: clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are occurring in Morocco; as of 6 October 2021, Morocco has reported a total of 936,236 cases of COVID-19 or 2,536.5 cumulative cases of COVID-19 per 100,000 population with 38.94 cumulative deaths per 100,000 population; as of 2 October 2021, 60.91% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: Mozambiquedegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mozambique is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Namibiadegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria
+
+water contact diseases: schistosomiasis
+
+Topic: Naurudegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: malaria
+
+Topic: Nepaldegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A and E, and typhoid fever
+
+vectorborne diseases: Japanese encephalitis, malaria, and dengue fever
+
+Topic: New Caledoniadegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: malaria
+
+Topic: Nicaraguadegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever and malaria
+
+Topic: Nigerdegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+respiratory diseases: meningococcal meningitis
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Niger is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Nigeriadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever
+
+vectorborne diseases: malaria, dengue fever, and yellow fever
+
+water contact diseases: leptospirosis and schistosomiasis
+
+animal contact diseases: rabies
+
+respiratory diseases: meningococcal meningitis
+
+aerosolized dust or soil contact diseases: Lassa fever
+
+note 1: on 30 September 2021, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in in multiple states (Bauchi, Benue, Delta, Ebonyi, and Enugu); the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak
+
+note 2: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 30 March 2022, Nigeria has reported a total of 255,341 cases of COVID-19 or 123.86 cumulative cases of COVID-19 per 100,000 population with a total of 3,142 cumulative deaths or a rate of 1.52 cumulative death per 100,000 population; as of 29 March 2022, 9.95% of the population has received at least one dose of COVID-19 vaccine
+ note 3: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Nigeria is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Niuedegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: malaria
+
+Topic: Pakistandegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A and E, and typhoid fever
+
+vectorborne diseases: dengue fever and malaria
+
+animal contact diseases: rabies
+
+note 1: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 30 March 2022, Pakistan has reported a total of 1,524,355 cases of COVID-19 or 690.09 cumulative cases of COVID-19 per 100,000 population with a total of 30,347 cumulative deaths or a rate of 13.73 cumulative deaths per 100,000 population; as of 29 March 2022, 56.87% of the population has received at least one dose of COVID-19 vaccine
+note 2: Pakistan is one of two countries with endemic wild polio virus (the other is Afghanistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Palaudegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: malaria
+
+Topic: Panamadegree of risk: intermediate (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: dengue fever
+
+Topic: Papua New Guineadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever and malaria
+
+Topic: Paraguaydegree of risk: intermediate (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever
+
+Topic: Perudegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever, malaria, and Bartonellosis (Oroya fever)
+
+note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 30 March 2022, Peru has reported a total of 3,545,628 cases of COVID-19 or 10,753.49 cumulative cases of COVID-19 per 100,000 population with a total of 212,157 cumulative deaths or a rate of 643.45 cumulative deaths per 100,000 population; as of 29 March 2022, 85.08% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: Philippinesdegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever and malaria
+
+water contact diseases: leptospirosis
+
+note: on 8 October 2019, the Centers for Disease Control and Prevention issued a Travel Health Notice regarding a polio outbreak in the Philippines; CDC recommends that all travelers to the Philippines be vaccinated fully against polio; before traveling to the Philippines, adults who completed their routine polio vaccine series as children should receive a single, lifetime adult booster dose of polio vaccine
+
+Topic: Pitcairn Islandsdegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: malaria
+
+Topic: Polanddegree of risk: intermediate (2016)
+
+vectorborne diseases: tickborne encephalitis (2016)
+
+Topic: Russiadegree of risk: intermediate (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: Crimean-Congo hemorrhagic fever, tickborne encephalitis
+
+note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the Russia; as of 30 March 2022, Russia has reported a total of 17,823,648 cases of COVID-19 or 12,213.46 cumulative cases of COVID-19 per 100,000 population with a total of 368,377 cumulative deaths or a rate of 252.42 cumulative deaths per 100,000 population; as of 29 March 2022, 54.8% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: Rwandadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+animal contact diseases: rabies
+
+Topic: Samoadegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: malaria
+
+Topic: Sao Tome and Principedegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+water contact diseases: schistosomiasis
+
+Topic: Senegaldegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+respiratory diseases: meningococcal meningitis
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Senegal is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Serbiadegree of risk: intermediate (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+Topic: Sierra Leonedegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+aerosolized dust or soil contact diseases: Lassa fever
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Sierra Leone is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Solomon Islandsdegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: malaria
+
+Topic: Somaliadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever
+
+vectorborne diseases: dengue fever, malaria, and Rift Valley fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Somalia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: South Africadegree of risk: intermediate (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+water contact diseases: schistosomiasis
+
+note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 30 March 2022, South Africa has reported a total of 3,715,390 cases of COVID-19 or 6,264.49 cumulative cases of COVID-19 per 100,000 population with a total of 99,976 cumulative deaths or a rate of 168.56 cumulative deaths per 100,000 population; as of 29 March 2022, 34.8% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: South Sudandegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever
+
+vectorborne diseases: malaria, dengue fever, Trypanosomiasis-Gambiense (African sleeping sickness)
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+respiratory diseases: meningococcal meningitis
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; South Sudan is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Spainrespiratory diseases: Covid-19 (see note) (2020)
+
+note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 30 March 2022, Spain has reported a total of 11,508,309 cases of COVID-19 or 24,313.69 cumulative cases of COVID-19 per 100,000 population with a total of 102,218 cumulative deaths or a rate of 215.95 cumulative deaths per 100,000 population; as of 29 March 2022, 87.99% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures
+
+Topic: Sri Lankadegree of risk: intermediate (2020)
+
+vectorborne diseases: dengue fever
+
+water contact diseases: leptospirosis
+
+animal contact diseases: rabiesintermediate
+
+Topic: Sudandegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever
+
+vectorborne diseases: malaria, dengue fever, and Rift Valley fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+respiratory diseases: meningococcal meningitis
+
+Topic: Surinamedegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever and malaria
+
+Topic: Tajikistandegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Tajikistan is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Tanzaniadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria, dengue fever, and Rift Valley fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+Topic: Thailanddegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: dengue fever, Japanese encephalitis, and malaria
+
+Topic: Timor-Lestedegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever and malaria
+
+Topic: Togodegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria, dengue fever, and yellow fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+respiratory diseases: meningococcal meningitis
+
+Topic: Tokelaudegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: malaria
+
+Topic: Tongadegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: malaria
+
+Topic: Turkeyrespiratory diseases: Covid-19 (2020)
+
+note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 30 March 2022, Turkey has reported a total of 14,831,231 cases of COVID-19 or 17,585.24 cumulative cases of COVID-19 per 100,000 population with a total of 97,924 cumulative deaths or a rate of 116.10 cumulative deaths per 100,000 population; as of 29 March 2022, 67.94% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: Ugandadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A and E, and typhoid fever
+
+vectorborne diseases: malaria, dengue fever, and Trypanosomiasis-Gambiense (African sleeping sickness)
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Uganda is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Ukrainenote: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Eastern Europe; Ukraine is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccinenote: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Eastern Europe; Ukraine is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: United Arab Emiratesnote: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 30 March 2022, UAE has reported a total of 890,699 cases of COVID-19 or 9,005.69 cumulative cases of COVID-19 per 100,000 population with a total of 2,302 cumulative deaths or a rate of 23.27 cumulative deaths per 100,000 population; as of 29 March 2022, 98.99% of the population has received at least one dose of COVID-19 vaccine
+
+Topic: United Kingdomrespiratory diseases: Covid-19 (see note) (2020)
+
+note: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 30 March 2022, the UK has reported a total of 20,986,175  cases of COVID-19 or 30,913.84 cumulative cases of COVID-19 per 100,000 population with a total of 164,974 cumulative deaths or a rate of 243.02 cumulative deaths per 100,000 population; as of 29 March 2022, 77.39% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures
+
+Topic: Vanuatudegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: malaria
+
+Topic: Venezueladegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea and hepatitis A
+
+vectorborne diseases: dengue fever and malaria
+
+Note: as of 1 March 2021, the Centers for Disease Control and Prevention recommends that travelers avoid all nonessential travel to Venezuela; the country is experiencing outbreaks of infectious diseases, and adequate health care is currently not available in most of the country
+
+Topic: Vietnamdegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever, malaria, and Japanese encephalitis
+
+Topic: Wallis and Futunadegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea
+
+vectorborne diseases: malaria
+
+Topic: West Banknote: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; the West Bank is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccinenote: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; the West Bank is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Worldnote: widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring globally; older adults and people of any age with serious chronic medical conditions are at increased risk for severe disease; some health care systems are becoming overwhelmed and there may be limited access to adequate medical care in affected areas; many countries are implementing travel restrictions and mandatory quarantines, closing borders, and prohibiting non-citizens from entry with little advance notice; US residents may have difficulty returning to the United States; as of 30 March 2022, 483,556,595 confirmed cases of COVID-19 and 6,132,461 deaths have been reported to the World Health Organization; as of 29 March 2022, 64.4% of the World population has received at least one dose of COVID-19 vaccine
+
+Topic: Yemendegree of risk: high (2020)
+
+food or waterborne diseases: bacterial diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: dengue fever and malaria
+
+water contact diseases: schistosomiasis
+
+note: on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Yemen is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine
+
+Topic: Zambiadegree of risk: very high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies
+
+Topic: Zimbabwedegree of risk: high (2020)
+
+food or waterborne diseases: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever
+
+vectorborne diseases: malaria and dengue fever
+
+water contact diseases: schistosomiasis
+
+animal contact diseases: rabies

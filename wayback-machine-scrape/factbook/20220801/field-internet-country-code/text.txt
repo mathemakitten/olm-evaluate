@@ -1,0 +1,489 @@
+This entry includes the two-letter codes maintained by the International Organization for Standardization (ISO) in the ISO 3166 Alpha-2 list and used by the Internet Assigned Numbers Authority (IANA) to establish country-coded top-level domains (ccTLDs).
+
+Topic: Afghanistan.af
+
+Topic: Albania.al
+
+Topic: Algeria.dz
+
+Topic: American Samoa.as
+
+Topic: Andorra.ad
+
+Topic: Angola.ao
+
+Topic: Anguilla.ai
+
+Topic: Antarctica.aq
+
+Topic: Antigua and Barbuda.ag
+
+Topic: Argentina.ar
+
+Topic: Armenia.am
+
+Topic: Aruba.aw
+
+Topic: Australia.au
+
+Topic: Austria.at
+
+Topic: Azerbaijan.az
+
+Topic: Bahamas, The.bs
+
+Topic: Bahrain.bh
+
+Topic: Bangladesh.bd
+
+Topic: Barbados.bb
+
+Topic: Belarus.by
+
+Topic: Belgium.be
+
+Topic: Belize.bz
+
+Topic: Benin.bj
+
+Topic: Bermuda.bm
+
+Topic: Bhutan.bt
+
+Topic: Bolivia.bo
+
+Topic: Bosnia and Herzegovina.ba
+
+Topic: Botswana.bw
+
+Topic: Bouvet Island.bv
+
+Topic: Brazil.br
+
+Topic: British Indian Ocean Territory.io
+
+Topic: British Virgin Islands.vg
+
+Topic: Brunei.bn
+
+Topic: Bulgaria.bg
+
+Topic: Burkina Faso.bf
+
+Topic: Burma.mm
+
+Topic: Burundi.bi
+
+Topic: Cabo Verde.cv
+
+Topic: Cambodia.kh
+
+Topic: Cameroon.cm
+
+Topic: Canada.ca
+
+Topic: Cayman Islands.ky
+
+Topic: Central African Republic.cf
+
+Topic: Chad.td
+
+Topic: Chile.cl
+
+Topic: China.cn
+
+Topic: Christmas Island.cx
+
+Topic: Cocos (Keeling) Islands.cc
+
+Topic: Colombia.co
+
+Topic: Comoros.km
+
+Topic: Congo, Democratic Republic of the.cd
+
+Topic: Congo, Republic of the.cg
+
+Topic: Cook Islands.ck
+
+Topic: Costa Rica.cr
+
+Topic: Cote d'Ivoire.ci
+
+Topic: Croatia.hr
+
+Topic: Cuba.cu
+
+Topic: Curacao.cw.cw
+
+Topic: Cyprus.cy
+
+Topic: Czechia.cz
+
+Topic: Denmark.dk
+
+Topic: Djibouti.dj
+
+Topic: Dominica.dm
+
+Topic: Dominican Republic.do
+
+Topic: Ecuador.ec
+
+Topic: Egypt.eg
+
+Topic: El Salvador.sv
+
+Topic: Equatorial Guinea.gq
+
+Topic: Eritrea.er
+
+Topic: Estonia.ee
+
+Topic: Eswatini.sz
+
+Topic: Ethiopia.et
+
+Topic: European Union.eu; note - see country entries of member states for individual country codes
+
+Topic: Falkland Islands (Islas Malvinas).fk
+
+Topic: Faroe Islands.fo
+
+Topic: Fiji.fj
+
+Topic: Finland.fi  
+
+note - Aland Islands assigned .ax.fi 
+
+Topic: Francemetropolitan France - .fr; French Guiana - .gf; Guadeloupe - .gp; Martinique - .mq; Mayotte - .yt; Reunion - .re
+
+Topic: French Polynesia.pf
+
+Topic: French Southern and Antarctic Lands.tf
+
+Topic: Gabon.ga
+
+Topic: Gambia, The.gm
+
+Topic: Gaza Strip.psnote - same as the West Bank
+
+Topic: Georgia.ge
+
+Topic: Germany.de
+
+Topic: Ghana.gh
+
+Topic: Gibraltar.gi
+
+Topic: Greece.gr
+
+Topic: Greenland.gl
+
+Topic: Grenada.gd
+
+Topic: Guam.gu
+
+Topic: Guatemala.gt
+
+Topic: Guernsey.gg
+
+Topic: Guinea.gn
+
+Topic: Guinea-Bissau.gw
+
+Topic: Guyana.gy
+
+Topic: Haiti.ht
+
+Topic: Heard Island and McDonald Islands.hm
+
+Topic: Holy See (Vatican City).va
+
+Topic: Honduras.hn
+
+Topic: Hong Kong.hk
+
+Topic: Hungary.hu
+
+Topic: Iceland.is
+
+Topic: India.in
+
+Topic: Indonesia.id
+
+Topic: Iran.ir
+
+Topic: Iraq.iq
+
+Topic: Ireland.ie
+
+Topic: Isle of Man.im
+
+Topic: Israel.il
+
+Topic: Italy.it
+
+Topic: Jamaica.jm
+
+Topic: Japan.jp
+
+Topic: Jersey.je
+
+Topic: Jordan.jo
+
+Topic: Kazakhstan.kz
+
+Topic: Kenya.ke
+
+Topic: Kiribati.ki
+
+Topic: Korea, North.kp
+
+Topic: Korea, South.kr
+
+Topic: Kosovo.xk
+
+note: assigned as a temporary code under UN Security Council resolution 1244/99
+
+Topic: Kuwait.kw
+
+Topic: Kyrgyzstan.kg
+
+Topic: Laos.la
+
+Topic: Latvia.lv
+
+Topic: Lebanon.lb
+
+Topic: Lesotho.ls
+
+Topic: Liberia.lr
+
+Topic: Libya.ly
+
+Topic: Liechtenstein.li
+
+Topic: Lithuania.lt
+
+Topic: Luxembourg.lu
+
+Topic: Macau.mo
+
+Topic: Madagascar.mg
+
+Topic: Malawi.mw
+
+Topic: Malaysia.my
+
+Topic: Maldives.mv
+
+Topic: Mali.ml
+
+Topic: Malta.mt
+
+Topic: Marshall Islands.mh
+
+Topic: Mauritania.mr
+
+Topic: Mauritius.mu
+
+Topic: Mexico.mx
+
+Topic: Micronesia, Federated States of.fm
+
+Topic: Moldova.md
+
+Topic: Monaco.mc
+
+Topic: Mongolia.mn
+
+Topic: Montenegro.me
+
+Topic: Montserrat.ms
+
+Topic: Morocco.ma
+
+Topic: Mozambique.mz
+
+Topic: Namibia.na
+
+Topic: Nauru.nr
+
+Topic: Nepal.np
+
+Topic: Netherlands.nl
+
+Topic: New Caledonia.nc
+
+Topic: New Zealand.nz
+
+Topic: Nicaragua.ni
+
+Topic: Niger.ne
+
+Topic: Nigeria.ng
+
+Topic: Niue.nu
+
+Topic: Norfolk Island.nf
+
+Topic: North Macedonia.mk
+
+Topic: Northern Mariana Islands.mp
+
+Topic: Norway.no
+
+Topic: Oman.om
+
+Topic: Pakistan.pk
+
+Topic: Palau.pw
+
+Topic: Panama.pa
+
+Topic: Papua New Guinea.pg
+
+Topic: Paraguay.py
+
+Topic: Peru.pe
+
+Topic: Philippines.ph
+
+Topic: Pitcairn Islands.pn
+
+Topic: Poland.pl
+
+Topic: Portugal.pt
+
+Topic: Puerto Rico.pr
+
+Topic: Qatar.qa
+
+Topic: Romania.ro
+
+Topic: Russia.ru; note - Russia also has responsibility for a legacy domain ".su" that was allocated to the Soviet Union and is being phased out
+
+Topic: Rwanda.rw
+
+Topic: Saint Barthelemy.bl; note - .gp, the Internet country code for Guadeloupe, and .fr, the Internet country code for France, might also be encountered
+
+Topic: Saint Helena, Ascension, and Tristan da Cunha.sh; note - Ascension Island assigned .ac
+
+Topic: Saint Kitts and Nevis.kn
+
+Topic: Saint Lucia.lc
+
+Topic: Saint Martin.mf; note - .gp, the Internet country code for Guadeloupe, and .fr, the Internet country code for France, might also be encountered
+
+Topic: Saint Pierre and Miquelon.pm
+
+Topic: Saint Vincent and the Grenadines.vc
+
+Topic: Samoa.ws
+
+Topic: San Marino.sm
+
+Topic: Sao Tome and Principe.st
+
+Topic: Saudi Arabia.sa
+
+Topic: Senegal.sn
+
+Topic: Serbia.rs
+
+Topic: Seychelles.sc
+
+Topic: Sierra Leone.sl
+
+Topic: Singapore.sg
+
+Topic: Sint Maarten.sx; note - IANA has designated .sx for Sint Maarten, but has not yet assigned it to a sponsoring organization.sx; note - IANA has designated .sx for Sint Maarten, but has not yet assigned it to a sponsoring organization
+
+Topic: Slovakia.sk
+
+Topic: Slovenia.si
+
+Topic: Solomon Islands.sb
+
+Topic: Somalia.so
+
+Topic: South Africa.za
+
+Topic: South Sudan.ss
+
+Topic: Spain.es
+
+Topic: Sri Lanka.lk
+
+Topic: Sudan.sd
+
+Topic: Suriname.sr
+
+Topic: Svalbard.sj
+
+Topic: Sweden.se
+
+Topic: Switzerland.ch
+
+Topic: Syria.sy
+
+Topic: Taiwan.tw
+
+Topic: Tajikistan.tj
+
+Topic: Tanzania.tz
+
+Topic: Thailand.th
+
+Topic: Timor-Leste.tl
+
+Topic: Togo.tg
+
+Topic: Tokelau.tk
+
+Topic: Tonga.to
+
+Topic: Trinidad and Tobago.tt
+
+Topic: Tunisia.tn
+
+Topic: Turkey (Turkiye).tr
+
+Topic: Turkmenistan.tm
+
+Topic: Turks and Caicos Islands.tc
+
+Topic: Tuvalu.tv
+
+Topic: Uganda.ug
+
+Topic: Ukraine.ua
+
+Topic: United Arab Emirates.ae
+
+Topic: United Kingdom.uk
+
+Topic: United States.us
+
+Topic: Uruguay.uy
+
+Topic: Uzbekistan.uz
+
+Topic: Vanuatu.vu
+
+Topic: Venezuela.ve
+
+Topic: Vietnam.vn
+
+Topic: Virgin Islands.vi
+
+Topic: Wallis and Futuna.wf
+
+Topic: West Bank.psnote - same as Gaza Strip
+
+Topic: Yemen.ye
+
+Topic: Zambia.zm
+
+Topic: Zimbabwe.zw

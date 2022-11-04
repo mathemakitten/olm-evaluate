@@ -1,0 +1,754 @@
+This entry states the total route length of the railway network and of its component parts by gauge, which is the measure of the distance between the inner sides of the load-bearing rails. The four typical types of gauges are: broad, standard, narrow, and dual. Other gauges are listed in a note. Some 60% of the world's railways use the standard gauge of 1.4 m (4.7 ft). Gauges vary by country and sometimes within countries. The choice of gauge during initial construction was mainly in response to local conditions and the intent of the builder. Narrow-gauge railways were cheaper to build and could negotiate sharper curves, broad-gauge railways gave greater stability and permitted higher speeds. Standard-gauge railways were a compromise between narrow and broad gauges.
+
+Topic: Albaniatotal: 677 km (447 km of major railway lines and 230 km of secondary lines) (2015)
+
+standard gauge: 677 km 1.435-m gauge (2015)
+
+Topic: Algeriatotal: 3,973 km (2014)
+
+standard gauge: 2,888 km 1.432-m gauge (283 km electrified) (2014)
+
+narrow gauge: 1,085 km 1.055-m gauge (2014)
+
+Topic: Angolatotal: 2,852 km (2014)
+
+narrow gauge: 2,729 km 1.067-m gauge (2014)
+
+123 km 0.600-m gauge
+
+Topic: Argentinatotal: 36,917 km (2014)
+
+standard gauge: 2,745.1 km 1.435-m gauge (41.1 km electrified) (2014)
+
+narrow gauge: 7,523.3 km 1.000-m gauge (2014)
+
+broad gauge: 26,391 km 1.676-m gauge (149 km electrified) (2014)
+
+258 km 0.750-m gauge
+
+Topic: Armeniatotal: 780 km (2014)
+
+broad gauge: 780 km 1.520-m gauge (780 km electrified) (2014)
+
+note: 726 km operational
+
+Topic: Australiatotal: 33,343 km (2015)
+
+standard gauge: 17,446 km 1.435-m gauge (650 km electrified) (2015)
+
+narrow gauge: 12,318 km 1.067-m gauge (2,075.5 km electrified) (2015)
+
+broad gauge: 3,247 km 1.600-m gauge (372 km electrified) (2015)
+
+Topic: Austriatotal: 5,800 km (2017)
+
+standard gauge: 5,300 km 1.435-m gauge (3,826 km electrified) (2016)
+
+Topic: Azerbaijantotal: 2,944 km (2017)
+
+broad gauge: 2,944.3 km 1.520-m gauge (approx. 1,767 km electrified) (2017)
+
+Topic: Bangladeshtotal: 2,460 km (2014)
+
+narrow gauge: 1,801 km 1.000-m gauge (2014)
+
+broad gauge: 659 km 1.676-m gauge (2014)
+
+Topic: Belarustotal: 5,528 km (2014)
+
+standard gauge: 25 km 1.435-m gauge (2014)
+
+broad gauge: 5,503 km 1.520-m gauge (874 km electrified) (2014)
+
+Topic: Belgiumtotal: 3,592 km (2014)
+
+standard gauge: 3,592 km 1.435-m gauge (2,960 km electrified) (2014)
+
+Topic: Benintotal: 438 km (2014)
+
+narrow gauge: 438 km 1.000-m gauge (2014)
+
+Topic: Boliviatotal: 3,960 km (2019)
+
+narrow gauge: 3,960 km 1.000-m gauge (2014)
+
+Topic: Bosnia and Herzegovinatotal: 965 km (2014)
+
+standard gauge: 965 km 1.435-m gauge (565 km electrified) (2014)
+
+Topic: Botswanatotal: 888 km (2014)
+
+narrow gauge: 888 km 1.067-m gauge (2014)
+
+Topic: Braziltotal: 29,850 km (2014)
+
+standard gauge: 194 km 1.435-m gauge (2014)
+
+narrow gauge: 23,341.6 km 1.000-m gauge (24 km electrified) (2014)
+
+broad gauge: 5,822.3 km 1.600-m gauge (498.3 km electrified) (2014)
+
+dual gauge: 492 km 1.600-1.000-m gauge (2014)
+
+Topic: Bulgariatotal: 5,114 km (2014)
+
+standard gauge: 4,989 km 1.435-m gauge (2,880 km electrified) (2014)
+
+narrow gauge: 125 km 0.760-m gauge (2014)
+
+Topic: Burkina Fasototal: 622 km (2014)
+
+narrow gauge: 622 km 1.000-m gauge (2014)
+
+note: another 660 km of this railway extends into Cote d'Ivoire
+
+Topic: Burmatotal: 5,031 km (2008)
+
+narrow gauge: 5,031 km 1.000-m gauge (2008)
+
+Topic: Cambodiatotal: 642 km (2014)
+
+narrow gauge: 642 km 1.000-m gauge (2014)
+
+note: under restoration
+
+Topic: Cameroontotal: 987 km (2014)
+
+narrow gauge: 987 km 1.000-m gauge (2014)
+
+note: railway connections generally efficient but limited; rail lines connect major cities of Douala, Yaounde, Ngaoundere, and Garoua; passenger and freight service provided by CAMRAIL
+
+Topic: Canadatotal: 77,932 km note: 129 km electrified (2021) (2014)
+
+standard gauge: 77,932 km 1.435-m gauge (2014)
+
+Topic: Chiletotal: 7,282 km (2014)
+
+narrow gauge: 3,853.5 km 1.000-m gauge (2014)
+
+broad gauge: 3,428 km 1.676-m gauge (1,691 km electrified) (2014)
+
+Topic: Chinatotal: 131,000 km 1.435-m gauge (80,000 km electrified); 102,000 traditional, 29,000 high-speed (2018)
+
+Topic: Christmas Islandtotal: 18 km (2017)
+
+standard gauge: 18 km 1.435-m (not in operation) (2017)
+
+note: the 18-km Christmas Island Phosphate Company Railway between Flying Fish Cove and South Point was decommissioned in 1987; some tracks and scrap remain in place
+
+Topic: Colombiatotal: 2,141 km (2015)
+
+standard gauge: 150 km 1.435-m gauge (2015)
+
+narrow gauge: 1,991 km 0.914-m gauge (2015)
+
+Topic: Congo, Democratic Republic of thetotal: 4,007 km (2014)
+
+narrow gauge: 3,882 km 1.067-m gauge (858 km electrified) (2014)
+
+125 1.000-m gauge
+
+Topic: Congo, Republic of thetotal: 510 km (2014)
+
+narrow gauge: 510 km 1.067-m gauge (2014)
+
+Topic: Costa Ricatotal: 278 km (2014)
+
+narrow gauge: 278 km 1.067-m gauge (2014)
+
+note: the entire rail network fell into disrepair and out of use at the end of the 20th century; since 2005, certain sections of rail have been rehabilitated
+
+Topic: Cote d'Ivoiretotal: 660 km (2008)
+
+narrow gauge: 660 km 1.000-m gauge (2008)
+
+note: an additional 622 km of this railroad extends into Burkina Faso
+
+Topic: Croatiatotal: 2,722 km (2014)
+
+standard gauge: 2,722 km 1.435-m gauge (980 km electrified) (2014)
+
+Topic: Cubatotal: 8,125 km (2017)
+
+standard gauge: 8,195 km 1.435-m gauge (124 km electrified) (2017)
+
+narrow gauge: 172 km 1.000-m gauge (2017)
+
+note: As of 2013, 70 km of standard gauge and 12 km of narrow gauge track were not for public use
+
+Topic: Czechiatotal: 9,408 km (2017)
+
+standard gauge: 9,385 km 1.435-m gauge (3,218 km electrified) (2017)
+
+narrow gauge: 23 km 0.760-m gauge (2017)
+
+Topic: Denmarktotal: 3,476 km (2017)
+
+standard gauge: 3,476 km 1.435-m gauge (1,756 km electrified) (2017)
+
+Topic: Djiboutitotal: 97 km (Djibouti segment of the 756 km Addis Ababa-Djibouti railway) (2017)
+
+standard gauge: 97 km 1.435-m gauge (2017)
+
+Topic: Dominican Republictotal: 496 km (2014)
+
+standard gauge: 354 km 1.435-m gauge (2014)
+
+narrow gauge: 142 km 0.762-m gauge (2014)
+
+Topic: Ecuadortotal: 965 km (2017)
+
+narrow gauge: 965 km 1.067-m gauge (2017)
+
+note: passenger service limited to certain sections of track, mostly for tourist trains
+
+Topic: Egypttotal: 5,085 km (2014)
+
+standard gauge: 5,085 km 1.435-m gauge (62 km electrified) (2014)
+
+Topic: El Salvadortotal: 13 km (2014)
+
+narrow gauge: 12.5 km 0.914-m gauge (2014)
+
+Topic: Eritreatotal: 306 km (2018)
+
+narrow gauge: 306 km 0.950-m gauge (2018)
+
+Topic: Estoniatotal: 2,146 km (2016)
+
+broad gauge: 2,146 km 1.520-m and 1.524-m gauge (132 km electrified) (2016)
+
+note: includes 1,510 km public and 636 km non-public railway
+
+Topic: Eswatinitotal: 301 km (2014)
+
+narrow gauge: 301 km 1.067-m gauge (2014)
+
+Topic: Ethiopiatotal: 659 km (Ethiopian segment of the 756 km Addis Ababa-Djibouti railroad) (2017)
+
+standard gauge: 659 km 1.435-m gauge (2017)
+
+note: electric railway with redundant power supplies; under joint control of Djibouti and Ethiopia and managed by a Chinese contractor
+
+Topic: European Uniontotal: 230,548 km (2013)
+
+Topic: Fijitotal: 597 km (2008)
+
+narrow gauge: 597 km 0.600-m gauge (2008)
+
+note: belongs to the government-owned Fiji Sugar Corporation; used to haul sugarcane during the harvest season, which runs from May to December
+
+Topic: Finlandtotal: 5,926 km (2016)
+
+broad gauge: 5,926 km 1.524-m gauge (3,270 km electrified) (2016)
+
+Topic: Francetotal: 29,640 km (2014)
+
+standard gauge: 29,473 km 1.435-m gauge (15,561 km electrified) (2014)
+
+narrow gauge: 167 km 1.000-m gauge (63 km electrified) (2014)
+
+Topic: Gabontotal: 649 km (2014)
+
+standard gauge: 649 km 1.435-m gauge (2014)
+
+Topic: Georgiatotal: 1,363 km (2014)
+
+narrow gauge: 37 km 0.912-m gauge (37 km electrified) (2014)
+
+broad gauge: 1,326 km 1.520-m gauge (1,251 km electrified) (2014)
+
+Topic: Germanytotal: 33,590 km (2017)
+
+standard gauge: 33,331 km 1.435-m gauge (19,973 km electrified) (2015)
+
+narrow gauge: 220 km 1.000-m gauge (79 km electrified)
+
+15 km 0.900-m gauge, 24 km 0.750-m gauge (2015)
+
+Topic: Ghanatotal: 947 km (2014)
+
+narrow gauge: 947 km 1.067-m gauge (2014)
+
+Topic: Greecetotal: 2,548 km (2014)
+
+standard gauge: 1,565 km 1.435-m gauge (764 km electrified) (2014)
+
+narrow gauge: 961 km 1.000-m gauge (2014)
+
+22 0.750-m gauge
+
+Topic: Guatemalatotal: 800 km (2018)
+
+narrow gauge: 800 km 0.914-m gauge (2018)
+
+note: despite the existence of a railway network, all rail service was suspended in 2007 and no passenger or freight train currently runs in the country (2018)
+
+Topic: Guineatotal: 1,086 km (2017)
+
+standard gauge: 279 km 1.435-m gauge (2017)
+
+narrow gauge: 807 km 1.000-m gauge (2017)
+
+Topic: Hondurastotal: 699 km (2014)
+
+narrow gauge: 164 km 1.067-m gauge (2014)
+
+115 km 1.057-m gauge
+420 km 0.914-m gauge
+
+Topic: Hungarytotal: 8,049 km (2014)
+
+standard gauge: 7,794 km 1.435-m gauge (2,889 km electrified) (2014)
+
+narrow gauge: 219 km 0.760-m gauge (2014)
+
+broad gauge: 36 km 1.524-m gauge (2014)
+
+Topic: Indiatotal: 68,525 km (2014)
+
+narrow gauge: 1,604 km 1.000-m gauge (2014)
+
+broad gauge: 63,950 km (39, 329 km electrified) (2014)
+
+Topic: Indonesiatotal: 8,159 km (2014)
+
+narrow gauge: 8,159 km 1.067-m gauge (565 km electrified) (2014)
+
+note: 4,816 km operational
+
+Topic: Irantotal: 8,484 km (2014)
+
+standard gauge: 8,389.5 km 1.435-m gauge (189.5 km electrified) (2014)
+
+broad gauge: 94 km 1.676-m gauge (2014)
+
+Topic: Iraqtotal: 2,272 km (2014)
+
+standard gauge: 2,272 km 1.435-m gauge (2014)
+
+Topic: Irelandtotal: 4,301 km (2018)
+
+narrow gauge: 1,930 km 0.914-m gauge (operated by the Irish Peat Board to transport peat to power stations and briquetting plants) (2018)
+
+broad gauge: 2,371 km 1.600-m gauge (53 km electrified) (2018)
+
+Topic: Isle of Mantotal: 63 km (2008)
+
+narrow gauge: 6 km 1.076-m gauge (6 km electrified) (2008)
+
+57 0.914-m gauge (29 km electrified)
+note: primarily summer tourist attractions
+
+Topic: Israeltotal: 1,599 km (2019) (2019)
+
+standard gauge: 1,384 km 1.435-m gauge (2014)
+
+Topic: Italytotal: 20,182 km (2014)
+
+standard gauge: 18,770.1 km 1.435-m gauge (12,893.6 km electrified) (2014)
+
+narrow gauge: 122.3 km 1.000-m gauge (122.3 km electrified) (2014)
+
+1289.3 0.950-m gauge (151.3 km electrified)
+
+Topic: Japantotal: 27,311 km (2015)
+
+standard gauge: 4,800 km 1.435-m gauge (4,800 km electrified) (2015)
+
+narrow gauge: 124 km 1.372-m gauge (124 km electrified) (2015)
+
+dual gauge: 132 km 1.435-1.067-m gauge (132 km electrified) (2015)
+
+22.207 km 1.067-m gauge (15,430 km electrified)
+48 km 0.762-m gauge (48 km electrified)
+
+Topic: Jordantotal: 1,596 km (2020)
+
+narrow gauge: 509 km 1.050-m gauge (2014)
+
+Topic: Kazakhstantotal: 16,614 km (2017)
+
+broad gauge: 16,614 km 1.520-m gauge (4,200 km electrified) (2017)
+
+Topic: Kenyatotal: 3,819 km (2018)
+
+standard gauge: 485 km 1.435-m gauge (2018)
+
+narrow gauge: 3,334 km 1.000-m gauge (2018)
+
+Topic: Korea, Northtotal: 7,435 km (2014)
+
+standard gauge: 7,435 km 1.435-m gauge (5,400 km electrified) (2014)
+
+note: figures are approximate; some narrow-gauge railway also exists
+
+Topic: Korea, Southtotal: 3,979 km (2016)
+
+standard gauge: 3,979 km 1.435-m gauge (2,727 km electrified) (2016)
+
+Topic: Kosovototal: 333 km (2015)
+
+standard gauge: 333 km 1.435-m gauge (2015)
+
+Topic: Kyrgyzstantotal: 424 km (2018)
+
+broad gauge: 424 km 1.520-m gauge (2018)
+
+Topic: Latviatotal: 1,860 km (2018)
+
+narrow gauge: 34 km 0.750-m gauge (2018)
+
+broad gauge: 1,826 km 1.520-m gauge (2018)
+
+Topic: Lebanontotal: 401 km (2017)
+
+standard gauge: 319 km 1.435-m gauge (2017)
+
+narrow gauge: 82 km 1.050-m gauge (2017)
+
+note: rail system is still unusable due to damage sustained from fighting in the 1980s and in 2006
+
+Topic: Liberiatotal: 429 km (2008)
+
+standard gauge: 345 km 1.435-m gauge (2008)
+
+narrow gauge: 84 km 1.067-m gauge (2008)
+
+note: most sections of the railways inoperable due to damage sustained during the civil wars from 1980 to 2003, but many are being rebuilt
+
+Topic: Liechtensteintotal: 9 km (2018)
+
+standard gauge: 9 km 1.435-m gauge (electrified) (2018)
+
+note: belongs to the Austrian Railway System connecting Austria and Switzerland
+
+Topic: Lithuaniatotal: 1,768 km (2014)
+
+standard gauge: 22 km 1.435-m gauge (2014)
+
+broad gauge: 1,746 km 1.520-m gauge (122 km electrified) (2014)
+
+Topic: Luxembourgtotal: 275 km (2014)
+
+standard gauge: 275 km 1.435-m gauge (275 km electrified) (2014)
+
+Topic: Madagascartotal: 836 km (2018)
+
+narrow gauge: 836 km 1.000-m gauge (2018)
+
+Topic: Malawitotal: 767 km (2014)
+
+narrow gauge: 767 km 1.067-m gauge (2014)
+
+Topic: Malaysiatotal: 1,851 km (2014)
+
+standard gauge: 59 km 1.435-m gauge (59 km electrified) (2014)
+
+narrow gauge: 1,792 km 1.000-m gauge (339 km electrified) (2014)
+
+Topic: Malitotal: 593 km (2014)
+
+narrow gauge: 593 km 1.000-m gauge (2014)
+
+Topic: Mauritaniatotal: 728 km (2014)
+
+standard gauge: 728 km 1.435-m gauge (2014)
+
+Topic: Mexicototal: 20,825 km (2017)
+
+standard gauge: 20,825 km 1.435-m gauge (27 km electrified) (2017)
+
+Topic: Moldovatotal: 1,171 km (2014)
+
+standard gauge: 14 km 1.435-m gauge (2014)
+
+broad gauge: 1,157 km 1.520-m gauge (2014)
+
+Topic: Monaconote: Monaco has a single railway station but does not operate its own train service;  the French operator SNCF operates rail services in Monaco
+
+Topic: Mongoliatotal: 1,815 km (2017)
+
+broad gauge: 1,815 km 1.520-m gauge (2017)
+
+note: national operator Ulaanbaatar Railway is jointly owned by the Mongolian Government and by the Russian State Railway
+
+Topic: Montenegrototal: 250 km (2017)
+
+standard gauge: 250 km 1.435-m gauge (224 km electrified) (2017)
+
+Topic: Moroccototal: 2,067 km (2014)
+
+standard gauge: 2,067 km 1.435-m gauge (1,022 km electrified) (2014)
+
+Topic: Mozambiquetotal: 4,787 km (2014)
+
+narrow gauge: 4,787 km 1.067-m gauge (2014)
+
+Topic: Namibiatotal: 2,628 km (2014)
+
+narrow gauge: 2,628 km 1.067-m gauge (2014)
+
+Topic: Nepaltotal: 59 km (2018)
+
+narrow gauge: 59 km 0.762-m gauge (2018)
+
+Topic: Netherlandstotal: 3,058 km (2016)
+
+standard gauge: 3,058 km 1.435-m gauge (2,314 km electrified) (2016)
+
+Topic: New Zealandtotal: 4,128 km (2018)
+
+narrow gauge: 4,128 km 1.067-m gauge (506 km electrified) (2018)
+
+Topic: Nigeriatotal: 3,798 km (2014)
+
+standard gauge: 293 km 1.435-m gauge (2014)
+
+narrow gauge: 3,505 km 1.067-m gauge (2014)
+
+note: as of the end of 2018, there were only six operational locomotives in Nigeria primarily used for passenger service; the majority of the rail lines are in a severe state of disrepair and need to be replaced
+
+Topic: North Macedoniatotal: 925 km (2017)
+
+standard gauge: 925 km 1.435-m gauge (313 km electrified) (2017)
+
+Topic: Norwaytotal: 4,200 km (2019)
+
+standard gauge: 4,200 km 1.435-m gauge (2,480 km electrified) (2019)
+
+Topic: Pakistantotal: 11,881 km (2019)
+
+narrow gauge: 389 km 1.000-m gauge (2019)
+
+broad gauge: 11,492 km 1.676-m gauge (293 km electrified) (2019)
+
+Topic: Panamatotal: 77 km (2014)
+
+standard gauge: 77 km 1.435-m gauge (2014)
+
+Topic: Paraguaytotal: 30 km (2014)
+
+standard gauge: 30 km 1.435-m gauge (2014)
+
+Topic: Perutotal: 1,854 km (2014)
+
+standard gauge: 1,730.4 km 1.435-m gauge (34 km electrified) (2014)
+
+narrow gauge: 124 km 0.914-m gauge (2014)
+
+Topic: Philippinestotal: 77 km (2017)
+
+standard gauge: 49 km 1.435-m gauge (2017)
+
+narrow gauge: 28 km 1.067-m gauge (2017)
+
+Topic: Polandtotal: 19,231 km (2016)
+
+standard gauge: 18,836 km 1.435-m gauge (11,874 km electrified) (2016)
+
+broad gauge: 395 km 1.524-m gauge (2016)
+
+Topic: Portugaltotal: 3,075 km (2014)
+
+narrow gauge: 108.1 km 1.000-m gauge (2014)
+
+broad gauge: 2,439 km 1.668-m gauge (1,633.4 km electrified) (2014)
+
+other: 528 km (gauge unspecified) (2014)
+
+Topic: Romaniatotal: 11,268 km (2014)
+
+standard gauge: 10,781 km 1.435-m gauge (3,292 km electrified) (2014)
+
+narrow gauge: 427 km 0.760-m gauge (2014)
+
+broad gauge: 60 km 1.524-m gauge (2014)
+
+Topic: Russiatotal: 87,157 km (2014)
+
+narrow gauge: 957 km 1.067-m gauge (on Sakhalin Island) (2014)
+
+broad gauge: 86,200 km 1.520-m gauge (40,300 km electrified) (2014)
+
+note: an additional 30,000 km of non-common carrier lines serve industries
+
+Topic: Saint Kitts and Nevistotal: 50 km (2008)
+
+narrow gauge: 50 km 0.762-m gauge on Saint Kitts for tourists (2008)
+
+Topic: Saudi Arabiatotal: 5,410 km (2016)
+
+standard gauge: 5,410 km 1.435-m gauge (with branch lines and sidings) (2016)
+
+Topic: Senegaltotal: 906 km (713 km operational in 2017) (2017)
+
+narrow gauge: 906 km 1.000-m gauge (2017)
+
+Topic: Serbiatotal: 3,809 km (2015)
+
+standard gauge: 3,809 km 1.435-m gauge (3,526 km one-track lines and 283 km double-track lines) out of which 1,279 km electrified (1,000 km one-track lines and 279 km double-track lines) (2015)
+
+Topic: Slovakiatotal: 3,580 km (2016)
+
+standard gauge: 3,435 km 1.435-m gauge (1,587 km electrified) (2016)
+
+narrow gauge: 46 km 1.000-m or 0.750-m gauge (2016)
+
+broad gauge: 99 km 1.520-m gauge (2016)
+
+Topic: Sloveniatotal: 1,229 km (2014)
+
+standard gauge: 1,229 km 1.435-m gauge (503 km electrified) (2014)
+
+Topic: South Africatotal: 20,986 km (2014)
+
+standard gauge: 80 km 1.435-m gauge (80 km electrified) (2014)
+
+narrow gauge: 19,756 km 1.065-m gauge (8,271 km electrified) (2014)
+
+other: 1,150 km (passenger rail, gauge unspecified, 1,115.5 km electrified) (2014)
+
+Topic: South Sudantotal: 248 km (2018)
+
+note: a narrow gauge, single-track railroad between Babonosa (Sudan) and Wau, the only existing rail system, was repaired in 2010 with $250 million in UN funds, but is not currently operational
+
+Topic: Spaintotal: 15,333 km (9,699 km electrified) (2017)
+
+standard gauge: 2,571 km 1.435-m gauge (2,571 km electrified) (2017)
+
+narrow gauge: 1,207 km 1.000-m gauge (400 km electrified) (2017)
+
+broad gauge: 11,333 km 1.668-m gauge (6,538 km electrified) (2017)
+
+mixed gauge: 190 km 1.668-m and 1.435m gage (190.1 km electrified); 28 km 0.914-m gauge (28 km electrified); 4 km 0.600-m gauge
+
+Topic: Sri Lankatotal: 1,562 km (2016)
+
+broad gauge: 1,562 km 1.676-m gauge (2016)
+
+Topic: Sudantotal: 7,251 km (2014)
+
+narrow gauge: 5,851 km 1.067-m gauge (2014)
+
+1,400 km 0.600-m gauge for cotton plantations
+
+Topic: Swedentotal: 14,127 km (2016)
+
+standard gauge: 14,062 km 1.435-m gauge (12,322 km electrified) (2016)
+
+narrow gauge: 65 km 0.891-m gauge (65 km electrified) (2016)
+
+Topic: Switzerlandtotal: 5,690 km (includes 19 km in neighboring countries) (2015)
+
+standard gauge: 3,836 km 1.435-m gauge (3,634 km electrified) (2015)
+
+narrow gauge: 1,630 km 1.200-m gauge (2 km electrified) (includes 19 km in neighboring countries) (2015)
+
+1188 km 1.000-m gauge (1,167.3 km electrified)
+36 km 0.800-m gauge (36.4 km electrified)
+
+Topic: Syriatotal: 2,052 km (2014)
+
+standard gauge: 1,801 km 1.435-m gauge (2014)
+
+narrow gauge: 251 km 1.050-m gauge (2014)
+
+Topic: Taiwantotal: 1,613 km (2018)
+
+standard gauge: 345 km 1.435-m gauge (345 km electrified) (2018)
+
+narrow gauge: 1,118.1 km 1.067-m gauge (793.9 km electrified) (2018)
+
+150 0.762-m gauge
+note: the 0.762-gauge track belongs to three entities: the Forestry Bureau, Taiwan Cement, and TaiPower
+
+Topic: Tajikistantotal: 680 km (2014)
+
+broad gauge: 680 km 1.520-m gauge (2014)
+
+Topic: Tanzaniatotal: 4,097 km
+
+standard gauge: 421 km
+
+narrow gauge: 1,969 km 1.067 m gauge (2014)
+
+broad gauge: 2,707 km 1.000 m guage 
+
+2707 km 1.000-m gauge
+
+Topic: Thailandtotal: 4,127 km (2017)
+
+standard gauge: 84 km 1.435-m gauge (84 km electrified) (2017)
+
+narrow gauge: 4,043 km 1.000-m gauge (2017)
+
+Topic: Togototal: 568 km (2014)
+
+narrow gauge: 568 km 1.000-m gauge (2014)
+
+Topic: Tunisiatotal: 2,173 km (1,991 in use) (2014)
+
+standard gauge: 471 km 1.435-m gauge (2014)
+
+narrow gauge: 1,694 km 1.000-m gauge (65 km electrified) (2014)
+
+dual gauge: 8 km 1.435-1.000-m gauge (2014)
+
+Topic: Turkeytotal: 12,710 km (2018)
+
+standard gauge: 11,497 km 1.435-m gauge (1.435 km high speed train) (2018)
+
+Topic: Turkmenistantotal: 5,113 km (2017)
+
+broad gauge: 5,113 km 1.520-m gauge (2017)
+
+Topic: Ugandatotal: 1,244 km (2014)
+
+narrow gauge: 1,244 km 1.000-m gauge (2014)
+
+Topic: Ukrainetotal: 21,733 km (2014)
+
+standard gauge: 49 km 1.435-m gauge (49 km electrified) (2014)
+
+broad gauge: 21,684 km 1.524-m gauge (9,250 km electrified) (2014)
+
+Topic: United Kingdomtotal: 16,837 km (2015)
+
+standard gauge: 16,534 km 1.435-m gauge (5,357 km electrified) (2015)
+
+broad gauge: 303 km 1.600-m gauge (in Northern Ireland) (2015)
+
+Topic: United Statestotal: 293,564 km (2014)
+
+standard gauge: 293,564.2 km 1.435-m gauge (2014)
+
+Topic: Uruguaytotal: 1,673 km (operational; government claims overall length is 2,961 km) (2016)
+
+standard gauge: 1,673 km 1.435-m gauge (2016)
+
+Topic: Uzbekistantotal: 4,642 km (2018)
+
+broad gauge: 4,642 km 1.520-m gauge (1,684 km electrified) (2018)
+
+Topic: Venezuelatotal: 447 km (2014)
+
+standard gauge: 447 km 1.435-m gauge (41.4 km electrified) (2014)
+
+Topic: Vietnamtotal: 2,600 km (2014)
+
+standard gauge: 178 km 1.435-m gauge; 253 km mixed gauge (2014)
+
+narrow gauge: 2,169 km 1.000-m gauge (2014)
+
+Topic: Worldtotal: 1,148,186 km (2013)
+
+Topic: Zambiatotal: 3,126 km (2014)
+
+narrow gauge: 3,126 km 1.067-m gauge (2014)
+
+note: includes 1,860 km of the Tanzania-Zambia Railway Authority (TAZARA)
+
+Topic: Zimbabwetotal: 3,427 km (2014)
+
+narrow gauge: 3,427 km 1.067-m gauge (313 km electrified) (2014)

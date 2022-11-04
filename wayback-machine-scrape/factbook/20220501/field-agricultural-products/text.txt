@@ -1,0 +1,469 @@
+This entry provides a list of a country's most important agricultural products, listed by annual tonnage.
+
+Topic: Afghanistanwheat, milk, grapes, vegetables, potatoes, watermelons, melons, rice, onions, apples
+
+Topic: Albaniamilk, maize, tomatoes, potatoes, watermelons, wheat, grapes, cucumbers, onions, apples
+
+Topic: Algeriapotatoes, wheat, milk, watermelons, barley, onions, tomatoes, oranges, dates, vegetables
+
+Topic: American Samoabananas, coconuts, vegetables, taro, breadfruit, yams, copra, pineapples, papayas; dairy products, livestock
+
+Topic: Andorrasmall quantities of rye, wheat, barley, oats, vegetables, tobacco; sheep, cattle
+
+Topic: Angolacassava, bananas, maize, sweet potatoes, pineapples, sugar cane, potatoes, citrus fruit, vegetables, cabbage
+
+Topic: Anguillasmall quantities of tobacco, vegetables; cattle raising
+
+Topic: Antigua and Barbudatropical fruit, milk, mangoes/guavas, melons, tomatoes, pineapples, lemons, limes, eggplants, onions
+
+Topic: Argentinamaize, soybeans, wheat, sugar cane, milk, barley, sunflower seed, beef, grapes, potatoes
+
+Topic: Armeniamilk, potatoes, grapes, vegetables, tomatoes, watermelons, wheat, apples, cabbages, barley
+
+Topic: Arubaaloes; livestock; fish
+
+Topic: Australiasugar cane, wheat, barley, milk, rapeseed, beef, cotton, grapes, poultry, potatoes
+
+Topic: Austriamilk, maize, sugar beet, wheat, barley, potatoes, pork, triticale, grapes, apples
+
+Topic: Azerbaijanmilk, wheat, potatoes, barley, tomatoes, watermelons, cotton, apples, maize, onions
+
+Topic: Bahamas, Thesugar cane, grapefruit, vegetables, bananas, tomatoes, poultry, tropical fruit, oranges, coconuts, mangoes/guavas
+
+Topic: Bahrainmutton, dates, milk, poultry, tomatoes, fruit, sheep offals, sheep skins, eggs, pumpkins
+
+Topic: Bangladeshrice, potatoes, maize, sugar cane, milk, vegetables, onions, jute, mangoes/guavas, wheat
+
+Topic: Barbadossugar cane, poultry, vegetables, milk, eggs, pork, coconuts, pulses nes, sweet potatoes, tropical fruit
+
+Topic: Belarusmilk, potatoes, sugar beet, wheat, triticale, barley, maize, rye, rapeseed, poultry
+
+Topic: Belgiumsugar beet, milk, potatoes, wheat, pork, lettuce, poultry, maize, barley, pears
+
+Topic: Belizesugar care, oranges, bananas, maize, poultry, rice, sorghum, papayas, grapefruit, soybeans
+
+Topic: Benincassava, yams, maize, cotton, oil palm fruit, rice, pineapples, tomatoes, vegetables, soybeans
+
+Topic: Bermudabananas, vegetables, citrus, flowers; dairy products, honey
+
+Topic: Bhutanmilk, rice, maize, potatoes, roots/tubers, oranges, areca nuts, chillies/peppers, spices, ginger
+
+Topic: Boliviasugar cane, soybeans, potatoes, maize, sorghum, rice, milk, plantains, poultry, bananas
+
+Topic: Bosnia and Herzegovinamaize, milk, vegetables, potatoes, wheat, plums/sloes, apples, barley, cabbages, poultry
+
+Topic: Botswanamilk, roots/tubers, vegetables, sorghum, beef, game meat, watermelons, cabbages, goat milk, onions
+
+Topic: Brazilsugar cane, soybeans, maize, milk, cassava, oranges, poultry, rice, beef, cotton
+
+Topic: British Virgin Islandsfruits, vegetables; livestock, poultry; fish
+
+Topic: Bruneipoultry, eggs, fruit, cassava, bananas, legumes, cucumbers, rice, pineapples, beef
+
+Topic: Bulgariawheat, maize, sunflower seed, milk, barley, rapeseed, potatoes, grapes, tomatoes, watermelons
+
+Topic: Burkina Fasosorghum, maize, millet, cotton, cow peas, sugar cane, groundnuts, rice, sesame seed, vegetables
+
+Topic: Burmarice, sugar cane, beans, vegetables, milk, maize, poultry, groundnuts, fruit, plantains
+
+Topic: Burundicassava, bananas, sweet potatoes, plantains, beans, vegetables, potatoes, cashew nuts, maize, taro
+
+Topic: Cabo Verdesugar cane, tomatoes, bananas, cabbages, coconuts, cassava, pulses nes, vegetables, milk, goat milk
+
+Topic: Cambodiacassava, rice, maize, vegetables, sugar cane, soybeans, rubber, oil palm fruit, bananas, pork
+
+Topic: Camerooncassava, plantains, maize, oil palm fruit, taro, sugar cane, sorghum, tomatoes, bananas, vegetables
+
+Topic: Canadawheat, rapeseed, maize, barley, milk, soybeans, potatoes, oats, peas, pork
+
+Topic: Cayman Islandsvegetables, fruit; livestock; turtle farming
+
+Topic: Central African Republiccassava, yams, groundnuts, taro, bananas, sugar cane, beef, maize, plantains, milk
+
+Topic: Chadsorghum, groundnuts, millet, yams, cereals, sugar cane, beef, maize, cotton, cassava
+
+Topic: Chilegrapes, apples, wheat, sugar beet, milk, potatoes, tomatoes, maize, poultry, pork
+
+Topic: Chinamaize, rice, vegetables, wheat, sugar cane, potatoes, cucumbers, tomatoes, watermelons, sweet potatoes
+
+Topic: Christmas IslandNA
+
+Topic: Cocos (Keeling) Islandsvegetables, bananas, pawpaws, coconuts
+
+Topic: Colombiasugar cane, milk, oil palm fruit, potatoes, rice, bananas, cassava leaves, plantains, poultry, maize
+
+Topic: Comoroscoconuts, cassava, rice, bananas, pulses nes, milk, taro, sweet potatoes, maize, cloves
+
+Topic: Congo, Democratic Republic of thecassava, plantains, sugar cane, maize, oil palm fruit, rice, roots/tubers nes, bananas, sweet potatoes, groundnuts
+
+Topic: Congo, Republic of thecassava, sugar cane, oil palm fruit, cassava leaves, bananas, plantains, roots/tubers, game meat, vegetables, mangoes/guavas
+
+Topic: Cook Islandsvegetables, coconuts, roots/tubers nes, cassava, papayas, tomatoes, pork, fruit, sweet potatoes, mangoes/guavas
+
+Topic: Costa Ricasugar cane, pineapples, bananas, milk, oil palm fruit, fruit, oranges, watermelons, cassava, rice
+
+Topic: Cote d'Ivoireyams, cassava, cocoa, oil palm fruit, sugar cane, rice, plantains, maize, cashew nuts, rubber
+
+Topic: Croatiamaize, wheat, sugar beet, milk, barley, soybeans, potatoes, pork, grapes, sunflower seed
+
+Topic: Cubasugar cane, cassava, vegetables, plantains, sweet potatoes, tomatoes, milk, pumpkins, mangoes/guavas, rice
+
+Topic: Curacaoaloe, sorghum, peanuts, vegetables, tropical fruit
+
+Topic: Cyprusmilk, potatoes, pork, sheep milk, goat milk, barley, wheat, poultry, olives, tangerines/mandarins
+
+Topic: Czechiawheat, sugar beet, milk, barley, rapeseed, potatoes, maize, pork, triticale, poultry
+
+Topic: Denmarkmilk, wheat, barley, potatoes, sugar beet, pork, rye, rapeseed, oats, poultry
+
+Topic: Djiboutivegetables, milk, beef, camel milk, lemons, limes, goat meat, mutton, beans, tomatoes
+
+Topic: Dominicabananas, yams, grapefruit, taro, milk, coconuts, oranges, yautia, plantains, sugar cane
+
+note: forest and fishery potential not exploited
+
+Topic: Dominican Republicsugar cane, bananas, papayas, rice, plantains, milk, avocados, fruit, pineapples, coconuts
+
+Topic: Ecuadorsugar cane, bananas, milk, oil palm fruit, maize, rice, plantains, poultry, cocoa, potatoes
+
+Topic: Egyptsugar cane, sugar beet, wheat, maize, tomatoes, rice, potatoes, oranges, onions, milk
+
+Topic: El Salvadorsugar cane, maize, milk, poultry, sorghum, beans, coconuts, eggs, apples, oranges
+
+Topic: Equatorial Guineasweet potatoes, cassava, roots/tubers nes, plantains, oil palm fruit, bananas, coconuts, coffee, cocoa, eggs
+
+Topic: Eritreasorghum, milk, vegetables, barley, cereals, pulses nes, roots/tubers nes, wheat, millet, beef
+
+Topic: Estoniawheat, milk, barley, rapeseed, rye, oats, peas, potatoes, pork, triticale
+
+Topic: Eswatinisugar cane, maize, roots/tubers nes, grapefruit, oranges, milk, beef, potatoes, vegetables, bananas
+
+Topic: Ethiopiamaize, cereals, wheat, sorghum, milk, barley, sweet potatoes, roots/tubers nes, sugar cane, millet
+
+Topic: European Unionwheat, barley, oilseeds, sugar beets, wine, grapes; dairy products, cattle, sheep, pigs, poultry; fish
+
+Topic: Falkland Islands (Islas Malvinas)fodder and vegetable crops; venison, sheep, dairy products; fish, squid
+
+Topic: Faroe Islandspotatoes, mutton, sheep skins, sheep offals, beef, sheep fat, cattle offals, cattle hides, cattle fat
+
+Topic: Fijisugar cane, cassava, taro, poultry, vegetables, coconuts, eggs, milk, ginger, sweet potatoes
+
+Topic: Finlandmilk, barley, oats, wheat, potatoes, sugar beet, rye, pork, poultry, beef
+
+Topic: Francewheat, sugar beet, milk, barley, maize, potatoes, grapes, rapeseed, pork, apples
+
+Topic: French Polynesiacoconuts, fruit, roots/tubers nes, pineapples, cassava, sugar cane, eggs, tropical fruit, tomatoes
+
+Topic: Gabonplantains, cassava, sugar cane, yams, taro, vegetables, maize, groundnuts, game meat, rubber
+
+Topic: Gambia, Thegroundnuts, milk, oil palm fruit, millet, sorghum, rice, maize, vegetables, cassava, fruit
+
+Topic: Gaza Striptomatoes, cucumbers, olives, poultry, milk, potatoes, sheep milk, eggplants, gourds
+
+Topic: Georgiamilk, grapes, maize, potatoes, wheat, watermelons, tomatoes, tangerines/mandarins, barley, apples
+
+Topic: Germanymilk, sugar beet, wheat, barley, potatoes, pork, maize, rye, rapeseed, triticale
+
+Topic: Ghanacassava, yams, plantains, maize, oil palm fruit, taro, rice, cocoa, oranges, pineapples
+
+Topic: Gibraltarnone
+
+Topic: Greecemaize, olives, wheat, milk, peaches/nectarines, oranges, tomatoes, grapes, milk, potatoes
+
+Topic: Greenlandsheep, cattle, reindeer, fish, shellfish
+
+Topic: Grenadabananas, watermelons, sweet potatoes, sugar cane, tomatoes, plantains, coconuts, melons, cucumbers, cabbages
+
+Topic: Guamfruits, copra, vegetables; eggs, pork, poultry, beef
+
+Topic: Guatemalasugar cane, bananas, oil palm fruit, maize, melons, potatoes, milk, plantains, pineapples, rubber
+
+Topic: Guernseytomatoes, greenhouse flowers, sweet peppers, eggplant, fruit; Guernsey cattle
+
+Topic: Guinearice, cassava, groundnuts, maize, oil palm fruit, fonio, plantains, sugar cane, sweet potatoes, vegetables
+
+Topic: Guinea-Bissaurice, cashew nuts, roots/tubers nes, oil palm fruit, plantains, cassava, groundnuts, vegetables, coconuts, fruit
+
+Topic: Guyanarice, sugar cane, coconuts, pumpkins, squash, gourds, milk, eggplants, green chillies/peppers, poultry
+
+Topic: Haitisugar cane, cassava, mangoes/guavas, plantains, bananas, yams, avocados, maize, rice, vegetables
+
+Topic: Hondurassugarcane, oil palm fruit, milk, bananas, maize, coffee, melons, oranges, poultry, beans
+
+Topic: Hong Kongpork, poultry, spinach, vegetables, pork offals, game meat, fruit, lettuce, green onions, pig fat
+
+Topic: Hungarymaize, wheat, milk, sunflower seed, barley, rapeseed, sugar beet, apples, pork, grapes
+
+Topic: Icelandmilk, mutton, poultry, potatoes, barley, pork, eggs, beef, other meat, sheep skins
+
+Topic: Indiasugar cane, rice, wheat, buffalo milk, milk, potatoes, vegetables, bananas, maize, mangoes/guavas
+
+Topic: Indonesiaoil palm fruit, rice, maize, sugar cane, coconuts, cassava, bananas, eggs, poultry, rubber
+
+Topic: Iranwheat, sugar cane, milk, sugar beet, tomatoes, barley, potatoes, oranges, poultry, apples
+
+Topic: Iraqwheat, barley, dates, tomatoes, rice, maize, grapes, potatoes, rice, watermelons
+
+Topic: Irelandmilk, barley, beef, wheat, potatoes, pork, oats, poultry, mushrooms/truffles, mutton
+
+Topic: Isle of Mancereals, vegetables; cattle, sheep, pigs, poultry
+
+Topic: Israelmilk, potatoes, poultry, tomatoes, carrots, turnips, tangerines/mandarins, green chillies/peppers, eggs, vegetables
+
+Topic: Italymilk, grapes, wheat, maize, tomatoes, apples, olives, sugar beet, oranges, rice
+
+Topic: Jamaicasugar cane, goat milk, yams, poultry, coconuts, oranges, bananas, gourds, plantains, grapefruit
+
+Topic: Japanrice, milk, sugar beet, vegetables, eggs, poultry, potatoes, cabbages, onions, pork
+
+Topic: Jerseypotatoes, cauliflower, tomatoes; beef, dairy products
+
+Topic: Jordantomatoes, poultry, olives, milk, potatoes, cucumbers, vegetables, watermelons, green chillies/peppers, peaches/nectarines
+
+Topic: Kazakhstanwheat, milk, potatoes, barley, watermelons, melons, linseed, onions, maize, sunflower seed
+
+Topic: Kenyasugar cane, milk, maize, potatoes, bananas, camel milk, cassava, sweet potatoes, mangoes/guavas, cabbages
+
+Topic: Kiribaticoconuts, roots/tubers nes, bananas, vegetables, taro, tropical fruit, poultry, pork, nuts, eggs
+
+Topic: Korea, Northrice, maize, vegetables, apples, potatoes, cabbages, fruit, sweet potatoes, beans, soybeans
+
+Topic: Korea, Southrice, vegetables, cabbages, milk, onions, pork, poultry, eggs, tangerines/mandarins, potatoes
+
+Topic: Kosovowheat, corn, berries, potatoes, peppers, fruit; dairy, livestock; fish
+
+Topic: Kuwaiteggs, dates, tomatoes, cucumbers, poultry, milk, mutton, potatoes, vegetables, eggplants
+
+Topic: Kyrgyzstanmilk, potatoes, sugar beet, maize, wheat, barley, tomatoes, watermelons, onions, carrots/turnips
+
+Topic: Laosrice, roots/tubers nes, cassava, sugar cane, vegetables, bananas, maize, watermelons, coffee, taro
+
+Topic: Latviawheat, milk, rapeseed, barley, oats, potatoes, rye, beans, pork, poultry
+
+Topic: Lebanonpotatoes, milk, tomatoes, apples, oranges, olives, wheat, cucumbers, poultry, lemons
+
+Topic: Lesothomilk, potatoes, maize, vegetables, fruit, beef, game meat, mutton, beans, wool
+
+Topic: Liberiacassava, sugar cane, oil palm fruit, rice, bananas, vegetables, plantains, rubber, taro, maize
+
+Topic: Libyapotatoes, watermelons, tomatoes, onions, dates, milk, olives, wheat, poultry, vegetables
+
+Topic: Liechtensteinwheat, barley, corn, potatoes; livestock, dairy products
+
+Topic: Lithuaniawheat, milk, sugar beet, rapeseed, barley, triticale, potatoes, oats, peas, beans
+
+Topic: Luxembourgmilk, wheat, barley, triticale, potatoes, pork, beef, grapes, rapeseed, oats
+
+Topic: Macaupork, poultry, beef, pig fat, pig offals, eggs, pepper, cattle offals, cattle hides, goose/guinea fowl meat
+
+Topic: Madagascarrice, sugar cane, cassava, sweet potatoes, milk, vegetables, bananas, mangoes/guavas, tropical fruit, potatoes
+
+Topic: Malawisweet potatoes, cassava, sugar cane, maize, mangoes/guavas, potatoes, tomatoes, pigeon peas, bananas, plantains
+
+Topic: Malaysiaoil palm fruit, rice, poultry, eggs, vegetables, rubber, coconuts, bananas, pineapples, pork
+
+Topic: Maldivespapayas, vegetables, roots/tubers nes, nuts, fruit, other meat, tomatoes, coconuts, bananas, maize
+
+Topic: Malimaize, rice, millet, sorghum, mangoes/guavas, cotton, watermelons, green onions/shallots, okra, sugar cane
+
+Topic: Maltamilk, tomatoes, potatoes, onions, cauliflowers, broccoli, eggplants, pork, cabbages, poultry
+
+Topic: Marshall Islandscoconuts
+
+Topic: Mauritaniarice, milk, goat milk, sheep milk, sorghum, mutton, beef, camel milk, camel meat, dates
+
+Topic: Mauritiussugar cane, poultry, pumpkins, gourds, potatoes, eggs, tomatoes, pineapples, bananas, fruit
+
+Topic: Mexicosugar cane, maize, milk, oranges, sorghum, tomatoes, poultry, wheat, green chillies/peppers, eggs
+
+Topic: Micronesia, Federated States ofcoconuts, cassava, vegetables, sweet potatoes, bananas, pork, plantains, fruit, eggs, beef
+
+Topic: Moldovamaize, wheat, sunflower seed, grapes, apples, sugar beet, milk, potatoes, barley, plums/sloes
+
+Topic: Monaconone
+
+Topic: Mongoliamilk, wheat, goat milk, potatoes, mutton, sheep milk, beef, goat meat, horse meat, carrots/turnips
+
+Topic: Montenegromilk, potatoes, grapes, vegetables, tomatoes, watermelons, wheat, apples, cabbages, barley
+
+Topic: Montserratcabbages, carrots, cucumbers, tomatoes, onions, peppers; livestock products
+
+Topic: Moroccowheat, sugar beet, milk, potatoes, olives, tangerines/mandarins, tomatoes, oranges, barley, onions
+
+Topic: Mozambiquesugar cane, cassava, maize, milk, bananas, tomatoes, sweet potatoes, rice, sorghum, potatoes
+
+Topic: Namibiaroots/tubers nes, milk, maize, onions, beef, grapes, fruit, pulses nes, vegetables, millet
+
+Topic: Naurucoconuts, tropical fruit, vegetables, pork, eggs, pig offals, pig fat, poultry, papayas, cabbages
+
+Topic: Nepalrice, vegetables, sugar cane, potatoes, maize, wheat, buffalo milk, milk, fruit, mangoes/guavas
+
+Topic: Netherlandsmilk, potatoes, sugar beet, pork, onions, wheat, poultry, tomatoes, carrots/turnips, beef
+
+Topic: New Caledoniacoconuts, vegetables, maize, fruit, beef, pork, potatoes, bananas, eggs, yams
+
+Topic: New Zealandmilk, beef, kiwi fruit, apples, potatoes, mutton, grapes, wheat, barley, green onions/shallots
+
+Topic: Nicaraguasugar cane, milk, rice, maize, plantains, groundnuts, cassava, beans, coffee, poultry
+
+Topic: Nigermillet, cow peas, sorghum, onions, milk, groundnuts, cassava, cabbages, goat milk, fruit
+
+Topic: Nigeriacassava, yams, maize, oil palm fruit, rice, vegetables, sorghum, groundnuts, fruit, sweet potatoes
+
+Topic: Niuecoconuts, taro, fruit, sweet potatoes, tropical fruit, yams, vegetables, lemons, limes, bananas
+
+Topic: Norfolk IslandNorfolk Island pine seed, Kentia palm seed, cereals, vegetables, fruit; cattle, poultry
+
+Topic: North Macedoniamilk, grapes, wheat, potatoes, green chillies/peppers, cabbages, tomatoes, maize, barley, watermelons
+
+Topic: Northern Mariana Islandsvegetables and melons, fruits and nuts; ornamental plants; livestock, poultry, eggs; fish and aquaculture products
+
+Topic: Norwaymilk, barley, wheat, potatoes, oats, pork, poultry, beef, eggs, rye
+
+Topic: Omandates, tomatoes, vegetables, goat milk, milk, cucumbers, green chillies/peppers, watermelons, sorghum, melons
+
+Topic: Pakistansugar cane, buffalo milk, wheat, milk, rice, maize, potatoes, cotton, fruit, mangoes/guavas
+
+Topic: Palaucoconuts, cassava (manioc, tapioca), sweet potatoes; fish, pigs, chickens, eggs, bananas, papaya, breadfruit, calamansi, soursop, Polynesian chestnuts, Polynesian almonds, mangoes, taro, guava, beans, cucumbers, squash/pumpkins (various), eggplant, green onions, kangkong (watercress), cabbages (various), radishes, betel nuts, melons, peppers, noni, okra
+
+Topic: Panamasugar cane, bananas, rice, poultry, milk, plantains, pineapples, maize, beef, pork
+
+Topic: Papua New Guineaoil palm fruit, bananas, coconuts, fruit, sweet potatoes, game meat, yams, roots/tubers nes, vegetables, taro
+
+Topic: Paraguaysoybeans, sugar cane, maize, cassava, wheat, rice, beef, milk, oranges, oil palm fruit
+
+Topic: Perusugar cane, potatoes, rice, plantains, milk, poultry, maize, cassava, oil palm fruit, grapes
+
+Topic: Philippinessugar cane, rice, coconuts, maize, bananas, vegetables, tropical fruit, plantains, pineapples, cassava
+
+Topic: Pitcairn Islandshoney; wide variety of fruits and vegetables; goats, chickens; fish
+
+Topic: Polandmilk, sugar beet, wheat, potatoes, triticale, maize, barley, apples, mixed grains, rye
+
+Topic: Portugalmilk, tomatoes, olives, grapes, maize, potatoes, pork, apples, oranges, poultry
+
+Topic: Puerto Ricomilk, plantains, bananas, poultry, tomatoes, mangoes/guavas, eggs, oranges, gourds, papayas
+
+Topic: Qatartomatoes, dates, camel milk, sheep milk, goat milk, pumpkins/gourds, mutton, poultry, milk, eggplants
+
+Topic: Romaniamaize, wheat, milk, sunflower seed, potatoes, barley, grapes, sugar beet, rapeseed, plums/sloes
+
+Topic: Russiawheat, sugar beet, milk, potatoes, barley, sunflower seed, maize, poultry, oats, soybeans
+
+Topic: Rwandabananas, sweet potatoes, cassava, potatoes, plantains, beans, maize, gourds, milk, taro
+
+Topic: Saint Helena, Ascension, and Tristan da Cunhacoffee, corn, potatoes, vegetables; fish, lobster; livestock; timber
+
+Topic: Saint Kitts and Neviscoconuts, tropical fruit, roots/tubers nes, vegetables, sweet potatoes, pulses nes, watermelons, carrots/turnips, eggs, tomatoes
+
+Topic: Saint Luciabananas, coconuts, fruit, tropical fruit, plantains, roots/tubers nes, cassava, poultry, vegetables, mangoes/guavas
+
+Topic: Saint Pierre and Miquelonvegetables; poultry, cattle, sheep, pigs; fish
+
+Topic: Saint Vincent and the Grenadinesbananas, sugar cane, roots/tubers nes, plantains, vegetables, fruit, coconuts, sweet potatoes, yams, mangoes/guavas
+
+Topic: Samoacoconuts, taro, bananas, yams, tropical fruit, pineapples, mangoes/guavas, papayas, roots/tubers nes, pork
+
+Topic: San Marinowheat, grapes, corn, olives; cattle, pigs, horses, beef, cheese, hides
+
+Topic: Sao Tome and Principeplantains, oil palm fruit, coconuts, taro, bananas, fruit, cocoa, yams, cassava, maize
+
+Topic: Saudi Arabiamilk, dates, poultry, fruit, watermelons, barley, wheat, potatoes, eggs, tomatoes
+
+Topic: Senegalgroundnuts, watermelons, rice, sugar cane, cassava, millet, maize, onions, sorghum, vegetables
+
+Topic: Serbiamaize, wheat, sugar beet, milk, sunflower seed, potatoes, soybeans, plums/sloes, apples, barley
+
+Topic: Seychellescoconuts, vegetables, bananas, fruit, eggs, poultry, tomatoes, pork, tropical fruit, cassava
+
+Topic: Sierra Leonecassava, rice, vegetables, oil palm fruit, sweet potatoes, milk, citrus fruit, groundnuts, fruit, pulses nes
+
+Topic: Singaporepoultry, eggs, vegetables, pork, duck meat, spinach, pig offals, bird eggs, pig fat, cabbages
+
+Topic: Sint Maartensugar
+
+Topic: Slovakiawheat, maize, sugar beet, milk, barley, rapeseed, potatoes, sunflower seed, soybeans, pork
+
+Topic: Sloveniamilk, maize, wheat, grapes, barley, potatoes, poultry, apples, beef, pork
+
+Topic: Solomon Islandsoil palm fruit, sweet potatoes, coconuts, taro, yams, fruit, pulses nes, vegetables, cocoa, cassava
+
+Topic: Somaliacamel milk, milk, sheep milk, goat milk, sugar cane, fruit, sorghum, cassava, vegetables, maize
+
+Topic: South Africasugar cane, maize, milk, potatoes, grapes, poultry, oranges, wheat, soybeans, beef
+
+Topic: South Sudanmilk, sorghum, vegetables, cassava, goat milk, fruit, beef, sesame seed, sheep milk, mutton
+
+Topic: Spainbarley, milk, wheat, olives, grapes, tomatoes, pork, maize, oranges, sugar beet
+
+Topic: Sri Lankarice, coconuts, sugar cane, plantains, milk, tea, cassava, maize, poultry, coir
+
+Topic: Sudansugar cane, sorghum, milk, groundnuts, onions, sesame seed, goat milk, millet, bananas, wheat
+
+Topic: Surinamerice, sugar cane, bananas, oranges, vegetables, plantains, coconuts, poultry, cassava, eggs
+
+Topic: Swedenwheat, milk, sugar beet, barley, potatoes, oats, rapeseed, pork, rye, triticale
+
+Topic: Switzerlandmilk, sugar beet, wheat, potatoes, pork, barley, apples, maize, beef, grapes
+
+Topic: Syriawheat, barley, milk, olives, tomatoes, oranges, potatoes, sheep milk, lemons, limes
+
+Topic: Taiwanrice, vegetables, pork, cabbages, poultry, sugar cane, milk, eggs, pineapples, tropical fruit
+
+Topic: Tajikistanmilk, potatoes, wheat, watermelons, onions, tomatoes, vegetables, cotton, carrots/turnips, beef
+
+Topic: Tanzaniacassava, maize, sweet potatoes, sugar cane, rice, bananas, vegetables, milk, beans, sunflower seed
+
+Topic: Thailandsugar cane, cassava, rice, oil palm fruit, rubber, maize, tropical fruit, poultry, pineapples, mangoes/guavas
+
+Topic: Timor-Lesterice, maize, vegetables, coffee, roots/tubers nes, other meats, cassava, pork, beans, mangoes/guavas
+
+Topic: Togocassava, maize, yams, sorghum, beans, oil palm fruit, rice, vegetables, cotton, groundnuts
+
+Topic: Tokelaucoconuts, roots/tubers nes, tropical fruit, pork, bananas, eggs, poultry, pig offals, pig fat, fruit
+
+Topic: Tongacoconuts, gourds, cassava, sweet potatoes, vegetables, yams, taro, roots/tubers nes, plantains, lemons/limes
+
+Topic: Trinidad and Tobagopoultry, fruit, coconuts, citrus fruit, milk, plantains, maize, oranges, eggs, gourds
+
+Topic: Tunisiawheat, milk, tomatoes, barley, olives, watermelons, green chillies/peppers, potatoes, dates, green onions/shallots
+
+Topic: Turkeymilk, wheat, sugar beet, tomatoes, barley, maize, potatoes, grapes, watermelons, apples
+
+Topic: Turkmenistanmilk, wheat, cotton, tomatoes, potatoes, watermelons, grapes, sugar beet, beef, rice
+
+Topic: Turks and Caicos Islandscorn, beans, cassava (manioc, tapioca), citrus fruits; fish
+
+Topic: Tuvalucoconuts, vegetables, tropical fruit, bananas, roots/tubers nes, pork, poultry, eggs, pig fat, pig offals
+
+Topic: Ugandasugar cane, plantains, cassava, maize, sweet potatoes, milk, vegetables, beans, bananas, sorghum
+
+Topic: Ukrainemaize, wheat, potatoes, sunflower seed, sugar beet, milk, barley, soybeans, rapeseed, tomatoes
+
+Topic: United Arab Emiratesdates, cucumbers, tomatoes, goat meat, eggs, milk, poultry, carrots/turnips, goat milk, milk
+
+Topic: United Kingdomwheat, milk, barley, sugar beet, potatoes, rapeseed, poultry, oats, pork, beef
+
+Topic: United Statesmaize, milk, soybeans, wheat, sugar cane, sugar beet, poultry, potatoes, cotton, pork
+
+Topic: Uruguaysoybeans, milk, rice, maize, wheat, barley, beef, sugar cane, sorghum, oranges
+
+Topic: Uzbekistanmilk, wheat, potatoes, carrots/turnips, cotton, tomatoes, vegetables, grapes, onions, watermelons
+
+Topic: Vanuatucoconuts, roots/tubers nes, bananas, vegetables, pork, fruit, milk, beef, groundnuts, cocoa
+
+Topic: Venezuelasugar cane, maize, milk, rice, plantains, bananas, pineapples, potatoes, beef, poultry
+
+Topic: Vietnamrice, vegetables, sugar cane, cassava, maize, pork, fruit, bananas, coffee, coconuts
+
+Topic: Virgin Islandsfruit, vegetables, sorghum; Senepol cattle
+
+Topic: Wallis and Futunacoconuts, breadfruit, yams, taro, bananas; pigs, goats; fish
+
+Topic: West Banktomatoes, cucumbers, olives, poultry, milk, potatoes, sheep milk, eggplants, gourds
+
+Topic: Yemenmangoes/guavas, potatoes, sorghum, onions, milk, poultry, watermelons, grapes, oranges, bananas
+
+Topic: Zambiasugar cane, cassava, maize, milk, vegetables, soybeans, beef, tobacco, wheat, groundnuts
+
+Topic: Zimbabwesugar cane, maize, milk, tobacco, cassava, vegetables, bananas, beef, cotton, oranges

@@ -1,0 +1,757 @@
+This entry provides the total and the number of each type of privately or publicly owned commercial ship for each country; military ships are not included; the five ships by type include: bulk carrier - for cargo such as coal, grain, cement, ores, and gravel; container ship - for loads in truck-size containers, a transportation system called containerization; general cargo - also referred to as break-bulk containers - for a wide variety of packaged merchandise, such as textiles, furniture and machinery; oil tanker - for crude oil and petroleum products; other - includes chemical carriers, dredgers, liquefied natural gas (LNG) carriers, refrigerated cargo ships called reefers, tugboats, passenger vessels (cruise and ferry), and offshore supply ships 
+
+Topic: Albaniatotal: 70
+
+by type: general cargo 47, oil tanker 1, other 22 (2021)
+
+Topic: Algeriatotal: 114
+
+by type: bulk carrier 1, container ship 2, general cargo 11, oil tanker 11, other 89 (2021)
+
+Topic: Angolatotal: 54
+
+by type: general cargo 13, oil tanker 8, other 33 (2021)
+
+Topic: Anguillatotal: 2
+
+by type: other 2 (2021)
+
+Topic: Antigua and Barbudatotal: 677
+
+by type: bulk carrier 24, container ship 123, general cargo 473, oil tanker 2, other 55 (2021)
+
+Topic: Argentinatotal: 202
+
+by type: container ship 1,bulk carrier 1 general cargo 8, oil tanker 33, other 159 (2021)
+
+Topic: Arubatotal: 1
+
+by type: other 1 (2021)
+
+Topic: Australiatotal: 581
+
+by type: bulk carrier 2, general cargo 76, oil tanker 7, other 496 (2021)
+
+Topic: Austriatotal: 1
+
+by type: other 1 (2021)
+
+Topic: Azerbaijantotal: 305
+
+by type: general cargo 38, oil tanker 43, other 224 (2021)
+
+Topic: Bahamas, Thetotal: 1,323
+
+by type: bulk carrier 333, container ship 45, general cargo 64, oil tanker 224, other 657 (2021)
+
+Topic: Bahraintotal: 205
+
+by type: general cargo 12, oil tanker 4, other 189 (2021)
+
+Topic: Bangladeshtotal: 468
+
+by type: bulk carrier 48, container ship 6, general cargo 140, oil tanker 144, other 130 (2021)
+
+Topic: Barbadostotal: 165
+
+by type: bulk carrier 46, general cargo 103, other 16 (2021)
+
+Topic: Belarustotal: 4
+
+by type: other 4 (2021)
+
+Topic: Belgiumtotal: 201
+
+by type: bulk carrier 19, container ship 7, general cargo 16, oil tanker 21, other 138 (2021)
+
+Topic: Belizetotal: 813
+
+by type: bulk carrier 54, container ship 1, general cargo 428, oil tanker 70, other 260 (2021)
+
+Topic: Benintotal: 6
+
+by type: other 6 (2021)
+
+Topic: Bermudatotal: 147
+
+by type: container ship 12, oil tanker 18, other 117 (2021)
+
+Topic: Boliviatotal: 45
+
+by type: general cargo 29, oil tanker 2, other 14 (2021)
+
+Topic: Braziltotal: 864
+
+by type: bulk carrier 11, container ship 19, general cargo 42, oil tanker 31, other 761 (2021)
+
+Topic: British Virgin Islandstotal: 30
+
+by type: general cargo 3, other 27 (2021)
+
+Topic: Bruneitotal: 96
+
+by type: general cargo 18, oil tanker 3, other 75 (2021)
+
+Topic: Bulgariatotal: 79
+
+by type: bulk carrier 4, general cargo 14, oil tanker 8, other 53 (2021)
+
+Topic: Burmatotal: 95
+
+by type: bulk carrier 2, general cargo 39, oil tanker 5, other 49 (2021)
+
+Topic: Cabo Verdetotal: 46
+
+by type: general cargo 16, oil tanker 3, other 27 (2021)
+
+Topic: Cambodiatotal: 245
+
+by type: container ship 2, general cargo 162, oil tanker 18, other 63 (2021)
+
+Topic: Cameroontotal: 94
+
+by type: bulk carrier 3, container ship 1,general cargo 35, oil tanker 24, other 31 (2021)
+
+Topic: Canadatotal: 679
+
+by type: bulk carrier 22, container ship 1, general cargo 66, oil tanker 15, other 575 (2021)
+
+Topic: Cayman Islandstotal: 160
+
+by type: bulk carrier 32, container ship 1, general cargo 1, oil tanker 23, other 103 (2021)
+
+Topic: Chiletotal: 231
+
+by type: bulk carrier 6, container ship 5, general cargo 58, oil tanker 14, other 148 (2021)
+
+Topic: Chinatotal: 6,662
+
+by type: bulk carrier 1,558, container ship 341, general cargo 957, oil tanker 1,061, other 2,745 (2021)
+
+Topic: Colombiatotal: 122
+
+by type: general cargo 23, oil tanker 7, other 92 (2021)
+
+Topic: Comorostotal: 236
+
+by type: bulk carrier 8, container ship 7, general cargo 112, oil tanker 31, other 78 (2021)
+
+Topic: Congo, Democratic Republic of thetotal: 22
+
+by type: general cargo 4, oil tanker 2, other 16 (2021)
+
+Topic: Congo, Republic of thetotal: 11
+
+by type: general cargo 1, oil tanker 1, other 9 (2021)
+
+Topic: Cook Islandstotal: 194
+
+by type: bulk carrier 19, container ship 1, general cargo 57, oil tanker 54, other 63 (2021)
+
+Topic: Costa Ricatotal: 11
+
+by type: other 11 (2021)
+
+Topic: Cote d'Ivoiretotal: 25
+
+by type: oil tanker 2, other 23 (2021)
+
+Topic: Croatiatotal: 354
+
+by type: bulk carrier 14, general cargo 32, oil tanker 16, other 292 (2021)
+
+Topic: Cubatotal: 59
+
+by type: general cargo 12, oil tanker 7, other 40 (2021)
+
+Topic: Curacaototal: 63
+
+by type: general cargo 6, oil tanker 1, other 56 (2021)
+
+Topic: Cyprustotal: 1,051
+
+by type: bulk carrier 269, container ship 182, general cargo 197, oil tanker 59, other 344 (2021)
+
+Topic: Denmarktotal: 717
+
+by type: bulk carrier 8, container ship 148, general cargo 68, oil tanker 105, other 388 (2021)
+
+Topic: Djiboutitotal: 33
+
+by type: bulk carrier 1, container ship 1, general cargo 2, oil tanker 8, other 21 (2021)
+
+Topic: Dominicatotal: 93
+
+by type: general cargo 30, oil tanker 19, other 44 (2021)
+
+Topic: Dominican Republictotal: 38
+
+by type: container ship 1, general cargo 2, oil tanker 1, other 34 (2021)
+
+Topic: Ecuadortotal: 145
+
+by type: container ship 1, general cargo 7, oil tanker 27, other 110 (2021)
+
+Topic: Egypttotal: 421
+
+by type: bulk carrier 14, container ship 8, general cargo 27, oil tanker 40, other 332 (2021)
+
+Topic: El Salvadortotal: 2
+
+by type: other 2 (2021)
+
+Topic: Equatorial Guineatotal: 42
+
+by type: bulk carrier 1, general cargo 8, oil tanker 6, other 27 (2021)
+
+Topic: Eritreatotal: 9
+
+by type: general cargo 4, oil tanker 1, other 4 (2021)
+
+Topic: Estoniatotal: 68
+
+by type: general cargo 2, oil tanker 4, other 62 (2021)
+
+Topic: Ethiopiatotal: 11
+
+by type: general cargo 9, oil tanker 2 (2020)
+
+Topic: Falkland Islands (Islas Malvinas)total: 2
+
+by type: general cargo 1, other 1 (2021)
+
+Topic: Faroe Islandstotal: 101
+
+by type: container ships 6, general cargo 48, oil tanker 1, other 46 (2021)
+
+Topic: Fijitotal: 73
+
+by type: general cargo 20, oil tanker 4, other 49 (2021)
+
+Topic: Finlandtotal: 272
+
+by type: bulk carrier 9, container ship 1, general cargo 74, oil tanker 4, other 184 (2021)
+
+Topic: Francetotal: 548
+
+by type: container ship 29, general cargo 50, oil tanker 28, other 441 (2021)
+
+note: includes Monaco
+
+Topic: French Polynesiatotal: 24
+
+by type: general cargo 14, other 10 (2021)
+
+Topic: French Southern and Antarctic Landstotal: 2
+
+by type: other 2 (2021)
+
+Topic: Gabontotal: 62
+
+by type: bulk carrier 1, general cargo 17, oil tanker 17, other 27 (2021)
+
+Topic: Gambia, Thetotal: 8
+
+by type: other 8 (2021)
+
+Topic: Georgiatotal: 25
+
+by type: bulk carrier 2, general cargo 3, other 20 (2021)
+
+Topic: Germanytotal: 599
+
+by type: container ship 77, general cargo 85, oil tanker 36, other 401 (2021)
+
+Topic: Ghanatotal: 51
+
+by type: general cargo 7, oil tanker 3, other 41 (2021)
+
+Topic: Gibraltartotal: 202
+
+by type: bulk carrier 8, container ship 19, general cargo 55, oil tanker 20, other 100 (2021)
+
+Topic: Greecetotal: 1,236
+
+by type: bulk carrier 158, container ship 5, general cargo 89, oil tanker 337, other 647 (2021)
+
+Topic: Greenlandtotal: 8
+
+by type: other 8 (2021)
+
+Topic: Grenadatotal: 6
+
+by type: general cargo 3, other 3 (2021)
+
+Topic: Guamtotal: 3
+
+by type: other 3 (2021)
+
+Topic: Guatemalatotal: 9
+
+by type: oil tanker 1, other 8 (2021)
+
+Topic: Guineatotal: 2
+
+by type: other 2 (2021)
+
+Topic: Guinea-Bissautotal: 8
+
+by type: general cargo 5, other 3 (2021)
+
+Topic: Guyanatotal: 56
+
+by type: general cargo 26, oil tanker 7, other 23 (2021)
+
+Topic: Haititotal: 4
+
+by type: general cargo 3, other 1 (2021)
+
+Topic: Hondurastotal: 505
+
+by type: bulk carrier 1, general cargo 244, oil tanker 82, other 178 (2021)
+
+Topic: Hong Kongtotal: 2,718
+
+by type: bulk carrier 1,158, container ship 558, general cargo 184, oil tanker 388, other 430 (2021)
+
+Topic: Hungarytotal: 1
+
+by type: other 1 (2021)
+
+Topic: Icelandtotal: 41
+
+by type: general cargo 5, oil tanker 2, other 34 (2021)
+
+Topic: Indiatotal: 1,801
+
+by type: bulk carrier 63, container ship 22, general cargo 587, oil tanker 136, other 993 (2021)
+
+Topic: Indonesiatotal: 10,427
+
+by type: bulk carrier 148, container ship 226, general cargo 2,238, oil tanker 676, other 7,139 (2021)
+
+Topic: Irantotal: 893
+
+by type: bulk carrier 32, container ship 31, general cargo 371, oil tanker 84, other 375 (2021)
+
+Topic: Iraqtotal: 68
+
+by type: general cargo 1, oil tanker 6, other 61 (2021)
+
+Topic: Irelandtotal: 96
+
+by type: bulk carrier 12, general cargo 36, oil tanker 1, other 47 (2021)
+
+Topic: Israeltotal: 41
+
+by type: container ship 6, general cargo 2, oil tanker 4, other 29 (2021)
+
+Topic: Italytotal: 1,296
+
+by type: bulk carrier 36, container ship 7, general cargo 111, oil tanker 103, other 1,039 (2021)
+
+Topic: Jamaicatotal: 43
+
+by type: bulk carrier 1, container ship 5, general cargo 9, oil tanker 1, other 27 (2021)
+
+Topic: Japantotal: 5,201
+
+by type: bulk carrier 148, container ship 45, general cargo 1,900, oil tanker 666, other 2,442 (2021)
+
+Topic: Jordantotal: 35
+
+by type: general cargo 6, oil tanker 1, other 28 (2021)
+
+Topic: Kazakhstantotal: 119
+
+by type: general cargo 3, oil tanker 7, other 109 (2021)
+
+Topic: Kenyatotal: 26
+
+by type: oil tanker 3, other 23 (2021)
+
+Topic: Kiribatitotal: 88
+
+by type: bulk carrier 3, general cargo 35, oil tanker 12, other 38 (2021)
+
+Topic: Korea, Northtotal: 264
+
+by type: bulk carrier 8, container ship 5, general cargo 189, oil tanker 33, other 29 (2021)
+
+Topic: Korea, Southtotal: 1,904
+
+by type: bulk carrier 78, container ship 91, general cargo 360, oil tanker 184, other 1,191 (2021)
+
+Topic: Kuwaittotal: 165
+
+by type: general cargo 15, oil tanker 28, other 122 (2021)
+
+Topic: Laostotal: 1
+
+by type: general cargo 1 (2021)
+
+Topic: Latviatotal: 70
+
+by type: general cargo 22, oil tanker 9, other 39 (2021)
+
+Topic: Lebanontotal: 48
+
+by type: bulk carrier 2, general cargo 31, oil tanker 1, other 14 (2021)
+
+Topic: Liberiatotal: 3,942
+
+by type: bulk carrier 1,487, container ship 878, general cargo 131, oil tanker 851, other 595 (2021)
+
+Topic: Libyatotal: 94
+
+by type: general cargo 2, oil tanker 12, other 80 (2021)
+
+Topic: Liechtensteintotal: 20
+
+by type: bulk carrier 16, general cargo 1, other 3 (includes Switzerland) (2021)
+
+Topic: Lithuaniatotal: 64
+
+by type: container ship 4, general cargo 24, oil tanker 2, other 34 (2021)
+
+Topic: Luxembourgtotal: 153
+
+by type: bulk carrier 4, container ship 1, general cargo 23, oil tanker 3, other 122 (2021)
+
+Topic: Macautotal: 1
+
+by type: other 1 (2021)
+
+Topic: Madagascartotal: 27
+
+by type: general cargo 14, oil tanker 2, other 11 (2021)
+
+Topic: Malaysiatotal: 1,769
+
+by type: bulk carrier 16, container ship 28, general cargo 174, oil tanker 153, other 1,398 (2021)
+
+Topic: Maldivestotal: 68
+
+by type: general cargo 21, oil tanker 19, other 28 (2021)
+
+Topic: Maltatotal: 2,137
+
+by type: bulk carrier 601, container ship 310, general cargo 218, oil tanker 412, other 596 (2021)
+
+Topic: Marshall Islandstotal: 3,817
+
+by type: bulk carrier 1,733, container ship 248, general cargo 66, oil tanker 970, other 800 (2021)
+
+Topic: Mauritaniatotal: 5
+
+by type: general cargo 2, other 3 (2021)
+
+Topic: Mauritiustotal: 29
+
+by type: general cargo 1, oil tanker 4, other 24 (2021)
+
+Topic: Mexicototal: 671
+
+by type: container ship 1, bulk carrier 4, general cargo 11, oil tanker 31, other 624 (2021)
+
+Topic: Micronesia, Federated States oftotal: 38
+
+by type: general cargo 19, oil tanker 4, other 15 (2021)
+
+Topic: Moldovatotal: 147
+
+by type: bulk carrier 5, container ship 5, general cargo 97, oil tanker 7, other 33 (2021)
+
+Topic: Mongoliatotal: 302
+
+by type: bulk carrier 4, container ship 7, general cargo 131, oil tanker 64, other 96 (2021)
+
+Topic: Montenegrototal: 17
+
+by type: bulk carrier 4, other 13 (2021)
+
+Topic: Moroccototal: 93
+
+by type: container ship 6, general cargo 5, oil tanker 2, other 80 (2021)
+
+Topic: Mozambiquetotal: 30
+
+by type: general cargo 9, other 21 (2021)
+
+Topic: Namibiatotal: 14
+
+by type: general cargo 1, other 13 (2021)
+
+Topic: Naurutotal: 3
+
+by type: oil tanker 1, other 2 (2021)
+
+Topic: Netherlandstotal: 1,199
+
+by type: bulk carrier 10, container ship 40, general cargo 559, oil tanker 26, other 564 (2021)
+
+Topic: New Caledoniatotal: 24
+
+by type: general cargo 5, oil tanker 1, other 18 (2021)
+
+Topic: New Zealandtotal: 115
+
+by type: container ship 1, general cargo 12, oil tanker 4, other 98 (2021)
+
+Topic: Nicaraguatotal: 5
+
+by type: general cargo 1, oil tanker 1, other 3 (2021)
+
+Topic: Nigertotal: 1
+
+by type: general cargo 1 (2021)
+
+Topic: Nigeriatotal: 791
+
+by type: general cargo 14, oil tanker 110, other 667 (2021)
+
+Topic: Niuetotal: 69
+
+by type: bulk carrier 3, container ship 2, general cargo 25, oil tanker 7, other 32 (2021)
+
+Topic: Northern Mariana Islandstotal: 1
+
+by type: other 1 (2019)
+
+Topic: Norwaytotal: 1,644
+
+by type: bulk carrier 109, container ship 1, general cargo 242, oil tanker 96, other 1,196 (2021)
+
+Topic: Omantotal: 57
+
+by type: general cargo 10, other 47 (2021)
+
+Topic: Pakistantotal: 57
+
+by type: bulk carrier 5, oil tanker 7, other 45 (2021)
+
+Topic: Palautotal: 264
+
+by type: bulk carrier 16, container ship 7, general cargo 107, oil tanker 40, other 94 (2021)
+
+Topic: Panamatotal: 7,980
+
+by type: bulk carrier 2,697, container ship 643, general cargo 1,381, oil tanker 771, other 2,488 (2021)
+
+Topic: Papua New Guineatotal: 177
+
+by type: container ship 6, general cargo 81, oil tanker 3, other 87 (2021)
+
+Topic: Paraguaytotal: 110
+
+by type: container ship 3, general cargo 25, oil tanker 5, other 77 (2021)
+
+note: as of 2017, Paraguay registered 2,012 fluvial vessels of which 1,741 were commercial barges
+
+Topic: Perutotal: 98
+
+by type: general cargo 1, oil tanker 8, other 89 (2021)
+
+Topic: Philippinestotal: 1,805
+
+by type: bulk carrier 62, container ship 44, general cargo 716, oil tanker 205, other 778 (2021)
+
+Topic: Polandtotal: 143
+
+by type: general cargo 7, oil tanker 6, other 130 (2021)
+
+Topic: Portugaltotal: 726
+
+by type: bulk carrier 86, container ship 267, general cargo 137, oil tanker 27, other 209 (2021)
+
+Topic: Qatartotal: 129
+
+by type: bulk carrier 9, container ship 4, general cargo 4, oil tanker 5, other 107 (2021)
+
+Topic: Romaniatotal: 121
+
+by type: general cargo 11, oil tanker 6, other 104 (2021)
+
+Topic: Russiatotal: 2,873
+
+by type: bulk carrier 13, container ship 17, general cargo 946, oil tanker 406, other 1,491 (2021)
+
+Topic: Saint Kitts and Nevistotal: 244
+
+by type: bulk carrier 6, container ship 7, general cargo 45, oil tanker 53, other 133 (2021)
+
+Topic: Saint Vincent and the Grenadinestotal: 792
+
+by type: bulk carrier 27, container ship 17, general cargo 155, oil tanker 16, other 577 (2021)
+
+Topic: Samoatotal: 12
+
+by type: general cargo 3, oil tanker 3, other 6 (2021)
+
+Topic: Sao Tome and Principetotal: 22
+
+by type: general cargo 13, oil tanker 2, other 7 (2021)
+
+Topic: Saudi Arabiatotal: 392
+
+by type: bulk carrier 5, container ship 1, general cargo 21, oil tanker 58, other 307 (2021)
+
+Topic: Senegaltotal: 35
+
+by type: general cargo 5, oil tanker 1, other 29 (2021)
+
+Topic: Seychellestotal: 27
+
+by type: general cargo 5, oil tanker 6, other 16 (2021)
+
+Topic: Sierra Leonetotal: 591
+
+by type: bulk carrier 30, container ship 9, general cargo 319, oil tanker 108, other 125 (2021)
+
+Topic: Singaporetotal: 3,321
+
+by type: bulk carrier 576, container ship 514, general cargo 113, oil tanker 699, other 1,419 (2021)
+
+Topic: Sloveniatotal: 9
+
+by type: other 9 (2021)
+
+Topic: Solomon Islandstotal: 24
+
+by type: general cargo 8, oil tanker 1, other 15 (2021)
+
+Topic: Somaliatotal: 4
+
+by type: general cargo 1, other 3 (2021)
+
+Topic: South Africatotal: 105
+
+by type: bulk carrier 2, general cargo 1, oil tanker 7, other 95 (2021)
+
+Topic: Spaintotal: 478
+
+by type: bulk carrier 1, general cargo 36, oil tanker 24, other 417 (2021)
+
+Topic: Sri Lankatotal: 90
+
+by type: bulk carrier 6, general cargo 13, oil tanker 11, other 60 (2021)
+
+Topic: Sudantotal: 15
+
+by type: other 15 (2021)
+
+Topic: Surinametotal: 10
+
+by type: general cargo 5, oil tanker 3, other 2 (2021)
+
+Topic: Swedentotal: 370
+
+by type: general cargo 49, oil tanker 22, other 299 (2021)
+
+Topic: Switzerlandtotal: 20
+
+by type: bulk carrier 16, general cargo 1, other 3 (includes Liechtenstein) (2021)
+
+Topic: Syriatotal: 28
+
+by type: bulk carrier 1, general cargo 11, other 16 (2021)
+
+Topic: Taiwantotal: 429
+
+by type: bulk carrier 37, container ship 49, general cargo 57, oil tanker 33, other 253 (2021)
+
+Topic: Tanzaniatotal: 314
+
+by type: bulk carrier 4, container ship 6, general cargo 144, oil tanker 49, other 111 (2021)
+
+Topic: Thailandtotal: 839
+
+by type: bulk carrier 26, container ship 27, general cargo 94, oil tanker 251, other 441 (2021)
+
+Topic: Timor-Lestetotal: 1
+
+by type: other 1 (2021)
+
+Topic: Togototal: 411
+
+by type: bulk carrier 1, container ship 9, general cargo 265, oil tanker 56, other 80 (2021)
+
+Topic: Tongatotal: 32
+
+by type: container ship 4, general cargo 13, oil tanker 1, other 14 (2021)
+
+Topic: Trinidad and Tobagototal: 105
+
+by type: general cargo 1, other 104 (2021)
+
+Topic: Tunisiatotal: 71
+
+by type: container ship 1, general cargo 8 oil tanker 1, other 61 (2021)
+
+Topic: Turkeytotal: 1,217
+
+by type: bulk carrier 39, container ship 41, general cargo 317, oil tanker 126, other 694 (2021)
+
+Topic: Turkmenistantotal: 73
+
+by type: general cargo 6, oil tanker 8, other 59 (2021)
+
+Topic: Turks and Caicos Islandstotal: 3
+
+by type: general cargo 1, other 2 (2021)
+
+Topic: Tuvalutotal: 245
+
+by type: bulk carrier 22, container ship 3, general cargo 32, oil tanker 21, other 167 (2021)
+
+Topic: Ukrainetotal: 409
+
+by type: bulk carrier 1, container ship 1, general cargo 84, oil tanker 15, other 308 (2021)
+
+Topic: United Arab Emiratestotal: 623
+
+by type: bulk carrier 1, container ship 3, general cargo 117, oil tanker 19, other 483 (2021)
+
+Topic: United Kingdomtotal: 1,249
+
+by type: bulk carrier 140, container ship 59, general cargo 109, oil tanker 84, other 857 (2021)
+
+Topic: United Statestotal: 3,627
+
+by type: bulk carrier 4, container ship 60, general cargo 103, oil tanker 69, other 3,391 (2021)
+
+Topic: Uruguaytotal: 61
+
+by type: container ship 1, general cargo 4, oil tanker 4, other 52 (2021)
+
+Topic: Vanuatutotal: 306
+
+by type: bulk carrier 18, container ship 2, general cargo 55, oil tanker 2, other 229 (2021)
+
+Topic: Venezuelatotal: 281
+
+by type: bulk carrier 4, container ship 1, general cargo 26, oil tanker 18, other 232 (2021)
+
+Topic: Vietnamtotal: 1,926
+
+by type: bulk carrier 116, container ship 41, general cargo 1,193, oil tanker 125, other 451 (2021)
+
+Topic: Virgin Islandstotal: 1,868
+
+by type: bulk carrier 91, container ship 39, general cargo 1,205, oil tanker 118, other 415 (2019)
+
+Topic: Wallis and Futunatotal: 1
+
+by type: other 1 (2021)
+
+Topic: Worldtotal: 98,202
+
+by type: bulk carrier 12,319, container ship 5,428, general cargo 18,993, oil tanker 11,243, other 50,219 (2021)
+
+Topic: Yementotal: 34
+
+by type: general cargo 2, oil tanker 4, other 28 (2021)
+
+Topic: Zambiatotal: 2
+
+by type: general cargo 1, oil tanker 1 (2021)

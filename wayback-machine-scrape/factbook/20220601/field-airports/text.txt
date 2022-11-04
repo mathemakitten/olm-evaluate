@@ -1,0 +1,495 @@
+This entry gives the total number of airports or airfields recognizable from the air. The runway(s) may be paved (concrete or asphalt surfaces) or unpaved (grass, earth, sand, or gravel surfaces) and may include closed or abandoned installations. Airports or airfields that are no longer recognizable (overgrown, no facilities, etc.) are not included. Note that not all airports have accommodations for refueling, maintenance, or air traffic control.
+
+Topic: Afghanistantotal: 46 (2021)
+
+Topic: Akrotiritotal: 1 (2021)
+
+Topic: Albaniatotal: 3 (2021)
+
+Topic: Algeriatotal: 149 (2021)
+
+Topic: American Samoatotal: 3 (2021)
+
+Topic: Angolatotal: 102 (2021)
+
+Topic: Anguillatotal: 1 (2021)
+
+Topic: Antarcticatotal: 17 (2021)
+
+Topic: Antigua and Barbudatotal: 3 (2021)
+
+Topic: Argentinatotal: 916 (2021)
+
+Topic: Armeniatotal: 7 (2021)
+
+Topic: Arubatotal: 1 (2021)
+
+Topic: Australiatotal: 418 (2021)
+
+Topic: Austriatotal: 50 (2021)
+
+Topic: Azerbaijantotal: 23 (2021)
+
+Topic: Bahamas, Thetotal: 54 (2021)
+
+Topic: Bahraintotal: 4 (2021)
+
+Topic: Bangladeshtotal: 18 (2021)
+
+Topic: Barbadostotal: 1 (2021)
+
+Topic: Belarustotal: 65 (2021)
+
+Topic: Belgiumtotal: 41 (2021)
+
+Topic: Belizetotal: 47 (2021)
+
+Topic: Benintotal: 6 (2021)
+
+Topic: Bermudatotal: 1 (2021)
+
+Topic: Bhutantotal: 2 (2021)
+
+Topic: Boliviatotal: 855 (2021)
+
+Topic: Bosnia and Herzegovinatotal: 24 (2021)
+
+Topic: Botswanatotal: 74 (2021)
+
+Topic: Braziltotal: 4,093 (2021)
+
+Topic: British Indian Ocean Territorytotal: 1 (2021)
+
+Topic: British Virgin Islandstotal: 4 (2021)
+
+Topic: Bruneitotal: 1 (2021)
+
+Topic: Bulgariatotal: 68 (2021)
+
+Topic: Burkina Fasototal: 23 (2021)
+
+Topic: Burmatotal: 64 (2021)
+
+Topic: Burunditotal: 7 (2021)
+
+Topic: Cabo Verdetotal: 9 (2021)
+
+Topic: Cambodiatotal: 16 (2021)
+
+Topic: Cameroontotal: 33 (2021)
+
+Topic: Canadatotal: 1,467 (2021)
+
+Topic: Cayman Islandstotal: 3 (2021)
+
+Topic: Central African Republictotal: 39 (2021)
+
+Topic: Chadtotal: 59 (2021)
+
+Topic: Chiletotal: 481 (2021)
+
+Topic: Chinatotal: 507 (2021)
+
+Topic: Christmas Islandtotal: 1 (2021)
+
+Topic: Cocos (Keeling) Islandstotal: 1 (2021)
+
+Topic: Colombiatotal: 836 (2021)
+
+Topic: Comorostotal: 4 (2021)
+
+Topic: Congo, Democratic Republic of thetotal: 198 (2021)
+
+Topic: Congo, Republic of thetotal: 27 (2021)
+
+Topic: Cook Islandstotal: 11 (2021)
+
+Topic: Costa Ricatotal: 161 (2021)
+
+Topic: Cote d'Ivoiretotal: 27 (2021)
+
+Topic: Croatiatotal: 69 (2021)
+
+Topic: Cubatotal: 133 (2021)
+
+Topic: Curacaototal: 1 (2021)
+
+Topic: Cyprustotal: 15 (2021)
+
+Topic: Czechiatotal: 128 (2021)
+
+Topic: Denmarktotal: 80 (2021)
+
+Topic: Djiboutitotal: 13 (2021)
+
+Topic: Dominicatotal: 2 (2021)
+
+Topic: Dominican Republictotal: 36 (2021)
+
+Topic: Ecuadortotal: 432 (2021)
+
+Topic: Egypttotal: 83 (2021)
+
+Topic: El Salvadortotal: 68 (2021)
+
+Topic: Equatorial Guineatotal: 7 (2021)
+
+Topic: Eritreatotal: 13 (2021)
+
+Topic: Estoniatotal: 18 (2021)
+
+Topic: Eswatinitotal: 14 (2021)
+
+Topic: Ethiopiatotal: 57 (2021)
+
+Topic: Falkland Islands (Islas Malvinas)total: 7 (2021)
+
+Topic: Faroe Islandstotal: 1 (2021)
+
+Topic: Fijitotal: 28 (2021)
+
+Topic: Finlandtotal: 148 (2021)
+
+Topic: Francetotal: 464 (2021)
+
+Topic: French Polynesiatotal: 54 (2021)
+
+Topic: French Southern and Antarctic Landstotal: 4 (2021)
+
+Topic: Gabontotal: 44 (2021)
+
+Topic: Gambia, Thetotal: 1 (2021)
+
+Topic: Gaza Striptotal: 1 (2021)
+
+Topic: Georgiatotal: 22 (2021)
+
+Topic: Germanytotal: 539 (2021)
+
+Topic: Ghanatotal: 10 (2021)
+
+Topic: Gibraltartotal: 1 (2021)
+
+Topic: Greecetotal: 77 (2021)
+
+Topic: Greenlandtotal: 15 (2021)
+
+Topic: Grenadatotal: 3 (2021)
+
+Topic: Guamtotal: 5 (2021)
+
+Topic: Guatemalatotal: 291 (2021)
+
+Topic: Guernseytotal: 2 (2021)
+
+Topic: Guineatotal: 16 (2021)
+
+Topic: Guinea-Bissautotal: 8 (2021)
+
+Topic: Guyanatotal: 117 (2021)
+
+Topic: Haititotal: 14 (2021)
+
+Topic: Hondurastotal: 103 (2021)
+
+Topic: Hong Kongtotal: 2 (2021)
+
+Topic: Hungarytotal: 41 (2021)
+
+Topic: Icelandtotal: 96 (2021)
+
+Topic: Indiatotal: 346 (2021)
+
+Topic: Indonesiatotal: 673 (2021)
+
+Topic: Irantotal: 319 (2021)
+
+Topic: Iraqtotal: 102 (2021)
+
+Topic: Irelandtotal: 40 (2021)
+
+Topic: Isle of Mantotal: 1 (2021)
+
+Topic: Israeltotal: 42 (2021)
+
+Topic: Italytotal: 129 (2021)
+
+Topic: Jamaicatotal: 28 (2021)
+
+Topic: Jan Mayentotal: 1 (2021)
+
+Topic: Japantotal: 175 (2021)
+
+Topic: Jerseytotal: 1 (2021)
+
+Topic: Jordantotal: 18 (2021)
+
+Topic: Kazakhstantotal: 96 (2021)
+
+Topic: Kenyatotal: 197 (2021)
+
+Topic: Kiribatitotal: 19 (2021)
+
+Topic: Korea, Northtotal: 82 (2021)
+
+Topic: Korea, Southtotal: 111 (2021)
+
+Topic: Kosovototal: 6 (2021)
+
+Topic: Kuwaittotal: 7 (2021)
+
+Topic: Kyrgyzstantotal: 28 (2021)
+
+Topic: Laostotal: 41 (2021)
+
+Topic: Latviatotal: 42 (2021)
+
+Topic: Lebanontotal: 8 (2021)
+
+Topic: Lesothototal: 24 (2021)
+
+Topic: Liberiatotal: 29 (2021)
+
+Topic: Libyatotal: 146 (2021)
+
+Topic: Lithuaniatotal: 61 (2021)
+
+Topic: Luxembourgtotal: 2 (2021)
+
+Topic: Macautotal: 1 (2021)
+
+Topic: Madagascartotal: 83 (2021)
+
+Topic: Malawitotal: 32 (2021)
+
+Topic: Malaysiatotal: 114 (2021)
+
+Topic: Maldivestotal: 9 (2021)
+
+Topic: Malitotal: 25 (2021)
+
+Topic: Maltatotal: 1 (2021)
+
+Topic: Marshall Islandstotal: 15 (2021)
+
+Topic: Mauritaniatotal: 30 (2021)
+
+Topic: Mauritiustotal: 5 (2021)
+
+Topic: Mexicototal: 1,714 (2021)
+
+Topic: Micronesia, Federated States oftotal: 6 (2021)
+
+Topic: Moldovatotal: 7 (2021)
+
+Topic: Mongoliatotal: 44 (2021)
+
+Topic: Montenegrototal: 5 (2021)
+
+Topic: Montserrattotal: 1 (2021)
+
+Topic: Moroccototal: 62 (2021)
+
+Topic: Mozambiquetotal: 98 (2021)
+
+Topic: Namibiatotal: 112 (2021)
+
+Topic: Naurutotal: 1 (2021)
+
+Topic: Nepaltotal: 47 (2021)
+
+Topic: Netherlandstotal: 29 (2021)
+
+Topic: New Caledoniatotal: 25 (2021)
+
+Topic: New Zealandtotal: 123 (2021)
+
+Topic: Nicaraguatotal: 147 (2021)
+
+Topic: Nigertotal: 30 (2021)
+
+Topic: Nigeriatotal: 54 (2021)
+
+Topic: Niuetotal: 1 (2021)
+
+Topic: Norfolk Islandtotal: 1 (2021)
+
+Topic: North Macedoniatotal: 10 (2021)
+
+Topic: Northern Mariana Islandstotal: 5 (2021)
+
+Topic: Norwaytotal: 95 (2021)
+
+Topic: Omantotal: 132 (2021)
+
+Topic: Pakistantotal: 151 (2021)
+
+Topic: Palautotal: 3 (2021)
+
+Topic: Panamatotal: 117 (2021)
+
+Topic: Papua New Guineatotal: 561 (2021)
+
+Topic: Paracel Islandstotal: 1 (2021)
+
+Topic: Paraguaytotal: 799 (2021)
+
+Topic: Perutotal: 191 (2021)
+
+Topic: Philippinestotal: 247 (2021)
+
+Topic: Polandtotal: 126 (2021)
+
+Topic: Portugaltotal: 64 (2021)
+
+Topic: Puerto Ricototal: 29 (2021)
+
+Topic: Qatartotal: 6 (2021)
+
+Topic: Romaniatotal: 45 (2021)
+
+Topic: Russiatotal: 1,218 (2021)
+
+Topic: Rwandatotal: 7 (2021)
+
+Topic: Saint Barthelemytotal: 1 (2021)
+
+Topic: Saint Helena, Ascension, and Tristan da Cunhatotal: 2 (2021)
+
+Topic: Saint Kitts and Nevistotal: 2 (2021)
+
+Topic: Saint Luciatotal: 2 (2021)
+
+Topic: Saint Martintotal: 1 (2021)
+
+Topic: Saint Pierre and Miquelontotal: 2 (2021)
+
+Topic: Saint Vincent and the Grenadinestotal: 6 (2021)
+
+Topic: Samoatotal: 4 (2021)
+
+Topic: Sao Tome and Principetotal: 2 (2021)
+
+Topic: Saudi Arabiatotal: 214 (2021)
+
+Topic: Senegaltotal: 20 (2021)
+
+Topic: Serbiatotal: 26 (2021)
+
+Topic: Seychellestotal: 14 (2021)
+
+Topic: Sierra Leonetotal: 8 (2021)
+
+Topic: Singaporetotal: 9 (2021)
+
+Topic: Sint Maartentotal: 1 (2021)
+
+Topic: Slovakiatotal: 35 (2021)
+
+Topic: Sloveniatotal: 16 (2021)
+
+Topic: Solomon Islandstotal: 36 (2021)
+
+Topic: Somaliatotal: 52 (2021)
+
+Topic: South Africatotal: 407 (2021)
+
+Topic: South Sudantotal: 89 (2021)
+
+Topic: Spaintotal: 135 (2021)
+
+Topic: Spratly Islandstotal: 8 (2021)
+
+Topic: Sri Lankatotal: 18 (2021)
+
+Topic: Sudantotal: 67 (2021)
+
+Topic: Surinametotal: 55 (2021)
+
+Topic: Svalbardtotal: 4 (2021)
+
+Topic: Swedentotal: 231 (2021)
+
+Topic: Switzerlandtotal: 63 (2021)
+
+Topic: Syriatotal: 90 (2021)
+
+Topic: Taiwantotal: 37 (2021)
+
+Topic: Tajikistantotal: 24 (2021)
+
+Topic: Tanzaniatotal: 166 (2021)
+
+Topic: Thailandtotal: 101 (2021)
+
+Topic: Timor-Lestetotal: 6 (2021)
+
+Topic: Togototal: 8 (2021)
+
+Topic: Tongatotal: 6 (2021)
+
+Topic: Trinidad and Tobagototal: 4 (2021)
+
+Topic: Tunisiatotal: 29 (2021)
+
+Topic: Turkeytotal: 98 (2021)
+
+Topic: Turkmenistantotal: 26 (2021)
+
+Topic: Turks and Caicos Islandstotal: 8 (2021)
+
+Topic: Tuvalutotal: 1 (2021)
+
+Topic: Ugandatotal: 47 (2021)
+
+Topic: Ukrainetotal: 215 (2021)
+
+Topic: United Arab Emiratestotal: 43 (2021)
+
+Topic: United Kingdomtotal: 460 (2021)
+
+Topic: United Statestotal: 13,513 (2021)
+
+Topic: United States Pacific Island Wildlife RefugesBaker Island: (2013) one abandoned World War II runway of 1,665 m covered with vegetation and unusable
+
+Howland Island: (2013) airstrip constructed in 1937 for scheduled refueling stop on the round-the-world flight of Amelia EARHART and Fred NOONAN; the aviators left Lae, New Guinea, for Howland Island but were never seen again; the airstrip is no longer serviceable
+
+Johnston Atoll: (2013) one closed and not maintained
+
+Kingman Reef: (2013) lagoon was used as a halfway station between Hawaii and American Samoa by Pan American Airways for flying boats in 1937 and 1938
+
+Midway Islands: (2013) 3 - one operational (2,377 m paved); no fuel for sale except emergencies
+
+Palmyra Atoll: (2013) 1 - 1,846 m unpaved runway; privately owned
+
+Topic: Uruguaytotal: 133 (2021)
+
+Topic: Uzbekistantotal: 53 (2021)
+
+Topic: Vanuatutotal: 31 (2021)
+
+Topic: Venezuelatotal: 444 (2021)
+
+Topic: Vietnamtotal: 45 (2021)
+
+Topic: Virgin Islandstotal: 2 (2021)
+
+Topic: Wake Islandtotal: 1 (2021)
+
+Topic: Wallis and Futunatotal: 2 (2021)
+
+Topic: West Banktotal: 2 (2021)
+
+Topic: Worldtotal: 41,820 (2021)
+
+top ten by passengers (2020): Guangzhou (CAN) 43,767,558; Atlanta (ATL) - 42,918,685; Chengdu (CTU) 40,741,509; Dallas/Fort Worth, TX (DFW) 39,364,990; Shenzhen (SZX) 37,916,054; Beijing (PEK) - 34,513,827; Denver, CO (DEN) 33,741,129; Kunming (KMG) 32,990,805; Shanghai (PVG) 31,165,641; Xi'an (XIY)  31,073,924 (2020)
+
+top ten by passengers (2019): Atlanta (ATL) 110,531,300; Beijing (PEK) - 100,011,438; Los Angeles, CA (LAX) 88,068,013; Dubai, UAE (DXB) 86,396,757; Tokyo (HND) 85,505,054; Chicago (ORD) 84,649,115; London (LHR) 80,888,305; Shanghai (PVG) 76,153,455; Paris (CDG) 76,150,009; Dallas/Fort Worth, TX (DFW) 75,066,956; note - 2019 numbers included to allow for a comparison with the effects of COVID-19 restrictions on international air travel in 2020 
+
+top ten by cargo (metric tons): Memphis, TN (MEM) - 4,613,431; Hong Kong (HKG) - 4,468,089; Shanghai (PVG) - 3,686,627; Anchorage, AK (ANC) - 3,157,682; Louisville, KY (SDF) - 2,917,243; Incheon (ICN) - 2,822,370; Taipei (TPE) - 2,342,714; Los Angeles, CA (LAX) 2,229,476; Doha, Qatar (DOH) 2,175,292; Miami, FL (MIA) 2,137,699 (2020)
+
+Topic: Yementotal: 57 (2021)
+
+Topic: Zambiatotal: 88 (2021)
+
+Topic: Zimbabwetotal: 196 (2021)

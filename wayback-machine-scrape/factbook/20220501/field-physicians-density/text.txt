@@ -1,0 +1,403 @@
+This entry gives the number of medical doctors (physicians), including generalist and specialist medical practitioners, per 1,000 of the population. Medical doctors are defined as doctors that study, diagnose, treat, and prevent illness, disease, injury, and other physical and mental impairments in humans through the application of modern medicine. They also plan, supervise, and evaluate care and treatment plans by other health care providers. The World Health Organization estimates that fewer than 2.3 health workers (physicians, nurses, and midwives only) per 1,000 would be insufficient to achieve coverage of primary healthcare needs.
+
+Topic: Afghanistan0.28 physicians/1,000 population (2016)
+
+Topic: Albania1.22 physicians/1,000 population (2016)
+
+Topic: Algeria1.72 physicians/1,000 population (2018)
+
+Topic: Andorra3.33 physicians/1,000 population (2015)
+
+Topic: Angola0.22 physicians/1,000 population (2017)
+
+Topic: Antigua and Barbuda2.96 physicians/1,000 population (2017)
+
+Topic: Argentina3.99 physicians/1,000 population (2017)
+
+Topic: Armenia4.4 physicians/1,000 population (2017)
+
+Topic: Australia3.68 physicians/1,000 population (2017)
+
+Topic: Austria5.17 physicians/1,000 population (2017)
+
+Topic: Azerbaijan3.45 physicians/1,000 population (2014)
+
+Topic: Bahamas, The2.01 physicians/1,000 population (2017)
+
+Topic: Bahrain0.93 physicians/1,000 population (2015)
+
+Topic: Bangladesh0.58 physicians/1,000 population (2018)
+
+Topic: Barbados2.48 physicians/1,000 population (2017)
+
+Topic: Belarus5.19 physicians/1,000 population (2015)
+
+Topic: Belgium3.07 physicians/1,000 population (2017)
+
+Topic: Belize1.12 physicians/1,000 population (2017)
+
+Topic: Benin0.08 physicians/1,000 population (2018)
+
+Topic: Bhutan0.42 physicians/1,000 population (2018)
+
+Topic: Bolivia1.59 physicians/1,000 population (2016)
+
+Topic: Bosnia and Herzegovina2.16 physicians/1,000 population (2015)
+
+Topic: Botswana0.53 physicians/1,000 population (2016)
+
+Topic: Brazil2.16 physicians/1,000 population (2018)
+
+Topic: Brunei1.61 physicians/1,000 population (2017)
+
+Topic: Bulgaria4.03 physicians/1,000 population (2015)
+
+Topic: Burkina Faso0.09 physicians/1,000 population (2017)
+
+Topic: Burma0.68 physicians/1,000 population (2018)
+
+Topic: Burundi0.1 physicians/1,000 population (2017)
+
+Topic: Cabo Verde0.78 physicians/1,000 population (2015)
+
+Topic: Cambodia0.19 physicians/1,000 population (2014)
+
+Topic: Cameroon0.09 physicians/1,000 population (2011)
+
+Topic: Canada2.31 physicians/1,000 population (2016)
+
+Topic: Central African Republic0.07 physicians/1,000 population (2015)
+
+Topic: Chad0.04 physicians/1,000 population (2017)
+
+Topic: Chile2.59 physicians/1,000 population (2018)
+
+Topic: China1.98 physicians/1,000 population (2017)
+
+Topic: Colombia2.19 physicians/1,000 population (2018)
+
+Topic: Comoros0.27 physicians/1,000 population (2016)
+
+Topic: Congo, Democratic Republic of the0.07 physicians/1,000 population (2016)
+
+Topic: Congo, Republic of the0.17 physicians/1,000 population (2011)
+
+Topic: Cook Islands1.41 physicians/1,000 population (2014)
+
+Topic: Costa Rica2.89 physicians/1,000 population (2018)
+
+Topic: Cote d'Ivoire0.23 physicians/1,000 population (2014)
+
+Topic: Croatia3 physicians/1,000 population (2016)
+
+Topic: Cuba8.42 physicians/1,000 population (2018)
+
+Topic: Cyprus1.95 physicians/1,000 population (2016)
+
+Topic: Czechia4.12 physicians/1,000 population (2018)
+
+Topic: Denmark4.01 physicians/1,000 population (2016)
+
+Topic: Djibouti0.22 physicians/1,000 population (2014)
+
+Topic: Dominica1.12 physicians/1,000 population (2017)
+
+Topic: Dominican Republic1.53 physicians/1,000 population (2011)
+
+Topic: Ecuador2.04 physicians/1,000 population (2016)
+
+Topic: Egypt0.45 physicians/1,000 population (2018)
+
+Topic: El Salvador1.57 physicians/1,000 population (2016)
+
+Topic: Equatorial Guinea0.4 physicians/1,000 population (2017)
+
+Topic: Eritrea0.06 physicians/1,000 population (2016)
+
+Topic: Estonia4.48 physicians/1,000 population (2018)
+
+Topic: Eswatini0.33 physicians/1,000 population (2016)
+
+Topic: Ethiopia0.08 physicians/1,000 population (2018)
+
+Topic: Faroe Islands2.62 physicians/1,000 population (2016)
+
+Topic: Fiji0.86 physicians/1,000 population (2015)
+
+Topic: Finland3.81 physicians/1,000 population (2016)
+
+Topic: France3.27 physicians/1,000 population (2018)
+
+Topic: French Polynesia2.13 physicians/1,000 population (2009)
+
+Topic: Gabon0.68 physicians/1,000 population (2017)
+
+Topic: Gambia, The0.1 physicians/1,000 population (2015)
+
+Topic: Gaza Strip2.77 physicians/1,000 population (2018)
+
+Topic: Georgia7.12 physicians/1,000 population (2018)
+
+Topic: Germany4.25 physicians/1,000 population (2017)
+
+Topic: Ghana0.14 physicians/1,000 population (2017)
+
+Topic: Greece5.48 physicians/1,000 population (2017)
+
+Topic: Greenland1.87 physicians/1,000 population (2016)
+
+Topic: Grenada1.41 physicians/1,000 population (2017)
+
+Topic: Guatemala0.36 physicians/1,000 population (2018)
+
+Topic: Guinea0.08 physicians/1,000 population (2016)
+
+Topic: Guinea-Bissau0.13 physicians/1,000 population (2016)
+
+Topic: Guyana0.8 physicians/1,000 population (2018)
+
+Topic: Haiti0.23 physicians/1,000 population (2018)
+
+Topic: Honduras0.31 physicians/1,000 population (2017)
+
+Topic: Hong Kong2 physicians/1,000 population (2019)
+
+Topic: Hungary3.41 physicians/1,000 population (2018)
+
+Topic: Iceland4.08 physicians/1,000 population (2018)
+
+Topic: India0.86 physicians/1,000 population (2018)
+
+Topic: Indonesia0.43 physicians/1,000 population (2018)
+
+Topic: Iran1.58 physicians/1,000 population (2018)
+
+Topic: Iraq0.71 physicians/1,000 population (2018)
+
+Topic: Ireland3.31 physicians/1,000 population (2018)
+
+Topic: Israel4.63 physicians/1,000 population (2018)
+
+Topic: Italy3.98 physicians/1,000 population (2018)
+
+Topic: Jamaica1.31 physicians/1,000 population (2017)
+
+Topic: Japan2.41 physicians/1,000 population (2016)
+
+Topic: Jordan2.32 physicians/1,000 population (2017)
+
+Topic: Kazakhstan3.98 physicians/1,000 population (2014)
+
+Topic: Kenya0.16 physicians/1,000 population (2018)
+
+Topic: Kiribati0.2 physicians/1,000 population (2013)
+
+Topic: Korea, North3.68 physicians/1,000 population (2017)
+
+Topic: Korea, South2.36 physicians/1,000 population (2017)
+
+Topic: Kuwait2.65 physicians/1,000 population (2015)
+
+Topic: Kyrgyzstan2.21 physicians/1,000 population (2014)
+
+Topic: Laos0.37 physicians/1,000 population (2017)
+
+Topic: Latvia3.19 physicians/1,000 population (2017)
+
+Topic: Lebanon2.1 physicians/1,000 population (2018)
+
+Topic: Lesotho0.07 physicians/1,000 population
+
+Topic: Liberia0.04 physicians/1,000 population (2015)
+
+Topic: Libya2.09 physicians/1,000 population (2017)
+
+Topic: Lithuania6.35 physicians/1,000 population (2018)
+
+Topic: Luxembourg3.01 physicians/1,000 population (2017)
+
+Topic: Macau2.41 physicians/1,000 population (2010)
+
+Topic: Madagascar0.18 physicians/1,000 population (2014)
+
+Topic: Malawi0.04 physicians/1,000 population (2018)
+
+Topic: Malaysia1.54 physicians/1,000 population (2015)
+
+Topic: Maldives4.56 physicians/1,000 population (2018)
+
+Topic: Mali0.13 physicians/1,000 population (2018)
+
+Topic: Malta2.86 physicians/1,000 population (2015)
+
+Topic: Marshall Islands0.42 physicians/1,000 population (2012)
+
+Topic: Mauritania0.19 physicians/1,000 population (2018)
+
+Topic: Mauritius2.6 physicians/1,000 population (2019)
+
+Topic: Mexico2.38 physicians/1,000 population (2017)
+
+Topic: Moldova3.21 physicians/1,000 population (2017)
+
+Topic: Monaco7.51 physicians/1,000 population (2014)
+
+Topic: Mongolia2.86 physicians/1,000 population (2016)
+
+Topic: Montenegro2.76 physicians/1,000 population (2018)
+
+Topic: Morocco0.73 physicians/1,000 population (2017)
+
+note: does not include data from the former Western Sahara
+
+Topic: Mozambique0.08 physicians/1,000 population (2018)
+
+Topic: Namibia0.42 physicians/1,000 population (2018)
+
+Topic: Nauru1.35 physicians/1,000 population (2015)
+
+Topic: Nepal0.75 physicians/1,000 population (2018)
+
+Topic: Netherlands3.61 physicians/1,000 population (2017)
+
+Topic: New Caledonia2.22 physicians/1,000 population (2009)
+
+Topic: New Zealand3.59 physicians/1,000 population (2018)
+
+Topic: Nicaragua0.98 physicians/1,000 population (2018)
+
+Topic: Niger0.04 physicians/1,000 population (2016)
+
+Topic: Nigeria0.38 physicians/1,000 population (2018)
+
+Topic: North Macedonia2.87 physicians/1,000 population (2015)
+
+Topic: Norway2.92 physicians/1,000 population (2018)
+
+Topic: Oman2 physicians/1,000 population (2018)
+
+Topic: Pakistan0.98 physicians/1,000 population (2018)
+
+Topic: Palau1.42 physicians/1,000 population (2014)
+
+Topic: Panama1.57 physicians/1,000 population (2016)
+
+Topic: Papua New Guinea0.07 physicians/1,000 population (2018)
+
+Topic: Paraguay1.35 physicians/1,000 population (2018)
+
+Topic: Peru1.3 physicians/1,000 population (2016)
+
+Topic: Philippines0.6 physicians/1,000 population (2017)
+
+Topic: Poland2.38 physicians/1,000 population (2017)
+
+Topic: Portugal5.12 physicians/1,000 population (2017)
+
+Topic: Puerto Rico3.06 physicians/1,000 population (2018)
+
+Topic: Qatar2.49 physicians/1,000 population (2018)
+
+Topic: Romania2.98 physicians/1,000 population (2017)
+
+Topic: Russia3.75 physicians/1,000 population (2015)
+
+Topic: Rwanda0.13 physicians/1,000 population (2018)
+
+Topic: Saint Kitts and Nevis2.68 physicians/1,000 population (2015)
+
+Topic: Saint Lucia0.64 physicians/1,000 population (2017)
+
+Topic: Saint Vincent and the Grenadines0.66 physicians/1,000 population
+
+Topic: Samoa0.35 physicians/1,000 population (2016)
+
+Topic: San Marino6.11 physicians/1,000 population (2014)
+
+Topic: Sao Tome and Principe0.05 physicians/1,000 population (2017)
+
+Topic: Saudi Arabia2.61 physicians/1,000 population (2018)
+
+Topic: Senegal0.07 physicians/1,000 population (2017)
+
+Topic: Serbia3.11 physicians/1,000 population (2016)
+
+Topic: Seychelles2.12 physicians/1,000 population (2016)
+
+Topic: Sierra Leone0.03 physicians/1,000 population (2011)
+
+Topic: Singapore2.29 physicians/1,000 population (2016)
+
+Topic: Slovakia3.42 physicians/1,000 population (2017)
+
+Topic: Slovenia3.09 physicians/1,000 population (2017)
+
+Topic: Solomon Islands0.19 physicians/1,000 population (2016)
+
+Topic: Somalia0.02 physicians/1,000 population (2014)
+
+Topic: South Africa0.91 physicians/1,000 population (2017)
+
+Topic: Spain3.87 physicians/1,000 population (2017)
+
+Topic: Sri Lanka1 physicians/1,000 population (2018)
+
+Topic: Sudan0.26 physicians/1,000 population (2017)
+
+Topic: Suriname1.21 physicians/1,000 population (2018)
+
+Topic: Sweden3.98 physicians/1,000 population (2016)
+
+Topic: Switzerland4.3 physicians/1,000 population (2017)
+
+Topic: Syria1.29 physicians/1,000 population (2016)
+
+Topic: Tajikistan2.1 physicians/1,000 population (2014)
+
+Topic: Tanzania0.01 physicians/1,000 population (2016)
+
+Topic: Thailand0.81 physicians/1,000 population (2018)
+
+Topic: Timor-Leste0.72 physicians/1,000 population (2018)
+
+Topic: Togo0.08 physicians/1,000 population (2018)
+
+Topic: Tokelau2.72 physicians/1,000 population (2010)
+
+Topic: Tonga0.54 physicians/1,000 population (2013)
+
+Topic: Trinidad and Tobago4.17 physicians/1,000 population (2018)
+
+Topic: Tunisia1.3 physicians/1,000 population (2017)
+
+Topic: Turkey1.85 physicians/1,000 population (2017)
+
+Topic: Turkmenistan2.23 physicians/1,000 population (2014)
+
+Topic: Tuvalu0.91 physicians/1,000 population (2014)
+
+Topic: Uganda0.17 physicians/1,000 population (2017)
+
+Topic: Ukraine2.99 physicians/1,000 population (2014)
+
+Topic: United Arab Emirates2.53 physicians/1,000 population (2018)
+
+Topic: United Kingdom2.81 physicians/1,000 population (2018)
+
+Topic: United States2.61 physicians/1,000 population (2017)
+
+Topic: Uruguay5.08 physicians/1,000 population (2017)
+
+Topic: Uzbekistan2.37 physicians/1,000 population (2014)
+
+Topic: Vanuatu0.17 physicians/1,000 population (2016)
+
+Topic: Vietnam0.83 physicians/1,000 population (2016)
+
+Topic: West Bank1.45 physicians/1,000 population (2017)
+
+Topic: Yemen0.53 physicians/1,000 population (2014)
+
+Topic: Zambia1.19 physicians/1,000 population (2018)
+
+Topic: Zimbabwe0.21 physicians/1,000 population (2018)

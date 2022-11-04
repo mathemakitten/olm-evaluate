@@ -1,0 +1,455 @@
+This entry provides a rank ordering of trading partners starting with the most important; it sometimes includes the percent of total dollar value.
+
+Topic: AfghanistanUnited Arab Emirates 45%, Pakistan 24%, India 22%, China 1% (2019)
+
+Topic: AlbaniaItaly 45%, Spain 8%, Germany 6%, Greece 5%, France 4%, China 4% (2019)
+
+Topic: AlgeriaItaly 13%, France 13%, Spain 12%, United States 7%, United Kingdom 7%, India 5%, South Korea 5% (2019)
+
+Topic: American SamoaAustralia 25%, Ghana 19%, Indonesia 15.6%, Burma 10.4%, Portugal 5.1% (2017)
+
+Topic: AndorraSpain 40%, France 19%, United States 11%, Mauritania 5% (2019)
+
+Topic: AngolaChina 62%, India 10%, United Arab Emirates 4%, Portugal 3%, Spain 3% (2019)
+
+Topic: Antigua and BarbudaPoland 37%, Suriname 33%, United Arab Emirates 8% (2019)
+
+Topic: ArgentinaBrazil 16%, China 11%, United States 7%, Chile 5% (2019)
+
+Topic: ArmeniaRussia 22%, Switzerland 20%, China 7%, Bulgaria 6%, Iraq 5%, Serbia 5%, Netherlands 5%, Germany 5% (2019)
+
+Topic: ArubaMalaysia 57%, United States 11%, Netherlands 6%, Jordan 6%, Venezuela 5% (2019)
+
+Topic: AustraliaChina 39%, Japan 15%, South Korea 7%, India 5% (2019)
+
+Topic: AustriaGermany 28%, United States 7%, Italy 6%, Switzerland 5% (2019)
+
+Topic: AzerbaijanItaly 28%, Turkey 15%, Israel 7%, Germany 5%, India 5% (2017)
+
+Topic: Bahamas, ThePoland 32%, United States 17%, Ecuador 9%, China 6%, Japan 5% (2019)
+
+Topic: BahrainUnited Arab Emirates 31%, Saudi Arabia 12%, Japan 8%, United States 8% (2019)
+
+Topic: BangladeshUnited States 15%, Germany 14%, United Kingdom 8%, Spain 7%, France 7% (2019)
+
+Topic: BarbadosUS 21%, Poland 14%, Jamaica 8%, Guyana 6%,Trinidad and Tobago 6% (2019)
+
+Topic: BelarusRussia 42%, Ukraine 13%, United Kingdom 7% (2019)
+
+Topic: BelgiumGermany 17%, France 14%, Netherlands 13%, United Kingdom 8%, United States 6%, Italy 5% (2019)
+
+Topic: BelizeUnited Kingdom 27%, United States 24%, Spain 6%, Jamaica 5%, Ireland 5% (2019)
+
+Topic: BeninNigeria 25%, Bangladesh 14%, United Arab Emirates 14%, India 13%, China 8%, Vietnam 5% (2019)
+
+Topic: BermudaJamaica 49.1%, Luxembourg 36.1%, US 4.9% (2017)
+
+Topic: BhutanIndia 94% (2019)
+
+Topic: BoliviaArgentina 16%, Brazil 15%, United Arab Emirates 12%, India 10%, United States 6%, South Korea 5%, Peru 5%, Colombia 5% (2019)
+
+Topic: Bosnia and HerzegovinaGermany 14%, Italy 12%, Croatia 11%, Serbia 11%, Austria 9%, Slovenia 8% (2019)
+
+Topic: BotswanaIndia 21%, Belgium 19%, United Arab Emirates 19%, South Africa 9%, Israel 7%, Hong Kong 6%, Singapore 5% (2019)
+
+Topic: BrazilChina 28%, United States 13% (2019)
+
+Topic: British Virgin IslandsMalta 30%, Seychelles 29%, Switzerland 14% (2019)
+
+Topic: BruneiJapan 34%, Australia 12%, Singapore 10%, India 8%, Malaysia 8%, Thailand 7%, China 6%, South Korea 5% (2019)
+
+Topic: BulgariaGermany 16%, Romania 8%, Italy 7%, Turkey 7%, Greece 6% (2019)
+
+Topic: Burkina FasoSwitzerland 59%, India 21% (2019)
+
+Topic: BurmaChina 24%, Thailand 24%, Japan 7%, Germany 5% (2019)
+
+Topic: BurundiUnited Arab Emirates 50%, Democratic Republic of the Congo 7% (2019)
+
+Topic: Cabo VerdeSpain 65%, Portugal 14%, Italy 8% (2019)
+
+Topic: CambodiaUnited States 21%, Singapore 8%, Thailand 8%, Germany 7%, Japan 6%, China 5%, Canada 5%, United Kingdom 5% (2019)
+
+Topic: CameroonChina 17%, Netherlands 14%, Italy 9%, United Arab Emirates 8%, India 7%, United States 6%, Belgium 6%, Spain 5%, France 5% (2019)
+
+Topic: CanadaUS 73% (2019)
+
+Topic: Cayman IslandsNetherlands 82%, Spain 11% (2019)
+
+Topic: Central African RepublicChina 41%, United Arab Emirates 19%, France 7% (2019)
+
+Topic: ChadChina 32%, United Arab Emirates 21%, India 19%, United States 10%, France 6%, Germany 5% (2019)
+
+Topic: ChileChina 32%, United States 14%, Japan 9%, South Korea 7% (2019)
+
+Topic: ChinaUnited States 17%, Hong Kong 10%, Japan 6% (2019)
+
+Topic: Christmas IslandMalaysia 36%, New Zealand 21%, Indonesia 20%, Australia 10% (2019)
+
+Topic: Cocos (Keeling) IslandsUnited States 57%, Ireland 15% (2019)
+
+Topic: ColombiaUnited States 31%, China 11%, Panama 6%, Ecuador 5% (2019)
+
+Topic: ComorosFrance 32%, India 23%, Germany 10%, Turkey 9%, Madagascar 7% (2019)
+
+Topic: Congo, Democratic Republic of theChina 53%, United Arab Emirates 11%, Saudi Arabia 6%, South Korea 5% (2019)
+
+Topic: Congo, Republic of theChina 49%, United Arab Emirates 15%, India 6%, Italy 5% (2019)
+
+Topic: Cook IslandsJapan 37%, Thailand 21%, France 17% (2019)
+
+Topic: Costa RicaUnited States 38%, Netherlands 6%, Belgium 5%, Guatemala 5%, Panama 5% (2019)
+
+Topic: Cote d'IvoireNetherlands 10%, United States 6%, France 6%, Spain 5%, Malaysia 5%, Switzerland 5%, Germany 5%, Vietnam 5% (2019)
+
+Topic: CroatiaItaly 13%, Germany 13%, Slovenia 10%, Bosnia and Herzegovina 9%, Austria 6%, Serbia 5% (2019)
+
+Topic: CubaChina 38%, Spain 11%, Netherlands 5%, Germany 5% (2019)
+
+Topic: CuracaoSwitzerland 27%, United States 17%, Spain 14%, Ecuador 7%, India 7%, Antigua and Barbuda 5% (2019)
+
+Topic: CyprusIndia 9%, Greece 9%, Libya 8%, United Kingdom 7% (2019)
+
+Topic: CzechiaGermany 31%, Slovakia 7%, Poland 6%, France 5% (2019)
+
+Topic: DenmarkGermany 14%, United States 11%, Sweden 10%, United Kingdom 7%, Norway 6%, Netherlands 5%, China 5% (2019)
+
+Topic: DjiboutiSaudi Arabia 42%, India 15%, China 14%, Egypt 5%, South Korea 5% (2019)
+
+Topic: DominicaSaudi Arabia 47%, Qatar 5% (2019)
+
+Topic: Dominican RepublicUnited States 54%, Switzerland 8%, Canada 5%, India 5%, China 5% (2019)
+
+Topic: EcuadorUnited States 30%, China 13%, Panama 8%, Chile 7% (2019)
+
+Topic: EgyptUnited States 9%, United Arab Emirates 6%, Italy 6%, Turkey 6%, Saudi Arabia 6%, India 5% (2019)
+
+Topic: El SalvadorUnited States 40%, Guatemala 15%, Honduras 15%, Nicaragua 6% (2019)
+
+Topic: Equatorial GuineaChina 34%, India 19%, Spain 11%, United States 7% (2019)
+
+Topic: EritreaChina 62%, South Korea 28.3% (2017)
+
+Topic: EstoniaFinland 13%, Sweden 9%, Latvia 8%, Russia 8%, United States 7%, Lithuania 6%, Germany 6% (2019)
+
+Topic: EswatiniSouth Africa 94% (2017)
+
+Topic: EthiopiaChina 17%, United States 16%, United Arab Emirates 8%, Saudi Arabia 6%, South Korea 5%, Germany 5% (2019)
+
+Topic: European UnionUnited States 20.7%, China 9.6%, Switzerland 8.1%, Turkey 4.4%, Russia 4.1% (2016 est.)
+
+Topic: Falkland Islands (Islas Malvinas)Spain 78%, United States 6% (2019)
+
+Topic: Faroe IslandsRussia 26.4%, UK 14.1%, Germany 8.4%, China 7.9%, Spain 6.8%, Denmark 6.2%, US 4.7%, Poland 4.4%, Norway 4.1% (2017)
+
+Topic: FijiUnited States 29%, Australia 14%, New Zealand 7%, Japan 6%, Tonga 6% (2019)
+
+Topic: FinlandGermany 14%, Sweden 10%, United States 8%, Netherlands 6%, China 6%, Russia 5% (2019)
+
+Topic: FranceGermany 14%, United States 8%, Italy 7%, Spain 7%, Belgium 7%, United Kingdom 7% (2019)
+
+Topic: French PolynesiaJapan 23.1%, Hong Kong 21.5%, Kyrgyzstan 15.9%, US 15.9%, France 12.4% (2017)
+
+Topic: GabonChina 63%, Singapore 5% (2019)
+
+Topic: Gambia, TheChina 38%, India 22%, Mali 7%, Chile 5% (2017)
+
+Topic: GeorgiaRussia 12%, Azerbaijan 12%, Armenia 9%, Bulgaria 8%, China 6%, Turkey 6%, Ukraine 6% (2019)
+
+Topic: GermanyUnited States 9%, France 8%, China 7%, Netherlands 6%, United Kingdom 6%, Italy 5%, Poland 5%, Austria 5% (2019)
+
+Topic: GhanaSwitzerland 23%, India 17%, China 12%, United Arab Emirates 8%, South Africa 8% (2019)
+
+Topic: GibraltarPoland 31%, Netherlands 27%, France 11%, Germany 8%, United States 6% (2019)
+
+Topic: GreeceItaly 10%, Germany 7%, Turkey 5%, Cyprus 5%, Bulgaria 5% (2019)
+
+Topic: GreenlandDenmark 55%, China 22%, Japan 6% (2019)
+
+Topic: GrenadaUnited States 40%, Saint Vincent and the Grenadines 7%, Saint Lucia 7%, France 6%, Netherlands 5%, Germany 5%, Ireland 5%, Antigua and Barbuda 5% (2019)
+
+Topic: GuamSouth Korea 31%, Hong Kong 27%, Taiwan 18%, Philippines 7% (2019)
+
+Topic: GuatemalaUnited States 33%, El Salvador 12%, Honduras 8%, Mexico 5%, Nicaragua 5% (2019)
+
+Topic: GuineaUnited Arab Emirates 39%, China 36%, India 6% (2019)
+
+Topic: Guinea-BissauIndia 50%, Belgium 28%, Cote d'Ivoire 8% (2019)
+
+Topic: GuyanaTrinidad and Tobago 31%, Canada 11%, Portugal 11%, Ghana 8%, Norway 6%, United Arab Emirates 5% (2019)
+
+Topic: HaitiUnited States 81%, Canada 7% (2019)
+
+Topic: HondurasUnited States 53%, El Salvador 8%, Guatemala 5%, Nicaragua 5% (2019)
+
+Topic: Hong KongChina 23%, India 14%, Netherlands 6%, United Kingdom 5% (2019)
+
+Topic: HungaryGermany 27%, Romania 5%, Italy 5%, Slovakia 5% (2019)
+
+Topic: IcelandNetherlands 23%, United Kingdom 9%, Germany 9%, Spain 8%, United States 7%, France 7%, Canada 5% (2019)
+
+Topic: IndiaUnited States 17%, United Arab Emirates 9%, China 5% (2019)
+
+Topic: IndonesiaChina 15%, United States 10%, Japan 9%, Singapore 8%, India 7%, Malaysia 5% (2019)
+
+Topic: IranChina 48%, India 12%, South Korea 8%, Turkey 6%, United Arab Emirates 5% (2019)
+
+Topic: IraqChina 26%, India 24%, South Korea 9%, United States 8%, Italy 6%, Greece 6% (2019)
+
+Topic: IrelandUnited States 28%, Belgium 10%, Germany 10%, UK 9%, China 5%, Netherlands 5% (2019)
+
+Topic: IsraelUnited States 26%, China 9%, United Kingdom 7% (2020)
+
+Topic: ItalyGermany 12%, France 11%, United States 10%, United Kingdom 5%, Spain 5%, Switzerland 5% (2019)
+
+Topic: JamaicaUnited States 32%, Netherlands 11%, Germany 9%, Canada 7%, Iceland 7% (2019)
+
+Topic: JapanUnited States 19%, China 18%, South Korea 6%, Taiwan 6% (2019)
+
+Topic: JordanUnited States 21%, Saudi Arabia 13%, India 8%, Iraq 7%, United Arab Emirates 5%, China 5% (2019)
+
+Topic: KazakhstanChina 13%, Italy 12%, Russia 10%, Netherlands 7%, France 6%, South Korea 5% (2019)
+
+Topic: KenyaUganda 10%, United States 9%, Netherlands 8%, Pakistan 7%, United Kingdom 6%, United Arab Emirates 6%, Tanzania 5% (2019)
+
+Topic: KiribatiThailand 53%, Philippines 17%, South Korea 10%, Japan 9% (2019)
+
+Topic: Korea, NorthChina 67%, Suriname 6% (2019)
+
+Topic: Korea, SouthChina 25%, United States 14%, Vietnam 9%, Hong Kong 6%, Japan 5% (2019)
+
+Topic: KosovoAlbania 16%, India 14%, North Macedonia 12.1%, Serbia 10.6%, Switzerland 5.6%, Germany 5.4% (2017)
+
+Topic: KuwaitChina 20%, South Korea 16%, India 15%, Japan 10%, Taiwan 6%, Vietnam 5% (2019)
+
+Topic: KyrgyzstanUnited Kingdom 56%, Kazakhstan 13%, Russia 13%, Uzbekistan 5% (2019)
+
+Topic: LaosThailand 36%, China 28%, Vietnam 16% (2019)
+
+Topic: LatviaLithuania 16%, Estonia 10%, Russia 9%, Germany 7%, Sweden 6%, United Kingdom 6% (2019)
+
+Topic: LebanonSwitzerland 27%, United Arab Emirates 15%, South Korea 11%, Saudi Arabia 7%, Kuwait 6% (2019)
+
+Topic: LesothoUnited States 29%, Belgium 26%, South Africa 25%, Switzerland 6% (2019)
+
+Topic: LiberiaGuyana 32%, Poland 10%, Switzerland 8%, Japan 7%, China 5% (2019)
+
+Topic: LibyaItaly 18%, China 16%, Germany 15%, Spain 15%, United Arab Emirates 6%, France 6%, United States 5% (2019)
+
+Topic: LithuaniaRussia 13%, Latvia 9%, Poland 8%, Germany 7%, Estonia 5% (2019)
+
+Topic: LuxembourgGermany 23%, France 13%, Belgium 12%, Netherlands 6%, Italy 5% (2019)
+
+Topic: MacauHong Kong 66%, China 9% (2019)
+
+Topic: MadagascarUnited States 19%, France 18%, United Arab Emirates 7%, China 6%, Japan 6%, Germany 5%, India 5% (2019)
+
+Topic: MalawiBelgium 16%, United States 8%, Egypt 7%, South Africa 6%, Germany 6%, Kenya 5%, United Arab Emirates 5% (2019)
+
+Topic: MalaysiaSingapore 13%, China 13%, United States 11%, Hong Kong 6%, Japan 6%, Thailand 5% (2019)
+
+Topic: MaldivesThailand 24%, United States 13%, China 12%, France 11%, Germany 11%, Italy 5%, United Kingdom 5% (2019)
+
+Topic: MaliUnited Arab Emirates 66%, Switzerland 26% (2019)
+
+Topic: MaltaGermany 12%, France 9%, Italy 9% (2019)
+
+Topic: Marshall IslandsPoland 28%, Denmark 19%, South Korea 13%, Indonesia 10%, Cyprus 6% (2019)
+
+Topic: MauritaniaChina 32%, Switzerland 13%, Spain 9%, Japan 9%, Italy 5% (2019)
+
+Topic: MauritiusFrance 10%, South Africa 10%, United States 10%, United Kingdom 8%, Zambia 7%, Madagascar 6% (2019)
+
+Topic: MexicoUnited States 75% (2019)
+
+Topic: Micronesia, Federated States ofThailand 73%, Japan 10%, China 9% (2019)
+
+Topic: MoldovaRomania 27%, Russia 9%, Italy 9%, Germany 9%, Turkey 6%, Poland 5% (2019)
+
+Topic: MonacoItaly 19%, Germany 14%, United Kingdom 9%, Switzerland 9%, Spain 8%, United States 6%, Belgium 5% (2019)Italy 19%, Germany 14%, United Kingdom 9%, Switzerland 9%, Spain 8%, United States 6%, Belgium 5%
+
+Topic: MongoliaChina 81%, Switzerland 9% (2019)
+
+Topic: MontenegroSerbia 17%, Hungary 15%, China 11%, Russia 7%, Bosnia and Herzegovina 6%, Germany 6%, Italy 5%, Poland 5% (2019)
+
+Topic: MontserratAntigua and Barbuda 19%, United States 18%, France 17%, Singapore 14%, Belgium 9%, Netherlands 5% (2019)
+
+Topic: MoroccoSpain 23%, France 19% (2019)
+
+Topic: MozambiqueSouth Africa 16%, India 13%, China 12%, Italy 7%, United Arab Emirates 5%, Germany 5% (2019)
+
+Topic: NamibiaChina 27%, South Africa 18%, Botswana 8%, Belgium 7% (2019)
+
+Topic: NauruThailand 34%, Australia 16%, United States 13%, South Korea 10%, Philippines 9%, Japan 7%, France 5% (2019)
+
+Topic: NepalIndia 68%, United States 10% (2019)
+
+Topic: NetherlandsGermany 20%, Belgium 12%, United Kingdom 9%, France 7%, United States 5% (2019)
+
+Topic: New CaledoniaChina 59%, South Korea 14%, Japan 11% (2019)
+
+Topic: New ZealandChina 28%, Australia 14%, United States 9%, Japan 6% (2019)
+
+Topic: NicaraguaUnited States 60%, El Salvador 5%, Mexico 5% (2019)
+
+Topic: NigerUnited Arab Emirates 54%, China 25%, France 7%, Pakistan 5% (2019)
+
+Topic: NigeriaIndia 16%, Spain 10%, United States 7%, France 7%, Netherlands 6% (2019)
+
+Topic: NiueIndonesia 92%, South Korea 5% (2019)
+
+Topic: Norfolk IslandPhilippines 29%, Singapore 21%, India 14%, Belgium 7%, Australia 5%, Canada 5% (2019)
+
+Topic: North MacedoniaGermany 45%, Serbia 8%, Bulgaria 5% (2019)
+
+Topic: Northern Mariana IslandsSouth Korea 73%, Peru 5% (2019)
+
+Topic: NorwayUnited Kingdom 18%, Germany 14%, Netherlands 10%, Sweden 9%, France 6%, United States 5% (2019)
+
+Topic: OmanChina 46%, India 8%, Japan 6%, South Korea 6%, United Arab Emirates 6%, Saudi Arabia 5% (2019)
+
+Topic: PakistanUnited States 14%, China 8%, Germany 7%, United Kingdom 6% (2019)
+
+Topic: PalauJapan 70%, South Korea 15%, United States 7% (2019)
+
+Topic: PanamaEcuador 20%, Guatemala 14%, China 8%, United States 6%, Netherlands 6% (2019)
+
+Topic: Papua New GuineaAustralia 26%, China 26%, Japan 22%, Taiwan 7% (2019)
+
+Topic: ParaguayBrazil 32%, Argentina 22%, Chile 8%, Russia 8% (2019)
+
+Topic: PeruChina 29%, United States 12%, Canada 5%, South Korea 5%, Switzerland 5% (2019)
+
+Topic: PhilippinesChina 16%, United States 15%, Japan 13%, Hong Kong 12%, Singapore 7%, Germany 5% (2019)
+
+Topic: Pitcairn IslandsSouth Africa 24%, Canada 20%, Germany 13%, Czechia 8%, El Salvador 5%, Spain 5% (2019)
+
+Topic: PolandGermany 27%, Czechia 6%, United Kingdom 6%, France 6%, Italy 5% (2019)
+
+Topic: PortugalSpain 23%, France 13%, Germany 12%, United Kingdom 6%, United States 5% (2019)
+
+Topic: Puerto RicoItaly 15%, Netherlands 15%, Belgium 9%, Japan 8%, Germany 8%, Austria 8%, Spain 7%, China 5% (2019)
+
+Topic: QatarJapan 17%, South Korea 16%, India 14%, China 13%, Singapore 7% (2019)
+
+Topic: RomaniaGermany 22%, Italy 10%, France 7% (2019)
+
+Topic: RussiaChina 14%, Netherlands 10%, Belarus 5%, Germany 5% (2019)
+
+Topic: RwandaUnited Arab Emirates 35%, Democratic Republic of the Congo 28%, Uganda 5% (2019)
+
+Topic: Saint BarthelemyFrance 60%, Germany 27% (2019)
+
+Topic: Saint Helena, Ascension, and Tristan da CunhaUnited States 47%, Japan 12%, South Korea 10%, France 9%, Australia 5% (2019)
+
+Topic: Saint Kitts and NevisUnited States 69%, Germany 8%, Italy 5% (2019)
+
+Topic: Saint LuciaUnited States 29%, Uruguay 16%, Barbados 8%, Trinidad and Tobago 5.5%, United Kingdom 6%, Dominica 6%, Guyana 5%, France 5% (2019)
+
+Topic: Saint MartinUnited States 35%, Netherlands 26%, Antigua and Barbuda 21%, France 10% (2019)
+
+Topic: Saint Pierre and MiquelonCanada 79%, France 8%, Belgium 6% (2019)
+
+Topic: Saint Vincent and the GrenadinesJordan 39%, Singapore 14% (2019)
+
+Topic: SamoaAmerican Samoa 21%, United States 13%, New Zealand 12%, Australia 10%, Tokelau 6%, Taiwan 5% (2019)
+
+Topic: San MarinoRomania 10%, France 9%, United States 8%, Germany 8%, Poland 6%, Brazil 6%, Russia 6%, Austria 6% (2019)
+
+Topic: Sao Tome and PrincipeSingapore 30%, Switzerland 24%, France 11%, Poland 7%, Belgium 7%, United States 5% (2019)
+
+Topic: Saudi ArabiaChina 20%, India 11%, Japan 11%, South Korea 9%, United States 5% (2019)
+
+Topic: SenegalMali 22%, Switzerland 14%, India 9%, China 7% (2019)
+
+Topic: SerbiaGermany 12%, Italy 10%, Bosnia and Herzegovina 7%, Romania 6%, Russia 5%  (2019)
+
+Topic: SeychellesUnited Arab Emirates 17%, United Kingdom 13%, France 12%, British Virgin Islands 11%, Zambia 9%, Mauritius 5%, Japan 5% (2019)
+
+Topic: Sierra LeoneBelgium 26%, China 25%, Romania 9%, United Arab Emirates 6%, Germany 5%, Netherlands 5% (2019)
+
+Topic: SingaporeChina 15%, Hong Kong 13%, Malaysia 9%, United States 8%, Indonesia 7%, India 5% (2019)
+
+Topic: SlovakiaGermany 22%, Czechia 11%, Poland 7%, France 7%, Hungary 6%, Austria 5%, United Kingdom 5% (2019)
+
+Topic: SloveniaGermany 18%, Italy 11%, Croatia 8%, Austria 7%, France 5%, Switzerland 5% (2019)
+
+Topic: Solomon IslandsChina 65%, Italy 9%, India 6% (2019)
+
+Topic: SomaliaUnited Arab Emirates 47%, Saudi Arabia 19%, India 5%, Japan 5% (2019)
+
+Topic: South AfricaChina 15%, United Kingdom 8%, Germany 7%, United States 6%, India 6% (2019)
+
+Topic: South SudanChina 88%, United Arab Emirates 5% (2019)
+
+Topic: SpainFrance 15%, Germany 11%, Portugal 8%, Italy 8%, United Kingdom 7%, United States 5% (2019)
+
+Topic: Sri LankaUnited States 24%, India 8%, United Kingdom 7%, Germany 7% (2019)
+
+Topic: SudanUnited Arab Emirates 31%, China 19%, Saudi Arabia 14%, India 12%, Egypt 5% (2019)
+
+Topic: SurinameSwitzerland 39%, United Arab Emirates 31%, Belgium 10% (2019)
+
+Topic: SwedenGermany 10%, Norway 9%, United States 8%, Denmark 7%, Finland 6%, United Kingdom 5%, Netherlands 5%, China 5% (2019)
+
+Topic: SwitzerlandGermany 16%, United States 14%, United Kingdom 8%, China 7%, France 6%, India 6%, Italy 5% (2019)
+
+Topic: SyriaSaudi Arabia 23%, Turkey 18%, Egypt 14%, United Arab Emirates 8%, Jordan 7%, Kuwait 5% (2019)
+
+Topic: TaiwanChina 26%, United States 14%, Hong Kong 12%, Japan 7%, Singapore 7%, South Korea 5% (2019)
+
+Topic: TajikistanTurkey 24%, Switzerland 22%, Uzbekistan 16%, Kazakhstan 12%, China 10% (2019)
+
+Topic: TanzaniaIndia 20%, United Arab Emirates 13%, China 8%, Switzerland 7%, Rwanda 6%, Kenya 5%, Vietnam 5% (2019)
+
+Topic: ThailandUnited States 13%, China 12%, Japan 10%, Vietnam 5% (2019)
+
+Topic: Timor-LesteSingapore 51%, China 20%, Japan 9%, Indonesia 6% (2019)
+
+Topic: TogoIndia 16%, Benin 15%, Burkina Faso 6%, France 6%, Morocco 5% (2019)
+
+Topic: TokelauSingapore 25%, France 19%, South Africa 7%, New Zealand 5%, United States 5%, Ireland 5% (2019)
+
+Topic: TongaUnited States 38%, South Korea 18%, Australia 14%, New Zealand 14%, Japan 6%,  (2019)
+
+Topic: Trinidad and TobagoUnited States 33%, Guyana 9%, Spain 6%, China 6% (2019)
+
+Topic: TunisiaFrance 29%, Italy 17%, Germany 13% (2019)
+
+Topic: TurkeyGermany 9%, United Kingdom 6%, Iraq 5%, Italy 5%, United States 5% (2019)
+
+Topic: TurkmenistanChina 82% (2019)
+
+Topic: Turks and Caicos IslandsFrance 31%, United States 16%, Zambia 13%, Singapore 9%, Republic of the Congo 8% (2019)
+
+Topic: TuvaluThailand 50%, Indonesia 40% (2019)
+
+Topic: UgandaUnited Arab Emirates 58%, Kenya 9% (2019)
+
+Topic: UkraineRussia 9%, China 8%, Germany 6%, Poland 6%, Italy 5%, Turkey 5% (2019)
+
+Topic: United Arab EmiratesIndia 11%, Japan 10%, Saudi Arabia 7%, Switzerland 6%, China 6%, Iraq 6% (2019)
+
+Topic: United KingdomUnited States 15%, Germany 10%, China 7%, Netherlands 7%, France 7%, Ireland 6% (2019)
+
+Topic: United StatesCanada 17%, Mexico 16%, China 7%, Japan 5% (2019)
+
+Topic: UruguayChina 29%, Brazil 12%, United States 5%, Netherlands 5%, Argentina 5% (2019)
+
+Topic: UzbekistanSwitzerland 19%, United Kingdom 17%, Russia 15%, China 14%, Kazakhstan 9%, Turkey 8%, Kyrgyzstan 5% (2019)
+
+Topic: VanuatuJapan 33%, Thailand 13%, Mauritania 13%, South Korea 11%, China 9%, Fiji 7% (2019)
+
+Topic: VenezuelaIndia 34%, China 28%, United States 12%, Spain 6% (2019)
+
+Topic: VietnamUnited States 23%, China 14%, Japan 8%, South Korea 7% (2019)
+
+Topic: Virgin IslandsHaiti 14%, Guadeloupe 7%, Malaysia 7%, Martinique 7%, Barbados 7%, British Virgin Islands 5% (2019)
+
+Topic: Wallis and FutunaSingapore 47%, France 32%, Belgium 9% (2019)
+
+Topic: YemenChina 53%, Saudi Arabia 10%, United Arab Emirates 7%, Australia 5% (2019)
+
+Topic: ZambiaSwitzerland 29%, China 16%, Namibia 12%, Democratic Republic of the Congo 9%, Singapore 5% (2019)
+
+Topic: ZimbabweUnited Arab Emirates 40%, South Africa 23%, Mozambique 9% (2019)

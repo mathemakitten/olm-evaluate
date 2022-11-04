@@ -1,0 +1,431 @@
+This entry provides the one- or two-character alphanumeric code indicating the nationality of civil aircraft. Article 20 of the Convention on International Civil Aviation (Chicago Convention), signed in 1944, requires that all aircraft engaged in international air navigation bear appropriate nationality marks. The aircraft registration number consists of two parts: a prefix consisting of a one- or two-character alphanumeric code indicating nationality and a registration suffix of one to five characters for the specific aircraft. The prefix codes are based upon radio call-signs allocated by the International Telecommunications Union (ITU) to each country. Since 1947, the International Civil Aviation Organization (ICAO) has managed code standards and their allocation.
+
+Topic: AfghanistanYA
+
+Topic: AlbaniaZA
+
+Topic: Algeria7T
+
+Topic: AndorraC3
+
+Topic: AngolaD2
+
+Topic: AnguillaVP-A
+
+Topic: Antigua and BarbudaV2
+
+Topic: ArgentinaLV
+
+Topic: ArmeniaEK
+
+Topic: ArubaP4
+
+Topic: AustraliaVH
+
+Topic: AustriaOE
+
+Topic: Azerbaijan4K
+
+Topic: Bahamas, TheC6
+
+Topic: BahrainA9C
+
+Topic: BangladeshS2
+
+Topic: Barbados8P
+
+Topic: BelarusEW
+
+Topic: BelgiumOO
+
+Topic: BelizeV3
+
+Topic: BeninTY
+
+Topic: BermudaVP-B
+
+Topic: BhutanA5
+
+Topic: BoliviaCP
+
+Topic: Bosnia and HerzegovinaT9
+
+Topic: BotswanaA2
+
+Topic: BrazilPP
+
+Topic: British Virgin IslandsVP-L
+
+Topic: BruneiV8
+
+Topic: BulgariaLZ
+
+Topic: Burkina FasoXT
+
+Topic: BurmaXY
+
+Topic: Burundi9U
+
+Topic: Cabo VerdeD4
+
+Topic: CambodiaXU
+
+Topic: CameroonTJ
+
+Topic: CanadaC
+
+Topic: Cayman IslandsVP-C
+
+Topic: Central African RepublicTL
+
+Topic: ChadTT
+
+Topic: ChileCC
+
+Topic: ChinaB
+
+Topic: ColombiaHJ, HK
+
+Topic: ComorosD6
+
+Topic: Congo, Democratic Republic of the9Q
+
+Topic: Congo, Republic of theTN
+
+Topic: Cook IslandsE5
+
+Topic: Costa RicaTI
+
+Topic: Cote d'IvoireTU
+
+Topic: Croatia9A
+
+Topic: CubaCU
+
+Topic: CuracaoPJ
+
+Topic: Cyprus5B
+
+Topic: CzechiaOK
+
+Topic: DenmarkOY
+
+Topic: DjiboutiJ2
+
+Topic: DominicaJ7
+
+Topic: Dominican RepublicHI
+
+Topic: EcuadorHC
+
+Topic: EgyptSU
+
+Topic: El SalvadorYS
+
+Topic: Equatorial Guinea3C
+
+Topic: EritreaE3
+
+Topic: EstoniaES
+
+Topic: Eswatini3DC
+
+Topic: EthiopiaET
+
+Topic: Falkland Islands (Islas Malvinas)VP-F
+
+Topic: Faroe IslandsOY-H
+
+Topic: FijiDQ
+
+Topic: FinlandOH
+
+Topic: FranceF
+
+Topic: French PolynesiaF-OH
+
+Topic: GabonTR
+
+Topic: Gambia, TheC5
+
+Topic: Georgia4L
+
+Topic: GermanyD
+
+Topic: Ghana9G
+
+Topic: GibraltarVP-G
+
+Topic: GreeceSX
+
+Topic: GreenlandOY-H
+
+Topic: GrenadaJ3
+
+Topic: GuamN
+
+Topic: GuatemalaTG
+
+Topic: Guernsey2
+
+Topic: Guinea3X
+
+Topic: Guinea-BissauJ5
+
+Topic: Guyana8R
+
+Topic: HaitiHH
+
+Topic: HondurasHR
+
+Topic: Hong KongB-H
+
+Topic: HungaryHA
+
+Topic: IcelandTF
+
+Topic: IndiaVT
+
+Topic: IndonesiaPK
+
+Topic: IranEP
+
+Topic: IraqYI
+
+Topic: IrelandEI
+
+Topic: Isle of ManM
+
+Topic: Israel4X
+
+Topic: ItalyI
+
+Topic: Jamaica6Y
+
+Topic: JapanJA
+
+Topic: JordanJY
+
+Topic: KazakhstanUP
+
+Topic: Kenya5Y
+
+Topic: KiribatiT3
+
+Topic: Korea, NorthP
+
+Topic: Korea, SouthHL
+
+Topic: KosovoZ6
+
+Topic: Kuwait9K
+
+Topic: KyrgyzstanEX
+
+Topic: LaosRDPL
+
+Topic: LatviaYL
+
+Topic: LebanonOD
+
+Topic: Lesotho7P
+
+Topic: LiberiaA8
+
+Topic: Libya5A
+
+Topic: LiechtensteinHB
+
+Topic: LithuaniaLY
+
+Topic: LuxembourgLX
+
+Topic: MacauB-M
+
+Topic: Madagascar5R
+
+Topic: Malawi7Q
+
+Topic: Malaysia9M
+
+Topic: Maldives8Q
+
+Topic: MaliTZ, TT
+
+Topic: Malta9H
+
+Topic: Marshall IslandsV7
+
+Topic: Mauritania5T
+
+Topic: Mauritius3B
+
+Topic: MexicoXA
+
+Topic: Micronesia, Federated States ofV6
+
+Topic: MoldovaER
+
+Topic: Monaco3A
+
+Topic: MongoliaJU
+
+Topic: Montenegro4O
+
+Topic: MontserratVP-M
+
+Topic: MoroccoCN
+
+Topic: MozambiqueC9
+
+Topic: NamibiaV5
+
+Topic: NauruC2
+
+Topic: Nepal9N
+
+Topic: NetherlandsPH
+
+Topic: New ZealandZK
+
+Topic: NicaraguaYN
+
+Topic: Niger5U
+
+Topic: Nigeria5N
+
+Topic: North MacedoniaZ3
+
+Topic: NorwayLN
+
+Topic: OmanA4O
+
+Topic: PakistanAP
+
+Topic: PalauT8
+
+Topic: PanamaHP
+
+Topic: Papua New GuineaP2
+
+Topic: ParaguayZP
+
+Topic: PeruOB
+
+Topic: PhilippinesRP
+
+Topic: PolandSP
+
+Topic: PortugalCR, CS
+
+Topic: QatarA7
+
+Topic: RomaniaYR
+
+Topic: RussiaRA
+
+Topic: Rwanda9XR
+
+Topic: Saint Helena, Ascension, and Tristan da CunhaVQ-H
+
+Topic: Saint Kitts and NevisV4
+
+Topic: Saint LuciaJ6
+
+Topic: Saint Vincent and the GrenadinesJ8
+
+Topic: Samoa5W
+
+Topic: San MarinoT7
+
+Topic: Sao Tome and PrincipeS9
+
+Topic: Saudi ArabiaHZ
+
+Topic: Senegal6V
+
+Topic: SerbiaYU
+
+Topic: SeychellesS7
+
+Topic: Sierra Leone9L
+
+Topic: Singapore9V
+
+Topic: SlovakiaOM
+
+Topic: SloveniaS5
+
+Topic: Solomon IslandsH4
+
+Topic: Somalia6O
+
+Topic: South AfricaZS
+
+Topic: South SudanZ8
+
+Topic: SpainEC
+
+Topic: Sri Lanka4R
+
+Topic: SudanST
+
+Topic: SurinamePZ
+
+Topic: SwedenSE
+
+Topic: SwitzerlandHB
+
+Topic: SyriaYK
+
+Topic: TaiwanB
+
+Topic: TajikistanEY
+
+Topic: Tanzania5H
+
+Topic: ThailandHS
+
+Topic: Timor-Leste4W
+
+Topic: Togo5V
+
+Topic: TongaA3
+
+Topic: Trinidad and Tobago9Y
+
+Topic: TunisiaTS
+
+Topic: TurkeyTC
+
+Topic: TurkmenistanEZ
+
+Topic: Turks and Caicos IslandsVQ-T
+
+Topic: TuvaluT2
+
+Topic: Uganda5X
+
+Topic: UkraineUR
+
+Topic: United Arab EmiratesA6
+
+Topic: United KingdomG
+
+Topic: United StatesN
+
+Topic: UruguayCX
+
+Topic: UzbekistanUK
+
+Topic: VanuatuYJ
+
+Topic: VenezuelaYV
+
+Topic: VietnamVN
+
+Topic: Yemen7O
+
+Topic: Zambia9J
+
+Topic: ZimbabweZ

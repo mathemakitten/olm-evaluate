@@ -1,0 +1,3393 @@
+This field refers a country's energy portfolio of fossil fuels, nuclear, solar, wind, hydroelectricity, tide and wave, geothermal, and biomass and waste. Portfolios are expressed as a percentage share of a country's total generating capacity.
+
+Topic: AfghanistanFossil fuels: 15.9% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 5.1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 79.1% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: AlbaniaFossil fuels: 0% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.6% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 99.4% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: AlgeriaFossil fuels: 98.9% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.9% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0.1% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: American SamoaFossil fuels: 100% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: AngolaFossil fuels: 28.4% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 70.1% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.4% of total installed capacity (2020 est.)
+
+Topic: Antigua and BarbudaFossil fuels: 95.4% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 4.6% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: ArgentinaFossil fuels: 65.8% of total installed capacity (2020 est.)
+
+Nuclear: 7.3% of total installed capacity (2020 est.)
+
+Solar: 1% of total installed capacity (2020 est.)
+
+Wind: 6.8% of total installed capacity (2020 est.)
+
+Hydroelectricity: 17.6% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.5% of total installed capacity (2020 est.)
+
+Topic: ArmeniaFossil fuels: 40.6% of total installed capacity (2020 est.)
+
+Nuclear: 34.8% of total installed capacity (2020 est.)
+
+Solar: 0.3% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 24.3% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: ArubaFossil fuels: 83.3% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.2% of total installed capacity (2020 est.)
+
+Wind: 15.4% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: AustraliaFossil fuels: 75.4% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 8.6% of total installed capacity (2020 est.)
+
+Wind: 8.4% of total installed capacity (2020 est.)
+
+Hydroelectricity: 6.2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.4% of total installed capacity (2020 est.)
+
+Topic: AustriaFossil fuels: 17.4% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 2.8% of total installed capacity (2020 est.)
+
+Wind: 9.4% of total installed capacity (2020 est.)
+
+Hydroelectricity: 62.9% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 7.4% of total installed capacity (2020 est.)
+
+Topic: AzerbaijanFossil fuels: 94.2% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.2% of total installed capacity (2020 est.)
+
+Wind: 0.4% of total installed capacity (2020 est.)
+
+Hydroelectricity: 4.4% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.8% of total installed capacity (2020 est.)
+
+Topic: Bahamas, TheFossil fuels: 99.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.2% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: BahrainFossil fuels: 100% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: BangladeshFossil fuels: 98.6% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.6% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0.8% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: BarbadosFossil fuels: 95.9% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 4.1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: BelarusFossil fuels: 95.8% of total installed capacity (2020 est.)
+
+Nuclear: 0.9% of total installed capacity (2020 est.)
+
+Solar: 0.5% of total installed capacity (2020 est.)
+
+Wind: 0.5% of total installed capacity (2020 est.)
+
+Hydroelectricity: 1.1% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.2% of total installed capacity (2020 est.)
+
+Topic: BelgiumFossil fuels: 33.1% of total installed capacity (2020 est.)
+
+Nuclear: 38.1% of total installed capacity (2020 est.)
+
+Solar: 5.8% of total installed capacity (2020 est.)
+
+Wind: 15% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0.3% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 7.7% of total installed capacity (2020 est.)
+
+Topic: BelizeFossil fuels: 63.6% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.2% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 13.4% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 22.9% of total installed capacity (2020 est.)
+
+Topic: BeninFossil fuels: 96.9% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 3.1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: BermudaFossil fuels: 100% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: BhutanFossil fuels: 0% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 100% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: BoliviaFossil fuels: 64.4% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 2.6% of total installed capacity (2020 est.)
+
+Wind: 0.7% of total installed capacity (2020 est.)
+
+Hydroelectricity: 30.5% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.8% of total installed capacity (2020 est.)
+
+Topic: Bosnia and HerzegovinaFossil fuels: 62.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.3% of total installed capacity (2020 est.)
+
+Wind: 1.5% of total installed capacity (2020 est.)
+
+Hydroelectricity: 35.4% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.1% of total installed capacity (2020 est.)
+
+Topic: BotswanaFossil fuels: 99.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.2% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: BrazilFossil fuels: 11.8% of total installed capacity (2020 est.)
+
+Nuclear: 2.3% of total installed capacity (2020 est.)
+
+Solar: 1.7% of total installed capacity (2020 est.)
+
+Wind: 9.2% of total installed capacity (2020 est.)
+
+Hydroelectricity: 65.8% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 9.2% of total installed capacity (2020 est.)
+
+Topic: British Virgin IslandsFossil fuels: 98.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.2% of total installed capacity (2020 est.)
+
+Wind: 1% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: BruneiFossil fuels: 100% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: BulgariaFossil fuels: 36.5% of total installed capacity (2020 est.)
+
+Nuclear: 44.7% of total installed capacity (2020 est.)
+
+Solar: 4% of total installed capacity (2020 est.)
+
+Wind: 4% of total installed capacity (2020 est.)
+
+Hydroelectricity: 9.1% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.9% of total installed capacity (2020 est.)
+
+Topic: Burkina FasoFossil fuels: 89.4% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 3.3% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 6.9% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.4% of total installed capacity (2020 est.)
+
+Topic: BurmaFossil fuels: 52.6% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 47.3% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: BurundiFossil fuels: 33.3% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 2.3% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 62.8% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.7% of total installed capacity (2020 est.)
+
+Topic: Cabo VerdeFossil fuels: 80.2% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 2% of total installed capacity (2020 est.)
+
+Wind: 17.8% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: CambodiaFossil fuels: 52% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.2% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 45.6% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.2% of total installed capacity (2020 est.)
+
+Topic: CameroonFossil fuels: 32.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.2% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 67.3% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: CanadaFossil fuels: 16.5% of total installed capacity (2020 est.)
+
+Nuclear: 14.7% of total installed capacity (2020 est.)
+
+Solar: 0.7% of total installed capacity (2020 est.)
+
+Wind: 5.7% of total installed capacity (2020 est.)
+
+Hydroelectricity: 60.8% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.6% of total installed capacity (2020 est.)
+
+Topic: Cayman IslandsFossil fuels: 97.6% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 2.4% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Central African RepublicFossil fuels: 0.7% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 99.3% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: ChadFossil fuels: 96.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 3.2% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: ChileFossil fuels: 51.9% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 9.5% of total installed capacity (2020 est.)
+
+Wind: 6.9% of total installed capacity (2020 est.)
+
+Hydroelectricity: 26% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0.3% of total installed capacity (2020 est.)
+
+Biomass and waste: 5.4% of total installed capacity (2020 est.)
+
+Topic: ChinaFossil fuels: 66% of total installed capacity (2020 est.)
+
+Nuclear: 4.8% of total installed capacity (2020 est.)
+
+Solar: 3.5% of total installed capacity (2020 est.)
+
+Wind: 6.2% of total installed capacity (2020 est.)
+
+Hydroelectricity: 17.8% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.6% of total installed capacity (2020 est.)
+
+Topic: ColombiaFossil fuels: 32.9% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.3% of total installed capacity (2020 est.)
+
+Wind: 0.1% of total installed capacity (2020 est.)
+
+Hydroelectricity: 65.7% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1% of total installed capacity (2020 est.)
+
+Topic: ComorosFossil fuels: 100% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Congo, Democratic Republic of theFossil fuels: 0.1% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 99.6% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.3% of total installed capacity (2020 est.)
+
+Topic: Congo, Republic of theFossil fuels: 70.1% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 29.9% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Cook IslandsFossil fuels: 70% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 30% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Costa RicaFossil fuels: 0.2% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.6% of total installed capacity (2020 est.)
+
+Wind: 12.5% of total installed capacity (2020 est.)
+
+Hydroelectricity: 71.1% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 14.5% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.2% of total installed capacity (2020 est.)
+
+Topic: Cote d'IvoireFossil fuels: 75.6% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.2% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 24.2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: CroatiaFossil fuels: 41% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.9% of total installed capacity (2020 est.)
+
+Wind: 16.1% of total installed capacity (2020 est.)
+
+Hydroelectricity: 31.8% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0.9% of total installed capacity (2020 est.)
+
+Biomass and waste: 9.3% of total installed capacity (2020 est.)
+
+Topic: CubaFossil fuels: 95.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.4% of total installed capacity (2020 est.)
+
+Wind: 0.1% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0.3% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 2.7% of total installed capacity (2020 est.)
+
+Topic: CyprusFossil fuels: 86.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 6.9% of total installed capacity (2020 est.)
+
+Wind: 5.1% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.3% of total installed capacity (2020 est.)
+
+Topic: CzechiaFossil fuels: 47% of total installed capacity (2020 est.)
+
+Nuclear: 37.6% of total installed capacity (2020 est.)
+
+Solar: 3% of total installed capacity (2020 est.)
+
+Wind: 0.9% of total installed capacity (2020 est.)
+
+Hydroelectricity: 4.5% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 7% of total installed capacity (2020 est.)
+
+Topic: DenmarkFossil fuels: 14.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 4.2% of total installed capacity (2020 est.)
+
+Wind: 57.5% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0.1% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 23.5% of total installed capacity (2020 est.)
+
+Topic: DjiboutiFossil fuels: 98.2% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.8% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: DominicaFossil fuels: 74.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.1% of total installed capacity (2020 est.)
+
+Wind: 0.6% of total installed capacity (2020 est.)
+
+Hydroelectricity: 24.5% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Dominican RepublicFossil fuels: 93.4% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.5% of total installed capacity (2020 est.)
+
+Wind: 3.2% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0.7% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.2% of total installed capacity (2020 est.)
+
+Topic: EcuadorFossil fuels: 21% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.1% of total installed capacity (2020 est.)
+
+Wind: 0.2% of total installed capacity (2020 est.)
+
+Hydroelectricity: 77.2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.5% of total installed capacity (2020 est.)
+
+Topic: EgyptFossil fuels: 88.7% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1% of total installed capacity (2020 est.)
+
+Wind: 2.5% of total installed capacity (2020 est.)
+
+Hydroelectricity: 7.7% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.2% of total installed capacity (2020 est.)
+
+Topic: El SalvadorFossil fuels: 28.2% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 7.5% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 30% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 22.2% of total installed capacity (2020 est.)
+
+Biomass and waste: 12.1% of total installed capacity (2020 est.)
+
+Topic: Equatorial GuineaFossil fuels: 89.4% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 10.6% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: EritreaFossil fuels: 93.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 5.7% of total installed capacity (2020 est.)
+
+Wind: 0.5% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: EstoniaFossil fuels: 55.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 2% of total installed capacity (2020 est.)
+
+Wind: 14.3% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0.7% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 27.2% of total installed capacity (2020 est.)
+
+Topic: EswatiniFossil fuels: 44.1% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.2% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 24.8% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 31% of total installed capacity (2020 est.)
+
+Topic: EthiopiaFossil fuels: 0% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.1% of total installed capacity (2020 est.)
+
+Wind: 3.8% of total installed capacity (2020 est.)
+
+Hydroelectricity: 95.8% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.3% of total installed capacity (2020 est.)
+
+Topic: Falkland Islands (Islas Malvinas)Fossil fuels: 66.7% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 33.3% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Faroe IslandsFossil fuels: 58.9% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 15.1% of total installed capacity (2020 est.)
+
+Hydroelectricity: 26% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: FijiFossil fuels: 41.9% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.6% of total installed capacity (2020 est.)
+
+Wind: 0.3% of total installed capacity (2020 est.)
+
+Hydroelectricity: 50.2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 6% of total installed capacity (2020 est.)
+
+Topic: FinlandFossil fuels: 13.4% of total installed capacity (2020 est.)
+
+Nuclear: 33.4% of total installed capacity (2020 est.)
+
+Solar: 0.4% of total installed capacity (2020 est.)
+
+Wind: 11.9% of total installed capacity (2020 est.)
+
+Hydroelectricity: 23.2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 17.8% of total installed capacity (2020 est.)
+
+Topic: FranceFossil fuels: 8% of total installed capacity (2020 est.)
+
+Nuclear: 68.4% of total installed capacity (2020 est.)
+
+Solar: 2.5% of total installed capacity (2020 est.)
+
+Wind: 7.3% of total installed capacity (2020 est.)
+
+Hydroelectricity: 11.7% of total installed capacity (2020 est.)
+
+Tide and wave: 0.2% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 2% of total installed capacity (2020 est.)
+
+Topic: French PolynesiaFossil fuels: 66.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 6.1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 27.4% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: GabonFossil fuels: 40.6% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 59% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.3% of total installed capacity (2020 est.)
+
+Topic: Gambia, TheFossil fuels: 98.9% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Gaza StripFossil fuels: 100% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank
+
+Nuclear: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank
+
+Solar: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank
+
+Wind: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank
+
+Hydroelectricity: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank
+
+Tide and wave: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank
+
+Geothermal: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank
+
+Biomass and waste: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank
+
+Topic: GeorgiaFossil fuels: 25.3% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0.8% of total installed capacity (2020 est.)
+
+Hydroelectricity: 73.9% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: GermanyFossil fuels: 40.5% of total installed capacity (2020 est.)
+
+Nuclear: 11.1% of total installed capacity (2020 est.)
+
+Solar: 9.2% of total installed capacity (2020 est.)
+
+Wind: 23.9% of total installed capacity (2020 est.)
+
+Hydroelectricity: 4.5% of total installed capacity (2020 est.)
+
+Tide and wave: 0.2% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 10.4% of total installed capacity (2020 est.)
+
+Topic: GhanaFossil fuels: 63.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.3% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 35.9% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.1% of total installed capacity (2020 est.)
+
+Topic: GibraltarFossil fuels: 100% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: GreeceFossil fuels: 56.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 10.7% of total installed capacity (2020 est.)
+
+Wind: 23% of total installed capacity (2020 est.)
+
+Hydroelectricity: 8.5% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.4% of total installed capacity (2020 est.)
+
+Topic: GreenlandFossil fuels: 15.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 84.2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: GrenadaFossil fuels: 98.3% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.6% of total installed capacity (2020 est.)
+
+Wind: 0.1% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: GuamFossil fuels: 96% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 4% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: GuatemalaFossil fuels: 39.4% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.5% of total installed capacity (2020 est.)
+
+Wind: 2.1% of total installed capacity (2020 est.)
+
+Hydroelectricity: 38% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 2.2% of total installed capacity (2020 est.)
+
+Biomass and waste: 17% of total installed capacity (2020 est.)
+
+Topic: GuineaFossil fuels: 22.2% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.7% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 77.1% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Guinea-BissauFossil fuels: 97.6% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 2.4% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: GuyanaFossil fuels: 97.4% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.6% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.9% of total installed capacity (2020 est.)
+
+Topic: HaitiFossil fuels: 85.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.3% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 13.9% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: HondurasFossil fuels: 46.7% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 10.3% of total installed capacity (2020 est.)
+
+Wind: 7.5% of total installed capacity (2020 est.)
+
+Hydroelectricity: 24.7% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 2.7% of total installed capacity (2020 est.)
+
+Biomass and waste: 8.1% of total installed capacity (2020 est.)
+
+Topic: Hong KongFossil fuels: 99.6% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.4% of total installed capacity (2020 est.)
+
+Topic: HungaryFossil fuels: 36.1% of total installed capacity (2020 est.)
+
+Nuclear: 46% of total installed capacity (2020 est.)
+
+Solar: 7.4% of total installed capacity (2020 est.)
+
+Wind: 2% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0.7% of total installed capacity (2020 est.)
+
+Tide and wave: 0.5% of total installed capacity (2020 est.)
+
+Geothermal: 0.1% of total installed capacity (2020 est.)
+
+Biomass and waste: 7.3% of total installed capacity (2020 est.)
+
+Topic: IcelandFossil fuels: 0% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 67.6% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 32.3% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: IndiaFossil fuels: 75.5% of total installed capacity (2020 est.)
+
+Nuclear: 2.8% of total installed capacity (2020 est.)
+
+Solar: 4.2% of total installed capacity (2020 est.)
+
+Wind: 4.6% of total installed capacity (2020 est.)
+
+Hydroelectricity: 10.7% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 2.3% of total installed capacity (2020 est.)
+
+Topic: IndonesiaFossil fuels: 82.3% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0.2% of total installed capacity (2020 est.)
+
+Hydroelectricity: 6.8% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 5.7% of total installed capacity (2020 est.)
+
+Biomass and waste: 5% of total installed capacity (2020 est.)
+
+Topic: IranFossil fuels: 88.7% of total installed capacity (2020 est.)
+
+Nuclear: 1.9% of total installed capacity (2020 est.)
+
+Solar: 0.1% of total installed capacity (2020 est.)
+
+Wind: 0.2% of total installed capacity (2020 est.)
+
+Hydroelectricity: 9.1% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: IraqFossil fuels: 97.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 2.1% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: IrelandFossil fuels: 57.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.2% of total installed capacity (2020 est.)
+
+Wind: 34.8% of total installed capacity (2020 est.)
+
+Hydroelectricity: 3.7% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 3.6% of total installed capacity (2020 est.)
+
+Topic: IsraelFossil fuels: 93.7% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 5.9% of total installed capacity (2020 est.)
+
+Wind: 0.3% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: ItalyFossil fuels: 55.9% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 9.2% of total installed capacity (2020 est.)
+
+Wind: 6.9% of total installed capacity (2020 est.)
+
+Hydroelectricity: 17.5% of total installed capacity (2020 est.)
+
+Tide and wave: 0.2% of total installed capacity (2020 est.)
+
+Geothermal: 2.2% of total installed capacity (2020 est.)
+
+Biomass and waste: 8.1% of total installed capacity (2020 est.)
+
+Topic: JamaicaFossil fuels: 87.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.2% of total installed capacity (2020 est.)
+
+Wind: 6.8% of total installed capacity (2020 est.)
+
+Hydroelectricity: 4% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.6% of total installed capacity (2020 est.)
+
+Topic: JapanFossil fuels: 73.5% of total installed capacity (2020 est.)
+
+Nuclear: 4.8% of total installed capacity (2020 est.)
+
+Solar: 8.8% of total installed capacity (2020 est.)
+
+Wind: 1% of total installed capacity (2020 est.)
+
+Hydroelectricity: 10% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0.3% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.6% of total installed capacity (2020 est.)
+
+Topic: JordanFossil fuels: 83.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 11.7% of total installed capacity (2020 est.)
+
+Wind: 4.6% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0.2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: KazakhstanFossil fuels: 88.2% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.9% of total installed capacity (2020 est.)
+
+Wind: 0.7% of total installed capacity (2020 est.)
+
+Hydroelectricity: 10.1% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: KenyaFossil fuels: 8.3% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1% of total installed capacity (2020 est.)
+
+Wind: 10.7% of total installed capacity (2020 est.)
+
+Hydroelectricity: 32.6% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 46.2% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.2% of total installed capacity (2020 est.)
+
+Topic: KiribatiFossil fuels: 84.9% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 15.1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Korea, NorthFossil fuels: 15.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 84.1% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Korea, SouthFossil fuels: 64.8% of total installed capacity (2020 est.)
+
+Nuclear: 27.7% of total installed capacity (2020 est.)
+
+Solar: 3.3% of total installed capacity (2020 est.)
+
+Wind: 0.6% of total installed capacity (2020 est.)
+
+Hydroelectricity: 1.3% of total installed capacity (2020 est.)
+
+Tide and wave: 0.7% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.7% of total installed capacity (2020 est.)
+
+Topic: KosovoFossil fuels: 95.6% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.1% of total installed capacity (2020 est.)
+
+Wind: 1.1% of total installed capacity (2020 est.)
+
+Hydroelectricity: 3.2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: KuwaitFossil fuels: 99.9% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0.1% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: KyrgyzstanFossil fuels: 8.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 91.5% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: LaosFossil fuels: 35.6% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 64.1% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.2% of total installed capacity (2020 est.)
+
+Topic: LatviaFossil fuels: 33.4% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.1% of total installed capacity (2020 est.)
+
+Wind: 3.2% of total installed capacity (2020 est.)
+
+Hydroelectricity: 47.5% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 15.9% of total installed capacity (2020 est.)
+
+Topic: LebanonFossil fuels: 94.3% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.5% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 5% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.2% of total installed capacity (2020 est.)
+
+Topic: LesothoFossil fuels: 0% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.2% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 99.8% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: LiberiaFossil fuels: 40.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.5% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 59.1% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: LibyaFossil fuels: 100% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: LithuaniaFossil fuels: 38% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 3% of total installed capacity (2020 est.)
+
+Wind: 35.5% of total installed capacity (2020 est.)
+
+Hydroelectricity: 6.9% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 16.7% of total installed capacity (2020 est.)
+
+Topic: LuxembourgFossil fuels: 13.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 14.6% of total installed capacity (2020 est.)
+
+Wind: 27.7% of total installed capacity (2020 est.)
+
+Hydroelectricity: 7.5% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 36.4% of total installed capacity (2020 est.)
+
+Topic: MacauFossil fuels: 66.4% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 33.6% of total installed capacity (2020 est.)
+
+Topic: MadagascarFossil fuels: 59.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 38.2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1% of total installed capacity (2020 est.)
+
+Topic: MalawiFossil fuels: 11.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 3.2% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 81.9% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 3.2% of total installed capacity (2020 est.)
+
+Topic: MalaysiaFossil fuels: 87.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.7% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 10.9% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1% of total installed capacity (2020 est.)
+
+Topic: MaldivesFossil fuels: 99.6% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0.4% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: MaliFossil fuels: 67.4% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 29.7% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.9% of total installed capacity (2020 est.)
+
+Topic: MaltaFossil fuels: 88.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 11.2% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.3% of total installed capacity (2020 est.)
+
+Topic: MauritaniaFossil fuels: 73.2% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 8.1% of total installed capacity (2020 est.)
+
+Wind: 6.8% of total installed capacity (2020 est.)
+
+Hydroelectricity: 11.9% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: MauritiusFossil fuels: 75.4% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 5.3% of total installed capacity (2020 est.)
+
+Wind: 0.7% of total installed capacity (2020 est.)
+
+Hydroelectricity: 3.7% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 15% of total installed capacity (2020 est.)
+
+Topic: MexicoFossil fuels: 75.7% of total installed capacity (2020 est.)
+
+Nuclear: 3.6% of total installed capacity (2020 est.)
+
+Solar: 4.4% of total installed capacity (2020 est.)
+
+Wind: 6.5% of total installed capacity (2020 est.)
+
+Hydroelectricity: 7.6% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 1.5% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.8% of total installed capacity (2020 est.)
+
+Topic: MoldovaFossil fuels: 93.6% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.1% of total installed capacity (2020 est.)
+
+Wind: 1.2% of total installed capacity (2020 est.)
+
+Hydroelectricity: 4.5% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.6% of total installed capacity (2020 est.)
+
+Topic: MongoliaFossil fuels: 89.2% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.3% of total installed capacity (2020 est.)
+
+Wind: 8.1% of total installed capacity (2020 est.)
+
+Hydroelectricity: 1.3% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: MontenegroFossil fuels: 42.3% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 10.5% of total installed capacity (2020 est.)
+
+Hydroelectricity: 47.2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: MontserratFossil fuels: 100% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: MoroccoFossil fuels: 81.6% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.1% of total installed capacity (2020 est.)
+
+Wind: 13% of total installed capacity (2020 est.)
+
+Hydroelectricity: 4.4% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: MozambiqueFossil fuels: 19.6% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.2% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 79.6% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.6% of total installed capacity (2020 est.)
+
+Topic: NamibiaFossil fuels: 6.1% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 4.7% of total installed capacity (2020 est.)
+
+Wind: 0.5% of total installed capacity (2020 est.)
+
+Hydroelectricity: 88.8% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: NauruFossil fuels: 100% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: NepalFossil fuels: 0% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 2.6% of total installed capacity (2020 est.)
+
+Wind: 0.2% of total installed capacity (2020 est.)
+
+Hydroelectricity: 97.2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: NetherlandsFossil fuels: 68.3% of total installed capacity (2020 est.)
+
+Nuclear: 3.3% of total installed capacity (2020 est.)
+
+Solar: 6.8% of total installed capacity (2020 est.)
+
+Wind: 13.1% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 8.5% of total installed capacity (2020 est.)
+
+Topic: New CaledoniaFossil fuels: 91.2% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 1.5% of total installed capacity (2020 est.)
+
+Hydroelectricity: 7.4% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: New ZealandFossil fuels: 19.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.4% of total installed capacity (2020 est.)
+
+Wind: 5.3% of total installed capacity (2020 est.)
+
+Hydroelectricity: 54.8% of total installed capacity (2020 est.)
+
+Tide and wave: 0.1% of total installed capacity (2020 est.)
+
+Geothermal: 18.6% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.4% of total installed capacity (2020 est.)
+
+Topic: NicaraguaFossil fuels: 37.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.5% of total installed capacity (2020 est.)
+
+Wind: 15.7% of total installed capacity (2020 est.)
+
+Hydroelectricity: 12.2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 16.7% of total installed capacity (2020 est.)
+
+Biomass and waste: 17.2% of total installed capacity (2020 est.)
+
+Topic: NigerFossil fuels: 94.1% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 5.9% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: NigeriaFossil fuels: 78.1% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.2% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 21.7% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.1% of total installed capacity (2020 est.)
+
+Topic: NiueFossil fuels: 100% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: North MacedoniaFossil fuels: 71.4% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.5% of total installed capacity (2020 est.)
+
+Wind: 2.3% of total installed capacity (2020 est.)
+
+Hydroelectricity: 24.7% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.1% of total installed capacity (2020 est.)
+
+Topic: NorwayFossil fuels: 1.2% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 6.4% of total installed capacity (2020 est.)
+
+Hydroelectricity: 92.1% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.3% of total installed capacity (2020 est.)
+
+Topic: OmanFossil fuels: 100% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: PakistanFossil fuels: 55.2% of total installed capacity (2020 est.)
+
+Nuclear: 8.2% of total installed capacity (2020 est.)
+
+Solar: 1% of total installed capacity (2020 est.)
+
+Wind: 2.8% of total installed capacity (2020 est.)
+
+Hydroelectricity: 31.9% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.8% of total installed capacity (2020 est.)
+
+Topic: PanamaFossil fuels: 24.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 2.7% of total installed capacity (2020 est.)
+
+Wind: 6.4% of total installed capacity (2020 est.)
+
+Hydroelectricity: 66.2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.2% of total installed capacity (2020 est.)
+
+Topic: Papua New GuineaFossil fuels: 80.2% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 18.9% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1% of total installed capacity (2020 est.)
+
+Topic: ParaguayFossil fuels: 0% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 100% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: PeruFossil fuels: 38.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.5% of total installed capacity (2020 est.)
+
+Wind: 3.5% of total installed capacity (2020 est.)
+
+Hydroelectricity: 55.4% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.1% of total installed capacity (2020 est.)
+
+Topic: PhilippinesFossil fuels: 77.6% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.3% of total installed capacity (2020 est.)
+
+Wind: 1.1% of total installed capacity (2020 est.)
+
+Hydroelectricity: 8% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 11% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.1% of total installed capacity (2020 est.)
+
+Topic: PolandFossil fuels: 79.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.4% of total installed capacity (2020 est.)
+
+Wind: 10.8% of total installed capacity (2020 est.)
+
+Hydroelectricity: 2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 6% of total installed capacity (2020 est.)
+
+Topic: PortugalFossil fuels: 39% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 3.2% of total installed capacity (2020 est.)
+
+Wind: 23.3% of total installed capacity (2020 est.)
+
+Hydroelectricity: 26.5% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0.4% of total installed capacity (2020 est.)
+
+Biomass and waste: 7.7% of total installed capacity (2020 est.)
+
+Topic: Puerto RicoFossil fuels: 94.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.4% of total installed capacity (2020 est.)
+
+Wind: 3.4% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0.3% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.1% of total installed capacity (2020 est.)
+
+Topic: QatarFossil fuels: 100% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: RomaniaFossil fuels: 32.1% of total installed capacity (2020 est.)
+
+Nuclear: 20.4% of total installed capacity (2020 est.)
+
+Solar: 3.4% of total installed capacity (2020 est.)
+
+Wind: 13.4% of total installed capacity (2020 est.)
+
+Hydroelectricity: 29.9% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.9% of total installed capacity (2020 est.)
+
+Topic: RussiaFossil fuels: 59.4% of total installed capacity (2020 est.)
+
+Nuclear: 21% of total installed capacity (2020 est.)
+
+Solar: 0.2% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 19.1% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.3% of total installed capacity (2020 est.)
+
+Topic: RwandaFossil fuels: 39% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 6.5% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 53.9% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.6% of total installed capacity (2020 est.)
+
+Topic: Saint Helena, Ascension, and Tristan da CunhaFossil fuels: 100% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Saint Kitts and NevisFossil fuels: 96.3% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 3.7% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Saint LuciaFossil fuels: 99.1% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Saint Pierre and MiquelonFossil fuels: 100% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Saint Vincent and the GrenadinesFossil fuels: 73.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.7% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 25.8% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: SamoaFossil fuels: 72.7% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0.1% of total installed capacity (2020 est.)
+
+Hydroelectricity: 27.2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Sao Tome and PrincipeFossil fuels: 89.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 10.5% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Saudi ArabiaFossil fuels: 99.9% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.2% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: SenegalFossil fuels: 84.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 6% of total installed capacity (2020 est.)
+
+Wind: 0.5% of total installed capacity (2020 est.)
+
+Hydroelectricity: 6.3% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 2.4% of total installed capacity (2020 est.)
+
+Topic: SerbiaFossil fuels: 69.2% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 2.9% of total installed capacity (2020 est.)
+
+Hydroelectricity: 27.3% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.5% of total installed capacity (2020 est.)
+
+Topic: SeychellesFossil fuels: 99.1% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.9% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Sierra LeoneFossil fuels: 8.2% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 2.9% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 87% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.9% of total installed capacity (2020 est.)
+
+Topic: SingaporeFossil fuels: 96.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.2% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 2.3% of total installed capacity (2020 est.)
+
+Topic: SlovakiaFossil fuels: 19.7% of total installed capacity (2020 est.)
+
+Nuclear: 55.4% of total installed capacity (2020 est.)
+
+Solar: 2.4% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 16.8% of total installed capacity (2020 est.)
+
+Tide and wave: 0.2% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 5.6% of total installed capacity (2020 est.)
+
+Topic: SloveniaFossil fuels: 27.2% of total installed capacity (2020 est.)
+
+Nuclear: 36.8% of total installed capacity (2020 est.)
+
+Solar: 2.2% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 32% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.7% of total installed capacity (2020 est.)
+
+Topic: Solomon IslandsFossil fuels: 94.8% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 2.7% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 2.6% of total installed capacity (2020 est.)
+
+Topic: SomaliaFossil fuels: 95.3% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 3% of total installed capacity (2020 est.)
+
+Wind: 1.7% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: South AfricaFossil fuels: 87.9% of total installed capacity (2020 est.)
+
+Nuclear: 5.2% of total installed capacity (2020 est.)
+
+Solar: 1.6% of total installed capacity (2020 est.)
+
+Wind: 2.6% of total installed capacity (2020 est.)
+
+Hydroelectricity: 2.5% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.2% of total installed capacity (2020 est.)
+
+Topic: South SudanFossil fuels: 99.2% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.8% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: SpainFossil fuels: 32.4% of total installed capacity (2020 est.)
+
+Nuclear: 21.9% of total installed capacity (2020 est.)
+
+Solar: 8.1% of total installed capacity (2020 est.)
+
+Wind: 22.1% of total installed capacity (2020 est.)
+
+Hydroelectricity: 13.1% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 2.6% of total installed capacity (2020 est.)
+
+Topic: Sri LankaFossil fuels: 64% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.7% of total installed capacity (2020 est.)
+
+Wind: 2.3% of total installed capacity (2020 est.)
+
+Hydroelectricity: 32.2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.8% of total installed capacity (2020 est.)
+
+Topic: SudanFossil fuels: 43.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 55.5% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.9% of total installed capacity (2020 est.)
+
+Topic: SurinameFossil fuels: 40.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.4% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 58.8% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.3% of total installed capacity (2020 est.)
+
+Topic: SwedenFossil fuels: 1% of total installed capacity (2020 est.)
+
+Nuclear: 29.5% of total installed capacity (2020 est.)
+
+Solar: 0.7% of total installed capacity (2020 est.)
+
+Wind: 17.2% of total installed capacity (2020 est.)
+
+Hydroelectricity: 44.7% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 6.9% of total installed capacity (2020 est.)
+
+Topic: SwitzerlandFossil fuels: 0.8% of total installed capacity (2020 est.)
+
+Nuclear: 34.2% of total installed capacity (2020 est.)
+
+Solar: 3.8% of total installed capacity (2020 est.)
+
+Wind: 0.2% of total installed capacity (2020 est.)
+
+Hydroelectricity: 56.3% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 4.7% of total installed capacity (2020 est.)
+
+Topic: SyriaFossil fuels: 95.1% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 4.8% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.2% of total installed capacity (2020 est.)
+
+Topic: TaiwanFossil fuels: 82.2% of total installed capacity (2020 est.)
+
+Nuclear: 11.2% of total installed capacity (2020 est.)
+
+Solar: 2.2% of total installed capacity (2020 est.)
+
+Wind: 0.9% of total installed capacity (2020 est.)
+
+Hydroelectricity: 2.2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.3% of total installed capacity (2020 est.)
+
+Topic: TajikistanFossil fuels: 8.7% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 91.3% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: TanzaniaFossil fuels: 65% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.3% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 32.8% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1% of total installed capacity (2020 est.)
+
+Topic: ThailandFossil fuels: 83.3% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 2.8% of total installed capacity (2020 est.)
+
+Wind: 1.7% of total installed capacity (2020 est.)
+
+Hydroelectricity: 2.6% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 9.6% of total installed capacity (2020 est.)
+
+Topic: Timor-LesteFossil fuels: 100% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: TogoFossil fuels: 82.2% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.6% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 17.2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: TongaFossil fuels: 100% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Trinidad and TobagoFossil fuels: 99.9% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: TunisiaFossil fuels: 95.9% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.3% of total installed capacity (2020 est.)
+
+Wind: 2.6% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0.3% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Turkey (Turkiye)Fossil fuels: 56.2% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 3.8% of total installed capacity (2020 est.)
+
+Wind: 8.4% of total installed capacity (2020 est.)
+
+Hydroelectricity: 26.3% of total installed capacity (2020 est.)
+
+Tide and wave: 0.4% of total installed capacity (2020 est.)
+
+Geothermal: 3.4% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.5% of total installed capacity (2020 est.)
+
+Topic: TurkmenistanFossil fuels: 100% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: Turks and Caicos IslandsFossil fuels: 100% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: UgandaFossil fuels: 1.3% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.6% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 86.4% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 10.8% of total installed capacity (2020 est.)
+
+Topic: UkraineFossil fuels: 37.6% of total installed capacity (2020 est.)
+
+Nuclear: 55.9% of total installed capacity (2020 est.)
+
+Solar: 1.2% of total installed capacity (2020 est.)
+
+Wind: 1.4% of total installed capacity (2020 est.)
+
+Hydroelectricity: 3.6% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.3% of total installed capacity (2020 est.)
+
+Topic: United Arab EmiratesFossil fuels: 95.7% of total installed capacity (2020 est.)
+
+Nuclear: 1.3% of total installed capacity (2020 est.)
+
+Solar: 3% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: United KingdomFossil fuels: 37.8% of total installed capacity (2020 est.)
+
+Nuclear: 15.2% of total installed capacity (2020 est.)
+
+Solar: 4.3% of total installed capacity (2020 est.)
+
+Wind: 25.2% of total installed capacity (2020 est.)
+
+Hydroelectricity: 2.6% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 15% of total installed capacity (2020 est.)
+
+Topic: United StatesFossil fuels: 59.9% of total installed capacity (2020 est.)
+
+Nuclear: 19.5% of total installed capacity (2020 est.)
+
+Solar: 3.2% of total installed capacity (2020 est.)
+
+Wind: 8.3% of total installed capacity (2020 est.)
+
+Hydroelectricity: 7% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0.4% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.7% of total installed capacity (2020 est.)
+
+Topic: UruguayFossil fuels: 2% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 3.6% of total installed capacity (2020 est.)
+
+Wind: 42.2% of total installed capacity (2020 est.)
+
+Hydroelectricity: 30.6% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 21.6% of total installed capacity (2020 est.)
+
+Topic: UzbekistanFossil fuels: 88.1% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 11.9% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: VanuatuFossil fuels: 84.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 8.2% of total installed capacity (2020 est.)
+
+Wind: 7.4% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: VenezuelaFossil fuels: 30.5% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0% of total installed capacity (2020 est.)
+
+Wind: 0.1% of total installed capacity (2020 est.)
+
+Hydroelectricity: 69.4% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: VietnamFossil fuels: 70.7% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 2.4% of total installed capacity (2020 est.)
+
+Wind: 0.4% of total installed capacity (2020 est.)
+
+Hydroelectricity: 25.2% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.4% of total installed capacity (2020 est.)
+
+Topic: Virgin IslandsFossil fuels: 98.9% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 1.1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: West BankFossil fuels: 100% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank
+
+Nuclear: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank
+
+Solar: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank
+
+Wind: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank
+
+Hydroelectricity: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank
+
+Tide and wave: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank
+
+Geothermal: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank
+
+Biomass and waste: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank
+
+Topic: WorldFossil fuels: 60.6% of total installed capacity (2020 est.)
+
+Nuclear: 10.3% of total installed capacity (2020 est.)
+
+Solar: 3.3% of total installed capacity (2020 est.)
+
+Wind: 6.2% of total installed capacity (2020 est.)
+
+Hydroelectricity: 17% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0.4% of total installed capacity (2020 est.)
+
+Biomass and waste: 2.4% of total installed capacity (2020 est.)
+
+Topic: YemenFossil fuels: 84.6% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 15.4% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 0% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0% of total installed capacity (2020 est.)
+
+Topic: ZambiaFossil fuels: 13% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.9% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 85.5% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 0.5% of total installed capacity (2020 est.)
+
+Topic: ZimbabweFossil fuels: 32.9% of total installed capacity (2020 est.)
+
+Nuclear: 0% of total installed capacity (2020 est.)
+
+Solar: 0.1% of total installed capacity (2020 est.)
+
+Wind: 0% of total installed capacity (2020 est.)
+
+Hydroelectricity: 65.3% of total installed capacity (2020 est.)
+
+Tide and wave: 0% of total installed capacity (2020 est.)
+
+Geothermal: 0% of total installed capacity (2020 est.)
+
+Biomass and waste: 1.7% of total installed capacity (2020 est.)

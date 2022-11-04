@@ -1,0 +1,1161 @@
+This entry gives the total length of the road network and includes the length of the paved and unpaved portions.
+
+Topic: Afghanistantotal: 34,903 km (2017)
+
+paved: 17,903 km (2017)
+
+unpaved: 17,000 km (2017)
+
+Topic: Albaniatotal: 3,945 km (2018)
+
+Topic: Algeriatotal: 104,000 km (2015)
+
+paved: 71,656 km (2015)
+
+unpaved: 32,344 km (2015)
+
+Topic: American Samoatotal: 241 km (2016)
+
+Topic: Andorratotal: 320 km (2019)
+
+Topic: Angolatotal: 26,000 km (2018)
+
+paved: 13,600 km (2018)
+
+unpaved: 12,400 km (2018)
+
+Topic: Anguillatotal: 175 km (2004)
+
+paved: 82 km (2004)
+
+unpaved: 93 km (2004)
+
+Topic: Antigua and Barbudatotal: 1,170 km (2011)
+
+paved: 386 km (2011)
+
+unpaved: 784 km (2011)
+
+Topic: Argentinatotal: 281,290 km (2017)
+
+paved: 117,616 km (2017)
+
+unpaved: 163,674 km (2017)
+
+Topic: Armeniatotal: 7,700 km (2019)
+
+urban: 3,780 km
+
+non-urban: 3,920 km
+
+Topic: Arubatotal: 1,000 km (2010)
+
+Topic: Australiatotal: 873,573 km (2015)
+
+urban: 145,928 km (2015)
+
+non-urban: 727,645 km (2015)
+
+Topic: Austriatotal: 137,039 km (2018)
+
+paved: 137,039 km (2018) (includes 2,232 km of expressways)
+
+Topic: Azerbaijantotal: 24,981 km (2013)
+
+note: total roadway length has increased significantly and continues to grow due to the recovery of Armenian-held territories and related reconstruction efforts, respectively; no updated figure is currently available
+
+Topic: Bahamas, Thetotal: 2,700 km (2011)
+
+paved: 1,620 km (2011)
+
+unpaved: 1,080 km (2011)
+
+Topic: Bahraintotal: 4,122 km (2010)
+
+paved: 3,392 km (2010)
+
+unpaved: 730 km (2010)
+
+Topic: Bangladeshtotal: 369,105 km (2018)
+
+paved: 110,311 km (2018)
+
+unpaved: 258,794 km (2018)
+
+Topic: Barbadostotal: 1,700 km (2015)
+
+paved: 1,700 km (2015)
+
+Topic: Belarustotal: 86,600 km (2017)
+
+Topic: Belgiumtotal: 118,414 km (2015)
+
+paved: 118,414 km (2015) (includes 1,747 km of expressways)
+
+Topic: Belizetotal: 3,281 km (2017)
+
+paved: 601 km (2017)
+
+unpaved: 2,680 km (2017)
+
+Topic: Benintotal: 16,000 km (2006)
+
+paved: 1,400 km (2006)
+
+unpaved: 14,600 km (2006)
+
+Topic: Bermudatotal: 447 km (2010)
+
+paved: 447 km (2010)
+
+note: 225 km public roads; 222 km private roads
+
+Topic: Bhutantotal: 12,205 km (2017)
+
+urban: 437 km (2017)
+
+Topic: Boliviatotal: 90,568 km (2017)
+
+paved: 9,792 km (2017)
+
+unpaved: 80,776 km (2017)
+
+Topic: Bosnia and Herzegovinatotal: 22,926 km (2010)
+
+paved: 19,426 km (2010) (4,652 km of interurban roads)
+
+unpaved: 3,500 km (2010)
+
+Topic: Botswanatotal: 31,747 km (2017)
+
+paved: 9,810 km (2017)
+
+unpaved: 21,937 km (2017)
+
+Topic: Braziltotal: 2 million km (2018)
+
+paved: 246,000 km (2018)
+
+unpaved: 1.754 million km (2018)
+
+Topic: British Indian Ocean Territorynote: short section of paved road between port and airfield on Diego Garcianote: short section of paved road between port and airfield on Diego Garcia
+
+Topic: British Virgin Islandstotal: 200 km (2007)
+
+paved: 200 km (2007)
+
+Topic: Bruneitotal: 2,976 km (2014)
+
+paved: 2,559 km (2014)
+
+unpaved: 417 km (2014)
+
+Topic: Bulgariatotal: 19,512 km (2011)
+
+paved: 19,235 km (2011) (includes 458 km of expressways)
+
+unpaved: 277 km (2011)
+
+note: does not include Category IV local roads
+
+Topic: Burkina Fasototal: 15,304 km (2014)
+
+paved: 3,642 km (2014)
+
+unpaved: 11,662 km (2014)
+
+Topic: Burmatotal: 157,000 km (2013)
+
+paved: 34,700 km (2013)
+
+unpaved: 122,300 km (2013)
+
+Topic: Burunditotal: 12,322 km (2016)
+
+paved: 1,500 km (2016)
+
+unpaved: 10,822 km (2016)
+
+Topic: Cabo Verdetotal: 1,350 km (2013)
+
+paved: 932 km (2013)
+
+unpaved: 418 km (2013)
+
+Topic: Cambodiatotal: 47,263 km (2013)
+
+paved: 12,239 km (2013)
+
+unpaved: 35,024 km (2013)
+
+Topic: Cameroontotal: 77,589 km (2016)
+
+paved: 5,133 km (2016)
+
+unpaved: 72,456 km (2016)
+
+Topic: Canadatotal: 1,042,300 km (2011)
+
+paved: 415,600 km (2011) (includes 17,000 km of expressways)
+
+unpaved: 626,700 km (2011)
+
+Topic: Cayman Islandstotal: 785 km (2007)
+
+paved: 785 km (2007)
+
+Topic: Central African Republictotal: 24,000 km (2018)
+
+paved: 700 km (2018)
+
+unpaved: 23,300 km (2018)
+
+Topic: Chadtotal: 40,000 km (2018)
+
+note: consists of 25,000 km of national and regional roads and 15,000 km of local roads; 206 km of urban roads are paved
+
+Topic: Chiletotal: 77,801 km (2016)
+
+Topic: Chinatotal: 45.2 million km (2017)
+
+paved: 4.578 million km (2017) (includes 168000 km of expressways)
+
+unpaved: 622,000 km (2017)
+
+Topic: Christmas Islandtotal: 142 km (2011)
+
+paved: 32 km (2011)
+
+unpaved: 110 km (2011)
+
+Topic: Cocos (Keeling) Islandstotal: 22 km (2007)
+
+paved: 10 km (2007)
+
+unpaved: 12 km (2007)
+
+Topic: Colombiatotal: 205,379 km (2016)
+
+Topic: Comorostotal: 880 km (2002)
+
+paved: 673 km (2002)
+
+unpaved: 207 km (2002)
+
+Topic: Congo, Democratic Republic of thetotal: 152,373 km (2015)
+
+paved: 3,047 km (2015)
+
+unpaved: 149,326 km (2015)
+
+urban: 7,400 km (2015)
+
+non-urban: 144,973 km
+
+Topic: Congo, Republic of thetotal: 23,324 km (2017)
+
+paved: 3,111 km (2017)
+
+unpaved: 20,213 km (2017)
+
+note: road network in Congo is composed of 23,324 km of which 17,000 km are classified as national, departmental, and routes of local interest: 6,324 km are non-classified routes
+
+Topic: Cook Islandstotal: 295 km (2018)
+
+paved: 207 km (2018)
+
+unpaved: 88 km (2018)
+
+Topic: Costa Ricatotal: 5,035 km (2017)
+
+Topic: Cote d'Ivoiretotal: 81,996 km (2007)
+
+paved: 6,502 km (2007)
+
+unpaved: 75,494 km (2007)
+
+note: includes intercity and urban roads; another 20,000 km of dirt roads are in poor condition and 150,000 km of dirt roads are impassable
+
+Topic: Croatiatotal: 26,958 km (2015) (includes 1,416 km of expressways)
+
+Topic: Cubatotal: 71,140 km (2015)
+
+paved: 20,000 km (2001)
+
+unpaved: 40,000 km (2001)
+
+Topic: Curacaototal: 550 km
+
+Topic: Cyprustotal: 19,901 km (2016)
+
+government control: 12,901 km (2016) (includes 272 km of expressways)
+
+paved: 8,631 km (2016)
+
+unpaved: 4,270 km (2016)
+
+Turkish Cypriot control: 7,000 km (2011)
+
+Topic: Czechiatotal: 55,744 km (2019) (includes urban and category I, II, III roads)
+
+paved: 55,744 km (2019) (includes 1,252 km of expressways)
+
+Topic: Denmarktotal: 74,558 km (2017)
+
+paved: 74,558 km (2017) (includes 1,205 km of expressways)
+
+Topic: Djiboutitotal: 2,893 km (2013)
+
+Topic: Dominicatotal: 1,512 km (2018)
+
+paved: 762 km (2018)
+
+unpaved: 750 km (2018)
+
+Topic: Dominican Republictotal: 19,705 km (2002)
+
+paved: 9,872 km (2002)
+
+unpaved: 9,833 km (2002)
+
+Topic: Ecuadortotal: 43,950 km (2022)
+
+paved: 8,895 km (2022)
+
+unpaved: 35,055 km (2022)
+
+Topic: Egypttotal: 65,050 km (2018)
+
+paved: 48,000 km (2018)
+
+unpaved: 17,050 km (2018)
+
+Topic: El Salvadortotal: 9,012 km (2017)
+
+paved: 5,341 km (2017)
+
+unpaved: 3,671 km (2017)
+
+Topic: Equatorial Guineatotal: 2,880 km (2017)
+
+Topic: Eritreatotal: 16,000 km (2018)
+
+paved: 1,600 km (2000)
+
+unpaved: 14,400 km (2000)
+
+Topic: Estoniatotal: 58,412 km (2011) (includes urban roads)
+
+paved: 10,427 km (2011) (includes 115 km of expressways)
+
+unpaved: 47,985 km (2011)
+
+Topic: Eswatinitotal: 3,769 km (2019)
+
+Topic: Ethiopiatotal: 120,171 km (2018)
+
+Topic: European Uniontotal: (2013) 10,582,653 km
+
+Topic: Falkland Islands (Islas Malvinas)total: 440 km (2008)
+
+paved: 50 km (2008)
+
+unpaved: 390 km (2008)
+
+Topic: Faroe Islandstotal: 960 km (2017)
+
+paved: 500 km (2017)
+
+unpaved: 460 km (2017)
+
+note: those islands not connected by roads (bridges or tunnels) are connected by seven different ferry links operated by the nationally owned company SSL; 28 km of tunnels
+
+Topic: Fijitotal: 3,440 km (2011)
+
+paved: 1,686 km (2011)
+
+unpaved: 1,754 km (2011)
+
+Topic: Finlandtotal: 454,000 km (2012)
+
+highways: 78,000 km (2012) (50,000 paved, including 700 km of expressways; 28,000 unpaved)
+
+private and forest roads: 350,000 km (2012)
+
+urban: 26,000 km (2012)
+
+Topic: Francetotal: 1,053,215 km (2011)
+
+urban: 654,201 km (2011)
+
+non-urban: 399,014 km (2011)
+
+Topic: French Polynesiatotal: 2,590 km (1999)
+
+paved: 1,735 km (1999)
+
+unpaved: 855 km (1999)
+
+Topic: Gabontotal: 14,300 km (2001)
+
+paved: 900 km (2001)
+
+unpaved: 13,400 km (2001)
+
+Topic: Gambia, Thetotal: 2,977 km (2011)
+
+paved: 518 km (2011)
+
+unpaved: 2,459 km (2011)
+
+Topic: Gaza Stripnote: see entry for the West Banknote: see entry for the West Bank
+
+Topic: Georgiatotal: 20,295 km (2018)
+
+Topic: Germanytotal: 625,000 km (2017)
+
+paved: 625,000 km (2017) (includes 12,996 km of expressways)
+
+note: includes local roads
+
+Topic: Ghanatotal: 94,203 km (2021)
+
+paved: 14,948 km (2021)
+
+unpaved: 50,777 km (2021)
+
+urban: 28,480 km 27% total paved 73% total unpaved
+
+Topic: Gibraltartotal: 29 km (2007)
+
+paved: 29 km (2007)
+
+Topic: Greecetotal: 117,000 km (2018)
+
+Topic: Greenlandnote: although there are short roads in towns, there are no roads between towns; inter-urban transport is either by sea or by airnote: although there are short roads in towns, there are no roads between towns; inter-urban transport is either by sea or by air
+
+Topic: Grenadatotal: 1,127 km (2017)
+
+paved: 902 km (2017)
+
+unpaved: 225 km (2017)
+
+Topic: Guamtotal: 1,045 km (2008)
+
+Topic: Guatemalatotal: 17,440 km (2016)
+
+paved: 7,458 km (2016)
+
+unpaved: 9,982 km (2016) (includes 4,548 km of rural roads)
+
+Topic: Guernseytotal: 260 km (2017)
+
+Topic: Guineatotal: 44,301 km (2018)
+
+paved: 3,346 km (2018)
+
+unpaved: 40,955 km (2018)
+
+Topic: Guinea-Bissautotal: 4,400 km (2018)
+
+paved: 453 km (2018)
+
+unpaved: 3,947 km (2018)
+
+Topic: Guyanatotal: 3,995 km (2019)
+
+paved: 799 km (2019)
+
+unpaved: 3,196 km (2019)
+
+Topic: Haititotal: 4,266 km (2009) Note – total paved plus unpaved is less than total roadways because some roads are under construction or only partially paved
+
+paved: 600 km (2009)
+
+unpaved: 3,502 km (2009)
+
+Topic: Hondurastotal: 14,742 km (2012)
+
+paved: 3,367 km (2012)
+
+unpaved: 11,375 km (2012) (1,543 km summer only)
+
+note: an additional 8,951 km of non-official roads used by the coffee industry
+
+Topic: Hong Kongtotal: 2,107 km (2017)
+
+paved: 2,107 km (2017)
+
+Topic: Hungarytotal: 203,601 km (2014)
+
+paved: 77,087 km (2014) (includes 1,582 km of expressways)
+
+unpaved: 126,514 km (2014)
+
+Topic: Icelandtotal: 12,898 km (2012)
+
+paved/oiled gravel: 5,647 km (2012) (excludes urban roads)
+
+unpaved: 7,251 km (2012)
+
+Topic: Indiatotal: 6,386,297 km (2015) note: includes 132,500 km of national highways and expressways, 186,528 km of state highways , and 6,067,269 km of other roads
+
+note: includes 96,214 km of national highways and expressways, 147,800 km of state highways, and 4,455,010 km of other roads
+
+Topic: Indonesiatotal: 496,607 km (2011)
+
+paved: 283,102 km (2011)
+
+unpaved: 213,505 km (2011)
+
+Topic: Irantotal: 223,485 km (2018)
+
+paved: 195,485 km (2018)
+
+unpaved: 28,000 km (2018)
+
+Topic: Iraqtotal: 59,623 km (2012)
+
+paved: 59,623 km (2012) (includes Kurdistan region)
+
+Topic: Irelandtotal: 99,830 km (2018)
+
+paved: 99,830 km (2018) (includes 2,717 km of expressways)
+
+Topic: Isle of Mantotal: 500 km (2008)
+
+Topic: Israeltotal: 19,555 km (2017)
+
+paved: 19,555 km (2017) (includes 449 km of expressways)
+
+Topic: Italytotal: 487,700 km (2007)
+
+paved: 487,700 km (2007) (includes 6,700 km of expressways)
+
+Topic: Jamaicatotal: 22,121 km (2011) (includes 44 km of expressways)
+
+paved: 16,148 km (2011)
+
+unpaved: 5,973 km (2011)
+
+Topic: Japantotal: 1,218,772 km (2015)
+
+paved: 992,835 km (2015) (includes 8,428 km of expressways)
+
+unpaved: 225,937 km (2015)
+
+Topic: Jerseytotal: 576 km (2010)
+
+Topic: Jordantotal: 7,203 km (2011)
+
+paved: 7,203 km (2011)
+
+Topic: Kazakhstantotal: 95,409 km (2017)
+
+paved: 81,814 km (2017)
+
+unpaved: 13,595 km (2017)
+
+Topic: Kenyatotal: 177,800 km (2018)
+
+paved: 14,420 km (2017) (8,500 km highways, 1,872 urban roads, and 4,048 rural roads)
+
+unpaved: 147,032 km (2017)
+
+Topic: Kiribatitotal: 670 km (2017)
+
+Topic: Korea, Northtotal: 25,554 km (2006)
+
+paved: 724 km (2006)
+
+unpaved: 24,830 km (2006)
+
+Topic: Korea, Southtotal: 100,428 km (2016)
+
+paved: 92,795 km (2016) (includes 4,193 km of expressways)
+
+unpaved: 7,633 km (2016)
+
+Topic: Kosovototal: 2,012 km (2015)
+
+paved: 1,921 km (2015) (includes 78 km of expressways)
+
+unpaved: 91 km (2015)
+
+Topic: Kuwaittotal: 5,749 km (2018)
+
+paved: 4,887 km (2018)
+
+unpaved: 862 km (2018)
+
+Topic: Kyrgyzstantotal: 34,000 km (2018)
+
+Topic: Laostotal: 39,586 km (2009)
+
+paved: 5,415 km (2009)
+
+unpaved: 34,171 km (2009)
+
+Topic: Latviatotal: 70,244 km (2018)
+
+paved: 15,158 km (2018)
+
+unpaved: 55,086 km (2018)
+
+Topic: Lebanontotal: 21,705 km (2017)
+
+Topic: Lesothototal: 5,940 km (2011)
+
+paved: 1,069 km (2011)
+
+unpaved: 4,871 km (2011)
+
+Topic: Liberiatotal: 10,600 km (2018)
+
+paved: 657 km (2018)
+
+unpaved: 9,943 km (2018)
+
+Topic: Libyatotal: 37,000 km (2010)
+
+paved: 34,000 km (2010)
+
+unpaved: 3,000 km (2010)
+
+Topic: Liechtensteintotal: 630 km (2019)
+
+Topic: Lithuaniatotal: 84,166 km (2012)
+
+paved: 72,297 km (2012) (includes 312 km of expressways)
+
+unpaved: 11,869 km (2012)
+
+Topic: Luxembourgtotal: 2,875 km (2019)
+
+Topic: Macautotal: 428 km (2017)
+
+paved: 428 km (2017)
+
+Topic: Madagascartotal: 31,640 km (2018)
+
+Topic: Malawitotal: 15,452 km (2015)
+
+paved: 4,074 km (2015)
+
+unpaved: 11,378 km (2015)
+
+Topic: Malaysiatotal: 144,403 km (2010) (excludes local roads)
+
+paved: 116,169 km (2010) (includes 1,821 km of expressways)
+
+unpaved: 28,234 km (2010)
+
+Topic: Maldivestotal: 93 km (2018)
+
+paved: 93 km (2018) - 60 km in Male; 16 km on Addu Atolis; 17 km on Laamu
+
+note: island roads are mainly compacted coral
+
+Topic: Malitotal: 139,107 km (2018)
+
+Topic: Maltatotal: 2,254 km (2001)
+
+paved: 1,973 km (2001)
+
+unpaved: 281 km (2001)
+
+urban: 1,422 km (2001)
+
+non-urban: 832 km (2001)
+
+Topic: Marshall Islandstotal: 2,028 km (2007)
+
+paved: 75 km (2007)
+
+unpaved: 1,953 km
+
+Topic: Mauritaniatotal: 12,253 km (2018)
+
+paved: 3,988 km (2018)
+
+unpaved: 8,265 km (2018)
+
+Topic: Mauritiustotal: 2,428 km (2015)
+
+paved: 2,379 km (2015) (includes 99 km of expressways)
+
+unpaved: 49 km (2015)
+
+Topic: Mexicototal: 817,966 km (2017)
+
+paved: 175,526 km (2017) (includes 10,845 km of expressways)
+
+unpaved: 529,358 km (2017)
+
+Topic: Micronesia, Federated States ofnote - paved and unpaved circumferential roads, most interior roads are unpaved
+
+Topic: Moldovatotal: 9,352 km (2012)
+
+paved: 8,835 km (2012)
+
+unpaved: 517 km (2012)
+
+Topic: Mongoliatotal: 113,200 km (2017)
+
+paved: 10,600 km (2017)
+
+unpaved: 102,600 km (2017)
+
+Topic: Montenegrototal: 7,762 km (2010)
+
+paved: 7,141 km (2010)
+
+unpaved: 621 km (2010)
+
+Topic: Montserratnote: volcanic eruptions that began in 1995 destroyed most of the 227 km road system; a new road infrastructure has been built on the north end of the islandnote: volcanic eruptions that began in 1995 destroyed most of the 227 km road system; a new road infrastructure has been built on the north end of the island
+
+Topic: Moroccototal: 57,300 km (2018)
+
+Topic: Mozambiquetotal: 31,083 km (2015)
+
+paved: 7,365 km (2015)
+
+unpaved: 23,718 km (2015)
+
+Topic: Namibiatotal: 48,875 km (2018)
+
+paved: 7,893 km (2018)
+
+unpaved: 40,982 km (2018)
+
+Topic: Naurutotal: 30 km (2002)
+
+paved: 24 km (2002)
+
+unpaved: 6 km (2002)
+
+Topic: Nepaltotal: 27,990 km (2016)
+
+paved: 11,890 km (2016)
+
+unpaved: 16,100 km (2016)
+
+Topic: Netherlandstotal: 139,124 km (2016) (includes 3,654 km of expressways)
+
+Topic: New Caledoniatotal: 5,622 km (2006)
+
+Topic: New Zealandtotal: 94,000 km (2017)
+
+paved: 61,600 km (2017) (includes 199 km of expressways)
+
+unpaved: 32,400 km (2017)
+
+Topic: Nicaraguatotal: 23,897 km (2014)
+
+paved: 3,346 km (2014)
+
+unpaved: 20,551 km (2014)
+
+Topic: Nigertotal: 18,949 km (2010)
+
+paved: 3,912 km (2010)
+
+unpaved: 15,037 km (2010)
+
+Topic: Nigeriatotal: 195,000 km (2017)
+
+paved: 60,000 km (2017)
+
+unpaved: 135,000 km (2017)
+
+Topic: Niuetotal: 234 km (2017)
+
+paved: 210 km (2017)
+
+unpaved: 24 km
+
+Topic: Norfolk Islandtotal: 80 km (2008)
+
+paved: 53 km (2008)
+
+unpaved: 27 km (2008)
+
+Topic: North Macedoniatotal: 14,182 km (2017) (includes 290 km of expressways)
+
+paved: 9,633 km (2017)
+
+unpaved: 4,549 km (2017)
+
+Topic: Northern Mariana Islandstotal: 536 km (2008)
+
+Topic: Norwaytotal: 94,902 km (2018) (includes 455 km of expressways)
+
+Topic: Omantotal: 60,230 km (2012)
+
+paved: 29,685 km (2012) (includes 1,943 km of expressways)
+
+unpaved: 30,545 km (2012)
+
+Topic: Pakistantotal: 263,775 km (2019)
+
+paved: 185,063 km (2019) (includes 708 km of expressways)
+
+unpaved: 78,712 km (2019)
+
+Topic: Palautotal: 125 km (2018)
+
+paved: 89 km (2018)
+
+unpaved: 36 km (2018)
+
+Topic: Papua New Guineatotal: 9,349 km (2011)
+
+paved: 3,000 km (2011)
+
+unpaved: 6,349 km (2011)
+
+Topic: Paraguaytotal: 78,811 km (2017)
+
+paved: 8,573 km (2017)
+
+unpaved: 70,238 km (2017)
+
+Topic: Perutotal: 168,473 km (2018) (18,699 km paved)
+
+paved: 26,916 km
+
+note: includes 27,109 km of national roads (21,434 km paved), 247,505 km of departmental roads (3,623 km paved), and 113,857 km of local roads (1,858 km paved)
+
+Topic: Philippinestotal: 216,387 km (2014)
+
+paved: 61,093 km (2014)
+
+unpaved: 155,294 km (2014)
+
+Topic: Pitcairn Islandstotal: 0 km
+
+Topic: Polandtotal: 420,000 km (2016)
+
+paved: 291,000 km (2016) (includes 1,492 km of expressways, 1,559 of motorways)
+
+unpaved: 129,000 km (2016)
+
+Topic: Portugaltotal: 82,900 km (2008)
+
+paved: 71,294 km (2008) (includes 2,613 km of expressways)
+
+unpaved: 11,606 km (2008)
+
+Topic: Puerto Ricototal: 26,862 km (2012) (includes 454 km of expressways)
+
+Topic: Qatartotal: 7,039 km (2016)
+
+Topic: Romaniatotal: 84,185 km (2012)
+
+paved: 49,873 km (2012) (includes 337 km of expressways)
+
+unpaved: 34,312 km (2012)
+
+Topic: Russiatotal: 1,283,387 km (2012)
+
+paved: 927,721 km (2012) (includes 39,143 km of expressways)
+
+unpaved: 355,666 km (2012)
+
+Topic: Rwandatotal: 4,700 km (2012)
+
+paved: 1,207 km (2012)
+
+unpaved: 3,493 km (2012)
+
+Topic: Saint Barthelemytotal: 40 km
+
+Topic: Saint Helena, Ascension, and Tristan da Cunhatotal: 198 km (2002) (Saint Helena 138 km, Ascension 40 km, Tristan da Cunha 20 km)
+
+paved: 168 km (2002) (Saint Helena 118 km, Ascension 40 km, Tristan da Cunha 10 km)
+
+unpaved: 30 km (2002) (Saint Helena 20 km, Tristan da Cunha 10 km)
+
+Topic: Saint Kitts and Nevistotal: 383 km (2002)
+
+paved: 163 km (2002)
+
+unpaved: 220 km (2002)
+
+Topic: Saint Luciatotal: 1,210 km (2011)
+
+paved: 847 km (2011)
+
+unpaved: 363 km (2011)
+
+Topic: Saint Pierre and Miquelontotal: 117 km (2009)
+
+paved: 80 km (2009)
+
+unpaved: 37 km (2009)
+
+Topic: Samoatotal: 1,150 km (2018)
+
+Topic: San Marinototal: 292 km (2006)
+
+paved: 292 km (2006)
+
+Topic: Sao Tome and Principetotal: 1,300 km (2018)
+
+paved: 230 km (2018)
+
+unpaved: 1,070 km (2018)
+
+Topic: Saudi Arabiatotal: 221,372 km (2006)
+
+paved: 47,529 km (2006) (includes 3,891 km of expressways)
+
+unpaved: 173,843 km (2006)
+
+Topic: Senegaltotal: 16,665 km (2017)
+
+paved: 6,126 km (2017) (includes 241 km of expressways)
+
+unpaved: 10,539 km (2017)
+
+Topic: Serbiatotal: 44,248 km (2016)
+
+paved: 28,000 km (2016) (16,162 km state roads, out of which 741 km highways)
+
+unpaved: 16,248 km (2016)
+
+Topic: Seychellestotal: 526 km (2015)
+
+paved: 514 km (2015)
+
+unpaved: 12 km (2015)
+
+Topic: Sierra Leonetotal: 11,700 km (2015)
+
+paved: 1,051 km (2015)
+
+unpaved: 10,650 km (2015)
+
+urban: 3,000 km (2015)
+
+non-urban: 8,700 km (2015)
+
+Topic: Singaporetotal: 3,500 km (2017)
+
+paved: 3,500 km (2017) (includes 164 km of expressways)
+
+Topic: Sint Maartentotal: 53 km
+
+Topic: Slovakiatotal: 56,926 km (2016) (includes local roads, national roads, and 464 km of highways)
+
+Topic: Sloveniatotal: 38,985 km (2012)
+
+paved: 38,985 km (2012) (includes 769 km of expressways)
+
+Topic: Solomon Islandstotal: 1,390 km (2011)
+
+paved: 34 km (2011)
+
+unpaved: 1,356 km (2011)
+
+note: includes 920 km of private plantation roads
+
+Topic: Somaliatotal: 15,000 km (2018)
+
+Topic: South Africatotal: 750,000 km (2016)
+
+paved: 158,124 km (2016)
+
+unpaved: 591,876 km (2016)
+
+Topic: South Sudantotal: 90,200 km (2019)
+
+paved: 300 km (2019)
+
+unpaved: 89,900 km (2019)
+
+note: most of the road network is unpaved and much of it is in disrepair; the Juba-Nimule highway connecting Juba to the border with Uganda is the main paved road in South Sudan 
+
+Topic: Spaintotal: 683,175 km (2011)
+
+paved: 683,175 km (2011) (includes 16,205 km of expressways)
+
+Topic: Sri Lankatotal: 114,093 km (2010)
+
+paved: 16,977 km (2010)
+
+unpaved: 97,116 km (2010)
+
+Topic: Sudantotal: 31,000 km (2019)
+
+paved: 8,000 km (2019)
+
+unpaved: 23,000 km (2019)
+
+urban: 1,000 km (2019)
+
+Topic: Surinametotal: 4,304 km (2003)
+
+paved: 1,119 km (2003)
+
+unpaved: 3,185 km (2003)
+
+Topic: Svalbardtotal: 40 km (2020)
+
+Topic: Swedentotal: 573,134 km (2016) (includes 2,050 km of expressways)
+
+paved: 140,100 km (2016)
+
+unpaved: 433,034 km (2016)
+
+note: includes 98,500 km of state roads, 433,034 km of private roads, and 41,600 km of municipal roads
+
+Topic: Switzerlandtotal: 71,557 km (2017)
+
+paved: 71,557 km (2017) (includes 1,458 of expressways)
+
+Topic: Syriatotal: 69,873 km (2010)
+
+paved: 63,060 km (2010)
+
+unpaved: 6,813 km (2010)
+
+Topic: Taiwantotal: 43,206 km (2017)
+
+paved: 42,793 km (2017) (includes 1,348 km of highways and 737 km of expressways)
+
+unpaved: 413 km (2017)
+
+Topic: Tajikistantotal: 30,000 km (2018)
+
+Topic: Tanzaniatotal: 145,203 km
+
+paved: 11,201 km (2015)
+
+unpaved: 135,002 km
+
+Topic: Thailandtotal: 180,053 km (2006) (includes 450 km of expressways)
+
+Topic: Timor-Lestetotal: 6,040 km (2008)
+
+paved: 2,600 km (2008)
+
+unpaved: 3,440 km (2008)
+
+Topic: Togototal: 11,734 km (2081)
+
+paved: 1,794 km (2018)
+
+unpaved: 8,157 km (2018)
+
+urban: 1,783 km (2018)
+
+Topic: Tokelautotal: 10 km (2019)
+
+Topic: Tongatotal: 680 km (2011)
+
+paved: 184 km (2011)
+
+unpaved: 496 km (2011)
+
+Topic: Tunisiapaved: 20,000 km (2015)
+
+Topic: Turkeytotal: 67,333 km (2018)
+
+paved: 24,082 km (2018) (includes 2,159 km of expressways)
+
+unpaved: 43,251 km (2018)
+
+Topic: Turkmenistantotal: 58,592 km (2002)
+
+paved: 47,577 km (2002)
+
+unpaved: 11,015 km (2002)
+
+Topic: Turks and Caicos Islandstotal: 121 km (2003)
+
+paved: 24 km (2003)
+
+unpaved: 97 km (2003)
+
+Topic: Tuvalutotal: 8 km (2011)
+
+paved: 8 km (2011)
+
+Topic: Ugandatotal: 20,544 km (2017) (excludes local roads)
+
+paved: 4,257 km (2017)
+
+unpaved: 16,287 km (2017)
+
+Topic: Ukrainetotal: 169,694 km (2012)
+
+paved: 166,095 km (2012) (includes 17 km of expressways)
+
+unpaved: 3,599 km (2012)
+
+Topic: United Arab Emiratestotal: 4,080 km (2008)
+
+paved: 4,080 km (2008) (includes 253 km of expressways)
+
+Topic: United Kingdomtotal: 394,428 km (2009)
+
+paved: 394,428 km (2009) (includes 3,519 km of expressways)
+
+Topic: United Statestotal: 6,586,610 km (2012)
+
+paved: 4,304,715 km (2012) (includes 76,334 km of expressways)
+
+unpaved: 2,281,895 km (2012)
+
+Topic: Uruguaytotal: 77,732 km (2010)
+
+paved: 7,743 km (2010)
+
+unpaved: 69,989 km (2010)
+
+Topic: Uzbekistantotal: 86,496 km (2000)
+
+paved: 75,511 km (2000)
+
+unpaved: 10,985 km (2000)
+
+Topic: Vanuatutotal: 1,070 km (2000)
+
+paved: 256 km (2000)
+
+unpaved: 814 km (2000)
+
+Topic: Venezuelatotal: 96,189 km (2014)
+
+Topic: Vietnamtotal: 195,468 km (2013)
+
+paved: 148,338 km (2013)
+
+unpaved: 47,130 km (2013)
+
+Topic: Virgin Islandstotal: 1,260 km (2008)
+
+Topic: West Banktotal: 4,686 km (2010)
+
+paved: 4,686 km (2010)
+
+note: includes Gaza Strip
+
+Topic: Yementotal: 71,300 km (2005)
+
+paved: 6,200 km (2005)
+
+unpaved: 65,100 km (2005)
+
+Topic: Zambiatotal: 67,671 km (2018)
+
+paved: 14,888 km (2018)
+
+unpaved: 52,783 km (2018)
+
+Topic: Zimbabwetotal: 97,267 km (2019)
+
+paved: 18,481 km (2019)
+
+unpaved: 78,786 km (2019)

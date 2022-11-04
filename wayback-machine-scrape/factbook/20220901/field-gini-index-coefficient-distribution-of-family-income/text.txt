@@ -1,0 +1,632 @@
+This entry measures the degree of inequality in the distribution of family income in a country. The index is calculated from the Lorenz curve, in which cumulative family income is plotted against the number of families arranged from the poorest to the richest. The index is the ratio of (a) the area between a country's Lorenz curve and the 45 degree helping line to (b) the entire triangular area under the 45 degree line. The more nearly equal a country's income distribution, the closer its Lorenz curve to the 45 degree line and the lower its Gini index, e.g., a Scandinavian country with an index of 25. The more unequal a country's income distribution, the farther its Lorenz curve from the 45 degree line and the higher its Gini index, e.g., a Sub-Saharan country with an index of 50. If income were distributed with perfect equality, the Lorenz curve would coincide with the 45 degree line and the index would be zero; if income were distributed with perfect inequality, the Lorenz curve would coincide with the horizontal axis and the right vertical axis and the index would be 100.
+
+Topic: Afghanistan29.4 (2008)
+
+Topic: Albania33.2 (2017 est.)
+
+30 (2008 est.)
+
+Topic: Algeria27.6 (2011 est.)
+
+Topic: Angola51.3 (2018 est.)
+
+Topic: Argentina41.4 (2018 est.)
+
+45.8 (2009)
+
+Topic: Armenia34.4 (2018 est.)
+
+31.5 (2013 est.)
+
+Topic: Australia34.4 (2014 est.)
+
+35.2 (1994)
+
+Topic: Austria29.7 (2017 est.)
+
+30.5 (2014)
+
+Topic: Azerbaijan33.7 (2008)
+
+36.5 (2001)
+
+Topic: Bangladesh32.4 (2016 est.)
+
+33.2 (2005)
+
+Topic: Belarus25.2 (2018 est.)
+
+21.7 (1998)
+
+Topic: Belgium27.4 (2017 est.)
+
+28.7 (1996)
+
+Topic: Benin47.8 (2015 est.)
+
+Topic: Bhutan37.4 (2017 est.)
+
+38.1 (2007)
+
+Topic: Bolivia42.2 (2018 est.)
+
+57.9 (1999)
+
+Topic: Bosnia and Herzegovina33 (2011 est.)
+
+33.1 (2007)
+
+Topic: Botswana53.3 (2015 est.)
+
+63 (1993)
+
+Topic: Brazil53.9 (2018 est.)
+
+54 (2004)
+
+Topic: Bulgaria40.4 (2017 est.)
+
+38.3 (2016)
+
+Topic: Burkina Faso35.3 (2014 est.)
+
+48.2 (1994)
+
+Topic: Burma30.7 (2017 est.)
+
+Topic: Burundi38.6 (2013 est.)
+
+Topic: Cabo Verde42.4 (2015 est.)
+
+Topic: Cambodia37.9 (2008 est.)
+
+41.9 (2004 est.)
+
+Topic: Cameroon46.5 (2014 est.)
+
+46.6 (2014 est.)
+
+Topic: Canada33.3 (2017 est.)
+
+31.5 (1994)
+
+Topic: Central African Republic43.6 (2003 est.)
+
+61.3 (1993)
+
+Topic: Chad43.3 (2011 est.)
+
+Topic: Chile44.4 (2017 est.)
+
+57.1 (2000)
+
+Topic: China38.5 (2016 est.)
+
+46.2 (2015 est.)
+
+Topic: Colombia50.4 (2018 est.)
+
+53.5 (2014)
+
+Topic: Comoros45.3 (2014 est.)
+
+Topic: Congo, Democratic Republic of the42.1 (2012 est.)
+
+Topic: Congo, Republic of the48.9 (2011 est.)
+
+Topic: Costa Rica48 (2018 est.)
+
+49.2 (2013)
+
+Topic: Cote d'Ivoire41.5 (2015 est.)
+
+36.7 (1995)
+
+Topic: Croatia30.4 (2017 est.)
+
+32.1 (2014 est.)
+
+Topic: Cyprus31.4 (2017 est.)
+
+32.4 (2013 est.)
+
+Topic: Czechia24.9 (2017 est.)
+
+25.1 (2014)
+
+Topic: Denmark28.7 (2017 est.)
+
+27.5 (2010 est.)
+
+Topic: Djibouti41.6 (2017 est.)
+
+Topic: Dominican Republic43.7 (2018 est.)
+
+45.7 (2012 est.)
+
+Topic: Ecuador45.4 (2018 est.)
+
+48.5 (December 2017)
+
+note: data are for urban households only
+
+Topic: Egypt31.5 (2017 est.)
+
+29.8 (2012)
+
+Topic: El Salvador38.6 (2018 est.)
+
+38 (2014)
+
+Topic: Estonia30.4 (2017 est.)
+
+35.6 (2014)
+
+Topic: Eswatini54.6 (2016 est.)
+
+Topic: Ethiopia35 (2015 est.)
+
+30 (2000)
+
+Topic: European Union30.8 (2016 est.)
+
+31 (2015 est.)
+
+Topic: Falkland Islands (Islas Malvinas)36 (2015)
+
+Topic: Faroe Islands22.7 (2013 est.)
+
+21.6 (2011 est.)
+
+Topic: Fiji36.7 (2013 est.)
+
+Topic: Finland27.4 (2017 est.)
+
+22.2 (1995)
+
+Topic: France31.6 (2017 est.)
+
+29.2 (2015)
+
+Topic: Gabon38 (2017 est.)
+
+Topic: Gambia, The35.9 (2015 est.)
+
+Topic: Gaza Strip33.7 (2016 est.)
+
+Topic: Georgia36.4 (2018 est.)
+
+46 (2011)
+
+Topic: Germany31.9 (2016 est.)
+
+30 (1994)
+
+Topic: Ghana43.5 (2016 est.)
+
+42.3 (2012-13)
+ 41.9 (2005-06)
+
+Topic: Greece34.4 (2017 est.)
+
+35.7 (2011)
+
+Topic: Greenland33.9 (2015 est.)
+
+34.3 (2014 est.)
+
+Topic: Guatemala48.3 (2014 est.)
+
+56 (2011)
+
+Topic: Guinea33.7 (2012 est.)
+
+40.3 (1994)
+
+Topic: Guinea-Bissau50.7 (2010 est.)
+
+Topic: Guyana44.6 (2007)
+
+43.2 (1999)
+
+Topic: Haiti41.1 (2012 est.)
+
+59.2 (2001)
+
+Topic: Honduras52.1 (2018 est.)
+
+45.7 (2009)
+
+Topic: Hong Kong53.9 (2016)
+
+53.7 (2011 est.)
+
+Topic: Hungary30.6 (2017 est.)
+
+28.6 (2014)
+
+Topic: Iceland26.8 (2015 est.)
+
+25 (2005)
+
+Topic: India35.7 (2011 est.)
+
+37.8 (1997)
+
+Topic: Indonesia37.8 (2018 est.)
+
+39.4 (2005)
+
+Topic: Iran40.8 (2017 est.)
+
+Topic: Iraq29.5 (2012 est.)
+
+Topic: Ireland32.8 (2016 est.)
+
+35.9 (1987 est.)
+
+Topic: Israel37 (2018 est.)
+
+39 (2016 est.)
+
+39.2 (2008)
+
+Topic: Italy35.9 (2017 est.)
+
+27.3 (1995)
+
+Topic: Jamaica35 (2016)
+
+38 (2015)
+
+Topic: Japan32.9 (2013 est.)
+
+24.9 (1993)
+
+Topic: Jersey0.3 (2014 est.)
+
+0.3 (2013 est.)
+
+Topic: Jordan33.7 (2010 est.)
+
+36.4 (1997)
+
+Topic: Kazakhstan27.5 (2017 est.)
+
+31.5 (2003)
+
+Topic: Kenya40.8 (2015 est.)
+
+42.5 (2008 est.)
+
+Topic: Korea, South35.4 (2015 est.)
+
+31.6 (2012 est.)
+
+Topic: Kosovo29 (2017 est.)
+
+24.1 (2014 est.)
+
+Topic: Kyrgyzstan27.7 (2018 est.)
+
+29 (2001)
+
+Topic: Laos36.4 (2012 est.)
+
+34.6 (2002)
+
+Topic: Latvia35.6 (2017 est.)
+
+35.4 (2014)
+
+Topic: Lebanon31.8 (2011 est.)
+
+Topic: Lesotho44.9 (2017 est.)
+
+56 (1986-87)
+
+Topic: Liberia35.3 (2016 est.)
+
+38.2 (2007)
+
+Topic: Lithuania37.3 (2017 est.)
+
+35 (2014)
+
+Topic: Luxembourg34.9 (2017 est.)
+
+26 (2005 est.)
+
+Topic: Macau35 (2013)
+
+38 (2008)
+
+Topic: Madagascar42.6 (2012 est.)
+
+42.7 (2010)
+
+Topic: Malawi44.7 (2016 est.)
+
+39 (2004)
+
+Topic: Malaysia41 (2015 est.)
+
+49.2 (1997)
+
+Topic: Maldives31.3 (2016 est.)
+
+37.4 (2004 est.)
+
+Topic: Mali40.1 (2001)
+
+50.5 (1994)
+
+Topic: Malta29.2 (2017 est.)
+
+27.7 (2014)
+
+Topic: Mauritania32.6 (2014 est.)
+
+39 (2006 est.)
+
+Topic: Mauritius36.8 (2017 est.)
+
+39 (2006 est.)
+
+Topic: Mexico36.8 (2018 est.)
+
+48.3 (2008)
+
+Topic: Micronesia, Federated States of40.1 (2013 est.)
+
+Topic: Moldova25.7 (2018 est.)
+
+26.8 (2014 est.)
+
+Topic: Mongolia32.7 (2018 est.)
+
+36.5 (2008)
+
+Topic: Montenegro39 (2015 est.)
+
+32.3 (2013 est.)
+
+Topic: Morocco39.5 (2013 est.)
+
+39.5 (1999 est.)
+
+Topic: Mozambique54 (2014 est.)
+
+47.3 (2002)
+
+Topic: Namibia59.1 (2015 est.)
+
+70.7 (2003)
+
+Topic: Nepal32.8 (2010 est.)
+
+47.2 (2008 est.)
+
+Topic: Netherlands28.5 (2017 est.)
+
+25.1 (2013 est.)
+
+Topic: New Zealand36.2 (1997)
+
+Topic: Nicaragua46.2 (2014 est.)
+
+45.8 (2009)
+
+Topic: Niger34.3 (2014 est.)
+
+50.5 (1995)
+
+Topic: Nigeria35.1 (2018 est.)
+
+50.6 (1997)
+
+Topic: North Macedonia34.2 (2017 est.)
+
+35.2 (2014)
+
+Topic: Norway27 (2017 est.)
+
+25.8 (1995)
+
+Topic: Pakistan33.5 (2015 est.)
+
+30.9 (FY2011)
+
+Topic: Panama49.2 (2018 est.)
+
+56.1 (2003)
+
+Topic: Papua New Guinea50.9 (1996)
+
+Topic: Paraguay46.2 (2018 est.)
+
+53.2 (2009)
+
+Topic: Peru42.8 (2018 est.)
+
+51 (2005)
+
+Topic: Philippines44.4 (2015 est.)
+
+46 (2012 est.)
+
+Topic: Poland29.7 (2017 est.)
+
+33.7 (2008)
+
+Topic: Portugal33.8 (2017 est.)
+
+34 (2014 est.)
+
+Topic: Qatar41.1 (2007)
+
+Topic: Romania36 (2017 est.)
+
+28.2 (2010)
+
+Topic: Russia37.5 (2018 est.)
+
+41.9 (2013)
+
+Topic: Rwanda43.7 (2016 est.)
+
+51.3 (2010 est.)
+
+Topic: Saint Lucia51.2 (2016 est.)
+
+Topic: Samoa38.7 (2013 est.)
+
+Topic: Sao Tome and Principe56.3 (2017 est.)
+
+32.1 (2000 est.)
+
+Topic: Saudi Arabia45.9 (2013 est.)
+
+Topic: Senegal40.3 (2011 est.)
+
+Topic: Serbia36.2 (2017 est.)
+
+28.2 (2008 est.)
+
+Topic: Seychelles46.8 (2013 est.)
+
+Topic: Sierra Leone35.7 (2018 est.)
+
+62.9 (1989)
+
+Topic: Singapore45.9 (2017)
+
+45.8 (2016)
+
+Topic: Slovakia25.2 (2016 est.)
+
+26.1 (2014)
+
+Topic: Slovenia24.2 (2017 est.)
+
+24.5 (2015)
+
+Topic: Solomon Islands37.1 (2013 est.)
+
+Topic: South Africa63 (2014 est.)
+
+63.4 (2011 est.)
+
+Topic: South Sudan46 (2010 est.)
+
+Topic: Spain34.7 (2017 est.)
+
+32 (2005)
+
+Topic: Sri Lanka39.8 (2016 est.)
+
+46 (1995)
+
+Topic: Sudan34.2 (2014 est.)
+
+Topic: Sweden28.8 (2017 est.)
+
+25 (1992)
+
+Topic: Switzerland32.7 (2017 est.)
+
+33.1 (1992)
+
+Topic: Taiwan33.6 (2014)
+
+32.6 (2000)
+
+Topic: Tajikistan34 (2015 est.)
+
+34.7 (1998)
+
+Topic: Tanzania40.5 (2017 est.)
+
+34.6 (2000)
+
+Topic: Thailand36.4 (2018 est.)
+
+48.4 (2011)
+
+Topic: Timor-Leste28.7 (2014 est.)
+
+38 (2002 est.)
+
+Topic: Togo43.1 (2015 est.)
+
+Topic: Tonga37.6 (2015 est.)
+
+Topic: Tunisia32.8 (2015 est.)
+
+41.7 (1995 est.)
+
+Topic: Turkey (Turkiye)41.9 (2018 est.)
+
+43.6 (2003)
+
+Topic: Turkmenistan40.8 (1998)
+
+Topic: Tuvalu39.1 (2010 est.)
+
+Topic: Uganda42.8 (2016 est.)
+
+45.7 (2002)
+
+Topic: Ukraine26.1 (2018 est.)
+
+28.2 (2009)
+
+Topic: United Arab Emirates32.5 (2014 est.)
+
+Topic: United Kingdom34.8 (2016 est.)
+
+33.4 (2010)
+
+Topic: United States41.1 (2016 est.)
+
+40.8 (1997)
+
+Topic: Uruguay39.7 (2018 est.)
+
+41.9 (2013)
+
+Topic: Uzbekistan36.8 (2003)
+
+44.7 (1998)
+
+Topic: Vanuatu37.6 (2010 est.)
+
+Topic: Venezuela39 (2011)
+
+49.5 (1998)
+
+Topic: Vietnam35.7 (2018 est.)
+
+37.6 (2008)
+
+Topic: West Bank33.7 (2016 est.)
+
+38.7 (2007 est.)
+
+note: includes Gaza Strip
+
+Topic: World37.9 (2012 est.)
+
+37.9 (2005 est.)
+
+Topic: Yemen36.7 (2014 est.)
+
+37.3 (1999 est.)
+
+Topic: Zambia57.1 (2015 est.)
+
+50.8 (2004)
+
+Topic: Zimbabwe44.3 (2017 est.)
+
+50.1 (2006)

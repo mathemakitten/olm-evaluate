@@ -1,0 +1,2125 @@
+This field refers to a country's coal and metallurgical coke production, consumption, exports, imports, and proven reserves. These energy sources include anthracite, metallurgical, bituminous, subbituminous, and lignite coal and metallurgical coke. Proven reserves are those quantities of coal that have been analyzed as commercially recoverable in the future based on known reservoirs and assuming current economic conditions. Data are reported in metric tons, and one metric ton is 1,000 kilograms.
+
+Topic: AfghanistanProduction: 2.096 million metric tons (2020 est.)
+
+Consumption: 2.096 million metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 66 million metric tons (2019 est.)
+
+Topic: AlbaniaProduction: 9,000 metric tons (2020 est.)
+
+Consumption: 119,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 110,000 metric tons (2020 est.)
+
+Proven reserves: 522 million metric tons (2019 est.)
+
+Topic: AlgeriaProduction: 0 metric tons (2020 est.)
+
+Consumption: 85,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 85,000 metric tons (2020 est.)
+
+Proven reserves: 59 million metric tons (2019 est.)
+
+Topic: American SamoaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: AngolaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: AntarcticaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Antigua and BarbudaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: ArgentinaProduction: 829,000 metric tons (2020 est.)
+
+Consumption: 1.55 million metric tons (2020 est.)
+
+Exports: 4,000 metric tons (2020 est.)
+
+Imports: 990,000 metric tons (2020 est.)
+
+Proven reserves: 500 million metric tons (2019 est.)
+
+Topic: ArmeniaProduction: 0 metric tons (2020 est.)
+
+Consumption: 12,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 12,000 metric tons (2020 est.)
+
+Proven reserves: 163 million metric tons (2019 est.)
+
+Topic: ArubaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: AustraliaProduction: 504.051 million metric tons (2020 est.)
+
+Consumption: 99.048 million metric tons (2020 est.)
+
+Exports: 390.808 million metric tons (2020 est.)
+
+Imports: 583,000 metric tons (2020 est.)
+
+Proven reserves: 149.079 billion metric tons (2019 est.)
+
+Topic: AustriaProduction: 1.327 million metric tons (2020 est.)
+
+Consumption: 4.899 million metric tons (2020 est.)
+
+Exports: 1,000 metric tons (2020 est.)
+
+Imports: 3.667 million metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: AzerbaijanProduction: 0 metric tons (2020 est.)
+
+Consumption: 19,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 19,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Bahamas, TheProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: BahrainProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: BangladeshProduction: 1.016 million metric tons (2020 est.)
+
+Consumption: 9.345 million metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 8.329 million metric tons (2020 est.)
+
+Proven reserves: 293 million metric tons (2019 est.)
+
+Topic: BarbadosProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: BelarusProduction: 0 metric tons (2020 est.)
+
+Consumption: 621,000 metric tons (2020 est.)
+
+Exports: 1.574 million metric tons (2020 est.)
+
+Imports: 2.117 million metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: BelgiumProduction: 1.105 million metric tons (2020 est.)
+
+Consumption: 4.167 million metric tons (2020 est.)
+
+Exports: 504,000 metric tons (2020 est.)
+
+Imports: 3.467 million metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: BelizeProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: BeninProduction: 0 metric tons (2020 est.)
+
+Consumption: 78,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 78,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: BermudaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: BhutanProduction: 174,000 metric tons (2020 est.)
+
+Consumption: 211,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 37,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: BoliviaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 1 million metric tons (2019 est.)
+
+Topic: Bosnia and HerzegovinaProduction: 6.966 million metric tons (2020 est.)
+
+Consumption: 7.752 million metric tons (2020 est.)
+
+Exports: 525,000 metric tons (2020 est.)
+
+Imports: 1.366 million metric tons (2020 est.)
+
+Proven reserves: 2.264 billion metric tons (2019 est.)
+
+Topic: BotswanaProduction: 1.876 million metric tons (2020 est.)
+
+Consumption: 1.416 million metric tons (2020 est.)
+
+Exports: 497,000 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 1.66 billion metric tons (2019 est.)
+
+Topic: BrazilProduction: 13.993 million metric tons (2020 est.)
+
+Consumption: 31.841 million metric tons (2020 est.)
+
+Exports: 16,000 metric tons (2020 est.)
+
+Imports: 19.217 million metric tons (2020 est.)
+
+Proven reserves: 6.596 billion metric tons (2019 est.)
+
+Topic: British Virgin IslandsProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: BruneiProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: BulgariaProduction: 22.298 million metric tons (2020 est.)
+
+Consumption: 23.213 million metric tons (2020 est.)
+
+Exports: 35,000 metric tons (2020 est.)
+
+Imports: 675,000 metric tons (2020 est.)
+
+Proven reserves: 2.366 billion metric tons (2019 est.)
+
+Topic: Burkina FasoProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: BurmaProduction: 1.468 million metric tons (2020 est.)
+
+Consumption: 1.981 million metric tons (2020 est.)
+
+Exports: 1,000 metric tons (2020 est.)
+
+Imports: 514,000 metric tons (2020 est.)
+
+Proven reserves: 6 million metric tons (2019 est.)
+
+Topic: BurundiProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Cabo VerdeProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: CambodiaProduction: 0 metric tons (2020 est.)
+
+Consumption: 2.974 million metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 3.311 million metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: CameroonProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: CanadaProduction: 48.328 million metric tons (2020 est.)
+
+Consumption: 25.642 million metric tons (2020 est.)
+
+Exports: 32.026 million metric tons (2020 est.)
+
+Imports: 7.577 million metric tons (2020 est.)
+
+Proven reserves: 6.582 billion metric tons (2019 est.)
+
+Topic: Cayman IslandsProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Central African RepublicProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 3 million metric tons (2019 est.)
+
+Topic: ChadProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: ChileProduction: 542,000 metric tons (2020 est.)
+
+Consumption: 10.573 million metric tons (2020 est.)
+
+Exports: 134,000 metric tons (2020 est.)
+
+Imports: 10.607 million metric tons (2020 est.)
+
+Proven reserves: 1.181 billion metric tons (2019 est.)
+
+Topic: ChinaProduction: 4,314,681,000 metric tons (2020 est.)
+
+Consumption: 4,506,387,000 metric tons (2020 est.)
+
+Exports: 6.652 million metric tons (2020 est.)
+
+Imports: 307.047 million metric tons (2020 est.)
+
+Proven reserves: 141.595 billion metric tons (2019 est.)
+
+Topic: ColombiaProduction: 51.395 million metric tons (2020 est.)
+
+Consumption: 8.547 million metric tons (2020 est.)
+
+Exports: 69.861 million metric tons (2020 est.)
+
+Imports: 79,000 metric tons (2020 est.)
+
+Proven reserves: 4.554 billion metric tons (2019 est.)
+
+Topic: ComorosProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Congo, Democratic Republic of theProduction: 0 metric tons (2020 est.)
+
+Consumption: 10,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 10,000 metric tons (2020 est.)
+
+Proven reserves: 88 million metric tons (2019 est.)
+
+Topic: Congo, Republic of theProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Cook IslandsProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Costa RicaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Cote d'IvoireProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: CroatiaProduction: 0 metric tons (2020 est.)
+
+Consumption: 643,000 metric tons (2020 est.)
+
+Exports: 2,000 metric tons (2020 est.)
+
+Imports: 644,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: CubaProduction: 0 metric tons (2020 est.)
+
+Consumption: 4,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 4,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: CyprusProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: CzechiaProduction: 33.806 million metric tons (2020 est.)
+
+Consumption: 37.212 million metric tons (2020 est.)
+
+Exports: 1.885 million metric tons (2020 est.)
+
+Imports: 3.795 million metric tons (2020 est.)
+
+Proven reserves: 2.927 billion metric tons (2019 est.)
+
+Topic: DenmarkProduction: 0 metric tons (2020 est.)
+
+Consumption: 1.249 million metric tons (2020 est.)
+
+Exports: 194,000 metric tons (2020 est.)
+
+Imports: 1.122 million metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: DjiboutiProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: DominicaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Dominican RepublicProduction: 0 metric tons (2020 est.)
+
+Consumption: 1.791 million metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 2.359 million metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: EcuadorProduction: 0 metric tons (2020 est.)
+
+Consumption: 10,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 10,000 metric tons (2020 est.)
+
+Proven reserves: 24 million metric tons (2019 est.)
+
+Topic: EgyptProduction: 262,000 metric tons (2020 est.)
+
+Consumption: 2.31 million metric tons (2020 est.)
+
+Exports: 86,000 metric tons (2020 est.)
+
+Imports: 2.134 million metric tons (2020 est.)
+
+Proven reserves: 16 million metric tons (2019 est.)
+
+Topic: El SalvadorProduction: 0 metric tons (2020 est.)
+
+Consumption: 1,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 1,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Equatorial GuineaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: EritreaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: EstoniaProduction: 0 metric tons (2020 est.)
+
+Consumption: 3,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 3,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: EswatiniProduction: 108,000 metric tons (2020 est.)
+
+Consumption: 169,000 metric tons (2020 est.)
+
+Exports: 163,000 metric tons (2020 est.)
+
+Imports: 135,000 metric tons (2020 est.)
+
+Proven reserves: 144 million metric tons (2019 est.)
+
+Topic: EthiopiaProduction: 0 metric tons (2020 est.)
+
+Consumption: 689,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 528,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Falkland Islands (Islas Malvinas)Production: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Faroe IslandsProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: FijiProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: FinlandProduction: 762,000 metric tons (2020 est.)
+
+Consumption: 3.552 million metric tons (2020 est.)
+
+Exports: 101,000 metric tons (2020 est.)
+
+Imports: 2.661 million metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: FranceProduction: 2.312 million metric tons (2020 est.)
+
+Consumption: 10.712 million metric tons (2020 est.)
+
+Exports: 35,000 metric tons (2020 est.)
+
+Imports: 7.891 million metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: French PolynesiaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: GabonProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Gambia, TheProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: GeorgiaProduction: 99,000 metric tons (2020 est.)
+
+Consumption: 362,000 metric tons (2020 est.)
+
+Exports: 1,000 metric tons (2020 est.)
+
+Imports: 277,000 metric tons (2020 est.)
+
+Proven reserves: 201 million metric tons (2019 est.)
+
+Topic: GermanyProduction: 114.86 million metric tons (2020 est.)
+
+Consumption: 145.379 million metric tons (2020 est.)
+
+Exports: 2.317 million metric tons (2020 est.)
+
+Imports: 31.503 million metric tons (2020 est.)
+
+Proven reserves: 35.9 billion metric tons (2019 est.)
+
+Topic: GhanaProduction: 0 metric tons (2020 est.)
+
+Consumption: 48,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 48,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: GibraltarProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: GreeceProduction: 13.851 million metric tons (2020 est.)
+
+Consumption: 13.828 million metric tons (2020 est.)
+
+Exports: 7,000 metric tons (2020 est.)
+
+Imports: 305,000 metric tons (2020 est.)
+
+Proven reserves: 2.876 billion metric tons (2019 est.)
+
+Topic: GreenlandProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 183 million metric tons (2019 est.)
+
+Topic: GrenadaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: GuamProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: GuatemalaProduction: 0 metric tons (2020 est.)
+
+Consumption: 2.28 million metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 2.376 million metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: GuineaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Guinea-BissauProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: GuyanaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: HaitiProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: HondurasProduction: 0 metric tons (2020 est.)
+
+Consumption: 25,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 25,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Hong KongProduction: 0 metric tons (2020 est.)
+
+Consumption: 5.485 million metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 5.485 million metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: HungaryProduction: 6.956 million metric tons (2020 est.)
+
+Consumption: 8.079 million metric tons (2020 est.)
+
+Exports: 230,000 metric tons (2020 est.)
+
+Imports: 1.395 million metric tons (2020 est.)
+
+Proven reserves: 2.909 billion metric tons (2019 est.)
+
+Topic: IcelandProduction: 0 metric tons (2020 est.)
+
+Consumption: 142,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 136,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: IndiaProduction: 743.214 million metric tons (2020 est.)
+
+Consumption: 883.979 million metric tons (2020 est.)
+
+Exports: 1.029 million metric tons (2020 est.)
+
+Imports: 219.212 million metric tons (2020 est.)
+
+Proven reserves: 105.931 billion metric tons (2019 est.)
+
+Topic: IndonesiaProduction: 563.728 million metric tons (2020 est.)
+
+Consumption: 132.548 million metric tons (2020 est.)
+
+Exports: 409.892 million metric tons (2020 est.)
+
+Imports: 8.95 million metric tons (2020 est.)
+
+Proven reserves: 39.891 billion metric tons (2019 est.)
+
+Topic: IranProduction: 2.783 million metric tons (2020 est.)
+
+Consumption: 2.794 million metric tons (2020 est.)
+
+Exports: 76,000 metric tons (2020 est.)
+
+Imports: 87,000 metric tons (2020 est.)
+
+Proven reserves: 1.203 billion metric tons (2019 est.)
+
+Topic: IraqProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: IrelandProduction: 0 metric tons (2020 est.)
+
+Consumption: 351,000 metric tons (2020 est.)
+
+Exports: 132,000 metric tons (2020 est.)
+
+Imports: 408,000 metric tons (2020 est.)
+
+Proven reserves: 14 million metric tons (2019 est.)
+
+Topic: IsraelProduction: 0 metric tons (2020 est.)
+
+Consumption: 5.089 million metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 5.565 million metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: ItalyProduction: 1.456 million metric tons (2020 est.)
+
+Consumption: 9.335 million metric tons (2020 est.)
+
+Exports: 368,000 metric tons (2020 est.)
+
+Imports: 8.235 million metric tons (2020 est.)
+
+Proven reserves: 17 million metric tons (2019 est.)
+
+Topic: JamaicaProduction: 0 metric tons (2020 est.)
+
+Consumption: 61,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 82,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: JapanProduction: 29.84 million metric tons (2020 est.)
+
+Consumption: 210.882 million metric tons (2020 est.)
+
+Exports: 3.201 million metric tons (2020 est.)
+
+Imports: 174.486 million metric tons (2020 est.)
+
+Proven reserves: 350 million metric tons (2019 est.)
+
+Topic: JordanProduction: 0 metric tons (2020 est.)
+
+Consumption: 219,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 219,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: KazakhstanProduction: 102.338 million metric tons (2020 est.)
+
+Consumption: 74.819 million metric tons (2020 est.)
+
+Exports: 3.002 million metric tons (2020 est.)
+
+Imports: 993,000 metric tons (2020 est.)
+
+Proven reserves: 25.605 billion metric tons (2019 est.)
+
+Topic: KenyaProduction: 0 metric tons (2020 est.)
+
+Consumption: 821,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 822,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: KiribatiProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Korea, NorthProduction: 16.376 million metric tons (2020 est.)
+
+Consumption: 6.698 million metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 22,000 metric tons (2020 est.)
+
+Proven reserves: 600 million metric tons (2019 est.)
+
+Topic: Korea, SouthProduction: 16.364 million metric tons (2020 est.)
+
+Consumption: 140.579 million metric tons (2020 est.)
+
+Exports: 16,000 metric tons (2020 est.)
+
+Imports: 123.784 million metric tons (2020 est.)
+
+Proven reserves: 326 million metric tons (2019 est.)
+
+Topic: KosovoProduction: 8.538 million metric tons (2020 est.)
+
+Consumption: 8.549 million metric tons (2020 est.)
+
+Exports: 9,000 metric tons (2020 est.)
+
+Imports: 20,000 metric tons (2020 est.)
+
+Proven reserves: 1.564 billion metric tons (2019 est.)
+
+Topic: KuwaitProduction: 0 metric tons (2020 est.)
+
+Consumption: 68,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 68,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: KyrgyzstanProduction: 2.287 million metric tons (2020 est.)
+
+Consumption: 1.717 million metric tons (2020 est.)
+
+Exports: 984,000 metric tons (2020 est.)
+
+Imports: 481,000 metric tons (2020 est.)
+
+Proven reserves: 971 million metric tons (2019 est.)
+
+Topic: LaosProduction: 16.04 million metric tons (2020 est.)
+
+Consumption: 15.823 million metric tons (2020 est.)
+
+Exports: 235,000 metric tons (2020 est.)
+
+Imports: 18,000 metric tons (2020 est.)
+
+Proven reserves: 503 million metric tons (2019 est.)
+
+Topic: LatviaProduction: 0 metric tons (2020 est.)
+
+Consumption: 39,000 metric tons (2020 est.)
+
+Exports: 3,000 metric tons (2020 est.)
+
+Imports: 40,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: LebanonProduction: 0 metric tons (2020 est.)
+
+Consumption: 268,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 268,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: LesothoProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: LiberiaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: LibyaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: LithuaniaProduction: 0 metric tons (2020 est.)
+
+Consumption: 221,000 metric tons (2020 est.)
+
+Exports: 75,000 metric tons (2020 est.)
+
+Imports: 268,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: LuxembourgProduction: 0 metric tons (2020 est.)
+
+Consumption: 65,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 74,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: MacauProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: MadagascarProduction: 0 metric tons (2020 est.)
+
+Consumption: 107,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 115,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: MalawiProduction: 48,000 metric tons (2020 est.)
+
+Consumption: 47,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 2 million metric tons (2019 est.)
+
+Topic: MalaysiaProduction: 2.977 million metric tons (2020 est.)
+
+Consumption: 35.268 million metric tons (2020 est.)
+
+Exports: 17,000 metric tons (2020 est.)
+
+Imports: 37.295 million metric tons (2020 est.)
+
+Proven reserves: 226 million metric tons (2019 est.)
+
+Topic: MaldivesProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: MaliProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: MaltaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: MauritaniaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: MauritiusProduction: 0 metric tons (2020 est.)
+
+Consumption: 661,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 1.189 million metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: MexicoProduction: 9.886 million metric tons (2020 est.)
+
+Consumption: 10.241 million metric tons (2020 est.)
+
+Exports: 3,000 metric tons (2020 est.)
+
+Imports: 5.182 million metric tons (2020 est.)
+
+Proven reserves: 1.211 billion metric tons (2019 est.)
+
+Topic: Micronesia, Federated States ofProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Topic: MoldovaProduction: 0 metric tons (2020 est.)
+
+Consumption: 133,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 133,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: MongoliaProduction: 43.904 million metric tons (2020 est.)
+
+Consumption: 8.818 million metric tons (2020 est.)
+
+Exports: 28.551 million metric tons (2020 est.)
+
+Imports: 1,000 metric tons (2020 est.)
+
+Proven reserves: 2.52 billion metric tons (2019 est.)
+
+Topic: MontenegroProduction: 1.456 million metric tons (2020 est.)
+
+Consumption: 1.351 million metric tons (2020 est.)
+
+Exports: 96,000 metric tons (2020 est.)
+
+Imports: 1,000 metric tons (2020 est.)
+
+Proven reserves: 142 million metric tons (2019 est.)
+
+Topic: MontserratProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: MoroccoProduction: 0 metric tons (2020 est.)
+
+Consumption: 9.321 million metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 9.321 million metric tons (2020 est.)
+
+Proven reserves: 14 million metric tons (2019 est.)
+
+Topic: MozambiqueProduction: 7.25 million metric tons (2020 est.)
+
+Consumption: 46,000 metric tons (2020 est.)
+
+Exports: 8.355 million metric tons (2020 est.)
+
+Imports: 48,000 metric tons (2020 est.)
+
+Proven reserves: 1.792 billion metric tons (2019 est.)
+
+Topic: NamibiaProduction: 0 metric tons (2020 est.)
+
+Consumption: 38,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 59,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: NauruProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: NepalProduction: 28,000 metric tons (2020 est.)
+
+Consumption: 839,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 811,000 metric tons (2020 est.)
+
+Proven reserves: 1 million metric tons (2019 est.)
+
+Topic: NetherlandsProduction: 1.879 million metric tons (2020 est.)
+
+Consumption: 8.241 million metric tons (2020 est.)
+
+Exports: 20.164 million metric tons (2020 est.)
+
+Imports: 21.552 million metric tons (2020 est.)
+
+Proven reserves: 497 million metric tons (2019 est.)
+
+Topic: New CaledoniaProduction: 0 metric tons (2020 est.)
+
+Consumption: 1.151 million metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 1.151 million metric tons (2020 est.)
+
+Proven reserves: 2 million metric tons (2019 est.)
+
+Topic: New ZealandProduction: 3.226 million metric tons (2020 est.)
+
+Consumption: 3.001 million metric tons (2020 est.)
+
+Exports: 1.14 million metric tons (2020 est.)
+
+Imports: 1.09 million metric tons (2020 est.)
+
+Proven reserves: 7.575 billion metric tons (2019 est.)
+
+Topic: NicaraguaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: NigerProduction: 224,000 metric tons (2020 est.)
+
+Consumption: 224,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 6 million metric tons (2019 est.)
+
+Topic: NigeriaProduction: 44,000 metric tons (2020 est.)
+
+Consumption: 85,000 metric tons (2020 est.)
+
+Exports: 12,000 metric tons (2020 est.)
+
+Imports: 77,000 metric tons (2020 est.)
+
+Proven reserves: 344 million metric tons (2019 est.)
+
+Topic: NiueProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: North MacedoniaProduction: 5.026 million metric tons (2020 est.)
+
+Consumption: 5.211 million metric tons (2020 est.)
+
+Exports: 1,000 metric tons (2020 est.)
+
+Imports: 174,000 metric tons (2020 est.)
+
+Proven reserves: 332 million metric tons (2019 est.)
+
+Topic: Northern Mariana IslandsProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Topic: NorwayProduction: 69,000 metric tons (2020 est.)
+
+Consumption: 1.13 million metric tons (2020 est.)
+
+Exports: 46,000 metric tons (2020 est.)
+
+Imports: 1.172 million metric tons (2020 est.)
+
+Proven reserves: 2 million metric tons (2019 est.)
+
+Topic: OmanProduction: 0 metric tons (2020 est.)
+
+Consumption: 115,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 115,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: PakistanProduction: 4.855 million metric tons (2020 est.)
+
+Consumption: 21.012 million metric tons (2020 est.)
+
+Exports: 1,000 metric tons (2020 est.)
+
+Imports: 17.239 million metric tons (2020 est.)
+
+Proven reserves: 3.064 billion metric tons (2019 est.)
+
+Topic: PanamaProduction: 0 metric tons (2020 est.)
+
+Consumption: 1.118 million metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 1.15 million metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Papua New GuineaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: ParaguayProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: PeruProduction: 696,000 metric tons (2020 est.)
+
+Consumption: 396,000 metric tons (2020 est.)
+
+Exports: 252,000 metric tons (2020 est.)
+
+Imports: 262,000 metric tons (2020 est.)
+
+Proven reserves: 102 million metric tons (2019 est.)
+
+Topic: PhilippinesProduction: 13.752 million metric tons (2020 est.)
+
+Consumption: 32.855 million metric tons (2020 est.)
+
+Exports: 7.554 million metric tons (2020 est.)
+
+Imports: 28.358 million metric tons (2020 est.)
+
+Proven reserves: 361 million metric tons (2019 est.)
+
+Topic: PolandProduction: 108.152 million metric tons (2020 est.)
+
+Consumption: 110.674 million metric tons (2020 est.)
+
+Exports: 11.063 million metric tons (2020 est.)
+
+Imports: 13.281 million metric tons (2020 est.)
+
+Proven reserves: 26.932 billion metric tons (2019 est.)
+
+Topic: PortugalProduction: 0 metric tons (2020 est.)
+
+Consumption: 957,000 metric tons (2020 est.)
+
+Exports: 1,000 metric tons (2020 est.)
+
+Imports: 238,000 metric tons (2020 est.)
+
+Proven reserves: 36 million metric tons (2019 est.)
+
+Topic: Puerto RicoProduction: 0 metric tons (2020 est.)
+
+Consumption: 1.361 million metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 1.502 million metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: QatarProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: RomaniaProduction: 15.002 million metric tons (2020 est.)
+
+Consumption: 16.412 million metric tons (2020 est.)
+
+Exports: 2,000 metric tons (2020 est.)
+
+Imports: 1.384 million metric tons (2020 est.)
+
+Proven reserves: 291 million metric tons (2019 est.)
+
+Topic: RussiaProduction: 447.332 million metric tons (2020 est.)
+
+Consumption: 266.038 million metric tons (2020 est.)
+
+Exports: 224.324 million metric tons (2020 est.)
+
+Imports: 24.027 million metric tons (2020 est.)
+
+Proven reserves: 162.166 billion metric tons (2019 est.)
+
+Topic: RwandaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Saint Helena, Ascension, and Tristan da CunhaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Saint Kitts and NevisProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Saint LuciaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Saint Pierre and MiquelonProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Saint Vincent and the GrenadinesProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: SamoaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Sao Tome and PrincipeProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Saudi ArabiaProduction: 0 metric tons (2020 est.)
+
+Consumption: 73,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 73,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: SenegalProduction: 0 metric tons (2020 est.)
+
+Consumption: 894,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 894,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: SerbiaProduction: 39.673 million metric tons (2020 est.)
+
+Consumption: 40.83 million metric tons (2020 est.)
+
+Exports: 72,000 metric tons (2020 est.)
+
+Imports: 987,000 metric tons (2020 est.)
+
+Proven reserves: 7.514 billion metric tons (2019 est.)
+
+Topic: SeychellesProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Sierra LeoneProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: SingaporeProduction: 0 metric tons (2020 est.)
+
+Consumption: 423,000 metric tons (2020 est.)
+
+Exports: 1,000 metric tons (2020 est.)
+
+Imports: 424,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: SlovakiaProduction: 2.148 million metric tons (2020 est.)
+
+Consumption: 5.371 million metric tons (2020 est.)
+
+Exports: 1,000 metric tons (2020 est.)
+
+Imports: 3.111 million metric tons (2020 est.)
+
+Proven reserves: 135 million metric tons (2019 est.)
+
+Topic: SloveniaProduction: 3.175 million metric tons (2020 est.)
+
+Consumption: 3.502 million metric tons (2020 est.)
+
+Exports: 3,000 metric tons (2020 est.)
+
+Imports: 335,000 metric tons (2020 est.)
+
+Proven reserves: 371 million metric tons (2019 est.)
+
+Topic: Solomon IslandsProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: SomaliaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: South AfricaProduction: 248.388 million metric tons (2020 est.)
+
+Consumption: 170.308 million metric tons (2020 est.)
+
+Exports: 74.965 million metric tons (2020 est.)
+
+Imports: 2.054 million metric tons (2020 est.)
+
+Proven reserves: 9.893 billion metric tons (2019 est.)
+
+Topic: South SudanProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: SpainProduction: 546,000 metric tons (2020 est.)
+
+Consumption: 4.918 million metric tons (2020 est.)
+
+Exports: 2.083 million metric tons (2020 est.)
+
+Imports: 4.857 million metric tons (2020 est.)
+
+Proven reserves: 1.187 billion metric tons (2019 est.)
+
+Topic: Sri LankaProduction: 0 metric tons (2020 est.)
+
+Consumption: 2.237 million metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 2.586 million metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: SudanProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: SurinameProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: SwedenProduction: 1.07 million metric tons (2020 est.)
+
+Consumption: 3.328 million metric tons (2020 est.)
+
+Exports: 24,000 metric tons (2020 est.)
+
+Imports: 2.144 million metric tons (2020 est.)
+
+Proven reserves: 1 million metric tons (2019 est.)
+
+Topic: SwitzerlandProduction: 0 metric tons (2020 est.)
+
+Consumption: 150,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 139,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: SyriaProduction: 0 metric tons (2020 est.)
+
+Consumption: 38,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 38,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: TaiwanProduction: 5.955 million metric tons (2020 est.)
+
+Consumption: 67.985 million metric tons (2020 est.)
+
+Exports: 118,000 metric tons (2020 est.)
+
+Imports: 63.523 million metric tons (2020 est.)
+
+Proven reserves: 1 million metric tons (2019 est.)
+
+Topic: TajikistanProduction: 2.103 million metric tons (2020 est.)
+
+Consumption: 2.16 million metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 57,000 metric tons (2020 est.)
+
+Proven reserves: 375 million metric tons (2019 est.)
+
+Topic: TanzaniaProduction: 712,000 metric tons (2020 est.)
+
+Consumption: 577,000 metric tons (2020 est.)
+
+Exports: 126,000 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 269 million metric tons (2019 est.)
+
+Topic: ThailandProduction: 13.251 million metric tons (2020 est.)
+
+Consumption: 35.761 million metric tons (2020 est.)
+
+Exports: 63,000 metric tons (2020 est.)
+
+Imports: 23.899 million metric tons (2020 est.)
+
+Proven reserves: 1.063 billion metric tons (2019 est.)
+
+Topic: Timor-LesteProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: TogoProduction: 0 metric tons (2020 est.)
+
+Consumption: 46,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 46,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: TongaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Trinidad and TobagoProduction: 0 metric tons (2020 est.)
+
+Consumption: 1,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 1,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: TunisiaProduction: 0 metric tons (2020 est.)
+
+Consumption: 5,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 5,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Turkey (Turkiye)Production: 78.871 million metric tons (2020 est.)
+
+Consumption: 108.271 million metric tons (2020 est.)
+
+Exports: 54,000 metric tons (2020 est.)
+
+Imports: 40.919 million metric tons (2020 est.)
+
+Proven reserves: 11.525 billion metric tons (2019 est.)
+
+Topic: TurkmenistanProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: Turks and Caicos IslandsProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: TuvaluProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Topic: UgandaProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: UkraineProduction: 23.908 million metric tons (2020 est.)
+
+Consumption: 41.181 million metric tons (2020 est.)
+
+Exports: 61,000 metric tons (2020 est.)
+
+Imports: 17.333 million metric tons (2020 est.)
+
+Proven reserves: 34.375 billion metric tons (2019 est.)
+
+Topic: United Arab EmiratesProduction: 0 metric tons (2020 est.)
+
+Consumption: 2.563 million metric tons (2020 est.)
+
+Exports: 2,000 metric tons (2020 est.)
+
+Imports: 2.565 million metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: United KingdomProduction: 2.892 million metric tons (2020 est.)
+
+Consumption: 9.401 million metric tons (2020 est.)
+
+Exports: 1.309 million metric tons (2020 est.)
+
+Imports: 5.537 million metric tons (2020 est.)
+
+Proven reserves: 26 million metric tons (2019 est.)
+
+Topic: United StatesProduction: 495.13 million metric tons (2020 est.)
+
+Consumption: 441.968 million metric tons (2020 est.)
+
+Exports: 63.276 million metric tons (2020 est.)
+
+Imports: 4.808 million metric tons (2020 est.)
+
+Proven reserves: 228.662 billion metric tons (2019 est.)
+
+Topic: UruguayProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: UzbekistanProduction: 3.98 million metric tons (2020 est.)
+
+Consumption: 5.668 million metric tons (2020 est.)
+
+Exports: 1,000 metric tons (2020 est.)
+
+Imports: 2.995 million metric tons (2020 est.)
+
+Proven reserves: 1.375 billion metric tons (2019 est.)
+
+Topic: VanuatuProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: VenezuelaProduction: 396,000 metric tons (2020 est.)
+
+Consumption: 33,000 metric tons (2020 est.)
+
+Exports: 685,000 metric tons (2020 est.)
+
+Imports: 1,000 metric tons (2020 est.)
+
+Proven reserves: 731 million metric tons (2019 est.)
+
+Topic: VietnamProduction: 47.789 million metric tons (2020 est.)
+
+Consumption: 80.568 million metric tons (2020 est.)
+
+Exports: 902,000 metric tons (2020 est.)
+
+Imports: 55 million metric tons (2020 est.)
+
+Proven reserves: 3.36 billion metric tons (2019 est.)
+
+Topic: Wake IslandProduction: 0 metric tons (2020 est.)
+
+Consumption: 0 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: YemenProduction: 0 metric tons (2020 est.)
+
+Consumption: 22,000 metric tons (2020 est.)
+
+Exports: 0 metric tons (2020 est.)
+
+Imports: 22,000 metric tons (2020 est.)
+
+Proven reserves: 0 metric tons (2019 est.)
+
+Topic: ZambiaProduction: 1.116 million metric tons (2020 est.)
+
+Consumption: 1.176 million metric tons (2020 est.)
+
+Exports: 39,000 metric tons (2020 est.)
+
+Imports: 99,000 metric tons (2020 est.)
+
+Proven reserves: 45 million metric tons (2019 est.)
+
+Topic: ZimbabweProduction: 3.888 million metric tons (2020 est.)
+
+Consumption: 3.579 million metric tons (2020 est.)
+
+Exports: 327,000 metric tons (2020 est.)
+
+Imports: 0 metric tons (2020 est.)
+
+Proven reserves: 502 million metric tons (2019 est.)

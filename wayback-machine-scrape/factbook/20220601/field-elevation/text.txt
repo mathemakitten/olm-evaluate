@@ -1,0 +1,1461 @@
+This entry includes the mean elevation and elevation extremes, lowest point and highest point.
+
+Topic: Afghanistanhighest point: Noshak 7,492 m
+
+lowest point: Amu Darya 258 m
+
+mean elevation: 1,884 m
+
+Topic: Albaniahighest point: Maja e Korabit (Golem Korab) 2,764 m
+
+lowest point: Adriatic Sea 0 m
+
+mean elevation: 708 m
+
+Topic: Algeriahighest point: Tahat 2,908 m
+
+lowest point: Chott Melrhir -40 m
+
+mean elevation: 800 m
+
+Topic: American Samoahighest point: Lata Mountain 964 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: Andorrahighest point: Pic de Coma Pedrosa 2,946 m
+
+lowest point: Riu Runer 840 m
+
+mean elevation: 1,996 m
+
+Topic: Angolahighest point: Moca 2,620 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 1,112 m
+
+Topic: Anguillahighest point: Crocus Hill 73 m
+
+lowest point: Caribbean Sea 0 m
+
+Topic: Antarcticahighest point: Vinson Massif 4,892 m
+
+lowest point: Denman Glacier more than -3,500 m (-11,500 ft) below sea level
+
+mean elevation: 2,300 m
+
+note: the lowest known land point in Antarctica is hidden in the Denman Glacier; at its surface is the deepest ice yet discovered and the world's lowest elevation not under seawater
+
+Topic: Antigua and Barbudahighest point: Mount Obama 402 m
+
+lowest point: Caribbean Sea 0 m
+
+Topic: Arctic Oceanhighest point: sea level
+
+lowest point: Molloy Deep -5,577 m
+
+mean depth: -1,205 m
+
+ocean zones: Composed of water and in a fluid state, the oceans are delimited differently than the solid continents. Oceans are divided into three zones based on depth and light level. Although some sea creatures depend on light to live, others can do without it. Sunlight entering the water may travel about 1,000 m into the oceans under the right conditions, but there is rarely any significant light beyond 200 m.
+
+The upper 200 m (656 ft) of oceans is called the euphotic, or "sunlight," zone. This zone contains the vast majority of commercial fisheries and is home to many protected marine mammals and sea turtles. Only a small amount of light penetrates beyond this depth. 
+
+The zone between 200 m (656 ft) and 1,000 m (3,280 ft) is usually referred to as the "twilight" zone, but is officially the dysphotic zone. In this zone, the intensity of light rapidly dissipates as depth increases. Such a minuscule amount of light penetrates beyond a depth of 200 m that photosynthesis is no longer possible.
+
+The aphotic, or "midnight," zone exists in depths below 1,000 m (3,280 ft). Sunlight does not penetrate to these depths and the zone is bathed in darkness.
+
+Topic: Argentinahighest point: Cerro Aconcagua (located in the northwestern corner of the province of Mendoza; highest point in South America) 6,962 m
+
+lowest point: Laguna del Carbon (located between Puerto San Julian and Comandante Luis Piedra Buena in the province of Santa Cruz) -105 m
+
+mean elevation: 595 m
+
+Topic: Armeniahighest point: Aragats Lerrnagagat' 4,090 m
+
+lowest point: Debed River 400 m
+
+mean elevation: 1,792 m
+
+Topic: Arubahighest point: Ceru Jamanota 188 m
+
+lowest point: Caribbean Sea 0 m
+
+Topic: Ashmore and Cartier Islandshighest point: Cartier Island 5 m
+
+lowest point: Indian Ocean 0 m
+
+Topic: Atlantic Oceanhighest point: sea level
+
+lowest point: Puerto Rico Trench -8,605 m
+
+mean depth: -3,646 m
+
+ocean zones: Composed of water and in a fluid state, the oceans are delimited differently than the solid continents. Oceans are divided into three zones based on depth and light level. Although some sea creatures depend on light to live, others can do without it. Sunlight entering the water may travel about 1,000 m into the oceans under the right conditions, but there is rarely any significant light beyond 200 m.
+
+The upper 200 m (656 ft) of oceans is called the euphotic, or "sunlight," zone. This zone contains the vast majority of commercial fisheries and is home to many protected marine mammals and sea turtles. Only a small amount of light penetrates beyond this depth. 
+
+The zone between 200 m (656 ft) and 1,000 m (3,280 ft) is usually referred to as the "twilight" zone, but is officially the dysphotic zone. In this zone, the intensity of light rapidly dissipates as depth increases. Such a minuscule amount of light penetrates beyond a depth of 200 m that photosynthesis is no longer possible.
+
+The aphotic, or "midnight," zone exists in depths below 1,000 m (3,280 ft). Sunlight does not penetrate to these depths and the zone is bathed in darkness.
+
+Topic: Australiahighest point: Mount Kosciuszko 2,228 m
+
+lowest point: Lake Eyre -15 m
+
+mean elevation: 330 m
+
+Topic: Austriahighest point: Grossglockner 3,798 m
+
+lowest point: Neusiedler See 115 m
+
+mean elevation: 910 m
+
+Topic: Azerbaijanhighest point: Bazarduzu Dagi 4,466 m
+
+lowest point: Caspian Sea -28 m
+
+mean elevation: 384 m
+
+Topic: Bahamas, Thehighest point: 1.3 km NE of Old Bight on Cat Island 64 m
+note - the Factbook map is incorrect; it indicates the wrong high elevation point
+
+lowest point: Atlantic Ocean 0 m
+
+Topic: Bahrainhighest point: Jabal ad Dukhan 135 m
+
+lowest point: Persian Gulf 0 m
+
+Topic: Bangladeshhighest point: Mowdok Taung 1,060 m
+note - the Factbook map is incorrect; it shows the wrong high elevation
+
+lowest point: Indian Ocean 0 m
+
+mean elevation: 85 m
+
+Topic: Barbadoshighest point: Mount Hillaby 336 m
+
+lowest point: Atlantic Ocean 0 m
+
+Topic: Belarushighest point: Dzyarzhynskaya Hara 346 m
+
+lowest point: Nyoman River 90 m
+
+mean elevation: 160 m
+
+Topic: Belgiumhighest point: Botrange 694 m
+
+lowest point: North Sea 0 m
+
+mean elevation: 181 m
+
+Topic: Belizehighest point: Doyle's Delight 1,124 m
+
+lowest point: Caribbean Sea 0 m
+
+mean elevation: 173 m
+
+Topic: Beninhighest point: unnamed elevation located 2.5 km southeast of the town of Kotopounga 675 m
+note - the Factbook map is incorrect; it shows the wrong high elevation
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 273 m
+
+Topic: Bermudahighest point: Town Hill 79 m
+
+lowest point: Atlantic Ocean 0 m
+
+Topic: Bhutanhighest point: Gangkar Puensum 7,570 m
+
+lowest point: Drangeme Chhu 97 m
+
+mean elevation: 2,220 m
+
+Topic: Boliviahighest point: Nevado Sajama 6,542 m
+
+lowest point: Rio Paraguay 90 m
+
+mean elevation: 1,192 m
+
+Topic: Bosnia and Herzegovinahighest point: Maglic 2,386 m
+
+lowest point: Adriatic Sea 0 m
+
+mean elevation: 500 m
+
+Topic: Botswanahighest point: Manyelanong Hill 1,495 m
+note - the Factbook map is incorrect; it shows the wrong high elevation
+
+lowest point: junction of the Limpopo and Shashe Rivers 513 m
+
+mean elevation: 1,013 m
+
+Topic: Bouvet Islandhighest point: Olavtoppen (Olav Peak) 780 m
+
+lowest point: South Atlantic Ocean 0 m
+
+Topic: Brazilhighest point: Pico da Neblina 2,994 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 320 m
+
+Topic: British Indian Ocean Territoryhighest point: ocean-side dunes on Diego Garcia 9 m
+
+lowest point: Indian Ocean 0 m
+
+Topic: British Virgin Islandshighest point: Mount Sage 521 m
+
+lowest point: Caribbean Sea 0 m
+
+Topic: Bruneihighest point: Bukit Pagon 1,850 m
+
+lowest point: South China Sea 0 m
+
+mean elevation: 478 m
+
+Topic: Bulgariahighest point: Musala 2,925 m
+
+lowest point: Black Sea 0 m
+
+mean elevation: 472 m
+
+Topic: Burkina Fasohighest point: Tena Kourou 749 m
+
+lowest point: Mouhoun (Black Volta) River 200 m
+
+mean elevation: 297 m
+
+Topic: Burmahighest point: Gamlang Razi 5,870 m
+
+lowest point: Andaman Sea/Bay of Bengal 0 m
+
+mean elevation: 702 m
+
+Topic: Burundihighest point: unnamed elevation on Mukike Range 2,685 m
+note - the Factbook map is incorrect; it shows the wrong high elevation
+
+lowest point: Lake Tanganyika 772 m
+
+mean elevation: 1,504 m
+
+Topic: Cabo Verdehighest point: Mt. Fogo (a volcano on Fogo Island) 2,829 m
+
+lowest point: Atlantic Ocean 0 m
+
+Topic: Cambodiahighest point: Phnum Aoral 1,810 m
+
+lowest point: Gulf of Thailand 0 m
+
+mean elevation: 126 m
+
+Topic: Cameroonhighest point: Fako on Mont Cameroun 4,045 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 667 m
+
+Topic: Canadahighest point: Mount Logan 5,959 m
+
+lowest point: Atlantic/Pacific/Arctic Oceans 0 m
+
+mean elevation: 487 m
+
+Topic: Cayman Islandshighest point: 1 km SW of The Bluff on Cayman Brac 50 m
+
+lowest point: Caribbean Sea 0 m
+
+Topic: Central African Republichighest point: Mont Ngaoui 1,410 m
+
+lowest point: Oubangui River 335 m
+
+mean elevation: 635 m
+
+Topic: Chadhighest point: Emi Koussi 3,445 m
+
+lowest point: Djourab 160 m
+
+mean elevation: 543 m
+
+Topic: Chilehighest point: Nevado Ojos del Salado 6,893 m (highest volcano in the world)
+
+lowest point: Pacific Ocean 0 m
+
+mean elevation: 1,871 m
+
+Topic: Chinahighest point: Mount Everest (highest peak in Asia and highest point on earth above sea level) 8,849 m
+
+lowest point: Turpan Pendi (Turfan Depression) -154 m
+
+mean elevation: 1,840 m
+
+Topic: Christmas Islandhighest point: Murray Hill 361 m
+
+lowest point: Indian Ocean 0 m
+
+Topic: Clipperton Islandhighest point: Rocher Clipperton 29 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: Cocos (Keeling) Islandshighest point: South Point on South Island 9 m
+
+lowest point: Indian Ocean 0 m
+
+Topic: Colombiahighest point: Pico Cristobal Colon 5,730 m
+
+lowest point: Pacific Ocean 0 m
+
+mean elevation: 593 m
+
+Topic: Comoroshighest point: Karthala 2,360 m
+
+lowest point: Indian Ocean 0 m
+
+Topic: Congo, Democratic Republic of thehighest point: Pic Marguerite on Mont Ngaliema (Mount Stanley) 5,110 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 726 m
+
+Topic: Congo, Republic of thehighest point: Mont Nabeba 1,020 m
+note - the Factbook map is incorrect; it shows the wrong high elevation
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 430 m
+
+Topic: Cook Islandshighest point: Te Manga 652 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: Coral Sea Islandshighest point: unnamed location on Cato Island 9 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: Costa Ricahighest point: Cerro Chirripo 3,819 m
+
+lowest point: Pacific Ocean 0 m
+
+mean elevation: 746 m
+
+Topic: Cote d'Ivoirehighest point: Monts Nimba 1,752 m
+
+lowest point: Gulf of Guinea 0 m
+
+mean elevation: 250 m
+
+Topic: Croatiahighest point: Dinara 1,831 m
+
+lowest point: Adriatic Sea 0 m
+
+mean elevation: 331 m
+
+Topic: Cubahighest point: Pico Turquino 1,974 m
+
+lowest point: Caribbean Sea 0 m
+
+mean elevation: 108 m
+
+Topic: Curacaohighest point: Mt. Christoffel 372 m
+
+lowest point: Caribbean Sea 0 m
+
+Topic: Cyprushighest point: Mount Olympus 1,951 m
+
+lowest point: Mediterranean Sea 0 m
+
+mean elevation: 91 m
+
+Topic: Czechiahighest point: Snezka 1,602 m
+
+lowest point: Labe (Elbe) River 115 m
+
+mean elevation: 433 m
+
+Topic: Denmarkhighest point: Store Mollehoj 171 m
+
+lowest point: Lammefjord -7 m
+
+mean elevation: 34 m
+
+Topic: Djiboutihighest point: Moussa Ali 2,021 m
+
+lowest point: Lac Assal -155 m
+
+mean elevation: 430 m
+
+Topic: Dominicahighest point: Morne Diablotins 1,447 m
+
+lowest point: Caribbean Sea 0 m
+
+Topic: Dominican Republichighest point: Pico Duarte 3,098 m
+
+lowest point: Lago Enriquillo -46 m
+
+mean elevation: 424 m
+
+Topic: Ecuadorhighest point: Chimborazo 6,267
+
+lowest point: Pacific Ocean 0 m
+
+mean elevation: 1,117 m
+
+note: because the earth is not a perfect sphere and has an equatorial bulge, the highest point on the planet farthest from its center is Mount Chimborazo not Mount Everest, which is merely the highest peak above sea level
+
+Topic: Egypthighest point: Mount Catherine 2,629 m
+
+lowest point: Qattara Depression -133 m
+
+mean elevation: 321 m
+
+Topic: El Salvadorhighest point: Cerro El Pital 2,730 m
+
+lowest point: Pacific Ocean 0 m
+
+mean elevation: 442 m
+
+Topic: Equatorial Guineahighest point: Pico Basile 3,008 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 577 m
+
+Topic: Eritreahighest point: Soira 3,018 m
+
+lowest point: near Kulul within the Danakil Depression -75 m
+
+mean elevation: 853 m
+
+Topic: Estoniahighest point: Suur Munamagi 318 m
+
+lowest point: Baltic Sea 0 m
+
+mean elevation: 61 m
+
+Topic: Eswatinihighest point: Emlembe 1,862 m
+
+lowest point: Great Usutu River 21 m
+
+mean elevation: 305 m
+
+Topic: Ethiopiahighest point: Ras Dejen 4,550 m
+
+lowest point: Danakil Depression -125 m
+
+mean elevation: 1,330 m
+
+Topic: European Unionhighest point: Mont Blanc, France 4,810 m
+
+lowest point: Zuidplaspolder, Netherlands -7 m
+
+Topic: Falkland Islands (Islas Malvinas)highest point: Mount Usborne 705 m
+
+lowest point: Atlantic Ocean 0 m
+
+Topic: Faroe Islandshighest point: Slaettaratindur 882 m
+
+lowest point: Atlantic Ocean 0 m
+
+Topic: Fijihighest point: Tomanivi 1,324 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: Finlandhighest point: Halti (alternatively Haltia, Haltitunturi, Haltiatunturi) 1,328 m
+
+lowest point: Baltic Sea 0 m
+
+mean elevation: 164 m
+
+Topic: Francehighest point: Mont Blanc 4,810
+
+lowest point: Rhone River delta -2 m
+
+mean elevation: 375 m
+
+note: to assess the possible effects of climate change on the ice and snow cap of Mont Blanc, its surface and peak have been extensively measured in recent years; these new peak measurements have exceeded the traditional height of 4,807 m and have varied between 4,808 m and 4,811 m; the actual rock summit is 4,792 m and is 40 m away from the ice-covered summit
+
+Topic: French Polynesiahighest point: Mont Orohena 2,241 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: French Southern and Antarctic Landshighest point: Mont de la Dives on Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul) 867 m
+
+lowest point: Indian Ocean 0 m
+
+highest points throughout the French Southern and Antarctic Lands: unnamed location on Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul) 272 m; Pic Marion-Dufresne in Iles Crozet 1090 m; Mont Ross in Iles Kerguelen 1850 m; unnamed location on Bassas de India (Iles Eparses) 2.4 m;24 unnamed location on Europa Island (Iles Eparses) 24 m; unnamed location on Glorioso Islands (Iles Eparses) 12 m; unnamed location on Juan de Nova Island (Iles Eparses) 10 m; unnamed location on Tromelin Island (Iles Eparses) 7 m
+
+Topic: Gabonhighest point: Mont Bengoue 1,050 m
+note - the Factbook map is incorrect; it shows the wrong high elevation
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 377 m
+
+Topic: Gambia, Thehighest point: unnamed elevation 3 km southeast of the town of Sabi 63 m
+note - the Factbook map is incorrect; it shows the wrong location of the high elevation
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 34 m
+
+Topic: Gaza Striphighest point: Abu 'Awdah (Joz Abu 'Awdah) 105 m
+
+lowest point: Mediterranean Sea 0 m
+
+Topic: Georgiahighest point: Mt'a Shkhara 5,193 m
+
+lowest point: Black Sea 0 m
+
+mean elevation: 1,432 m
+
+Topic: Germanyhighest point: Zugspitze 2,963 m
+
+lowest point: Neuendorf bei Wilster -3.5 m
+
+mean elevation: 263 m
+
+Topic: Ghanahighest point: Mount Afadjato 885 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 190 m
+
+Topic: Gibraltarhighest point: Rock of Gibraltar 426 m
+
+lowest point: Mediterranean Sea 0 m
+
+Topic: Greecehighest point: Mount Olympus 2,917
+
+lowest point: Mediterranean Sea 0 m
+
+mean elevation: 498 m
+
+note: Mount Olympus actually has 52 peaks but its highest point, Mytikas (meaning "nose"), rises to 2,917 meters; in Greek mythology, Olympus' Mytikas peak was the home of the Greek gods
+
+Topic: Greenlandhighest point: Gunnbjorn Fjeld 3,694 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 1,792 m
+
+Topic: Grenadahighest point: Mount Saint Catherine 840 m
+
+lowest point: Caribbean Sea 0 m
+
+Topic: Guamhighest point: Mount Lamlam 406 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: Guatemalahighest point: Volcan Tajumulco (highest point in Central America) 4,220 m
+
+lowest point: Pacific Ocean 0 m
+
+mean elevation: 759 m
+
+Topic: Guernseyhighest point: Le Moulin on Sark 114 m
+
+lowest point: English Channel 0 m
+
+Topic: Guineahighest point: Mont Nimba 1,752 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 472 m
+
+Topic: Guinea-Bissauhighest point: Dongol Ronde 277 m
+note - the Factbook map is incorrect; it shows the wrong location of the high elevation
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 70 m
+
+Topic: Guyanahighest point: Laberintos del Norte on Mount Roraima 2,775 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 207 m
+
+Topic: Haitihighest point: Pic la Selle 2,674 m
+
+lowest point: Caribbean Sea 0 m
+
+mean elevation: 470 m
+
+Topic: Heard Island and McDonald Islandshighest point: Mawson Peak on Big Ben volcano 2,745 m
+
+lowest point: Indian Ocean 0 m
+
+Topic: Holy See (Vatican City)highest point: Vatican Gardens (Vatican Hill) 78 m
+
+lowest point: Saint Peter's Square 19 m
+
+Topic: Hondurashighest point: Cerro Las Minas 2,870 m
+
+lowest point: Caribbean Sea 0 m
+
+mean elevation: 684 m
+
+Topic: Hong Konghighest point: Tai Mo Shan 958 m
+
+lowest point: South China Sea 0 m
+
+Topic: Hungaryhighest point: Kekes 1,014 m
+
+lowest point: Tisza River 78 m
+
+mean elevation: 143 m
+
+Topic: Icelandhighest point: Hvannadalshnukur (at Vatnajokull Glacier) 2,110 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 557 m
+
+Topic: Indiahighest point: Kanchenjunga 8,586 m
+
+lowest point: Indian Ocean 0 m
+
+mean elevation: 160 m
+
+Topic: Indian Oceanhighest point: sea level
+
+lowest point: Java Trench -7,192 m unnamed deep
+
+mean depth: -3,741 m
+
+ocean zones: Composed of water and in a fluid state, the oceans are delimited differently than the solid continents. Oceans are divided into three zones based on depth and light level. Although some sea creatures depend on light to live, others can do without it. Sunlight entering the water may travel about 1,000 m into the oceans under the right conditions, but there is rarely any significant light beyond 200 m.
+
+The upper 200 m (656 ft) of oceans is called the euphotic, or "sunlight," zone. This zone contains the vast majority of commercial fisheries and is home to many protected marine mammals and sea turtles. Only a small amount of light penetrates beyond this depth. 
+
+The zone between 200 m (656 ft) and 1,000 m (3,280 ft) is usually referred to as the "twilight" zone, but is officially the dysphotic zone. In this zone, the intensity of light rapidly dissipates as depth increases. Such a minuscule amount of light penetrates beyond a depth of 200 m that photosynthesis is no longer possible.
+
+The aphotic, or "midnight," zone exists in depths below 1,000 m (3,280 ft). Sunlight does not penetrate to these depths and the zone is bathed in darkness.
+
+Topic: Indonesiahighest point: Puncak Jaya 4,884 m
+
+lowest point: Indian Ocean 0 m
+
+mean elevation: 367 m
+
+Topic: Iranhighest point: Kuh-e Damavand 5,625 m
+
+lowest point: Caspian Sea -28 m
+
+mean elevation: 1,305 m
+
+Topic: Iraqhighest point: Cheekha Dar (Kurdish for "Black Tent") 3,611 m
+
+lowest point: Persian Gulf 0 m
+
+mean elevation: 312 m
+
+Topic: Irelandhighest point: Carrauntoohil 1,041 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 118 m
+
+Topic: Isle of Manhighest point: Snaefell 621 m
+
+lowest point: Irish Sea 0 m
+
+Topic: Israelhighest point: Mitspe Shlagim 2,224 m; note - this is the highest named point, the actual highest point is an unnamed dome slightly to the west of Mitspe Shlagim at 2,236 m; both points are on the northeastern border of Israel, along the southern end of the Anti-Lebanon mountain range
+
+lowest point: Dead Sea -431 m
+
+mean elevation: 508 m note - does not include elevation data from the Golan Heights
+
+Topic: Italyhighest point: Mont Blanc (Monte Bianco) de Courmayeur (a secondary peak of Mont Blanc) 4,748 m
+
+lowest point: Mediterranean Sea 0 m
+
+mean elevation: 538 m
+
+Topic: Jamaicahighest point: Blue Mountain Peak 2,256 m
+
+lowest point: Caribbean Sea 0 m
+
+mean elevation: 18 m
+
+Topic: Jan Mayenhighest point: Haakon VII Toppen on Beerenberg 2,277
+
+lowest point: Norwegian Sea 0 m
+
+note: Beerenberg volcano has numerous peaks; the highest point on the volcano rim is named Haakon VII Toppen, after Norway's first king following the reestablishment of Norwegian independence in 1905
+
+Topic: Japanhighest point: Mount Fuji 3,776 m
+
+lowest point: Hachiro-gata -4 m
+
+mean elevation: 438 m
+
+Topic: Jerseyhighest point: Les Platons 136 m
+
+lowest point: English Channel 0 m
+
+Topic: Jordanhighest point: Jabal Umm ad Dami 1,854 m
+
+lowest point: Dead Sea -431 m
+
+mean elevation: 812 m
+
+Topic: Kazakhstanhighest point: Pik Khan-Tengri 7,010 m
+note - the northern most 7,000 meter peak in the World
+
+lowest point: Qauyndy Oyysy -132 m
+
+mean elevation: 387 m
+
+Topic: Kenyahighest point: Mount Kenya 5,199 m
+
+lowest point: Indian Ocean 0 m
+
+mean elevation: 762 m
+
+Topic: Kiribatihighest point: unnamed elevation on Banaba 81 m m
+
+lowest point: Pacific Ocean 0 m
+
+mean elevation: 2 m
+
+Topic: Korea, Northhighest point: Paektu-san 2,744 m
+
+lowest point: Sea of Japan 0 m
+
+mean elevation: 600 m
+
+Topic: Korea, Southhighest point: Halla-san 1,950 m
+
+lowest point: Sea of Japan 0 m
+
+mean elevation: 282 m
+
+Topic: Kosovohighest point: Gjeravica/Deravica 2,656 m
+
+lowest point: Drini i Bardhe/Beli Drim (located on the border with Albania) 297 m
+
+mean elevation: 450 m
+
+Topic: Kuwaithighest point: 3.6 km W. of Al-Salmi Border Post 300 m
+
+lowest point: Persian Gulf 0 m
+
+mean elevation: 108 m
+
+Topic: Kyrgyzstanhighest point: Jengish Chokusu (Pik Pobedy) 7,439 m
+
+lowest point: Kara-Daryya (Karadar'ya) 132 m
+
+mean elevation: 2,988 m
+
+Topic: Laoshighest point: Phu Bia 2,817 m
+
+lowest point: Mekong River 70 m
+
+mean elevation: 710 m
+
+Topic: Latviahighest point: Gaizina Kalns 312 m
+
+lowest point: Baltic Sea 0 m
+
+mean elevation: 87 m
+
+Topic: Lebanonhighest point: Qornet es Saouda 3,088 m
+
+lowest point: Mediterranean Sea 0 m
+
+mean elevation: 1,250 m
+
+Topic: Lesothohighest point: Thabana Ntlenyana 3,482 m
+
+lowest point: junction of the Orange and Makhaleng Rivers 1,400 m
+
+mean elevation: 2,161 m
+
+Topic: Liberiahighest point: Mount Wuteve 1,447 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 243 m
+
+Topic: Libyahighest point: Bikku Bitti 2,267 m
+
+lowest point: Sabkhat Ghuzayyil -47 m
+
+mean elevation: 423 m
+
+Topic: Liechtensteinhighest point: Vorder-Grauspitz 2,599 m
+
+lowest point: Ruggeller Riet 430 m
+
+Topic: Lithuaniahighest point: Aukstojas 294 m
+
+lowest point: Baltic Sea 0 m
+
+mean elevation: 110 m
+
+Topic: Luxembourghighest point: Buurgplaatz 559 m
+
+lowest point: Moselle River 133 m
+
+mean elevation: 325 m
+
+Topic: Macauhighest point: Alto Coloane 172 m
+
+lowest point: South China Sea 0 m
+
+Topic: Madagascarhighest point: Maromokotro 2,876 m
+
+lowest point: Indian Ocean 0 m
+
+mean elevation: 615 m
+
+Topic: Malawihighest point: Sapitwa (Mount Mlanje) 3,002 m
+
+lowest point: junction of the Shire River and international boundary with Mozambique 37 m
+
+mean elevation: 779 m
+
+Topic: Malaysiahighest point: Gunung Kinabalu 4,095 m
+
+lowest point: Indian Ocean 0 m
+
+mean elevation: 419 m
+
+Topic: Maldiveshighest point: 8th tee, golf course, Villingi Island 5 m
+
+lowest point: Indian Ocean 0 m
+
+mean elevation: 2 m
+
+Topic: Malihighest point: Hombori Tondo 1,155 m
+
+lowest point: Senegal River 23 m
+
+mean elevation: 343 m
+
+Topic: Maltahighest point: Ta'Dmejrek on Dingli Cliffs 253 m
+
+lowest point: Mediterranean Sea 0 m
+
+Topic: Marshall Islandshighest point: East-central Airik Island, Maloelap Atoll 14 m
+
+lowest point: Pacific Ocean 0 m
+
+mean elevation: 2 m
+
+Topic: Mauritaniahighest point: Kediet Ijill 915 m
+
+lowest point: Sebkhet Te-n-Dghamcha -5 m
+
+mean elevation: 276 m
+
+Topic: Mauritiushighest point: Mont Piton 828 m
+
+lowest point: Indian Ocean 0 m
+
+Topic: Mexicohighest point: Volcan Pico de Orizaba 5,636 m
+
+lowest point: Laguna Salada -10 m
+
+mean elevation: 1,111 m
+
+Topic: Micronesia, Federated States ofhighest point: Nanlaud on Pohnpei 782 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: Moldovahighest point: Dealul Balanesti 430 m
+
+lowest point: Dniester (Nistru) 2 m
+
+mean elevation: 139 m
+
+Topic: Monacohighest point: Chemin des Revoires on Mont Agel 162 m
+
+lowest point: Mediterranean Sea 0 m
+
+Topic: Mongoliahighest point: Nayramadlin Orgil (Khuiten Peak) 4,374 m
+
+lowest point: Hoh Nuur 560 m
+
+mean elevation: 1,528 m
+
+Topic: Montenegrohighest point: Zia Kolata 2,534 m
+
+lowest point: Adriatic Sea 0 m
+
+mean elevation: 1,086 m
+
+Topic: Montserrathighest point: Soufriere Hills volcano pre-eruption height was 915 m; current lava dome is subject to periodic build up and collapse; estimated dome height was 1,050 m in 2015
+
+lowest point: Caribbean Sea 0 m
+
+Topic: Moroccohighest point: Jebel Toubkal 4,165 m
+
+lowest point: Sebkha Tah -59 m
+
+mean elevation: 909 m
+
+Topic: Mozambiquehighest point: Monte Binga 2,436 m
+
+lowest point: Indian Ocean 0 m
+
+mean elevation: 345 m
+
+Topic: Namibiahighest point: Konigstein on Brandberg 2,573 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 1,141 m
+
+Topic: Nauruhighest point: Command Ridge 70 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: Navassa Islandhighest point: 200 m NNW of lighthouse 85 m
+
+lowest point: Caribbean Sea 0 m
+
+Topic: Nepalhighest point: Mount Everest (highest peak in Asia and highest point on earth above sea level) 8,849 m
+
+lowest point: Kanchan Kalan 70 m
+
+mean elevation: 2,565 m
+
+Topic: Netherlandshighest point: Mount Scenery (on the island of Saba in the Caribbean, now considered an integral part of the Netherlands following the dissolution of the Netherlands Antilles) 862 m
+
+lowest point: Zuidplaspolder -7 m
+
+mean elevation: 30 m
+
+note: the highest point on continental Netherlands is Vaalserberg at 322 m
+
+Topic: New Caledoniahighest point: Mont Panie 1,628 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: New Zealandhighest point: Aoraki/Mount Cook 3,724 m; note - the mountain's height was 3,764 m until 14 December 1991 when it lost about 10 m in an avalanche of rock and ice; erosion of the ice cap since then has brought the height down another 30 m
+
+lowest point: Pacific Ocean 0 m
+
+mean elevation: 388 m
+
+Topic: Nicaraguahighest point: Mogoton 2,085 m
+
+lowest point: Pacific Ocean 0 m
+
+mean elevation: 298 m
+
+Topic: Nigerhighest point: Idoukal-n-Taghes 2,022 m
+
+lowest point: Niger River 200 m
+
+mean elevation: 474 m
+
+Topic: Nigeriahighest point: Chappal Waddi 2,419 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 380 m
+
+Topic: Niuehighest point: unnamed elevation 1.4 km east of Hikutavake 80 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: Norfolk Islandhighest point: Mount Bates 319 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: North Macedoniahighest point: Golem Korab (Maja e Korabit) 2,764 m
+
+lowest point: Vardar River 50 m
+
+mean elevation: 741 m
+
+Topic: Northern Mariana Islandshighest point: Agrihan Volcano 965 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: Norwayhighest point: Galdhopiggen 2,469 m
+
+lowest point: Norwegian Sea 0 m
+
+mean elevation: 460 m
+
+Topic: Omanhighest point: Jabal Shams 3,004 m
+
+lowest point: Arabian Sea 0 m
+
+mean elevation: 310 m
+
+Topic: Pacific Oceanhighest point: sea level
+
+lowest point: Challenger Deep in the Mariana Trench -10,924 m
+note - the Pacific Ocean is the deepest ocean basin
+
+mean depth: -4,080 m
+
+ocean zones: Composed of water and in a fluid state, the oceans are delimited differently than the solid continents. Oceans are divided into three zones based on depth and light level. Although some sea creatures depend on light to live, others can do without it. Sunlight entering the water may travel about 1,000 m into the oceans under the right conditions, but there is rarely any significant light beyond 200 m.
+
+The upper 200 m (656 ft) of oceans is called the euphotic, or "sunlight," zone. This zone contains the vast majority of commercial fisheries and is home to many protected marine mammals and sea turtles. Only a small amount of light penetrates beyond this depth. 
+
+The zone between 200 m (656 ft) and 1,000 m (3,280 ft) is usually referred to as the "twilight" zone, but is officially the dysphotic zone. In this zone, the intensity of light rapidly dissipates as depth increases. Such a minuscule amount of light penetrates beyond a depth of 200 m that photosynthesis is no longer possible.
+
+The aphotic, or "midnight," zone exists in depths below 1,000 m (3,280 ft). Sunlight does not penetrate to these depths and the zone is bathed in darkness.
+
+Topic: Pakistanhighest point: K2 (Mt. Godwin-Austen) 8,611 m
+
+lowest point: Arabian Sea 0 m
+
+mean elevation: 900 m
+
+Topic: Palauhighest point: Mount Ngerchelchuus 242 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: Panamahighest point: Volcan Baru 3,475 m
+
+lowest point: Pacific Ocean 0 m
+
+mean elevation: 360 m
+
+Topic: Papua New Guineahighest point: Mount Wilhelm 4,509 m
+
+lowest point: Pacific Ocean 0 m
+
+mean elevation: 667 m
+
+Topic: Paracel Islandshighest point: unnamed location on Rocky Island 14 m
+
+lowest point: South China Sea 0 m
+
+Topic: Paraguayhighest point: Cerro Pero 842 m
+
+lowest point: junction of Rio Paraguay and Rio Parana 46 m
+
+mean elevation: 178 m
+
+Topic: Peruhighest point: Nevado Huascaran 6,746 m
+
+lowest point: Pacific Ocean 0 m
+
+mean elevation: 1,555 m
+
+Topic: Philippineshighest point: Mount Apo 2,954 m
+
+lowest point: Philippine Sea 0 m
+
+mean elevation: 442 m
+
+Topic: Pitcairn Islandshighest point: Palwala Valley Point on Big Ridge 347 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: Polandhighest point: Rysy 2,499 m
+
+lowest point: near Raczki Elblaskie -2 m
+
+mean elevation: 173 m
+
+Topic: Portugalhighest point: Ponta do Pico (Pico or Pico Alto) on Ilha do Pico in the Azores 2,351 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 372 m
+
+Topic: Puerto Ricohighest point: Cerro de Punta 1,338 m
+
+lowest point: Caribbean Sea 0 m
+
+mean elevation: 261 m
+
+Topic: Qatarhighest point: Tuwayyir al Hamir 103 m
+
+lowest point: Persian Gulf 0 m
+
+mean elevation: 28 m
+
+Topic: Romaniahighest point: Moldoveanu 2,544 m
+
+lowest point: Black Sea 0 m
+
+mean elevation: 414 m
+
+Topic: Russiahighest point: Gora El'brus (highest point in Europe) 5,642 m
+
+lowest point: Caspian Sea -28 m
+
+mean elevation: 600 m
+
+Topic: Rwandahighest point: Volcan Karisimbi 4,519 m
+
+lowest point: Rusizi River 950 m
+
+mean elevation: 1,598 m
+
+Topic: Saint Barthelemyhighest point: Morne du Vitet 286 m
+
+lowest point: Caribbean Ocean 0 m
+
+Topic: Saint Helena, Ascension, and Tristan da Cunhahighest point: Queen Mary's Peak on Tristan da Cunha 859 m; Green Mountain on Ascension Island 818 m; Mount Actaeon on Saint Helena Island 2,060 m
+
+lowest point: Atlantic Ocean 0 m
+
+Topic: Saint Kitts and Nevishighest point: Mount Liamuiga 1,156 m
+
+lowest point: Caribbean Sea 0 m
+
+Topic: Saint Luciahighest point: Mount Gimie 948 m
+
+lowest point: Caribbean Sea 0 m
+
+Topic: Saint Martinhighest point: Pic du Paradis 424 m
+
+lowest point: Caribbean Ocean 0 m
+
+Topic: Saint Pierre and Miquelonhighest point: Morne de la Grande Montagne 240 m
+
+lowest point: Atlantic Ocean 0 m
+
+Topic: Saint Vincent and the Grenadineshighest point: La Soufriere 1,234 m
+
+lowest point: Caribbean Sea 0 m
+
+Topic: Samoahighest point: Mount Silisili 1,857 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: San Marinohighest point: Monte Titano 739 m
+
+lowest point: Torrente Ausa 55 m
+
+Topic: Sao Tome and Principehighest point: Pico de Sao Tome 2,024 m
+
+lowest point: Atlantic Ocean 0 m
+
+Topic: Saudi Arabiahighest point: As Sarawat range, 3,000 m
+
+lowest point: Persian Gulf 0 m
+
+mean elevation: 665 m
+
+Topic: Senegalhighest point: unnamed elevation 2.8 km southeast of Nepen Diaka 648 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 69 m
+
+Topic: Serbiahighest point: Midzor 2,169 m
+
+lowest point: Danube and Timok Rivers 35 m
+
+mean elevation: 442 m
+
+Topic: Seychelleshighest point: Morne Seychellois 905 m
+
+lowest point: Indian Ocean 0 m
+
+Topic: Sierra Leonehighest point: Loma Mansa (Bintimani) 1,948 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 279 m
+
+Topic: Singaporehighest point: Bukit Timah 166 m
+
+lowest point: Singapore Strait 0 m
+
+Topic: Sint Maartenhighest point: Mount Flagstaff 383 m
+
+lowest point: Caribbean Sea 0 m
+
+Topic: Slovakiahighest point: Gerlachovsky Stit 2,655 m
+
+lowest point: Bodrok River 94 m
+
+mean elevation: 458 m
+
+Topic: Sloveniahighest point: Triglav 2,864 m
+
+lowest point: Adriatic Sea 0 m
+
+mean elevation: 492 m
+
+Topic: Solomon Islandshighest point: Mount Popomanaseu 2,335 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: Somaliahighest point: Mount Shimbiris 2,460 m
+
+lowest point: Indian Ocean 0 m
+
+mean elevation: 410 m
+
+Topic: South Africahighest point: Ntheledi (Mafadi) 3,450 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 1,034 m
+
+Topic: South Georgia and South Sandwich Islandshighest point: Mount Paget (South Georgia) 2,934 m
+
+lowest point: Atlantic Ocean 0 m
+
+Topic: South Sudanhighest point: Kinyeti 3,187 m
+
+lowest point: White Nile 381 m
+
+Topic: Southern Oceanhighest point: sea level
+
+lowest point: southern end of the South Sandwich Trench -7,434 m unnamed deep
+
+mean depth: -3,270 m
+
+ocean zones: Composed of water and in a fluid state, the oceans are delimited differently than the solid continents. Oceans are divided into three zones based on depth and light level. Although some sea creatures depend on light to live, others can do without it. Sunlight entering the water may travel about 1,000 m into the oceans under the right conditions, but there is rarely any significant light beyond 200 m.
+
+The upper 200 m (656 ft) of oceans is called the euphotic, or "sunlight," zone. This zone contains the vast majority of commercial fisheries and is home to many protected marine mammals and sea turtles. Only a small amount of light penetrates beyond this depth. 
+
+The zone between 200 m (656 ft) and 1,000 m (3,280 ft) is usually referred to as the "twilight" zone, but is officially the dysphotic zone. In this zone, the intensity of light rapidly dissipates as depth increases. Such a minuscule amount of light penetrates beyond a depth of 200 m that photosynthesis is no longer possible.
+
+The aphotic, or "midnight," zone exists in depths below 1,000 m (3,280 ft). Sunlight does not penetrate to these depths and the zone is bathed in darkness.
+
+Topic: Spainhighest point: Pico de Teide (Tenerife) on Canary Islands 3,718 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 660 m
+
+Topic: Spratly Islandshighest point: unnamed location on Southwest Cay 6 m
+
+lowest point: South China Sea 0 m
+
+Topic: Sri Lankahighest point: Pidurutalagala 2,524 m
+
+lowest point: Indian Ocean 0 m
+
+mean elevation: 228 m
+
+Topic: Sudanhighest point: Jabal Marrah 3,042 m
+
+lowest point: Red Sea 0 m
+
+mean elevation: 568 m
+
+Topic: Surinamehighest point: Juliana Top 1,230 m
+
+lowest point: unnamed location in the coastal plain -2 m
+
+mean elevation: 246 m
+
+Topic: Svalbardhighest point: Newtontoppen 1,717 m
+
+lowest point: Arctic Ocean 0 m
+
+Topic: Swedenhighest point: Kebnekaise South 2,100 m
+
+lowest point: reclaimed bay of Lake Hammarsjon, near Kristianstad -2.4 m
+
+mean elevation: 320 m
+
+Topic: Switzerlandhighest point: Dufourspitze 4,634 m
+
+lowest point: Lake Maggiore 195 m
+
+mean elevation: 1,350 m
+
+Topic: Syriahighest point: Mount Hermon (Jabal a-Shayk) 2,814 m
+
+lowest point: Yarmuk River -66 m
+
+mean elevation: 514 m
+
+Topic: Taiwanhighest point: Yu Shan 3,952 m
+
+lowest point: South China Sea 0 m
+
+mean elevation: 1,150 m
+
+Topic: Tajikistanhighest point: Qullai Somoniyon 7,495 m
+
+lowest point: Syr Darya (Sirdaryo) 300 m
+
+mean elevation: 3,186 m
+
+Topic: Tanzaniahighest point: Kilimanjaro (highest point in Africa) 5,895 m
+
+lowest point: Indian Ocean 0 m
+
+mean elevation: 1,018 m
+
+Topic: Thailandhighest point: Doi Inthanon 2,565 m
+
+lowest point: Gulf of Thailand 0 m
+
+mean elevation: 287 m
+
+Topic: Timor-Lestehighest point: Foho Tatamailau 2,963 m
+
+lowest point: Timor Sea, Savu Sea, and Banda Sea 0 m
+
+Topic: Togohighest point: Mont Agou 986 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 236 m
+
+Topic: Tokelauhighest point: unnamed location 5 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: Tongahighest point: Kao Volcano on Kao Island 1,046 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: Trinidad and Tobagohighest point: El Cerro del Aripo 940 m
+
+lowest point: Caribbean Sea 0 m
+
+mean elevation: 83 m
+
+Topic: Tunisiahighest point: Jebel ech Chambi 1,544 m
+
+lowest point: Shatt al Gharsah -17 m
+
+mean elevation: 246 m
+
+Topic: Turkeyhighest point: Mount Ararat 5,137 m
+
+lowest point: Mediterranean Sea 0 m
+
+mean elevation: 1,132 m
+
+Topic: Turkmenistanhighest point: Gora Ayribaba 3,139 m
+
+lowest point: Vpadina Akchanaya (Sarygamysh Koli is a lake in northern Turkmenistan with a water level that fluctuates above and below the elevation of Vpadina Akchanaya, the lake has dropped as low as -110 m) -81 m
+
+mean elevation: 230 m
+
+Topic: Turks and Caicos Islandshighest point: Blue Hill on Providenciales and Flamingo Hill on East Caicos 48 m
+
+lowest point: Caribbean Sea 0 m
+
+Topic: Tuvaluhighest point: unnamed location 5 m
+
+lowest point: Pacific Ocean 0 m
+
+mean elevation: 2 m
+
+Topic: Ugandahighest point: Margherita Peak on Mount Stanley 5,110 m
+
+lowest point: Albert Nile 614 m
+
+Topic: Ukrainehighest point: Hora Hoverla 2,061 m
+
+lowest point: Black Sea 0 m
+
+mean elevation: 175 m
+
+Topic: United Arab Emirateshighest point: Jabal Bil 'Ays 1,905 m
+note - the Factbook map is incorrect; it shows the wrong location of the high elevation
+
+lowest point: Persian Gulf 0 m
+
+mean elevation: 149 m
+
+Topic: United Kingdomhighest point: Ben Nevis 1,345 m
+
+lowest point: The Fens -4 m
+
+mean elevation: 162 m
+
+Topic: United Stateshighest point: Denali 6,190 m (Mount McKinley) (highest point in North America)
+
+lowest point: Death Valley (lowest point in North America) -86 m
+
+mean elevation: 760 m
+
+note: Denali is one of the most striking features on the entire planet; at 20,310 feet, it is the crowning peak of the Alaska Range and the highest mountain on North America; it towers three and one-half vertical miles above its base, making it a mile taller from base to summit than Mt. Everest; Denali's base sits at about 2,000 feet above sea level and rises over three and one-half miles to its 20,310 foot summit; Everest begins on a 14,000-foot high plain, then summits at 29,028 feet.
+note: the peak of Mauna Kea (4,207 m above sea level) on the island of Hawaii rises about 10,200 m above the Pacific Ocean floor; by this measurement, it is the world's tallest mountain - higher than Mount Everest (8,850 m), which is recognized as the tallest mountain above sea level
+
+Topic: United States Pacific Island Wildlife Refugeshighest point: Baker Island, unnamed location 8 m; Howland Island, unnamed location 3 m; Jarvis Island, unnamed location 7 m; Johnston Atoll, Sand Island 10 m; Kingman Reef, unnamed location 2 m; Midway Islands, unnamed location less than 13 m; Palmyra Atoll, unnamed location 3 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: Uruguayhighest point: Cerro Catedral 514 m
+
+lowest point: Atlantic Ocean 0 m
+
+mean elevation: 109 m
+
+Topic: Uzbekistanhighest point: Xazrat Sulton Tog' 4,643 m
+note - the Factbook map is incorrect; it shows the wrong location and name of the high elevation
+
+lowest point: Sariqamish Kuli -12 m
+
+Topic: Vanuatuhighest point: Tabwemasana 1,877 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: Venezuelahighest point: Pico Bolivar 4,978 m
+
+lowest point: Caribbean Sea 0 m
+
+mean elevation: 450 m
+
+Topic: Vietnamhighest point: Fan Si Pan 3,144 m
+
+lowest point: South China Sea 0 m
+
+mean elevation: 398 m
+
+Topic: Virgin Islandshighest point: Crown Mountain 474 m
+
+lowest point: Caribbean Sea 0 m
+
+Topic: Wake Islandhighest point: unnamed location 8 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: Wallis and Futunahighest point: Mont Singavi (on Futuna) 522 m
+
+lowest point: Pacific Ocean 0 m
+
+Topic: West Bankhighest point: Khallat al Batrakh 1,020 m
+
+lowest point: Dead Sea -431 m
+
+Topic: Worldhighest point: Mount Everest 8,849 m
+
+lowest point: Denman Glacier (Antarctica) more than -3,500 m (in the oceanic realm, Challenger Deep in the Mariana Trench is the lowest point, lying -10,924 m below the surface of the Pacific Ocean)
+
+mean elevation: 840 m
+
+top ten highest mountains (measured from sea level): Mount Everest (China-Nepal) 8,849 m; K2 (Pakistan) 8,611 m; Kanchenjunga (India-Nepal) 8,598 m; Lhotse (Nepal) 8,516 m; Makalu (China-Nepal) 8,463 m; Cho Oyu (China-Nepal) 8,201 m; Dhaulagiri (Nepal) 8,167 m; Manaslu (Nepal) 8,163 m; Nanga Parbat (Pakistan) 8,125 m; Anapurna (Nepal) 8,091 m; note - Mauna Kea (United States) is the world's tallest mountain as measured from base to summit; the peak of this volcanic colossus lies on the island of Hawaii, but its base begins more than 70 km offshore and at a depth of about 6,000 m; total height estimates range from 9,966 m to 10,203 m 
+
+top ten highest island peaks: Puncak Jaya (New Guinea) 4,884 m (Indonesia)*; Mauna Kea (Hawaii) 4,207 m (United States); Gunung Kinabalu (Borneo) 4,095 m (Malaysia)*; Yu Shan (Taiwan) 3,952 (Taiwan)*; Mount Kerinci (Sumatra) 3,805 m (Indonesia); Mount Erebus (Ross Island) 3,794 (Antarctica); Mount Fuji (Honshu) 3,776 m (Japan)*; Mount Rinjani (Lombok) 3,726 m (Indonesia); Aoraki-Mount Cook (South Island) 3,724 m (New Zealand)*; Pico de Teide (Tenerife) 3,718 m (Spain)*; note - * indicates the highest peak for that Factbook entry 
+
+highest point on each continent: Asia - Mount Everest (China-Nepal) 8,849 m; South America - Cerro Aconcagua (Argentina) 6,960 m; North America - Denali (Mount McKinley) (United States) 6,190 m; Africa - Kilimanjaro (Tanzania) 5,895 m; Europe - El'brus (Russia) 5,633 m; Antarctica - Vinson Massif 4,897 m; Australia - Mount Kosciuszko 2,229 m 
+
+highest capital on each continent: South America - La Paz (Bolivia) 3,640 m; Africa - Addis Ababa (Ethiopia) 2,355 m; Asia - Thimphu (Bhutan) 2,334 m; North America - Mexico City (Mexico) 2,240 m; Europe - Andorra la Vella (Andorra) 1,023 m; Australia - Canberra (Australia) 605 m 
+
+lowest point on each continent: Antarctica - Denman Glacier more than -3,500 m; Asia - Dead Sea (Israel-Jordan) -431 m; Africa - Lac Assal (Djibouti) -155 m; South America - Laguna del Carbon (Argentina) -105 m; North America - Death Valley (United States) -86 m; Europe - Caspian Sea (Azerbaijan-Kazakhstan-Russia) -28 m; Australia - Lake Eyre -15 
+
+lowest capital on each continent: Asia - Baku (Azerbaijan) -28 m; Europe - Amsterdam (Netherlands) -2 m; Africa - Banjul (Gambia); Bissau (Guinea-Bissau), Conakry (Guinea), Djibouti (Djibouti), Libreville (Gabon), Male (Maldives), Monrovia (Liberia), Tunis (Tunisia), Victoria (Seychelles) 0 m; North America - Basseterre (Saint Kitts and Nevis), Kingstown (Saint Vincent and the Grenadines), Panama City (Panama), Port of Spain (Trinidad and Tobago), Roseau (Dominica), Saint John's (Antigua and Barbuda), Santo Domingo (Dominican Republic) 0 m; South America - Georgetown (Guyana) 0 m; Australia - Canberra (Australia) 605 m
+
+Topic: Yemenhighest point: Jabal an Nabi Shu'ayb 3,666 m
+
+lowest point: Arabian Sea 0 m
+
+mean elevation: 999 m
+
+Topic: Zambiahighest point: Mafinga Central 2,330 m
+
+lowest point: Zambezi river 329 m
+
+mean elevation: 1,138 m
+
+Topic: Zimbabwehighest point: Inyangani 2,592 m
+
+lowest point: junction of the Runde and Save Rivers 162 m
+
+mean elevation: 961 m

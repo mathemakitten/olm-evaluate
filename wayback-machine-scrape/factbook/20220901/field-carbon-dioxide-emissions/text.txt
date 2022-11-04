@@ -1,0 +1,1733 @@
+This field refers to a country's amount of carbon dioxide released by burning coal, petroleum, and natural gas. Data are reported in metric tonnes of CO2.
+
+Topic: Afghanistan7.893 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 4.158 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 3.468 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 267,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Albania3.794 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 235,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 3.482 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 78,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Algeria151.633 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 352,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 57.867 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 93.414 million metric tonnes of CO2 (2019 est.)
+
+Topic: American Samoa355,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 355,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Angola19.362 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 17.673 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 1.689 million metric tonnes of CO2 (2019 est.)
+
+Topic: Antarctica28,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 28,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Antigua and Barbuda729,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 729,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Argentina193.205 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 2.122 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 94.208 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 96.875 million metric tonnes of CO2 (2019 est.)
+
+Topic: Armenia6.354 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 12,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.364 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 4.978 million metric tonnes of CO2 (2019 est.)
+
+Topic: Aruba1.254 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.254 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Australia417.87 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 162.26 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 158.668 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 96.942 million metric tonnes of CO2 (2019 est.)
+
+Topic: Austria65.54 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 10.508 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 37.336 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 17.695 million metric tonnes of CO2 (2019 est.)
+
+Topic: Azerbaijan35.389 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 29,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 12.863 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 22.497 million metric tonnes of CO2 (2019 est.)
+
+Topic: Bahamas, The3.984 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 3.976 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 7,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Bahrain43.112 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 7.308 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 35.804 million metric tonnes of CO2 (2019 est.)
+
+Topic: Bangladesh96.18 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 16.538 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 18.535 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 61.107 million metric tonnes of CO2 (2019 est.)
+
+Topic: Barbados1.703 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.662 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 41,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Belarus54.695 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 1.623 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 16.856 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 36.217 million metric tonnes of CO2 (2019 est.)
+
+Topic: Belgium128.247 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 10.301 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 83.474 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 34.472 million metric tonnes of CO2 (2019 est.)
+
+Topic: Belize541,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 541,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Benin6.903 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 274,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 6.592 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 37,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Bermuda796,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 796,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Bhutan934,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 328,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 606,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Bolivia17.786 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 12.071 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 5.715 million metric tonnes of CO2 (2019 est.)
+
+Topic: Bosnia and Herzegovina16.209 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 10.923 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 4.871 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 415,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Botswana5.965 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 2.922 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 3.042 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Brazil456.67 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 63.53 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 328.824 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 64.316 million metric tonnes of CO2 (2019 est.)
+
+Topic: British Virgin Islands173,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 173,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Brunei9.956 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 2.387 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 7.569 million metric tonnes of CO2 (2019 est.)
+
+Topic: Bulgaria38.373 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 20.483 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 12.248 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 5.642 million metric tonnes of CO2 (2019 est.)
+
+Topic: Burkina Faso4.444 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 4.444 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Burma31.848 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 3.881 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 20.832 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 7.134 million metric tonnes of CO2 (2019 est.)
+
+Topic: Burundi715,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 715,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Cabo Verde1.002 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.002 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Cambodia13.844 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 4.837 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 9.007 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Cameroon7.105 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 5.171 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 1.935 million metric tonnes of CO2 (2019 est.)
+
+Topic: Canada612.084 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 56.087 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 311.336 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 244.66 million metric tonnes of CO2 (2019 est.)
+
+Topic: Cayman Islands808,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 808,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Central African Republic285,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 285,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Chad1.771 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.771 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Chile88.333 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 24.217 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 51.228 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 12.888 million metric tonnes of CO2 (2019 est.)
+
+Topic: China10,773,248,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 8,652,419,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1,520,552,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 600.276 million metric tonnes of CO2 (2019 est.)
+
+Topic: Colombia81.007 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 12.666 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 47.679 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 20.662 million metric tonnes of CO2 (2019 est.)
+
+Topic: Comoros326,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 326,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Congo, Democratic Republic of the2.653 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 44,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 2.608 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 1,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Congo, Republic of the4.523 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.777 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 2.747 million metric tonnes of CO2 (2019 est.)
+
+Topic: Cook Islands114,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 114,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Costa Rica8.115 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 1,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 8.114 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Cote d'Ivoire11.88 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 7.332 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 4.548 million metric tonnes of CO2 (2019 est.)
+
+Topic: Croatia16.752 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 1.674 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 9.4 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 5.678 million metric tonnes of CO2 (2019 est.)
+
+Topic: Cuba16.478 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 28,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 14.636 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 1.814 million metric tonnes of CO2 (2019 est.)
+
+Topic: Cyprus8.024 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 8.024 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Czechia99.533 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 57.268 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 25.526 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 16.739 million metric tonnes of CO2 (2019 est.)
+
+Topic: Denmark33.85 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 3.455 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 24.621 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 5.775 million metric tonnes of CO2 (2019 est.)
+
+Topic: Djibouti610,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 610,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Dominica182,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 182,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Dominican Republic26.808 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 4.713 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 18.951 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 3.144 million metric tonnes of CO2 (2019 est.)
+
+Topic: Ecuador36.051 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 45,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 35.329 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 677,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Egypt235.137 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 8.728 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 112.281 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 114.128 million metric tonnes of CO2 (2019 est.)
+
+Topic: El Salvador7.632 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 2,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 7.63 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Equatorial Guinea4.528 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 2.409 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 2.119 million metric tonnes of CO2 (2019 est.)
+
+Topic: Eritrea798,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 798,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Estonia4.924 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 44,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 3.979 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 901,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Eswatini1.224 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 350,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 875,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Ethiopia16.798 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 1.474 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 15.324 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: European Union3.475 billion metric tonnes of CO2 (2015 est.)
+
+Topic: Falkland Islands (Islas Malvinas)46,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 46,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Faroe Islands870,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 870,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Fiji1.691 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.691 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Finland41.996 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 9.377 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 27.737 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 4.882 million metric tonnes of CO2 (2019 est.)
+
+Topic: France338.425 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 26.971 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 225.865 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 85.589 million metric tonnes of CO2 (2019 est.)
+
+Topic: French Polynesia1.03 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.03 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Gabon2.651 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 2.025 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 626,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Gambia, The606,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 606,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Gaza Strip3.341 million metric tonnes of CO2 (2019 est.) Data represented includes both the Gaza Strip and West Bank
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.) Data includes both the Gaza Strip and West Bank
+
+From petroleum and other liquids: 3.341 million metric tonnes of CO2 (2019 est.) Data includes both the Gaza Strip and West Bank
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.) Data includes both the Gaza Strip and West Bank
+
+Topic: Georgia10.299 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 1.063 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 4.245 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 4.992 million metric tonnes of CO2 (2019 est.)
+
+Topic: Germany726.881 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 218.636 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 316.064 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 192.181 million metric tonnes of CO2 (2019 est.)
+
+Topic: Ghana18.093 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 160,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 13.569 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 4.364 million metric tonnes of CO2 (2019 est.)
+
+Topic: Gibraltar14.256 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 14.146 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 111,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Greece70.163 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 13.404 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 46.401 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 10.358 million metric tonnes of CO2 (2019 est.)
+
+Topic: Greenland605,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 605,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Grenada316,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 316,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Guam1.828 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.828 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Guatemala19.041 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 5.037 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 14.004 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Guinea2.981 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 2.981 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Guinea-Bissau342,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 342,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Guyana2.743 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 2.743 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Haiti3.139 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 3.137 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 2,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Honduras8.523 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 61,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 8.462 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Hong Kong92.493 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 23.557 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 62.451 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 6.484 million metric tonnes of CO2 (2019 est.)
+
+Topic: Hungary48.589 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 7.501 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 21.568 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 19.52 million metric tonnes of CO2 (2019 est.)
+
+Topic: Iceland3.337 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 459,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 2.879 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: India2,314,738,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 1,574,331,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 615.903 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 124.505 million metric tonnes of CO2 (2019 est.)
+
+Topic: Indonesia563.543 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 267.326 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 209.279 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 86.938 million metric tonnes of CO2 (2019 est.)
+
+Topic: Iran646.038 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 5.142 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 204.21 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 436.687 million metric tonnes of CO2 (2019 est.)
+
+Topic: Iraq143.479 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 108.14 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 35.339 million metric tonnes of CO2 (2019 est.)
+
+Topic: Ireland35.475 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 1.43 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 23.08 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 10.965 million metric tonnes of CO2 (2019 est.)
+
+Topic: Israel61.092 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 13.653 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 29.416 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 18.023 million metric tonnes of CO2 (2019 est.)
+
+Topic: Italy332.041 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 27.194 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 162.472 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 142.375 million metric tonnes of CO2 (2019 est.)
+
+Topic: Jamaica10.002 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 177,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 9.276 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 549,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Japan1,103,234,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 439.243 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 444.271 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 219.72 million metric tonnes of CO2 (2019 est.)
+
+Topic: Jersey450,000 metric tonnes of CO2 (2012 est.)
+
+Topic: Jordan23.47 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 381,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 15.786 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 7.303 million metric tonnes of CO2 (2019 est.)
+
+Topic: Kazakhstan263.689 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 195.926 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 39.205 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 28.557 million metric tonnes of CO2 (2019 est.)
+
+Topic: Kenya17.709 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 1.25 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 16.459 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Kiribati76,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 76,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Korea, North18.465 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 15.252 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 3.213 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Korea, South686.954 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 319.383 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 255.518 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 112.052 million metric tonnes of CO2 (2019 est.)
+
+Topic: Kosovo8.009 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 6.1 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.909 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Kuwait92.582 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 578,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 44.288 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 47.715 million metric tonnes of CO2 (2019 est.)
+
+Topic: Kyrgyzstan7.88 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 2.967 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 4.505 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 408,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Laos40.726 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 37.871 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 2.855 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Latvia8.45 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 149,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 5.693 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 2.608 million metric tonnes of CO2 (2019 est.)
+
+Topic: Lebanon25.838 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 563,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 25.275 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Lesotho736,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 736,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Liberia1.346 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.346 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Libya38.297 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 30.018 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 8.279 million metric tonnes of CO2 (2019 est.)
+
+Topic: Lithuania14.503 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 693,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 9.488 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 4.322 million metric tonnes of CO2 (2019 est.)
+
+Topic: Luxembourg11.308 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 149,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 9.564 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 1.594 million metric tonnes of CO2 (2019 est.)
+
+Topic: Macau2.012 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.744 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 268,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Madagascar4.218 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 1.044 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 3.175 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Malawi1.542 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 203,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.339 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Malaysia254.764 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 81.726 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 94.934 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 78.104 million metric tonnes of CO2 (2019 est.)
+
+Topic: Maldives2.286 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 2.286 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Mali5.679 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 5.679 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Malta9.576 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 8.831 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 745,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Marshall Islands293,700 metric tonnes of CO2 (2017 est.)
+
+Topic: Mauritania4.041 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 4.041 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Mauritius7.191 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 1.595 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 5.596 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Mexico463.739 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 43.24 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 260.311 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 160.188 million metric tonnes of CO2 (2019 est.)
+
+Topic: Micronesia, Federated States of177,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 177,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Moldova8.114 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 374,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 2.968 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 4.773 million metric tonnes of CO2 (2019 est.)
+
+Topic: Mongolia22.74 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 17.445 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 5.295 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Montenegro2.447 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 1.333 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.114 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Montserrat33,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 33,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Morocco60.2 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 20.267 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 37.834 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 2.099 million metric tonnes of CO2 (2019 est.)
+
+Topic: Mozambique7.753 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 109,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 4.743 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 2.901 million metric tonnes of CO2 (2019 est.)
+
+Topic: Namibia3.831 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 66,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 3.764 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Nauru66,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 66,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Nepal7.708 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 1.051 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 6.657 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Netherlands214.416 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 23.15 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 116.24 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 75.027 million metric tonnes of CO2 (2019 est.)
+
+Topic: New Caledonia5.886 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 2.879 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 3.007 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: New Zealand40.344 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 5.139 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 25.76 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 9.445 million metric tonnes of CO2 (2019 est.)
+
+Topic: Nicaragua4.851 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 4.851 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Niger2.374 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 499,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.875 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Nigeria104.494 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 231,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 67.406 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 36.856 million metric tonnes of CO2 (2019 est.)
+
+Topic: Niue8,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 8,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: North Macedonia7.383 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 3.866 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 3.094 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 423,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Northern Mariana Islands0 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Norway36.731 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 3.182 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 25.256 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 8.294 million metric tonnes of CO2 (2019 est.)
+
+Topic: Oman76.321 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 191,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 29.682 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 46.447 million metric tonnes of CO2 (2019 est.)
+
+Topic: Pakistan193.869 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 47.468 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 67.789 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 78.611 million metric tonnes of CO2 (2019 est.)
+
+Topic: Panama25.263 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 1.905 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 22.281 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 1.077 million metric tonnes of CO2 (2019 est.)
+
+Topic: Papua New Guinea6.491 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 5.965 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 526,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Paraguay7.896 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 3,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 7.893 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Peru54.996 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 1.171 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 35.119 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 18.706 million metric tonnes of CO2 (2019 est.)
+
+Topic: Philippines142.282 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 70.82 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 64.418 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 7.044 million metric tonnes of CO2 (2019 est.)
+
+Topic: Poland304.04 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 176.938 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 89.944 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 37.158 million metric tonnes of CO2 (2019 est.)
+
+Topic: Portugal50.37 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 4.882 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 33.429 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 12.059 million metric tonnes of CO2 (2019 est.)
+
+Topic: Puerto Rico18.999 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 3.774 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 11.407 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 3.818 million metric tonnes of CO2 (2019 est.)
+
+Topic: Qatar111.922 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 33.44 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 78.482 million metric tonnes of CO2 (2019 est.)
+
+Topic: Romania68.746 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 20.891 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 27.268 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 20.588 million metric tonnes of CO2 (2019 est.)
+
+Topic: Russia1,848,070,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 456.033 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 470.289 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 921.748 million metric tonnes of CO2 (2019 est.)
+
+Topic: Rwanda1.189 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.189 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Saint Helena, Ascension, and Tristan da Cunha13,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 13,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Saint Kitts and Nevis268,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 268,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Saint Lucia659,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 659,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Saint Pierre and Miquelon84,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 84,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Saint Vincent and the Grenadines202,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 202,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Samoa355,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 355,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Sao Tome and Principe173,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 173,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Saudi Arabia579.925 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 300,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 358.414 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 221.211 million metric tonnes of CO2 (2019 est.)
+
+Topic: Senegal10.696 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 1.955 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 8.64 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 101,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Serbia47.735 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 32.686 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 10.17 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 4.878 million metric tonnes of CO2 (2019 est.)
+
+Topic: Seychelles1.156 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.156 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Sierra Leone899,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 899,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Singapore238.983 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 1.588 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 211.115 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 26.28 million metric tonnes of CO2 (2019 est.)
+
+Topic: Slovakia32.506 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 11.521 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 11.747 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 9.238 million metric tonnes of CO2 (2019 est.)
+
+Topic: Slovenia13.553 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 4.08 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 7.967 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 1.506 million metric tonnes of CO2 (2019 est.)
+
+Topic: Solomon Islands333,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 333,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Somalia882,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 882,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: South Africa470.358 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 387.835 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 73.163 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 9.361 million metric tonnes of CO2 (2019 est.)
+
+Topic: South Sudan1.778 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.778 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Spain280.624 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 16.743 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 191.299 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 72.582 million metric tonnes of CO2 (2019 est.)
+
+Topic: Sri Lanka23.939 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 5.546 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 18.393 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Sudan17.319 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 17.319 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Suriname2.372 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 2.361 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 11,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Sweden48.144 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 7.38 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 38.406 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 2.359 million metric tonnes of CO2 (2019 est.)
+
+Topic: Switzerland38.739 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 319,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 31.494 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 6.926 million metric tonnes of CO2 (2019 est.)
+
+Topic: Syria26.893 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 46,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 19.92 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 6.927 million metric tonnes of CO2 (2019 est.)
+
+Topic: Taiwan279.206 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 141.445 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 92.207 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 45.554 million metric tonnes of CO2 (2019 est.)
+
+Topic: Tajikistan7.643 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 4.362 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 2.971 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 309,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Tanzania11.491 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 1.32 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 7.466 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 2.705 million metric tonnes of CO2 (2019 est.)
+
+Topic: Thailand305.273 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 58.78 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 146.172 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 100.321 million metric tonnes of CO2 (2019 est.)
+
+Topic: Timor-Leste538,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 538,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Togo2.244 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 706,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.451 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 87,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Tonga171,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 171,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Trinidad and Tobago39.652 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 10,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 4.631 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 35.011 million metric tonnes of CO2 (2019 est.)
+
+Topic: Tunisia23.692 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 16,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 12.982 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 10.694 million metric tonnes of CO2 (2019 est.)
+
+Topic: Turkey (Turkiye)391.792 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 172.298 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 133.587 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 85.907 million metric tonnes of CO2 (2019 est.)
+
+Topic: Turkmenistan109.037 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 19.977 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 89.06 million metric tonnes of CO2 (2019 est.)
+
+Topic: Turks and Caicos Islands245,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 245,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Tuvalu0 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Uganda5.841 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 5.841 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Ukraine185.686 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 105.929 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 30.365 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 49.392 million metric tonnes of CO2 (2019 est.)
+
+Topic: United Arab Emirates276.236 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 5.032 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 126.524 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 144.681 million metric tonnes of CO2 (2019 est.)
+
+Topic: United Kingdom398.084 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 23.5 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 216.237 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 158.346 million metric tonnes of CO2 (2019 est.)
+
+Topic: United States5,144,361,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 1,077,520,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 2,382,833,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 1,684,008,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Uruguay6.45 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 6.259 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 190,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Uzbekistan102.965 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 7.816 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 11.53 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 83.619 million metric tonnes of CO2 (2019 est.)
+
+Topic: Vanuatu225,000 metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 225,000 metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Venezuela103.708 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 108,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 57.378 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 46.222 million metric tonnes of CO2 (2019 est.)
+
+Topic: Vietnam249.929 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 165.775 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 67.775 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 16.379 million metric tonnes of CO2 (2019 est.)
+
+Topic: Virgin Islands2.438 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 2.438 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Wake Island1.275 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 1.275 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: West Bank3.341 million metric tonnes of CO2 (2019 est.) Data represented includes both the Gaza Strip and West Bank
+
+From coal and metallurgical coke: 0 metric tonnes of CO2 (2019 est.) Data includes both the Gaza Strip and West Bank
+
+From petroleum and other liquids: 3.341 million metric tonnes of CO2 (2019 est.) Data includes both the Gaza Strip and West Bank
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.) Data includes both the Gaza Strip and West Bank
+
+Topic: World33.62 billion metric tonnes of CO2 (2013 est.)
+
+Topic: Yemen10.158 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 79,000 metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 9.896 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 183,000 metric tonnes of CO2 (2019 est.)
+
+Topic: Zambia6.798 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 3.186 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 3.612 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)
+
+Topic: Zimbabwe7.902 million metric tonnes of CO2 (2019 est.)
+
+From coal and metallurgical coke: 3.963 million metric tonnes of CO2 (2019 est.)
+
+From petroleum and other liquids: 3.94 million metric tonnes of CO2 (2019 est.)
+
+From consumed natural gas: 0 metric tonnes of CO2 (2019 est.)

@@ -1,0 +1,873 @@
+This entry gives the total number of fixed-broadband subscriptions, as well as the number of subscriptions per 100 inhabitants. Fixed broadband is a physical wired connection to the Internet (e.g., coaxial cable, optical fiber) at speeds equal to or greater than 256 kilobits/second (256 kbit/s).
+
+Topic: Afghanistantotal: 26,570 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.07 (2020 est.) less than 1
+
+Topic: Albaniatotal: 508,937 (2020 est.)
+
+subscriptions per 100 inhabitants: 18 (2020 est.)
+
+Topic: Algeriatotal: 3,790,459 (2020 est.)
+
+subscriptions per 100 inhabitants: 9 (2020 est.)
+
+Topic: Andorratotal: 37,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 48 (2020 est.)
+
+Topic: Angolatotal: 230,610 (2020 est.) This year we included fixed wireless technologies.
+
+subscriptions per 100 inhabitants: 0.7 (2020 est.) less than 1
+
+Topic: Anguillatotal: 5,000 (2018 est.)
+
+subscriptions per 100 inhabitants: 35 (2018 est.)
+
+Topic: Antigua and Barbudatotal: 8,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 8 (2020 est.)
+
+Topic: Argentinatotal: 9,571,562 (2020 est.)
+
+subscriptions per 100 inhabitants: 21 (2020 est.)
+
+Topic: Armeniatotal: 430,407 (2020 est.)
+
+subscriptions per 100 inhabitants: 15 (2020 est.)
+
+Topic: Arubatotal: 19,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 18 (2020 est.)
+
+Topic: Australiatotal: 9,099,619 (2020 est.)
+
+subscriptions per 100 inhabitants: 36 (2020 est.)
+
+Topic: Austriatotal: 2.606 million (2020 est.)
+
+subscriptions per 100 inhabitants: 29 (2020 est.)
+
+Topic: Azerbaijantotal: 1,995,474 (2020 est.)
+
+subscriptions per 100 inhabitants: 20 (2020 est.)
+
+Topic: Bahamas, Thetotal: 83,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 21 (2020 est.)
+
+Topic: Bahraintotal: 148,928 (2020 est.)
+
+subscriptions per 100 inhabitants: 9 (2020 est.)
+
+Topic: Bangladeshtotal: 10,052,819 (2020 est.)
+
+subscriptions per 100 inhabitants: 6 (2020 est.)
+
+Topic: Barbadostotal: 128,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 45 (2020 est.)
+
+Topic: Belarustotal: 3,255,552 (2020 est.)
+
+subscriptions per 100 inhabitants: 35 (2020 est.)
+
+Topic: Belgiumtotal: 4,734,210 (2020 est.)
+
+subscriptions per 100 inhabitants: 41 (2020 est.)
+
+Topic: Belizetotal: 36,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 9 (2020 est.)
+
+Topic: Benintotal: 29,981 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.3 (2020 est.) less than 1
+
+Topic: Bermudatotal: 23,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 37 (2020 est.)
+
+Topic: Bhutantotal: 3,189 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.4 (2020 est.) less than 1
+
+Topic: Boliviatotal: 931,918 (2020 est.)
+
+subscriptions per 100 inhabitants: 8 (2020 est.)
+
+Topic: Bosnia and Herzegovinatotal: 770,424 (2020 est.)
+
+subscriptions per 100 inhabitants: 24 (2020 est.)
+
+Topic: Botswanatotal: 259,525 (2020 est.)
+
+subscriptions per 100 inhabitants: 11 (2020 est.)
+
+Topic: Braziltotal: 36,344,670 (2020 est.)
+
+subscriptions per 100 inhabitants: 17 (2020 est.)
+
+Topic: British Virgin Islandstotal: 6,738 (2020 est.)
+
+subscriptions per 100 inhabitants: 22 (2020 est.)
+
+Topic: Bruneitotal: 71,078 (2020 est.)
+
+subscriptions per 100 inhabitants: 16 (2020 est.)
+
+Topic: Bulgariatotal: 2,115,053 (2020 est.)
+
+subscriptions per 100 inhabitants: 30 (2020 est.)
+
+Topic: Burkina Fasototal: 13,979 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.1 (2020 est.) less than 1
+
+Topic: Burmatotal: 688,185 (2020 est.)
+
+subscriptions per 100 inhabitants: 1.3 (2020 est.)
+
+Topic: Burunditotal: 4,230 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.04 (2020 est.) less than 1
+
+Topic: Cabo Verdetotal: 24,839 (2020 est.)
+
+subscriptions per 100 inhabitants: 5 (2020 est.)
+
+Topic: Cambodiatotal: 233,732 (2020 est.) Slowly increase as focus is on mobile internet
+
+subscriptions per 100 inhabitants: 1.4 (2020 est.)
+
+Topic: Cameroontotal: 722,579 (2020 est.)
+
+subscriptions per 100 inhabitants: 3 (2020 est.)
+
+Topic: Canadatotal: 15,825,813 (2020 est.) Retail high-speed Internet access subs
+
+subscriptions per 100 inhabitants: 42 (2020 est.)
+
+Topic: Cayman Islandstotal: 3,200 (2020 est.)
+
+subscriptions per 100 inhabitants: 49 (2020 est.)
+
+Topic: Central African Republictotal: 499 (2019 est.) Data available for 2019 only.
+
+subscriptions per 100 inhabitants: 0.01 (2019 est.) less than 1
+
+Topic: Chadtotal: 0 (2020 est.)
+
+subscriptions per 100 inhabitants: 0 (2020 est.)
+
+Topic: Chiletotal: 3,763,826 (2020 est.)
+
+subscriptions per 100 inhabitants: 20 (2020 est.)
+
+Topic: Chinatotal: 483,549,500 (2020 est.)
+
+subscriptions per 100 inhabitants: 34 (2020 est.)
+
+Topic: Colombiatotal: 7,764,772 (2020 est.)
+
+subscriptions per 100 inhabitants: 15 (2020 est.)
+
+Topic: Comorostotal: 1,066 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.12 (2020 est.) less than 1
+
+Topic: Congo, Democratic Republic of thetotal: 31,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.03 (2020 est.) less than 1
+
+Topic: Congo, Republic of thetotal: 1,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.02 (2020 est.) less than 1
+
+Topic: Cook Islandstotal: 2,700 (2018 est.)
+
+subscriptions per 100 inhabitants: 15 (2018 est.)
+
+Topic: Costa Ricatotal: 992,725 (2020 est.)
+
+subscriptions per 100 inhabitants: 20 (2020 est.)
+
+Topic: Cote d'Ivoiretotal: 260,097 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.99 (2020 est.) less than 1
+
+Topic: Croatiatotal: 1,030,973 (2020 est.)
+
+subscriptions per 100 inhabitants: 25 (2020 est.)
+
+Topic: Cubatotal: 231,654 (2020 est.)
+
+subscriptions per 100 inhabitants: 2 (2020 est.)
+
+Topic: Curacaototal: 55,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 34 (2020 est.)
+
+Topic: Cyprustotal: 332,080 (2020 est.)
+
+subscriptions per 100 inhabitants: 37 (2020 est.)
+
+Topic: Czechiatotal: 3,845,426 (2020 est.)
+
+subscriptions per 100 inhabitants: 36 (2020 est.)
+
+Topic: Denmarktotal: 2,590,282 (2020 est.)
+
+subscriptions per 100 inhabitants: 45 (2020 est.)
+
+Topic: Djiboutitotal: 25,053 (2020 est.)
+
+subscriptions per 100 inhabitants: 3 (2020 est.)
+
+Topic: Dominicatotal: 16,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 22 (2020 est.)
+
+Topic: Dominican Republictotal: 1,031,858 (2020 est.)
+
+subscriptions per 100 inhabitants: 10 (2020 est.)
+
+Topic: Ecuadortotal: 2,371,297 (2020 est.)
+
+subscriptions per 100 inhabitants: 13 (2020 est.)
+
+Topic: Egypttotal: 9,349,469 (2020 est.)
+
+subscriptions per 100 inhabitants: 9 (2020 est.)
+
+Topic: El Salvadortotal: 586,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 9 (2020 est.)
+
+Topic: Equatorial Guineatotal: 1,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.07 (2020 est.) less than 1
+
+Topic: Eritreatotal: 5,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.14 (2020 est.) less than 1
+
+Topic: Estoniatotal: 415,610 (2020 est.)
+
+subscriptions per 100 inhabitants: 31 (2020 est.)
+
+Topic: Eswatinitotal: 12,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 1 (2020 est.)
+
+Topic: Ethiopiatotal: 212,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.18 (2020 est.) less than 1
+
+Topic: European Uniontotal: 163,772,540 (2020 est.)
+
+subscriptions per 100 inhabitants: 37 (2020 est.)
+
+Topic: Falkland Islands (Islas Malvinas)total: 1,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 33 (2020 est.)
+
+Topic: Faroe Islandstotal: 18,443 (2020 est.)
+
+subscriptions per 100 inhabitants: 38 (2020 est.)
+
+Topic: Fijitotal: 23,062 (2020 est.)
+
+subscriptions per 100 inhabitants: 3 (2020 est.)
+
+Topic: Finlandtotal: 1.846 million (2020 est.)
+
+subscriptions per 100 inhabitants: 33 (2020 est.)
+
+Topic: Francetotal: 30.627 million (2020 est.)
+
+subscriptions per 100 inhabitants: 47 (2020 est.)
+
+Topic: French Polynesiatotal: 64,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 23 (2020 est.)
+
+Topic: Gabontotal: 44,607 (2020 est.)
+
+subscriptions per 100 inhabitants: 2 (2020 est.)
+
+Topic: Gambia, Thetotal: 5,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.21 (2020 est.) less than 1
+
+Topic: Gaza Striptotal: 376,911 (2020 est.) includes the West Bank
+
+subscriptions per 100 inhabitants: 7 (2020 est.) includes the West Bank
+
+note: includes West Bank
+
+Topic: Georgiatotal: 972,162 (2020 est.)
+
+subscriptions per 100 inhabitants: 24 (2020 est.)
+
+Topic: Germanytotal: 36,215,303 (2020 est.)
+
+subscriptions per 100 inhabitants: 43 (2020 est.)
+
+Topic: Ghanatotal: 78,371 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.25 (2020 est.) less than 1
+
+Topic: Gibraltartotal: 21,009 (2020 est.)
+
+subscriptions per 100 inhabitants: 62 (2020 est.)
+
+Topic: Greecetotal: 4,257,026 (2020 est.)
+
+subscriptions per 100 inhabitants: 41 (2020 est.)
+
+Topic: Greenlandtotal: 15,649 (2020 est.)
+
+subscriptions per 100 inhabitants: 28 (2020 est.)
+
+Topic: Grenadatotal: 32,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 28 (2020 est.)
+
+Topic: Guamtotal: 3,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 2 (2020 est.)
+
+Topic: Guatemalatotal: 612,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 3 (2020 est.)
+
+Topic: Guernseytotal: 25,336 (2020 est.)
+
+subscriptions per 100 inhabitants: 40 (2020 est.)
+
+Topic: Guineatotal: 1,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.01 (2020 est.) less than 1
+
+Topic: Guinea-Bissautotal: 2,383 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.12 (2020 est.) less than 1
+
+Topic: Guyanatotal: 95,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 12 (2020 est.)
+
+Topic: Haititotal: 31,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.27 (2020 est.) less than 1
+
+Topic: Hondurastotal: 396,916 (2020)
+
+subscriptions per 100 inhabitants: 4 (2020 est.)
+
+Topic: Hong Kongtotal: 2,885,586 (2020 est.)
+
+subscriptions per 100 inhabitants: 39 (2020 est.)
+
+Topic: Hungarytotal: 3,265,308 (2020 est.)
+
+subscriptions per 100 inhabitants: 34 (2020 est.)
+
+Topic: Icelandtotal: 141,816 (2020 est.)
+
+subscriptions per 100 inhabitants: 42 (2020 est.)
+
+Topic: Indiatotal: 22.95 million (2020 est.)
+
+subscriptions per 100 inhabitants: 2 (2020 est.)
+
+Topic: Indonesiatotal: 11,722,218 (2020 est.)
+
+subscriptions per 100 inhabitants: 4 (2020 est.)
+
+Topic: Irantotal: 9,564,195 (2020 est.)
+
+subscriptions per 100 inhabitants: 11 (2020 est.)
+
+Topic: Iraqtotal: 6,254,099 (2020 est.)
+
+subscriptions per 100 inhabitants: 16 (2020 est.)
+
+Topic: Irelandtotal: 1,516,473 (2020 est.)
+
+subscriptions per 100 inhabitants: 31 (2020 est.)
+
+Topic: Israeltotal: 2,602,079 (2020 est.)
+
+subscriptions per 100 inhabitants: 30 (2020 est.)
+
+Topic: Italytotal: 18,128,787 (2020 est.)
+
+subscriptions per 100 inhabitants: 30 (2020 est.)
+
+Topic: Jamaicatotal: 385,603 (2020 est.)
+
+subscriptions per 100 inhabitants: 13 (2020 est.)
+
+Topic: Japantotal: 44,000,791 (2020 est.)
+
+subscriptions per 100 inhabitants: 35 (2020 est.)
+
+Topic: Jerseytotal: 39,699 (2020 est.) NA
+
+subscriptions per 100 inhabitants: 37 (2020 est.) NA
+
+Topic: Jordantotal: 630,545 (2020 est.)
+
+subscriptions per 100 inhabitants: 6 (2020 est.)
+
+Topic: Kazakhstantotal: 2,620,400 (2020 est.)
+
+subscriptions per 100 inhabitants: 14 (2020 est.)
+
+Topic: Kenyatotal: 674,191 (2020 est.)
+
+subscriptions per 100 inhabitants: 1.3 (2020 est.)
+
+Topic: Kiribatitotal: 185 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.2 (2020 est.) less than 1
+
+Topic: Korea, Southtotal: 22,327,182 (2020 est.)
+
+subscriptions per 100 inhabitants: 44 (2020 est.)
+
+Topic: Kuwaittotal: 73,948 (2020 est.)
+
+subscriptions per 100 inhabitants: 1.7 (2020 est.)
+
+Topic: Kyrgyzstantotal: 289,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 4 (2020 est.)
+
+Topic: Laostotal: 128,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 1.8 (2020 est.)
+
+Topic: Latviatotal: 490,569 (2020 est.)
+
+subscriptions per 100 inhabitants: 26 (2020 est.)
+
+Topic: Lebanontotal: 432,070 (2020 est.)
+
+subscriptions per 100 inhabitants: 6 (2020 est.)
+
+Topic: Lesothototal: 5,060 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.24 (2020 est.) less than 1
+
+Topic: Liberiatotal: 13,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.26 (2020 est.) less than 1
+
+Topic: Libyatotal: 332,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 5 (2020 est.)
+
+Topic: Liechtensteintotal: 18,050 (2020 est.)
+
+subscriptions per 100 inhabitants: 47 (2020 est.)
+
+Topic: Lithuaniatotal: 796,814 (2020 est.)
+
+subscriptions per 100 inhabitants: 29 (2020 est.)
+
+Topic: Luxembourgtotal: 235,155 (2020 est.)
+
+subscriptions per 100 inhabitants: 38 (2020 est.)
+
+Topic: Macautotal: 208,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 32 (2020 est.)
+
+Topic: Madagascartotal: 32,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.12 (2020 est.) less than 1
+
+Topic: Malawitotal: 12,255 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.06 (2020 est.) less than 1
+
+Topic: Malaysiatotal: 3,358,800 (2020 est.)
+
+subscriptions per 100 inhabitants: 10 (2020 est.)
+
+Topic: Maldivestotal: 63,685 (2020 est.)
+
+subscriptions per 100 inhabitants: 12 (2020 est.)
+
+Topic: Malitotal: 243,806 (2020 est.)
+
+subscriptions per 100 inhabitants: 1.2 (2020 est.)
+
+Topic: Maltatotal: 213,419 (2020 est.)
+
+subscriptions per 100 inhabitants: 48 (2020 est.)
+
+Topic: Marshall Islandstotal: 1,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 1.7 (2020 est.)
+
+Topic: Mauritaniatotal: 18,457 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.4 (2020 est.) less than 1
+
+Topic: Mauritiustotal: 323,200 (2020 est.)
+
+subscriptions per 100 inhabitants: 25 (2020 est.)
+
+Topic: Mexicototal: 21,936,131 (2020 est.)
+
+subscriptions per 100 inhabitants: 17 (2020 est.)
+
+Topic: Micronesia, Federated States oftotal: 6,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 5 (2020 est.)
+
+Topic: Moldovatotal: 719,001 (2020 est.)
+
+subscriptions per 100 inhabitants: 18 (2020 est.)
+
+Topic: Monacototal: 20,877 (2020 est.)
+
+subscriptions per 100 inhabitants: 53 (2020 est.)
+
+Topic: Mongoliatotal: 307,166 (2020 est.)
+
+subscriptions per 100 inhabitants: 9 (2020 est.)
+
+Topic: Montenegrototal: 184,176 (2020 est.)
+
+subscriptions per 100 inhabitants: 29 (2020 est.)
+
+Topic: Montserrattotal: 2,700 (2018 est.)
+
+subscriptions per 100 inhabitants: 55 (2018 est.)
+
+Topic: Moroccototal: 2,102,434 (2020 est.)
+
+subscriptions per 100 inhabitants: 6 (2020 est.)
+
+Topic: Mozambiquetotal: 70,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.22 (2020 est.) less than 1
+
+Topic: Namibiatotal: 71,063 (2020 est.)
+
+subscriptions per 100 inhabitants: 3 (2020 est.)
+
+Topic: Naurutotal: 950 (2010 est.)
+
+subscriptions per 100 inhabitants: 10 (2010 est.)
+
+Topic: Nepaltotal: 1.27 million (2020 est.)
+
+subscriptions per 100 inhabitants: 4 (2020 est.)
+
+Topic: Netherlandstotal: 7,525,016 (2020 est.)
+
+subscriptions per 100 inhabitants: 44 (2020 est.)
+
+Topic: New Caledoniatotal: 55,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 19 (2020 est.)
+
+Topic: New Zealandtotal: 1,764,984 (2020 est.)
+
+subscriptions per 100 inhabitants: 37 (2020 est.)
+
+Topic: Nicaraguatotal: 290,351 (2020 est.)
+
+subscriptions per 100 inhabitants: 4 (2020 est.)
+
+Topic: Nigertotal: 12,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.05 (2020 est.) less than 1
+
+Topic: Nigeriatotal: 65,313 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.03 (2020 est.) less than 1
+
+Topic: North Macedoniatotal: 475,569 (2020 est.)
+
+subscriptions per 100 inhabitants: 23 (2020 est.)
+
+Topic: Norwaytotal: 2,387,661 (2020 est.)
+
+subscriptions per 100 inhabitants: 44 (2020 est.)
+
+Topic: Omantotal: 508,949 (2020 est.)
+
+subscriptions per 100 inhabitants: 11 (2020 est.)
+
+Topic: Pakistantotal: 2,523,027 (2020 est.)
+
+subscriptions per 100 inhabitants: 1.1 (2020 est.)
+
+Topic: Palautotal: 1,224 (2015 est.)
+
+subscriptions per 100 inhabitants: 7 (2015 est.)
+
+Topic: Panamatotal: 562,413 (2020 est.)
+
+subscriptions per 100 inhabitants: 13 (2020 est.)
+
+Topic: Papua New Guineatotal: 21,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.23 (2020 est.) less than 1
+
+Topic: Paraguaytotal: 562,369 (2020 est.)
+
+subscriptions per 100 inhabitants: 8 (2020 est.)
+
+Topic: Perutotal: 3.044 million (2020 est.)
+
+subscriptions per 100 inhabitants: 9 (2020 est.)
+
+Topic: Philippinestotal: 7,936,574 (2020 est.)
+
+subscriptions per 100 inhabitants: 7 (2020 est.)
+
+Topic: Polandtotal: 8,369,218 (2020 est.)
+
+subscriptions per 100 inhabitants: 22 (2020 est.)
+
+Topic: Portugaltotal: 4,160,795 (2020 est.)
+
+subscriptions per 100 inhabitants: 41 (2020 est.)
+
+Topic: Puerto Ricototal: 671,284 (2020 est.)
+
+subscriptions per 100 inhabitants: 24 (2020 est.)
+
+Topic: Qatartotal: 296,126 (2020 est.)
+
+subscriptions per 100 inhabitants: 10 (2020 est.)
+
+Topic: Romaniatotal: 5,684,782 (2020 est.)
+
+subscriptions per 100 inhabitants: 30 (2020 est.)
+
+Topic: Russiatotal: 33,893,305 (2020 est.)
+
+subscriptions per 100 inhabitants: 23 (2020 est.)
+
+Topic: Rwandatotal: 17,685 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.14 (2020 est.) less than 1
+
+Topic: Saint Helena, Ascension, and Tristan da Cunhatotal: 1,000 (2018 est.)
+
+subscriptions per 100 inhabitants: 17 (2020 est.)
+
+Topic: Saint Kitts and Nevistotal: 30,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 56 (2020 est.)
+
+Topic: Saint Luciatotal: 33,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 18 (2020 est.)
+
+Topic: Saint Vincent and the Grenadinestotal: 24,733 (2020 est.)
+
+subscriptions per 100 inhabitants: 22 (2020 est.)
+
+Topic: Samoatotal: 1,692 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.85 (2020 est.) less than 1
+
+Topic: San Marinototal: 11,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 32 (2020 est.)
+
+Topic: Sao Tome and Principetotal: 2,512 (2020 est.)
+
+subscriptions per 100 inhabitants: 1.15 (2020 est.)
+
+Topic: Saudi Arabiatotal: 7,890,261 (2020 est.)
+
+subscriptions per 100 inhabitants: 23 (2020 est.)
+
+Topic: Senegaltotal: 153,813 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.92 (2020 est.) less than 1
+
+Topic: Serbiatotal: 1,730,496 (2020 est.)
+
+subscriptions per 100 inhabitants: 25 (2020 est.)
+
+Topic: Seychellestotal: 34,966 (2020 est.)
+
+subscriptions per 100 inhabitants: 36 (2020 est.)
+
+Topic: Singaporetotal: 1,509,700 (2020 est.)
+
+subscriptions per 100 inhabitants: 26 (2020 est.)
+
+Topic: Slovakiatotal: 1,701,561 (2020 est.)
+
+subscriptions per 100 inhabitants: 31 (2020 est.)
+
+Topic: Sloveniatotal: 651,604 (2020 est.)
+
+subscriptions per 100 inhabitants: 31 (2020 est.)
+
+Topic: Solomon Islandstotal: 1,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.15 (2020 est.) less than 1
+
+Topic: Somaliatotal: 119,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.75 (2020 est.) less than 1
+
+Topic: South Africatotal: 1,303,057 (2020 est.)
+
+subscriptions per 100 inhabitants: 2 (2020 est.)
+
+Topic: South Sudantotal: 200 (2019 est.)
+
+subscriptions per 100 inhabitants: 0 (2019 est.)
+
+Topic: Spaintotal: 16,188,502 (2020 est.)
+
+subscriptions per 100 inhabitants: 35 (2020 est.)
+
+Topic: Sri Lankatotal: 1,781,530 (2020 est.)
+
+subscriptions per 100 inhabitants: 8 (2020 est.)
+
+Topic: Sudantotal: 28,782 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.07 (2020 est.) less than 1
+
+Topic: Surinametotal: 92,270 (2020 est.)
+
+subscriptions per 100 inhabitants: 16 (2020 est.)
+
+Topic: Swedentotal: 4,179,574 (2020 est.)
+
+subscriptions per 100 inhabitants: 41 (2020 est.)
+
+Topic: Switzerlandtotal: 4,028,238 (2020 est.)
+
+subscriptions per 100 inhabitants: 47 (2020 est.)
+
+Topic: Syriatotal: 1,549,356 (2020 est.)
+
+subscriptions per 100 inhabitants: 9 (2020 est.)
+
+Topic: Taiwantotal: 5,831,470 (2019 est.)
+
+subscriptions per 100 inhabitants: 25 (2019 est.)
+
+Topic: Tajikistantotal: 6,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.06 (2020 est.) less than 1
+
+Topic: Tanzaniatotal: 1,135,608 (2020 est.)
+
+subscriptions per 100 inhabitants: 2 (2020 est.)
+
+Topic: Thailandtotal: 11,478,265 (2020 est.)
+
+subscriptions per 100 inhabitants: 16 (2020 est.)
+
+Topic: Timor-Lestetotal: 75 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.01 (2020 est.) less than 1
+
+Topic: Togototal: 52,706 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.64 (2020 est.) less than 1
+
+Topic: Tongatotal: 5,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 5 (2020 est.)
+
+Topic: Trinidad and Tobagototal: 376,771 (2020 est.)
+
+subscriptions per 100 inhabitants: 27 (2020 est.)
+
+Topic: Tunisiatotal: 1,334,059 (2020 est.)
+
+subscriptions per 100 inhabitants: 11 (2020 est.)
+
+Topic: Turkeytotal: 16,734,853 (2020 est.)
+
+subscriptions per 100 inhabitants: 20 (2020 est.)
+
+Topic: Turkmenistantotal: 10,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.17 (2020 est.) less than 1
+
+Topic: Tuvalutotal: 450 (2017 est.)
+
+subscriptions per 100 inhabitants: 4 (2017 est.)
+
+Topic: Ugandatotal: 58,594 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.13 (2020 est.) less than 1
+
+Topic: Ukrainetotal: 7,769,401 (2020 est.)
+
+subscriptions per 100 inhabitants: 19 (2020 est.)
+
+Topic: United Arab Emiratestotal: 3,245,123 (2020 est.)
+
+subscriptions per 100 inhabitants: 33 (2020 est.)
+
+Topic: United Kingdomtotal: 27,330,297 (2020 est.)
+
+subscriptions per 100 inhabitants: 40 (2020 est.)
+
+Topic: United Statestotal: 121.176 million (2020 est.)
+
+subscriptions per 100 inhabitants: 37 (2020 est.)
+
+Topic: Uruguaytotal: 1,063,701 (2020 est.)
+
+subscriptions per 100 inhabitants: 31 (2020 est.)
+
+Topic: Uzbekistantotal: 4,820,009 (2020 est.)
+
+subscriptions per 100 inhabitants: 14 (2020 est.)
+
+Topic: Vanuatutotal: 2,785 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.9 (2020 est.) less than 1
+
+Topic: Venezuelatotal: 2,561,556 (2020 est.)
+
+subscriptions per 100 inhabitants: 9 (2020 est.)
+
+Topic: Vietnamtotal: 16,699,249 (2020 est.)
+
+subscriptions per 100 inhabitants: 17 (2020 est.)
+
+Topic: West Banktotal: 373,050 (2020 est.)
+
+subscriptions per 100 inhabitants: 7 (2020 est.)
+
+note: includes Gaza Strip
+
+Topic: Worldtotal: 1.23 billion (2020 est.)
+
+subscriptions per 100 inhabitants: 16 (2020 est.)
+
+Topic: Yementotal: 391,000 (2020 est.)
+
+subscriptions per 100 inhabitants: 1.3 (2020 est.)
+
+Topic: Zambiatotal: 82,317 (2020 est.)
+
+subscriptions per 100 inhabitants: 0.5 (2020 est.) less than 1
+
+Topic: Zimbabwetotal: 203,461 (2020 est.)
+
+subscriptions per 100 inhabitants: 1.4 (2020 est.)

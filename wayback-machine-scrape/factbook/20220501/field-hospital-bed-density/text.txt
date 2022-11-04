@@ -1,0 +1,341 @@
+This entry provides the number of hospital beds per 1,000 people; it serves as a general measure of inpatient service availability. Hospital beds include inpatient beds available in public, private, general, and specialized hospitals and rehabilitation centers. In most cases, beds for both acute and chronic care are included. Because the level of inpatient services required for individual countries depends on several factors - such as demographic issues and the burden of disease - there is no global target for the number of hospital beds per country. So, while 2 beds per 1,000 in one country may be sufficient, 2 beds per 1,000 in another may be woefully inadequate because of the number of people hospitalized by disease.
+
+Topic: Afghanistan0.4 beds/1,000 population (2017)
+
+Topic: Albania2.9 beds/1,000 population (2013)
+
+Topic: Algeria1.9 beds/1,000 population (2015)
+
+Topic: Andorra2.5 beds/1,000 population
+
+Topic: Antigua and Barbuda2.9 beds/1,000 population (2017)
+
+Topic: Argentina5 beds/1,000 population (2017)
+
+Topic: Armenia4.2 beds/1,000 population (2014)
+
+Topic: Australia3.8 beds/1,000 population (2016)
+
+Topic: Austria7.3 beds/1,000 population (2018)
+
+Topic: Azerbaijan4.8 beds/1,000 population (2014)
+
+Topic: Bahamas, The3 beds/1,000 population (2017)
+
+Topic: Bahrain1.7 beds/1,000 population (2017)
+
+Topic: Bangladesh0.8 beds/1,000 population (2016)
+
+Topic: Barbados6 beds/1,000 population (2017)
+
+Topic: Belarus10.8 beds/1,000 population (2014)
+
+Topic: Belgium5.6 beds/1,000 population (2019)
+
+Topic: Belize1 beds/1,000 population (2017)
+
+Topic: Benin0.5 beds/1,000 population
+
+Topic: Bhutan1.7 beds/1,000 population (2012)
+
+Topic: Bolivia1.3 beds/1,000 population (2017)
+
+Topic: Bosnia and Herzegovina3.5 beds/1,000 population (2014)
+
+Topic: Botswana1.8 beds/1,000 population
+
+Topic: Brazil2.1 beds/1,000 population (2017)
+
+Topic: Brunei2.9 beds/1,000 population (2017)
+
+Topic: Bulgaria7.5 beds/1,000 population (2017)
+
+Topic: Burkina Faso0.4 beds/1,000 population
+
+Topic: Burma1 beds/1,000 population (2017)
+
+Topic: Burundi0.8 beds/1,000 population (2014)
+
+Topic: Cabo Verde2.1 beds/1,000 population
+
+Topic: Cambodia1.9 beds/1,000 population (2016)
+
+Topic: Cameroon1.3 beds/1,000 population
+
+Topic: Canada2.5 beds/1,000 population (2019)
+
+Topic: Central African Republic1 beds/1,000 population (2011)
+
+Topic: Chile2.1 beds/1,000 population (2018)
+
+Topic: China4.3 beds/1,000 population (2017)
+
+Topic: Colombia1.7 beds/1,000 population (2018)
+
+Topic: Costa Rica1.1 beds/1,000 population (2019)
+
+Topic: Croatia5.5 beds/1,000 population (2017)
+
+Topic: Cuba5.3 beds/1,000 population (2017)
+
+Topic: Cyprus3.4 beds/1,000 population (2017)
+
+Topic: Czechia6.6 beds/1,000 population (2018)
+
+Topic: Denmark2.6 beds/1,000 population (2019)
+
+Topic: Djibouti1.4 beds/1,000 population (2017)
+
+Topic: Dominica3.8 beds/1,000 population
+
+Topic: Dominican Republic1.6 beds/1,000 population (2017)
+
+Topic: Ecuador1.4 beds/1,000 population (2016)
+
+Topic: Egypt1.4 beds/1,000 population (2017)
+
+Topic: El Salvador1.2 beds/1,000 population (2017)
+
+Topic: Eritrea0.7 beds/1,000 population (2011)
+
+Topic: Estonia4.6 beds/1,000 population (2018)
+
+Topic: Eswatini2.1 beds/1,000 population (2011)
+
+Topic: Ethiopia0.3 beds/1,000 population (2016)
+
+Topic: Faroe Islands4.2 beds/1,000 population (2016)
+
+Topic: Fiji2 beds/1,000 population (2016)
+
+Topic: Finland3.6 beds/1,000 population (2018)
+
+Topic: France5.9 beds/1,000 population (2018)
+
+Topic: Gabon6.3 beds/1,000 population
+
+Topic: Gambia, The1.1 beds/1,000 population (2011)
+
+Topic: Gaza Strip1.3 beds/1,000 population (2019)
+
+Topic: Georgia2.9 beds/1,000 population (2014)
+
+Topic: Germany8 beds/1,000 population (2017)
+
+Topic: Ghana0.9 beds/1,000 population (2011)
+
+Topic: Greece4.2 beds/1,000 population (2018)
+
+Topic: Greenland14 beds/1,000 population (2016)
+
+Topic: Grenada3.6 beds/1,000 population (2017)
+
+Topic: Guatemala0.4 beds/1,000 population (2017)
+
+Topic: Guinea0.3 beds/1,000 population (2011)
+
+Topic: Guyana1.7 beds/1,000 population (2016)
+
+Topic: Haiti0.7 beds/1,000 population (2013)
+
+Topic: Honduras0.6 beds/1,000 population (2017)
+
+Topic: Hong Kong4.9 beds/1,000 population (2020)
+
+Topic: Hungary7 beds/1,000 population (2018)
+
+Topic: Iceland2.8 beds/1,000 population (2019)
+
+Topic: India0.5 beds/1,000 population (2017)
+
+Topic: Indonesia1 beds/1,000 population (2017)
+
+Topic: Iran1.6 beds/1,000 population (2017)
+
+Topic: Iraq1.3 beds/1,000 population (2017)
+
+Topic: Ireland3 beds/1,000 population (2018)
+
+Topic: Israel3 beds/1,000 population (2018)
+
+Topic: Italy3.1 beds/1,000 population (2018)
+
+Topic: Jamaica1.7 beds/1,000 population (2017)
+
+Topic: Japan13 beds/1,000 population (2018)
+
+Topic: Jordan1.5 beds/1,000 population (2017)
+
+Topic: Kazakhstan6.1 beds/1,000 population (2014)
+
+Topic: Kiribati1.9 beds/1,000 population (2016)
+
+Topic: Korea, South12.4 beds/1,000 population (2018)
+
+Topic: Kuwait2 beds/1,000 population (2017)
+
+Topic: Kyrgyzstan4.4 beds/1,000 population (2014)
+
+Topic: Laos1.5 beds/1,000 population (2012)
+
+Topic: Latvia5.5 beds/1,000 population (2018)
+
+Topic: Lebanon2.7 beds/1,000 population (2017)
+
+Topic: Libya3.2 beds/1,000 population (2017)
+
+Topic: Lithuania6.4 beds/1,000 population (2018)
+
+Topic: Luxembourg4.3 beds/1,000 population (2019)
+
+Topic: Madagascar0.2 beds/1,000 population
+
+Topic: Malawi1.3 beds/1,000 population (2011)
+
+Topic: Malaysia1.9 beds/1,000 population (2017)
+
+Topic: Maldives4.3 beds/1,000 population
+
+Topic: Mali0.1 beds/1,000 population
+
+Topic: Malta4.5 beds/1,000 population (2017)
+
+Topic: Marshall Islands2.7 beds/1,000 population
+
+Topic: Mauritius3.7 beds/1,000 population (2020)
+
+Topic: Mexico1 beds/1,000 population (2018)
+
+Topic: Micronesia, Federated States of3.2 beds/1,000 population
+
+Topic: Moldova5.7 beds/1,000 population (2014)
+
+Topic: Monaco13.8 beds/1,000 population (2012)
+
+Topic: Mongolia8 beds/1,000 population (2017)
+
+Topic: Montenegro3.9 beds/1,000 population (2017)
+
+Topic: Morocco1 beds/1,000 population (2017)
+
+note: does not include data from the former Western Sahara
+
+Topic: Mozambique0.7 beds/1,000 population (2011)
+
+Topic: Namibia2.7 beds/1,000 population
+
+Topic: Nepal0.3 beds/1,000 population (2012)
+
+Topic: Netherlands3.2 beds/1,000 population (2018)
+
+Topic: New Zealand2.6 beds/1,000 population (2019)
+
+Topic: Nicaragua0.9 beds/1,000 population (2017)
+
+Topic: Niger0.4 beds/1,000 population (2017)
+
+Topic: North Macedonia4.3 beds/1,000 population (2017)
+
+Topic: Norway3.5 beds/1,000 population (2018)
+
+Topic: Oman1.5 beds/1,000 population (2017)
+
+Topic: Pakistan0.6 beds/1,000 population (2017)
+
+Topic: Panama2.3 beds/1,000 population (2016)
+
+Topic: Paraguay0.8 beds/1,000 population (2016)
+
+Topic: Peru1.6 beds/1,000 population (2017)
+
+Topic: Philippines1 beds/1,000 population (2014)
+
+Topic: Poland6.5 beds/1,000 population (2018)
+
+Topic: Portugal3.5 beds/1,000 population (2018)
+
+Topic: Qatar1.3 beds/1,000 population (2017)
+
+Topic: Romania6.9 beds/1,000 population (2017)
+
+Topic: Russia7.1 beds/1,000 population (2018)
+
+Topic: Saint Kitts and Nevis4.8 beds/1,000 population (2012)
+
+Topic: Saint Lucia1.3 beds/1,000 population (2017)
+
+Topic: Saint Vincent and the Grenadines4.3 beds/1,000 population (2016)
+
+Topic: San Marino3.8 beds/1,000 population (2012)
+
+Topic: Sao Tome and Principe2.9 beds/1,000 population (2011)
+
+Topic: Saudi Arabia2.2 beds/1,000 population (2017)
+
+Topic: Serbia5.6 beds/1,000 population (2017)
+
+Topic: Seychelles3.6 beds/1,000 population (2011)
+
+Topic: Singapore2.5 beds/1,000 population (2017)
+
+Topic: Slovakia5.7 beds/1,000 population (2018)
+
+Topic: Slovenia4.4 beds/1,000 population (2018)
+
+Topic: Solomon Islands1.4 beds/1,000 population (2012)
+
+Topic: Somalia0.9 beds/1,000 population (2017)
+
+Topic: Spain3 beds/1,000 population (2018)
+
+Topic: Sri Lanka4.2 beds/1,000 population (2017)
+
+Topic: Sudan0.7 beds/1,000 population (2017)
+
+Topic: Suriname3 beds/1,000 population (2017)
+
+Topic: Sweden2.1 beds/1,000 population (2018)
+
+Topic: Switzerland4.6 beds/1,000 population (2018)
+
+Topic: Syria1.4 beds/1,000 population (2017)
+
+Topic: Tajikistan4.7 beds/1,000 population (2014)
+
+Topic: Tanzania0.7 beds/1,000 population
+
+Topic: Togo0.7 beds/1,000 population (2011)
+
+Topic: Trinidad and Tobago3 beds/1,000 population (2017)
+
+Topic: Tunisia2.2 beds/1,000 population (2017)
+
+Topic: Turkey2.9 beds/1,000 population (2018)
+
+Topic: Turkmenistan4 beds/1,000 population (2014)
+
+Topic: Uganda0.5 beds/1,000 population
+
+Topic: Ukraine7.5 beds/1,000 population (2014)
+
+Topic: United Arab Emirates1.4 beds/1,000 population (2017)
+
+Topic: United Kingdom2.5 beds/1,000 population (2019)
+
+Topic: United States2.9 beds/1,000 population (2017)
+
+Topic: Uruguay2.4 beds/1,000 population (2017)
+
+Topic: Uzbekistan4 beds/1,000 population (2014)
+
+Topic: Venezuela0.9 beds/1,000 population (2017)
+
+Topic: Vietnam3.2 beds/1,000 population (2013)
+
+Topic: West Bank1.3 beds/1,000 population (2019)
+
+Topic: Yemen0.7 beds/1,000 population (2017)
+
+Topic: Zambia2 beds/1,000 population
+
+Topic: Zimbabwe1.7 beds/1,000 population (2011)

@@ -1,0 +1,811 @@
+This entry provides information on access to electricity. Electrification data – collected from industry reports, national surveys, and international sources – consists of four subfields. Population without electricity provides an estimate of the number of citizens that do not have access to electricity. Electrification – total population is the percent of a country’s total population with access to electricity, electrification – urban areas is the percent of a country’s urban population with access to electricity, while electrification – rural areas is the percent of a country’s rural population with access to electricity. Due to differences in definitions and methodology from different sources, data quality may vary from country to country.
+
+Topic: Afghanistanelectrification - total population: 99% (2018)
+
+electrification - urban areas: 100% (2018)
+
+electrification - rural areas: 98% (2018)
+
+Topic: Albaniaelectrification - total population: 100% (2020)
+
+Topic: Algeriaelectrification - total population: 99.4% (2019)
+
+electrification - urban areas: 99.6% (2019)
+
+electrification - rural areas: 97% (2019)
+
+Topic: Andorraelectrification - total population: 100% (2020)
+
+Topic: Angolaelectrification - total population: 43% (2019)
+
+electrification - urban areas: 61% (2019)
+
+electrification - rural areas: 6% (2019)
+
+Topic: Antigua and Barbudaelectrification - total population: 100% (2020)
+
+Topic: Argentinaelectrification - total population: 99% (2020)
+
+electrification - urban areas: 99% (2020)
+
+electrification - rural areas: 85% (2020)
+
+Topic: Armeniaelectrification - total population: 100% (2020)
+
+Topic: Arubaelectrification - total population: 100% (2020)
+
+Topic: Australiaelectrification - total population: 100% (2020)
+
+Topic: Austriaelectrification - total population: 100% (2020)
+
+Topic: Azerbaijanelectrification - total population: 100% (2020)
+
+Topic: Bahamas, Theelectrification - total population: 100% (2020)
+
+Topic: Bahrainelectrification - total population: 100% (2020)
+
+Topic: Bangladeshelectrification - total population: 83% (2019)
+
+electrification - urban areas: 93% (2019)
+
+electrification - rural areas: 77% (2019)
+
+Topic: Barbadoselectrification - total population: 100% (2020)
+
+Topic: Belaruselectrification - total population: 100% (2020)
+
+Topic: Belgiumelectrification - total population: 100% (2020)
+
+Topic: Belizeelectrification - total population: 99.5% (2018)
+
+electrification - urban areas: 98.2% (2018)
+
+electrification - rural areas: 100% (2018)
+
+Topic: Beninelectrification - total population: 33% (2019)
+
+electrification - urban areas: 58% (2019)
+
+electrification - rural areas: 9% (2019)
+
+Topic: Bermudaelectrification - total population: 100% (2020)
+
+Topic: Bhutanelectrification - total population: 100% (2020)
+
+Topic: Boliviaelectrification - total population: 93% (2019)
+
+electrification - urban areas: 99.3% (2019)
+
+electrification - rural areas: 79% (2019)
+
+Topic: Bosnia and Herzegovinaelectrification - total population: 100% (2020)
+
+Topic: Botswanaelectrification - total population: 59% (2019)
+
+electrification - urban areas: 71% (2019)
+
+electrification - rural areas: 29% (2019)
+
+Topic: Brazilelectrification - total population: 100% (2020)
+
+Topic: British Virgin Islandselectrification - total population: 100% (2020)
+
+Topic: Bruneielectrification - total population: 100% (2020)
+
+Topic: Bulgariaelectrification - total population: 100% (2020)
+
+Topic: Burkina Fasoelectrification - total population: 22% (2019)
+
+electrification - urban areas: 69% (2019)
+
+electrification - rural areas: 2% (2019)
+
+Topic: Burmaelectrification - total population: 51% (2019)
+
+electrification - urban areas: 76% (2019)
+
+electrification - rural areas: 39% (2019)
+
+Topic: Burundielectrification - total population: 11% (2019)
+
+electrification - urban areas: 66% (2019)
+
+electrification - rural areas: 2% (2019)
+
+Topic: Cabo Verdeelectrification - total population: 96% (2019)
+
+electrification - urban areas: 99% (2019)
+
+electrification - rural areas: 89% (2019)
+
+Topic: Cambodiaelectrification - total population: 75% (2019)
+
+electrification - urban areas: 100% (2019)
+
+electrification - rural areas: 67% (2019)
+
+Topic: Cameroonelectrification - total population: 70% (2019)
+
+electrification - urban areas: 98% (2019)
+
+electrification - rural areas: 32% (2019)
+
+Topic: Canadaelectrification - total population: 100% (2020)
+
+Topic: Cayman Islandselectrification - total population: 100% (2020)
+
+Topic: Central African Republicelectrification - total population: 3% (2019)
+
+electrification - urban areas: 7% (2019)
+
+electrification - rural areas: 0.4% (2019)
+
+Topic: Chadelectrification - total population: 9% (2019)
+
+electrification - urban areas: 32% (2019)
+
+electrification - rural areas: 1% (2019)
+
+Topic: Chileelectrification - total population: 100% (2020)
+
+Topic: Chinaelectrification - total population: 100% (2020)
+
+Topic: Colombiaelectrification - total population: 97% (2019)
+
+electrification - urban areas: 100% (2019)
+
+electrification - rural areas: 86% (2019)
+
+Topic: Comoroselectrification - total population: 70% (2019)
+
+electrification - urban areas: 89% (2019)
+
+electrification - rural areas: 62% (2019)
+
+Topic: Congo, Democratic Republic of theelectrification - total population: 9% (2019)
+
+electrification - urban areas: 19% (2019)
+
+electrification - rural areas: 0.4% (2019)
+
+Topic: Congo, Republic of theelectrification - total population: 72% (2019)
+
+electrification - urban areas: 89% (2019)
+
+electrification - rural areas: 36% (2019)
+
+Topic: Costa Ricaelectrification - total population: 100% (2020)
+
+Topic: Cote d'Ivoireelectrification - total population: 76% (2019)
+
+electrification - urban areas: 99% (2019)
+
+electrification - rural areas: 51% (2019)
+
+Topic: Croatiaelectrification - total population: 100% (2020)
+
+Topic: Cubaelectrification - total population: 100% (2020)
+
+Topic: Curacaoelectrification - total population: 100% (2020)
+
+Topic: Cypruselectrification - total population: 100% (2020)
+
+Topic: Czechiaelectrification - total population: 100% (2020)
+
+Topic: Denmarkelectrification - total population: 100% (2020)
+
+Topic: Djiboutielectrification - total population: 42% (2019)
+
+electrification - urban areas: 54% (2019)
+
+electrification - rural areas: 1% (2019)
+
+Topic: Dominicaelectrification - total population: 100% (2020)
+
+Topic: Dominican Republicelectrification - total population: 100% (2020)
+
+Topic: Ecuadorelectrification - total population: 97% (2019)
+
+electrification - urban areas: 100% (2019)
+
+electrification - rural areas: 93% (2019)
+
+Topic: Egyptelectrification - total population: 100% (2020)
+
+Topic: El Salvadorelectrification - total population: 97% (2019)
+
+electrification - urban areas: 99% (2019)
+
+electrification - rural areas: 93% (2019)
+
+Topic: Equatorial Guineaelectrification - total population: 67% (2019)
+
+electrification - urban areas: 75% (2019)
+
+electrification - rural areas: 45% (2019)
+
+Topic: Eritreaelectrification - total population: 47% (2019)
+
+electrification - urban areas: 95% (2019)
+
+electrification - rural areas: 13% (2019)
+
+Topic: Estoniaelectrification - total population: 100% (2020)
+
+Topic: Eswatinielectrification - total population: 90% (2019)
+
+electrification - urban areas: 98% (2019)
+
+electrification - rural areas: 87% (2019)
+
+Topic: Ethiopiaelectrification - total population: 47% (2019)
+
+electrification - urban areas: 96% (2019)
+
+electrification - rural areas: 34% (2019)
+
+Topic: Faroe Islandselectrification - total population: 100% (2020)
+
+Topic: Fijielectrification - total population: 99.6% (2018)
+
+electrification - urban areas: 100% (2018)
+
+electrification - rural areas: 99.2% (2018)
+
+Topic: Finlandelectrification - total population: 100% (2020)
+
+Topic: Franceelectrification - total population: 100% (2020)
+
+Topic: French Polynesiaelectrification - total population: 100% (2020)
+
+Topic: Gabonelectrification - total population: 92% (2019)
+
+electrification - urban areas: 99% (2019)
+
+electrification - rural areas: 39% (2019)
+
+Topic: Gambia, Theelectrification - total population: 49% (2019)
+
+electrification - urban areas: 69% (2019)
+
+electrification - rural areas: 16% (2019)
+
+Topic: Gaza Stripelectrification - total population: 100% (2018)
+
+note: data for Gaza Strip and West Bank combined
+
+Topic: Georgiaelectrification - total population: 100% (2020)
+
+Topic: Germanyelectrification - total population: 100% (2020)
+
+Topic: Ghanaelectrification - total population: 85% (2019)
+
+electrification - urban areas: 93% (2019)
+
+electrification - rural areas: 75% (2019)
+
+Topic: Gibraltarelectrification - total population: 100% (2020)
+
+Topic: Greeceelectrification - total population: 100% (2020)
+
+Topic: Greenlandelectrification - total population: 100% (2020)
+
+Topic: Grenadaelectrification - total population: 95.3% (2018)
+
+Topic: Guamelectrification - total population: 100% (2020)
+
+Topic: Guatemalaelectrification - total population: 92% (2019)
+
+electrification - urban areas: 99% (2019)
+
+electrification - rural areas: 85% (2019)
+
+Topic: Guernseyelectrification - total population: 100% (2020)
+
+Topic: Guineaelectrification - total population: 46% (2019)
+
+electrification - urban areas: 84% (2019)
+
+electrification - rural areas: 24% (2019)
+
+Topic: Guinea-Bissauelectrification - total population: 28% (2019)
+
+electrification - urban areas: 56% (2019)
+
+electrification - rural areas: 7% (2019)
+
+Topic: Guyanaelectrification - total population: 91.8% (2018)
+
+electrification - urban areas: 96.9% (2018)
+
+electrification - rural areas: 90% (2018)
+
+Topic: Haitielectrification - total population: 39% (2019)
+
+electrification - urban areas: 60% (2019)
+
+electrification - rural areas: 12% (2019)
+
+Topic: Holy See (Vatican City)electrification - total population: 100% (2020)
+
+Topic: Honduraselectrification - total population: 81% (2019)
+
+electrification - urban areas: 91% (2019)
+
+electrification - rural areas: 68% (2019)
+
+Topic: Hong Kongelectrification - total population: 100% (2020)
+
+Topic: Hungaryelectrification - total population: 100% (2020)
+
+Topic: Icelandelectrification - total population: 100% (2020)
+
+Topic: Indiaelectrification - total population: 99% (2019)
+
+electrification - urban areas: 99% (2019)
+
+electrification - rural areas: 99% (2019)
+
+Topic: Indonesiaelectrification - total population: 99% (2019)
+
+electrification - urban areas: 100% (2019)
+
+electrification - rural areas: 99% (2019)
+
+Topic: Iranelectrification - total population: 100% (2020)
+
+Topic: Iraqelectrification - total population: 100% (2020)
+
+Topic: Irelandelectrification - total population: 100% (2020)
+
+Topic: Isle of Manelectrification - total population: 100% (2020)
+
+Topic: Israelelectrification - total population: 100% (2020)
+
+Topic: Italyelectrification - total population: 100% (2020)
+
+Topic: Jamaicaelectrification - total population: 99% (2019)
+
+electrification - urban areas: 100% (2019)
+
+electrification - rural areas: 97% (2019)
+
+Topic: Japanelectrification - total population: 100% (2020)
+
+Topic: Jerseyelectrification - total population: 100% (2020)
+
+Topic: Jordanelectrification - total population: 100% (2020)
+
+Topic: Kazakhstanelectrification - total population: 100% (2020)
+
+Topic: Kenyaelectrification - total population: 85% (2019)
+
+electrification - urban areas: 99% (2019)
+
+electrification - rural areas: 79% (2019)
+
+Topic: Kiribatielectrification - total population: 100% (2020)
+
+Topic: Korea, Northelectrification - total population: 26% (2019)
+
+electrification - urban areas: 36% (2019)
+
+electrification - rural areas: 11% (2019)
+
+Topic: Korea, Southelectrification - total population: 100% (2020)
+
+Topic: Kosovoelectrification - total population: 100% (2020)
+
+Topic: Kuwaitelectrification - total population: 100% (2020)
+
+Topic: Kyrgyzstanelectrification - total population: 100% (2020)
+
+Topic: Laoselectrification - total population: 95% (2019)
+
+electrification - urban areas: 98% (2019)
+
+electrification - rural areas: 93% (2019)
+
+Topic: Latviaelectrification - total population: 100% (2020)
+
+Topic: Lebanonelectrification - total population: 100% (2020)
+
+Topic: Lesothoelectrification - total population: 36% (2019)
+
+electrification - urban areas: 63% (2019)
+
+electrification - rural areas: 26% (2019)
+
+Topic: Liberiaelectrification - total population: 12% (2019)
+
+electrification - urban areas: 18% (2019)
+
+electrification - rural areas: 6% (2019)
+
+Topic: Libyaelectrification - total population: 100% (2019)
+
+Topic: Liechtensteinelectrification - total population: 100% (2020)
+
+Topic: Lithuaniaelectrification - total population: 100% (2020)
+
+Topic: Luxembourgelectrification - total population: 100% (2020)
+
+Topic: Macauelectrification - total population: 100% (2020)
+
+Topic: Madagascarelectrification - total population: 39% (2019)
+
+electrification - urban areas: 64% (2019)
+
+electrification - rural areas: 23% (2019)
+
+Topic: Malawielectrification - total population: 13% (2019)
+
+electrification - urban areas: 55% (2019)
+
+electrification - rural areas: 5% (2019)
+
+Topic: Malaysiaelectrification - total population: 100% (2020)
+
+Topic: Maldiveselectrification - total population: 100% (2020)
+
+Topic: Malielectrification - total population: 50% (2019)
+
+electrification - urban areas: 78% (2019)
+
+electrification - rural areas: 28% (2019)
+
+Topic: Maltaelectrification - total population: 100% (2020)
+
+Topic: Marshall Islandselectrification - total population: 96.3% (2018)
+
+electrification - urban areas: 95.7% (2018)
+
+electrification - rural areas: 98.4% (2018)
+
+Topic: Mauritaniaelectrification - total population: 32% (2019)
+
+electrification - urban areas: 56% (2019)
+
+electrification - rural areas: 4% (2019)
+
+Topic: Mauritiuselectrification - total population: 100% (2020)
+
+Topic: Mexicoelectrification - total population: 100% (2020)
+
+Topic: Micronesia, Federated States ofelectrification - total population: 82% (2018)
+
+electrification - urban areas: 93.5% (2018)
+
+electrification - rural areas: 78.7% (2018)
+
+Topic: Moldovaelectrification - total population: 100% (2020)
+
+Topic: Monacoelectrification - total population: 100% (2020)
+
+Topic: Mongoliaelectrification - total population: 91% (2019)
+
+electrification - urban areas: 99% (2019)
+
+electrification - rural areas: 73% (2019)
+
+Topic: Montenegroelectrification - total population: 100% (2020)
+
+Topic: Moroccoelectrification - total population: 100% (2020)
+
+Topic: Mozambiqueelectrification - total population: 35% (2019)
+
+electrification - urban areas: 57% (2019)
+
+electrification - rural areas: 22% (2019)
+
+Topic: Namibiaelectrification - total population: 57% (2019)
+
+electrification - urban areas: 78% (2019)
+
+electrification - rural areas: 36% (2019)
+
+Topic: Nauruelectrification - total population: 99.8% (2018)
+
+electrification - urban areas: 99.4% (2018)
+
+electrification - rural areas: 98.7% (2018)
+
+Topic: Nepalelectrification - total population: 93% (2019)
+
+electrification - urban areas: 94% (2019)
+
+electrification - rural areas: 93% (2019)
+
+Topic: Netherlandselectrification - total population: 100% (2020)
+
+Topic: New Caledoniaelectrification - total population: 100% (2020)
+
+Topic: New Zealandelectrification - total population: 100% (2020)
+
+Topic: Nicaraguaelectrification - total population: 97% (2019)
+
+electrification - urban areas: 99.2% (2019)
+
+electrification - rural areas: 92% (2019)
+
+Topic: Nigerelectrification - total population: 14% (2019)
+
+electrification - urban areas: 71% (2019)
+
+electrification - rural areas: 2% (2019)
+
+Topic: Nigeriaelectrification - total population: 62% (2019)
+
+electrification - urban areas: 91% (2019)
+
+electrification - rural areas: 30% (2019)
+
+Topic: North Macedoniaelectrification - total population: 100% (2020)
+
+Topic: Northern Mariana Islandselectrification - total population: 100% (2020)
+
+Topic: Norwayelectrification - total population: 100% (2020)
+
+Topic: Omanelectrification - total population: 99% (2019)
+
+electrification - urban areas: 100% (2019)
+
+electrification - rural areas: 92% (2019)
+
+Topic: Pakistanelectrification - total population: 79% (2019)
+
+electrification - urban areas: 91% (2019)
+
+electrification - rural areas: 72% (2019)
+
+Topic: Palauelectrification - total population: 100% (2018)
+
+Topic: Panamaelectrification - total population: 92% (2019)
+
+electrification - urban areas: 99.4% (2019)
+
+electrification - rural areas: 77% (2019)
+
+Topic: Papua New Guineaelectrification - total population: 58.9% (2018)
+
+electrification - urban areas: 82% (2018)
+
+electrification - rural areas: 55.4% (2018)
+
+Topic: Paraguayelectrification - total population: 100% (2020)
+
+Topic: Peruelectrification - total population: 97% (2019)
+
+electrification - urban areas: 99% (2019)
+
+electrification - rural areas: 86% (2019)
+
+Topic: Philippineselectrification - total population: 96% (2019)
+
+electrification - urban areas: 100% (2019)
+
+electrification - rural areas: 93% (2019)
+
+Topic: Polandelectrification - total population: 100% (2020)
+
+Topic: Portugalelectrification - total population: 100% (2020)
+
+Topic: Puerto Ricoelectrification - total population: 100% (2020)
+
+Topic: Qatarelectrification - total population: 100% (2020)
+
+Topic: Romaniaelectrification - total population: 100% (2020)
+
+Topic: Russiaelectrification - total population: 100% (2020)
+
+Topic: Rwandaelectrification - total population: 53% (2019)
+
+electrification - urban areas: 76% (2019)
+
+electrification - rural areas: 48% (2019)
+
+Topic: Saint Barthelemyelectrification - total population: 100% (2020)
+
+Topic: Saint Kitts and Neviselectrification - total population: 100% (2020)
+
+Topic: Saint Luciaelectrification - total population: 99.5% (2018)
+
+electrification - urban areas: 97.5% (2018)
+
+electrification - rural areas: 99.9% (2018)
+
+Topic: Saint Martinelectrification - total population: 100% (2020)
+
+Topic: Saint Vincent and the Grenadineselectrification - total population: 100% (2020)
+
+Topic: Samoaelectrification - total population: 100% (2020)
+
+Topic: San Marinoelectrification - total population: 100% (2020)
+
+Topic: Sao Tome and Principeelectrification - total population: 71% (2019)
+
+electrification - urban areas: 87% (2019)
+
+electrification - rural areas: 25% (2019)
+
+Topic: Saudi Arabiaelectrification - total population: 100% (2020)
+
+Topic: Senegalelectrification - total population: 71% (2019)
+
+electrification - urban areas: 94% (2019)
+
+electrification - rural areas: 50% (2019)
+
+Topic: Serbiaelectrification - total population: 100% (2020)
+
+Topic: Seychelleselectrification - total population: 100% (2020)
+
+Topic: Sierra Leoneelectrification - total population: 26% (2019)
+
+electrification - urban areas: 52% (2019)
+
+electrification - rural areas: 6% (2019)
+
+Topic: Singaporeelectrification - total population: 100% (2020)
+
+Topic: Sint Maartenelectrification - total population: 100% (2020)
+
+Topic: Slovakiaelectrification - total population: 100% (2020)
+
+Topic: Sloveniaelectrification - total population: 100% (2020)
+
+Topic: Solomon Islandselectrification - total population: 66.7% (2018)
+
+electrification - urban areas: 76.7% (2018)
+
+electrification - rural areas: 63.5% (2018)
+
+Topic: Somaliaelectrification - total population: 18% (2019)
+
+electrification - urban areas: 34% (2019)
+
+electrification - rural areas: 4% (2019)
+
+Topic: South Africaelectrification - total population: 94% (2019)
+
+electrification - urban areas: 95% (2019)
+
+electrification - rural areas: 92% (2019)
+
+Topic: South Sudanelectrification - total population: 28.2% (2018)
+
+electrification - urban areas: 46.8% (2018)
+
+electrification - rural areas: 23.6% (2018)
+
+Topic: Spainelectrification - total population: 100% (2020)
+
+Topic: Sri Lankaelectrification - total population: 100% (2019)
+
+Topic: Sudanelectrification - total population: 47% (2019)
+
+electrification - urban areas: 71% (2019)
+
+electrification - rural areas: 35% (2019)
+
+Topic: Surinameelectrification - total population: 97.4% (2018)
+
+electrification - urban areas: 99% (2018)
+
+electrification - rural areas: 94.3% (2018)
+
+Topic: Swedenelectrification - total population: 100% (2020)
+
+Topic: Switzerlandelectrification - total population: 100% (2020)
+
+Topic: Syriaelectrification - total population: 92% (2019)
+
+electrification - urban areas: 100% (2019)
+
+electrification - rural areas: 84% (2019)
+
+Topic: Tajikistanelectrification - total population: 100% (2020)
+
+Topic: Tanzaniaelectrification - total population: 40% (2019)
+
+electrification - urban areas: 71% (2019)
+
+electrification - rural areas: 23% (2019)
+
+Topic: Thailandelectrification - total population: 100% (2020)
+
+Topic: Timor-Lesteelectrification - total population: 85.6% (2018)
+
+electrification - urban areas: 100% (2018)
+
+electrification - rural areas: 79.2% (2018)
+
+Topic: Togoelectrification - total population: 43% (2019)
+
+electrification - urban areas: 77% (2019)
+
+electrification - rural areas: 19% (2019)
+
+Topic: Tongaelectrification - total population: 98.9% (2018)
+
+electrification - urban areas: 98.9% (2018)
+
+electrification - rural areas: 98.9% (2018)
+
+Topic: Trinidad and Tobagoelectrification - total population: 100% (2020)
+
+Topic: Tunisiaelectrification - total population: 100% (2020)
+
+Topic: Turkey (Turkiye)electrification - total population: 100% (2020)
+
+Topic: Turkmenistanelectrification - total population: 100% (2020)
+
+Topic: Turks and Caicos Islandselectrification - total population: 100% (2020)
+
+Topic: Tuvaluelectrification - total population: 100% (2020)
+
+Topic: Ugandaelectrification - total population: 29% (2019)
+
+electrification - urban areas: 66% (2019)
+
+electrification - rural areas: 17% (2019)
+
+Topic: Ukraineelectrification - total population: 100% (2020)
+
+Topic: United Arab Emirateselectrification - total population: 100% (2020)
+
+Topic: United Kingdomelectrification - total population: 100% (2020)
+
+Topic: United Stateselectrification - total population: 100% (2020)
+
+Topic: Uruguayelectrification - total population: 100% (2020)
+
+Topic: Uzbekistanelectrification - total population: 100% (2020)
+
+Topic: Vanuatuelectrification - total population: 61.8% (2018)
+
+electrification - urban areas: 93.7% (2018)
+
+electrification - rural areas: 51.1% (2018)
+
+Topic: Venezuelaelectrification - total population: 99.6% (2019)
+
+electrification - urban areas: 100% (2019)
+
+electrification - rural areas: 99% (2019)
+
+Topic: Vietnamelectrification - total population: 100% (2019)
+
+Topic: Virgin Islandselectrification - total population: 100% (2020)
+
+Topic: Wake Islandelectrification - total population: 100% (2020)
+
+Topic: West Bankelectrification - total population: 100% (2020)
+
+note: data for West Bank and Gaza Strip combined
+
+Topic: Worldelectrification - total population: 90% (2019)
+
+electrification - urban areas: 96% (2019)
+
+electrification - rural areas: 85% (2019)
+
+Topic: Yemenpopulation without electricity: 16 million (2019)
+
+electrification - total population: 47% (2019)
+
+electrification - urban areas: 72% (2019)
+
+electrification - rural areas: 31% (2019)
+
+Topic: Zambiaelectrification - total population: 37% (2019)
+
+electrification - urban areas: 76% (2019)
+
+electrification - rural areas: 6% (2019)
+
+Topic: Zimbabweelectrification - total population: 53% (2019)
+
+electrification - urban areas: 89% (2019)
+
+electrification - rural areas: 36% (2019)

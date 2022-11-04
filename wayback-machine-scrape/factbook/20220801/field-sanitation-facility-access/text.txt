@@ -1,0 +1,2833 @@
+This entry provides information about access to improved or unimproved sanitation facilities available to segments of the population of a country. Improved sanitation - use of any of the following facilities: flush or pour-flush to a piped sewer system, septic tank or pit latrine; ventilated improved pit (VIP) latrine; pit latrine with slab; or a composting toilet. Unimproved sanitation - use of any of the following facilities: flush or pour-flush not piped to a sewer system, septic tank or pit latrine; pit latrine without a slab or open pit; bucket; hanging toilet or hanging latrine; shared facilities of any type; no facilities; or bush or field.
+
+Topic: Afghanistanimproved: urban: 88.2% of population
+
+rural: 52% of population
+
+total: 61.4% of population
+
+unimproved: urban: 11.8% of population
+
+rural: 48% of population
+
+total: 38.6% of population (2020 est.)
+
+Topic: Albaniaimproved: urban: 99.8% of population
+
+rural: 100% of population
+
+total: 99.9% of population
+
+unimproved: urban: 0.2% of population
+
+rural: 0.5% of population
+
+total: 0.1% of population (2020 est.)
+
+Topic: Algeriaimproved: urban: 98.3% of population
+
+rural: 91.3% of population
+
+total: 96.5% of population
+
+unimproved: urban: 1.7% of population
+
+rural: 8.7% of population
+
+total: 3.5% of population (2020 est.)
+
+Topic: American Samoaimproved: urban: NA
+
+rural: NA
+
+total: 99% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 1% of population (2020 est.)
+
+Topic: Andorraimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Angolaimproved: urban: 93.7% of population
+
+rural: 30.3% of population
+
+total: 72.7% of population
+
+unimproved: urban: 6.3% of population
+
+rural: 69.7% of population
+
+total: 27.3% of population (2020 est.)
+
+Topic: Anguillaimproved: urban: 99.1% of population
+
+total: 99.1% of population
+
+unimproved: urban: 0.9% of population
+
+total: 0.9% of population (2017 est.)
+
+Topic: Antigua and Barbudaimproved: total: 91.7% of population
+
+unimproved: total: 8.1% of population (2017 est.)
+
+Topic: Argentinaimproved: urban: 100% of population (2017 est.)
+
+rural: NA
+
+total: NA
+
+unimproved: urban: 1% of population (2017 est.)
+
+rural: NA
+
+total: (2020 est.) NA
+
+Topic: Armeniaimproved: urban: 100% of population
+
+rural: 84.6% of population
+
+total: 94.4% of population
+
+unimproved: urban: 0% of population
+
+rural: 15.4% of population
+
+total: 5.6% of population (2020 est.)
+
+Topic: Arubaimproved: urban: 97.7% of population
+
+rural: 97.7% of population
+
+total: 97.7% of population
+
+unimproved: urban: 2.3% of population
+
+rural: 2.3% of population
+
+total: 2.3% of population (2015 est.)
+
+Topic: Australiaimproved: urban: NA
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0% of population (2020 est.)
+
+Topic: Austriaimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Azerbaijanimproved: urban: 100% of population
+
+rural: NA
+
+total: NA
+
+unimproved: urban: 0% of population
+
+rural: NA
+
+total: (2020 est.) NA
+
+Topic: Bahamas, Theimproved: total: 98.2% of population
+
+unimproved: total: 1.8% of population (2017 est.)
+
+Topic: Bahrainimproved: urban: NA
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0% of population (2020 est.)
+
+Topic: Bangladeshimproved: urban: 85.3% of population
+
+rural: 73.5% of population
+
+total: 78% of population
+
+unimproved: urban: 14.7% of population
+
+rural: 26.5% of population
+
+total: 22% of population (2020 est.)
+
+Topic: Barbadosimproved: urban: NA
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0% of population (2020 est.)
+
+Topic: Belarusimproved: urban: 99.9% of population
+
+rural: 98.3% of population
+
+total: 99.5% of population
+
+unimproved: urban: 0.1% of population
+
+rural: 1.7% of population
+
+total: 0.5% of population (2020 est.)
+
+Topic: Belgiumimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Belizeimproved: urban: 99.1% of population
+
+rural: 95.7% of population
+
+total: 97.3% of population
+
+unimproved: urban: 0.9% of population
+
+rural: 4.3% of population
+
+total: 2.7% of population (2020 est.)
+
+Topic: Beninimproved: urban: 56.3% of population
+
+rural: 18.1% of population
+
+total: 36.6% of population
+
+unimproved: urban: 43.7% of population
+
+rural: 81.9% of population
+
+total: 63.4% of population (2020 est.)
+
+Topic: Bermudaimproved: urban: 99.9% of population
+
+rural: NA
+
+total: 99.9% of population
+
+unimproved: urban: 0.1% of population
+
+rural: NA
+
+total: 0.1% of population (2020)
+
+Topic: Bhutanimproved: urban: 90.8% of population
+
+rural: 83.1% of population
+
+total: 86.4% of population
+
+unimproved: urban: 9.2% of population
+
+rural: 16.9% of population
+
+total: 13.6% of population (2020 est.)
+
+Topic: Boliviaimproved: urban: 97.8% of population
+
+rural: 48.4% of population
+
+total: 83.1% of population
+
+unimproved: urban: 2.2% of population
+
+rural: 51.6% of population
+
+total: 16.9% of population (2020 est.)
+
+Topic: Bosnia and Herzegovinaimproved: urban: 99.5% of population
+
+rural: NA
+
+total: NA
+
+unimproved: urban: 0.5% of population
+
+rural: NA
+
+total: (2020 est.) NA
+
+Topic: Botswanaimproved: urban: 94.9% of population
+
+rural: 63% of population
+
+total: 85.6% of population
+
+unimproved: urban: 5.1% of population
+
+rural: 37% of population
+
+total: 14.4% of population (2020 est.)
+
+Topic: Brazilimproved: urban: 94.1% of population
+
+rural: 63.6% of population
+
+total: 90.2% of population
+
+unimproved: urban: 5.9% of population
+
+rural: 36.4% of population
+
+total: 9.8% of population (2020 est.)
+
+Topic: British Virgin Islandsimproved: urban: 97.5% of population
+
+rural: 97.5% of population
+
+total: 97.5% of population
+
+unimproved: urban: 2.5% of population
+
+rural: 2.5% of population
+
+total: 2.5% of population (2015 est.)
+
+Topic: Bruneiimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+unimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+Topic: Bulgariaimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Burkina Fasoimproved: urban: 90.8% of population
+
+rural: 37.7% of population
+
+total: 54% of population
+
+unimproved: urban: 9.2% of population
+
+rural: 62.3% of population
+
+total: 46% of population (2020 est.)
+
+Topic: Burmaimproved: urban: 93.9% of population
+
+rural: 81.3% of population
+
+total: 85.2% of population
+
+unimproved: urban: 6.1% of population
+
+rural: 18.7% of population
+
+total: 14.8% of population (2020 est.)
+
+Topic: Burundiimproved: urban: 87.4% of population
+
+rural: 53.7% of population
+
+total: 58.4% of population
+
+unimproved: urban: 12.6% of population
+
+rural: 46.3% of population
+
+total: 41.6% of population (2020 est.)
+
+Topic: Cabo Verdeimproved: urban: 91.7% of population
+
+rural: 73.3% of population
+
+total: 85.6% of population
+
+unimproved: urban: 8.3% of population
+
+rural: 26.7% of population
+
+total: 14.4% of population (2020 est.)
+
+Topic: Cambodiaimproved: urban: 100% of population
+
+rural: 69.3% of population
+
+total: 76.8% of population
+
+unimproved: urban: 0% of population
+
+rural: 30.7% of population
+
+total: 23.2% of population (2020 est.)
+
+Topic: Cameroonimproved: urban: 83.2% of population
+
+rural: 27.7% of population
+
+total: 59.7% of population
+
+unimproved: urban: 16.8% of population
+
+rural: 72.3% of population
+
+total: 40.3% of population (2020 est.)
+
+Topic: Canadaimproved: urban: 99.1% of population
+
+rural: 98.9% of population
+
+total: 99% of population
+
+unimproved: urban: 0.9% of population
+
+rural: 1.1% of population
+
+total: 1% of population (2020 est.)
+
+Topic: Cayman Islandsimproved: urban: 95.6% of population
+
+total: 95.6% of population
+
+unimproved: urban: 4.4% of population
+
+total: 4.4% of population (2015 est.)
+
+Topic: Central African Republicimproved: urban: 53.8% of population
+
+rural: 12.4% of population
+
+total: 29.9% of population
+
+unimproved: urban: 46.2% of population
+
+rural: 87.6% of population
+
+total: 70.1% of population (2020 est.)
+
+Topic: Chadimproved: urban: 57.5% of population
+
+rural: 4.9% of population
+
+total: 17.3% of population
+
+unimproved: urban: 42.5% of population
+
+rural: 95.1% of population
+
+total: 82.7% of population (2020 est.)
+
+Topic: Chileimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Chinaimproved: urban: 97.6% of population
+
+rural: 90.6% of population
+
+total: 94.9% of population
+
+unimproved: urban: 2.4% of population
+
+rural: 9.4% of population
+
+total: 5.1% of population (2020 est.)
+
+Topic: Colombiaimproved: urban: 99.1% of population
+
+rural: 87.7% of population
+
+total: 97% of population
+
+unimproved: urban: 0.9% of population
+
+rural: 12.3% of population
+
+total: 3% of population (2020 est.)
+
+Topic: Comorosimproved: urban: 62.4% of population
+
+rural: 43.6% of population
+
+total: 49% of population
+
+unimproved: urban: 37.6% of population
+
+rural: 56.4% of population
+
+total: 51% of population (2017 est.)
+
+Topic: Congo, Democratic Republic of theimproved: urban: 53.4% of population
+
+rural: 20.5% of population
+
+total: 35.5% of population
+
+unimproved: urban: 46.6% of population
+
+rural: 79.5% of population
+
+total: 64.5% of population (2020 est.)
+
+Topic: Congo, Republic of theimproved: urban: 73.4% of population
+
+rural: 15.1% of population
+
+total: 54.7% of population
+
+unimproved: urban: 26.6% of population
+
+rural: 84.9% of population
+
+total: 45.3% of population (2020 est.)
+
+Topic: Cook Islandsimproved: urban: NA
+
+rural: NA
+
+total: 99.1% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0.9% of population (2020 est.)
+
+Topic: Costa Ricaimproved: urban: 99% of population
+
+rural: 97.1% of population
+
+total: 98.7% of population
+
+unimproved: urban: 1% of population
+
+rural: 2.9% of population
+
+total: 1.3% of population (2020 est.)
+
+Topic: Cote d'Ivoireimproved: urban: 77.8% of population
+
+rural: 35% of population
+
+total: 57.1% of population
+
+unimproved: urban: 22.2% of population
+
+rural: 65% of population
+
+total: 42.9% of population (2020 est.)
+
+Topic: Croatiaimproved: urban: 99.5% of population
+
+rural: 98.4% of population
+
+total: 99% of population
+
+unimproved: urban: 0.5% of population
+
+rural: 1.6% of population
+
+total: 1% of population (2020 est.)
+
+Topic: Cubaimproved: urban: 94.8% of population
+
+rural: 87% of population
+
+total: 93% of population
+
+unimproved: urban: 5.2% of population
+
+rural: 13% of population
+
+total: 7% of population (2017 est.)
+
+Topic: Curacaoimproved: total: 100% of population
+
+unimproved: total: 0% of population (2017)
+
+Topic: Cyprusimproved: urban: 99.7% of population
+
+rural: 98.8% of population
+
+total: 99.4% of population
+
+unimproved: urban: 0.3% of population
+
+rural: 1.2% of population
+
+total: 0.6% of population (2020 est.)
+
+Topic: Czechiaimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Denmarkimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Djiboutiimproved: urban: 87.7% of population
+
+rural: 24.2% of population
+
+total: 73.8% of population
+
+unimproved: urban: 12.3% of population
+
+rural: 75.8% of population
+
+total: 26.2% of population (2020 est.)
+
+Topic: Dominican Republicimproved: urban: 97.4% of population
+
+rural: 91.3% of population
+
+total: 96.3% of population
+
+unimproved: urban: 2.6% of population
+
+rural: 8.7% of population
+
+total: 3.7% of population (2020 est.)
+
+Topic: Ecuadorimproved: urban: 100% of population
+
+rural: 96.9% of population
+
+total: 98.9% of population
+
+unimproved: urban: 0% of population
+
+rural: 3.1% of population
+
+total: 1.1% of population (2020 est.)
+
+Topic: Egyptimproved: urban: 99% of population
+
+rural: 98.2% of population
+
+total: 98.9% of population
+
+unimproved: urban: 0.1% of population
+
+rural: 1.8% of population
+
+total: 1.1% of population (2020 est.)
+
+Topic: El Salvadorimproved: urban: 100% of population
+
+rural: 97.1% of population
+
+total: 99.2% of population
+
+unimproved: urban: 0% of population
+
+rural: 2.9% of population
+
+total: 0.8% of population (2020 est.)
+
+Topic: Equatorial Guineaimproved: urban: 81.2% of population
+
+rural: 63.4% of population
+
+total: 76.2% of population
+
+unimproved: urban: 18.8% of population
+
+rural: 36.6% of population
+
+total: 23.8% of population (2020 est.)
+
+Topic: Eritreaimproved: urban: 44.5% of population
+
+rural: 7.3% of population
+
+total: 15.7% of population
+
+unimproved: urban: 55.5% of population
+
+rural: 92.7% of population
+
+total: 84.3% of population (2017 est.)
+
+Topic: Estoniaimproved: urban: 99.8% of population
+
+rural: 100% of population
+
+total: 99.8% of population
+
+unimproved: urban: 0.2% of population
+
+rural: 0% of population
+
+total: 0.2% of population (2020 est.)
+
+Topic: Eswatiniimproved: urban: 92.3% of population
+
+rural: 83.9% of population
+
+total: 85.9% of population
+
+unimproved: urban: 7.7% of population
+
+rural: 16.1% of population
+
+total: 14.1% of population (2020 est.)
+
+Topic: Ethiopiaimproved: urban: 52.5% of population
+
+rural: 8.1% of population
+
+total: 17.7% of population
+
+unimproved: urban: 47.5% of population
+
+rural: 91.9% of population
+
+total: 82.3% of population (2020 est.)
+
+Topic: European Unionimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+unimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+Topic: Falkland Islands (Islas Malvinas)improved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020)
+
+Topic: Faroe Islandsimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+unimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+Topic: Fijiimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Finlandimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Franceimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: French Polynesiaimproved: urban: NA
+
+rural: NA
+
+total: 97% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 3% of population (2020 est.)
+
+Topic: Gabonimproved: urban: 81.3% of population
+
+rural: 55.1% of population
+
+total: 78.7% of population
+
+unimproved: urban: 18.7% of population
+
+rural: 44.9% of population
+
+total: 21.3% of population (2020 est.)
+
+Topic: Gambia, Theimproved: urban: 75.8% of population
+
+rural: 33.6% of population
+
+total: 60% of population
+
+unimproved: urban: 24.2% of population
+
+rural: 66.4% of population
+
+total: 40% of population (2020 est.)
+
+Topic: Gaza Stripimproved: urban: 99.9% of population
+
+rural: 98.6% of population
+
+total: 99.6% of population
+
+unimproved: urban: 0.1% of population
+
+rural: 1.4% of population
+
+total: 0.4% of population (2020 est.)
+
+note: note includes Gaza Strip and the West Bank
+
+Topic: Georgiaimproved: urban: 96.3% of population
+
+rural: 72.7% of population
+
+total: 86.7% of population
+
+unimproved: urban: 3.7% of population
+
+rural: 27.3% of population
+
+total: 13.3% of population (2020 est.)
+
+Topic: Germanyimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Ghanaimproved: urban: 84.8% of population
+
+rural: 52.8% of population
+
+total: 71.1% of population
+
+unimproved: urban: 15.2% of population
+
+rural: 47.2% of population
+
+total: 28.9% of population (2020 est.)
+
+Topic: Gibraltarimproved: urban: 100% of population
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: NA
+
+total: 0% of population (2020)
+
+Topic: Greeceimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Greenlandimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Grenadaimproved: urban: NA
+
+rural: NA
+
+total: 93.7% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 6.3% of population (2020 est.)
+
+Topic: Guamimproved: urban: 89.8% of population (2015 est.)
+
+rural: 89.8% of population (2015 est.)
+
+total: 89.8% of population (2015 est.)
+
+unimproved: urban: 10.2% of population (2015 est.)
+
+rural: 10.2% of population (2015 est.)
+
+total: 10.2% of population (2015 est.)
+
+Topic: Guatemalaimproved: urban: 90.4% of population
+
+rural: 66.3% of population
+
+total: 78.8% of population
+
+unimproved: urban: 9.6% of population
+
+rural: 33.7% of population
+
+total: 21.2% of population (2020 est.)
+
+Topic: Guernseyimproved: urban: NA
+
+rural: NA
+
+total: 98% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 1.2% of population (2017)
+
+note: data represent Guernsey and Jersey
+
+Topic: Guineaimproved: urban: 90.9% of population
+
+rural: 38.7% of population
+
+total: 58% of population
+
+unimproved: urban: 9.1% of population
+
+rural: 61.3% of population
+
+total: 42% of population (2020 est.)
+
+Topic: Guinea-Bissauimproved: urban: 62.4% of population
+
+rural: 7.6% of population
+
+total: 31.8% of population
+
+unimproved: urban: 37.6% of population
+
+rural: 92.4% of population
+
+total: 68.2% of population (2020 est.)
+
+Topic: Guyanaimproved: urban: 97.8% of population
+
+rural: 95.4% of population
+
+total: 96% of population
+
+unimproved: urban: 2.2% of population
+
+rural: 4.6% of population
+
+total: 4% of population (2020 est.)
+
+Topic: Haitiimproved: urban: 82.9% of population
+
+rural: 42.6% of population
+
+total: 65.6% of population
+
+unimproved: urban: 17.1% of population
+
+rural: 57.4% of population
+
+total: 34.4% of population (2020 est.)
+
+Topic: Heard Island and McDonald Islandsimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+unimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+Topic: Holy See (Vatican City)improved: urban: NA
+
+rural: NA
+
+total: NA
+
+unimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+Topic: Hondurasimproved: urban: 96.7% of population
+
+rural: 87.9% of population
+
+total: 93% of population
+
+unimproved: urban: 3.3% of population
+
+rural: 12.1% of population
+
+total: 7% of population (2020 est.)
+
+Topic: Hong Kongimproved: urban: 96.4% of population
+
+rural: NA
+
+total: 96.4% of population
+
+unimproved: urban: 3.6% of population
+
+rural: NA
+
+total: 3.6% of population (2017)
+
+Topic: Hungaryimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Icelandimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Indiaimproved: urban: 98.6% of population
+
+rural: 75.2% of population
+
+total: 83.4% of population
+
+unimproved: urban: 1.4% of population
+
+rural: 24.8% of population
+
+total: 16.6% of population (2020 est.)
+
+Topic: Indonesiaimproved: urban: 97.2% of population
+
+rural: 86.5% of population
+
+total: 92.5% of population
+
+unimproved: urban: 2.8% of population
+
+rural: 13.5% of population
+
+total: 7.5% of population (2020 est.)
+
+Topic: Iranimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population (2015 est.)
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Iraqimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Irelandimproved: urban: 97.8% of population
+
+rural: 99.1% of population
+
+total: 98.3% of population
+
+unimproved: urban: 2.2% of population
+
+rural: 0.9% of population
+
+total: 1.7% of population (2020 est.)
+
+Topic: Isle of Manimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+unimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+Topic: Israelimproved: urban: 100% of population
+
+rural: 99.3% of population
+
+total: 99.9% of population
+
+unimproved: urban: 0% of population
+
+rural: 0.7% of population
+
+total: 0.1% of population (2020 est.)
+
+Topic: Italyimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Jamaicaimproved: urban: 98.6% of population
+
+rural: 99.4% of population
+
+total: 98.9% of population
+
+unimproved: urban: 1.4% of population
+
+rural: 0.6% of population
+
+total: 1.1% of population (2020 est.)
+
+Topic: Japanimproved: urban: NA
+
+rural: NA
+
+total: 99.9% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0.1% of population (2020 est.)
+
+Topic: Jerseyimproved: urban: NA
+
+rural: NA
+
+total: 98.5% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 1.5% of population (2017)
+
+Topic: Jordanimproved: urban: 98.8% of population
+
+rural: 97.8% of population
+
+total: 98.7% of population
+
+unimproved: urban: 1.2% of population
+
+rural: 2.2% of population
+
+total: 1.3% of population (2020 est.)
+
+Topic: Kazakhstanimproved: urban: 99.9% of population
+
+rural: 99.9% of population
+
+total: 99.9% of population
+
+unimproved: urban: 0.1% of population
+
+rural: 0.1% of population
+
+total: 0.1% of population (2020 est.)
+
+Topic: Kenyaimproved: urban: 84% of population
+
+rural: 48.1% of population
+
+total: 58.2% of population
+
+unimproved: urban: 16% of population
+
+rural: 51.9% of population
+
+total: 41.8% of population (2020 est.)
+
+Topic: Kiribatiimproved: urban: 75.4% of population
+
+rural: 45.4% of population
+
+total: 62.1% of population
+
+unimproved: urban: 24.6% of population
+
+rural: 54.6% of population
+
+total: 37.9% of population (2020 est.)
+
+Topic: Korea, Northimproved: urban: 92.7% of population
+
+rural: 73.1% of population
+
+total: 85.3% of population
+
+unimproved: urban: 7.3% of population
+
+rural: 26.9% of population
+
+total: 14.7% of population (2020 est.)
+
+Topic: Korea, Southimproved: urban: NA
+
+rural: NA
+
+total: 99.9% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0.1% of population (2020 est.)
+
+Topic: Kosovoimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+unimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+Topic: Kuwaitimproved: urban: NA
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0% of population (2020 est.)
+
+Topic: Kyrgyzstanimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Laosimproved: urban: 100% of population
+
+rural: 72% of population
+
+total: 82.2% of population
+
+unimproved: urban: 0% of population
+
+rural: 28% of population
+
+total: 17.8% of population (2020 est.)
+
+Topic: Latviaimproved: urban: 98.9% of population
+
+rural: 85.3% of population
+
+total: 94.6% of population
+
+unimproved: urban: 1.1% of population
+
+rural: 14.7% of population
+
+total: 5.4% of population (2020 est.)
+
+Topic: Lebanonimproved: urban: NA
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0% of population (2020 est.)
+
+Topic: Lesothoimproved: urban: 93.6% of population
+
+rural: 62.4% of population
+
+total: 71.4% of population
+
+unimproved: urban: 6.4% of population
+
+rural: 37.6% of population
+
+total: 28.6% of population (2020 est.)
+
+Topic: Liberiaimproved: urban: 68% of population
+
+rural: 25.2% of population
+
+total: 47.5% of population
+
+unimproved: urban: 32% of population
+
+rural: 74.8% of population
+
+total: 52.5% of population (2020 est.)
+
+Topic: Libyaimproved: urban: (2015 est.) NA
+
+rural: NA
+
+total: 99.3% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0.7% of population (2020 est.)
+
+Topic: Liechtensteinimproved: urban: NA
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0% of population (2020)
+
+Topic: Lithuaniaimproved: urban: 99.5% of population
+
+rural: 88.7% of population
+
+total: 96% of population
+
+unimproved: urban: 0.5% of population
+
+rural: 11.3% of population
+
+total: 4% of population (2020 est.)
+
+Topic: Luxembourgimproved: urban: 100% of population
+
+rural: 99.9% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0.1% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Madagascarimproved: urban: 49.2% of population
+
+rural: 22.1% of population
+
+total: 32.6% of population
+
+unimproved: urban: 50.8% of population
+
+rural: 77.9% of population
+
+total: 67.4% of population (2020 est.)
+
+Topic: Malawiimproved: urban: 59.9% of population
+
+rural: 35.9% of population
+
+total: 40% of population
+
+unimproved: urban: 40.1% of population
+
+rural: 64.1% of population
+
+total: 60% of population (2020 est.)
+
+Topic: Malaysiaimproved: urban: 99% of population
+
+rural: NA
+
+total: NA
+
+unimproved: urban: 0.1% of population
+
+rural: NA
+
+total: (2020 est.) NA
+
+Topic: Maldivesimproved: urban: 100% of population
+
+rural: 99.1% of population
+
+total: 99.5% of population
+
+unimproved: urban: 0% of population
+
+rural: 0.9% of population
+
+total: 0.5% of population (2020 est.)
+
+Topic: Maliimproved: urban: 85.7% of population
+
+rural: 44.7% of population
+
+total: 62.7% of population
+
+unimproved: urban: 14.3% of population
+
+rural: 55.3% of population
+
+total: 37.3% of population (2020 est.)
+
+Topic: Maltaimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Marshall Islandsimproved: urban: 96.6% of population
+
+rural: 65.4% of population
+
+total: 89.7% of population
+
+unimproved: urban: 3.4% of population
+
+rural: 34.6% of population
+
+total: 10.3% of population (2020 est.)
+
+Topic: Mauritaniaimproved: urban: 83.5% of population
+
+rural: 25.2% of population
+
+total: 57.5% of population
+
+unimproved: urban: 16.5% of population
+
+rural: 74.8% of population
+
+total: 42.5% of population (2020 est.)
+
+Topic: Mauritiusimproved: urban: 99.9% of population
+
+rural: NA
+
+total: NA
+
+unimproved: urban: 0.1% of population
+
+rural: NA
+
+total: (2020 est.) NA
+
+Topic: Mexicoimproved: urban: 99.9% of population
+
+rural: 96.4% of population
+
+total: 99.2% of population
+
+unimproved: urban: 0.1% of population
+
+rural: 3.6% of population
+
+total: 0.8% of population (2020 est.)
+
+Topic: Micronesia, Federated States ofimproved: urban: NA
+
+rural: NA
+
+total: 88.3% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 11.7% of population (2017 est.)
+
+Topic: Moldovaimproved: urban: 99% of population
+
+rural: 83.1% of population
+
+total: 89.9% of population
+
+unimproved: urban: 1% of population
+
+rural: 16.9% of population
+
+total: 10.1% of population (2020 est.)
+
+Topic: Monacoimproved: urban: 100% of population
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: NA
+
+total: 0% of population (2020 est.)
+
+Topic: Mongoliaimproved: urban: 97.4% of population
+
+rural: 69.9% of population
+
+total: 88.8% of population
+
+unimproved: urban: 2.6% of population
+
+rural: 30.1% of population
+
+total: 11.2% of population (2020 est.)
+
+Topic: Montenegroimproved: urban: 100% of population
+
+rural: 93.9% of population
+
+total: 98% of population
+
+unimproved: urban: 0% of population
+
+rural: 6.1% of population
+
+total: 2% of population (2020 est.)
+
+Topic: Montserratimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+unimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+Topic: Moroccoimproved: urban: 98.2% of population
+
+rural: 72.4% of population
+
+total: 88.8% of population
+
+unimproved: urban: 1.8% of population
+
+rural: 27.6% of population
+
+total: 11.2% of population (2020 est.)
+
+note: does not include data from the former Western Sahara
+
+Topic: Mozambiqueimproved: urban: 71.9% of population (2015 est.)
+
+rural: 24.7% of population
+
+total: 42.2% of population
+
+unimproved: urban: 28.1% of population
+
+rural: 75.3% of population
+
+total: 57.8% of population (2020 est.)
+
+Topic: Namibiaimproved: urban: 70.6% of population
+
+rural: 23.6% of population
+
+total: 48.1% of population
+
+unimproved: urban: 29.4% of population
+
+rural: 76.4% of population
+
+total: 51.9% of population (2020 est.)
+
+Topic: Nauruimproved: urban: 96.3% of population
+
+rural: NA
+
+total: 96.3% of population
+
+unimproved: urban: 3.7% of population
+
+rural: NA
+
+total: 3.7% of population (2017 est.)
+
+Topic: Navassa Islandimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+unimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+Topic: Nepalimproved: urban: 95.1% of population
+
+rural: 85.7% of population
+
+total: 87.7% of population
+
+unimproved: urban: 4.9% of population
+
+rural: 14.3% of population
+
+total: 12.3% of population (2020 est.)
+
+Topic: Netherlandsimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: New Caledoniaimproved: urban: NA
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0% of population (2020 est.)
+
+Topic: New Zealandimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020)
+
+Topic: Nicaraguaimproved: urban: 89.9% of population
+
+rural: 66.5% of population
+
+total: 80.3% of population
+
+unimproved: urban: 10.1% of population
+
+rural: 33.5% of population
+
+total: 19.7% of population (2020 est.)
+
+Topic: Nigerimproved: urban: 81.9% of population
+
+rural: 13.5% of population
+
+total: 24.8% of population
+
+unimproved: urban: 18.1% of population
+
+rural: 86.5% of population
+
+total: 75.2% of population (2020 est.)
+
+Topic: Nigeriaimproved: urban: 81.6% of population
+
+rural: 41.4% of population
+
+total: 62.3% of population
+
+unimproved: urban: 18.4% of population
+
+rural: 58.6% of population
+
+total: 37.7% of population (2020 est.)
+
+Topic: Niueimproved: urban: NA
+
+rural: NA
+
+total: 95.5% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 4.5% of population (2020 est.)
+
+Topic: Norfolk Islandimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+unimproved: urban: NA
+
+rural: NA
+
+total: (2020) NA
+
+Topic: North Macedoniaimproved: urban: 100% of population
+
+rural: 98% of population
+
+total: 99.2% of population
+
+unimproved: urban: 0% of population
+
+rural: 2% of population
+
+total: 0.8% of population (2020 est.)
+
+Topic: Northern Mariana Islandsimproved: urban: NA
+
+rural: NA
+
+total: 97.9% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 2.1% of population (2020 est.)
+
+Topic: Norwayimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Omanimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Pakistanimproved: urban: 88.6% of population
+
+rural: 73.2% of population
+
+total: 78.9% of population
+
+unimproved: urban: 11.4% of population
+
+rural: 26.8% of population
+
+total: 21.1% of population (2020 est.)
+
+Topic: Palauimproved: urban: 99.8% of population
+
+rural: 99% of population
+
+total: 99.6% of population
+
+unimproved: urban: 0.2% of population
+
+rural: 1% of population
+
+total: 0.4% of population (2020 est.)
+
+Topic: Panamaimproved: urban: 95.5% of population
+
+rural: 69.1% of population
+
+total: 87.2% of population
+
+unimproved: urban: 4.5% of population
+
+rural: 30.9% of population
+
+total: 12.8% of population (2020 est.)
+
+Topic: Papua New Guineaimproved: urban: 57.8% of population
+
+rural: 18.2% of population
+
+total: 23.5% of population
+
+unimproved: urban: 42.2% of population
+
+rural: 81.8% of population
+
+total: 76.5% of population (2020 est.)
+
+Topic: Paraguayimproved: urban: 99.6% of population
+
+rural: 90.6% of population
+
+total: 96.2% of population
+
+unimproved: urban: 0.4% of population
+
+rural: 9.4% of population
+
+total: 3.8% of population (2020 est.)
+
+Topic: Peruimproved: urban: 93.6% of population
+
+rural: 65.3% of population
+
+total: 87.4% of population
+
+unimproved: urban: 6.4% of population
+
+rural: 34.7% of population
+
+total: 12.6% of population (2020 est.)
+
+Topic: Philippinesimproved: urban: 96% of population
+
+rural: 91% of population
+
+total: 93.4% of population
+
+unimproved: urban: 4% of population
+
+rural: 9% of population
+
+total: 6.6% of population (2020 est.)
+
+Topic: Pitcairn Islandsimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+unimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+Topic: Polandimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Portugalimproved: urban: 99.9% of population
+
+rural: 100% of population
+
+total: 99.9% of population
+
+unimproved: urban: 0.1% of population
+
+rural: 0% of population
+
+total: 0.1% of population (2020 est.)
+
+Topic: Puerto Ricoimproved: urban: NA
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0% of population (2020 est.)
+
+Topic: Qatarimproved: urban: NA
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0% of population (2020 est.)
+
+Topic: Romaniaimproved: urban: 96.9% of population
+
+rural: 76% of population
+
+total: 87.3% of population
+
+unimproved: urban: 3.1% of population
+
+rural: 24% of population
+
+total: 12.7% of population (2020 est.)
+
+Topic: Russiaimproved: urban: 95.2% of population
+
+rural: 72.3% of population
+
+total: 89.4% of population
+
+unimproved: urban: 4.8% of population
+
+rural: 27.7% of population
+
+total: 10.6% of population (2020 est.)
+
+Topic: Rwandaimproved: urban: 89.1% of population
+
+rural: 83.2% of population
+
+total: 84.2% of population
+
+unimproved: urban: 10.9% of population
+
+rural: 16.8% of population
+
+total: 15.8% of population (2020 est.)
+
+Topic: Saint Barthelemyimproved: urban: 100% of population
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: NA
+
+total: 0% of population (2020)
+
+Topic: Saint Helena, Ascension, and Tristan da Cunhaimproved: urban: NA
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0% of population (2020)
+
+Topic: Saint Kitts and Nevisimproved: urban: 87.3% of population
+
+rural: 87.3% of population
+
+total: 87.3% of population
+
+unimproved: urban: 12.7% of population
+
+rural: 12.7% of population
+
+total: 12.7% of population (2017 est.)
+
+Topic: Saint Luciaimproved: urban: 97.6% of population
+
+rural: 92.9% of population
+
+total: 93.8% of population
+
+unimproved: urban: 2.4% of population
+
+rural: 7.1% of population
+
+total: 6.2% of population (2020 est.)
+
+Topic: Saint Martinimproved: urban: 100% of population
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: NA
+
+total: 0% of population (2020)
+
+Topic: Saint Pierre and Miquelonimproved: urban: NA
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0% of population (2020)
+
+Topic: Saint Vincent and the Grenadinesimproved: urban: NA
+
+rural: NA
+
+total: 90.2% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 9.8% of population (2017 est.)
+
+Topic: Samoaimproved: urban: 99.5% of population
+
+rural: 99.5% of population
+
+total: 99.5% of population
+
+unimproved: urban: 0.5% of population
+
+rural: 0.5% of population
+
+total: 0.5% of population (2020 est.)
+
+Topic: San Marinoimproved: urban: NA
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0% of population (2020)
+
+Topic: Sao Tome and Principeimproved: urban: 57.1% of population
+
+rural: 42.8% of population
+
+total: 53.4% of population
+
+unimproved: urban: 42.9% of population
+
+rural: 57.2% of population
+
+total: 46.6% of population (2020 est.)
+
+Topic: Saudi Arabiaimproved: urban: NA
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0% of population (2020 est.)
+
+Topic: Senegalimproved: urban: 94.1% of population
+
+rural: 55.5% of population
+
+total: 74.1% of population
+
+unimproved: urban: 5.9% of population
+
+rural: 44.5% of population
+
+total: 25.9% of population (2020 est.)
+
+Topic: Serbiaimproved: urban: 99.6% of population
+
+rural: 95.7% of population
+
+total: 97.9% of population
+
+unimproved: urban: 0.4% of population
+
+rural: 4.3% of population
+
+total: 2.1% of population (2020 est.)
+
+Topic: Seychellesimproved: urban: NA
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0% of population (2020 est.)
+
+Topic: Sierra Leoneimproved: urban: 79.5% of population
+
+rural: 35.5% of population
+
+total: 54.4% of population
+
+unimproved: urban: 20.5% of population
+
+rural: 64.5% of population
+
+total: 45.6% of population (2020 est.)
+
+Topic: Singaporeimproved: urban: 100% of population
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: NA
+
+total: 0% of population (2020 est.)
+
+Topic: Sint Maartenimproved: urban: NA
+
+rural: NA
+
+total: 98.8% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 1.2% of population (2017)
+
+Topic: Slovakiaimproved: urban: 99.9% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0.1% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Sloveniaimproved: urban: NA
+
+rural: NA
+
+total: 99% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 1% of population (2020 est.)
+
+Topic: Solomon Islandsimproved: urban: 95.6% of population
+
+rural: 22.6% of population
+
+total: 40.6% of population
+
+unimproved: urban: 4.4% of population
+
+rural: 77.4% of population
+
+total: 59.4% of population (2020 est.)
+
+Topic: Somaliaimproved: urban: 82.4% of population
+
+rural: 33.8% of population
+
+total: 56.2% of population
+
+unimproved: urban: 17.6% of population
+
+rural: 66.2% of population
+
+total: 43.8% of population (2020 est.)
+
+Topic: South Africaimproved: urban: 96.6% of population
+
+rural: 86.4% of population
+
+total: 93.2% of population
+
+unimproved: urban: 3.4% of population
+
+rural: 13.6% of population
+
+total: 6.8% of population (2020 est.)
+
+Topic: South Georgia and South Sandwich Islandsimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+unimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+Topic: South Sudanimproved: urban: 60.6% of population
+
+rural: 15.5% of population
+
+total: 24.6% of population
+
+unimproved: urban: 39.4% of population
+
+rural: 84.5% of population
+
+total: 75.4% of population (2020 est.)
+
+Topic: Spainimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Spratly Islandsimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+unimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+Topic: Sri Lankaimproved: urban: 96.6% of population
+
+rural: 97.9% of population
+
+total: 97.6% of population
+
+unimproved: urban: 3.4% of population
+
+rural: 2.1% of population
+
+total: 2.4% of population (2020 est.)
+
+Topic: Sudanimproved: urban: 72.1% of population
+
+rural: 30.6% of population
+
+total: 45.3% of population
+
+unimproved: urban: 27.9% of population
+
+rural: 69.4% of population
+
+total: 54.7% of population (2020 est.)
+
+Topic: Surinameimproved: urban: 98.5% of population
+
+rural: 91.2% of population
+
+total: 96% of population
+
+unimproved: urban: 1.5% of population
+
+rural: 8.8% of population
+
+total: 4% of population (2020 est.)
+
+Topic: Svalbardimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+unimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+Topic: Swedenimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Switzerlandimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Syriaimproved: urban: 99.5% of population
+
+rural: 99.5% of population
+
+total: 99.5% of population
+
+unimproved: urban: 0.5% of population
+
+rural: 0.5% of population
+
+total: 0.5% of population (2020 est.)
+
+Topic: Taiwanimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+unimproved: urban: NA
+
+rural: NA
+
+total: NA
+
+Topic: Tajikistanimproved: urban: 98.9% of population
+
+rural: 99.6% of population
+
+total: 99.4% of population
+
+unimproved: urban: 1.1% of population
+
+rural: 0.4% of population
+
+total: 0.6% of population (2020 est.)
+
+Topic: Tanzaniaimproved: urban: 89.4% of population
+
+rural: 29.2% of population
+
+total: 50.4% of population
+
+unimproved: urban: 10.6% of population
+
+rural: 70.8% of population
+
+total: 49.6% of population (2020 est.)
+
+Topic: Thailandimproved: urban: 99.9% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0.1% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Timor-Lesteimproved: urban: 88.7% of population
+
+rural: 56.1% of population
+
+total: 66.3% of population
+
+unimproved: urban: 11.3% of population
+
+rural: 43.9% of population
+
+total: 33.7% of population (2020 est.)
+
+Topic: Togoimproved: urban: 81.9% of population
+
+rural: 18.3% of population
+
+total: 45.5% of population
+
+unimproved: urban: 18.1% of population
+
+rural: 81.7% of population
+
+total: 54.5% of population (2020 est.)
+
+Topic: Tokelauimproved: urban: NA
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: NA
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Tongaimproved: urban: 99.4% of population
+
+rural: 98.8% of population
+
+total: 98.9% of population
+
+unimproved: urban: 0.6% of population
+
+rural: 1.2% of population
+
+total: 1.1% of population (2020 est.)
+
+Topic: Trinidad and Tobagoimproved: urban: NA
+
+rural: NA
+
+total: 99.9% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0.1% of population (2020 est.)
+
+Topic: Tunisiaimproved: urban: 98.8% of population
+
+rural: 99.4% of population
+
+total: 99% of population
+
+unimproved: urban: 1.2% of population
+
+rural: 0.6% of population
+
+total: 1% of population (2020 est.)
+
+Topic: Turkey (Turkiye)improved: urban: 99.8% of population
+
+rural: 98.7% of population
+
+total: 99.6% of population
+
+unimproved: urban: 0.2% of population
+
+rural: 1.3% of population
+
+total: 0.4% of population (2020 est.)
+
+Topic: Turkmenistanimproved: urban: 99.8% of population
+
+rural: 99.9% of population
+
+total: 99.8% of population
+
+unimproved: urban: 0.2% of population
+
+rural: 0.1% of population
+
+total: 0.2% of population (2020 est.)
+
+Topic: Turks and Caicos Islandsimproved: urban: NA
+
+rural: NA
+
+total: 88% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 12% of population (2017)
+
+Topic: Tuvaluimproved: urban: 91.8% of population
+
+rural: 91% of population
+
+total: 91.5% of population
+
+unimproved: urban: 9.2% of population
+
+rural: 9% of population
+
+total: 8.5% of population (2017 est.)
+
+Topic: Ugandaimproved: urban: 67.3% of population
+
+rural: 27.5% of population
+
+total: 37.4% of population
+
+unimproved: urban: 32.7% of population
+
+rural: 72.5% of population
+
+total: 62.6% of population (2020 est.)
+
+Topic: Ukraineimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: United Arab Emiratesimproved: urban: NA
+
+rural: NA
+
+total: 100% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0% of population (2020 est.)
+
+Topic: United Kingdomimproved: urban: 99.8% of population
+
+rural: 99.8% of population
+
+total: 99.8% of population
+
+unimproved: urban: 0.2% of population
+
+rural: 0.2% of population
+
+total: 0.2% of population (2020 est.)
+
+Topic: United Statesimproved: urban: 99.8% of population
+
+rural: 98.9% of population
+
+total: 99.7% of population
+
+unimproved: urban: 0.2% of population
+
+rural: 11.1% of population
+
+total: 0.3% of population (2020 est.)
+
+Topic: Uruguayimproved: urban: 99.2% of population
+
+rural: 99.6% of population
+
+total: 99.2% of population
+
+unimproved: urban: 0.8% of population
+
+rural: 0.4% of population
+
+total: 0.8% of population (2020 est.)
+
+Topic: Uzbekistanimproved: urban: 100% of population
+
+rural: 100% of population
+
+total: 100% of population
+
+unimproved: urban: 0% of population
+
+rural: 0% of population
+
+total: 0% of population (2020 est.)
+
+Topic: Vanuatuimproved: urban: 91.1% of population
+
+rural: 60.4% of population
+
+total: 68.2% of population
+
+unimproved: urban: 8.9% of population
+
+rural: 39.6% of population
+
+total: 31.8% of population (2020 est.)
+
+Topic: Venezuelaimproved: urban: NA
+
+rural: NA
+
+total: 95.8% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 4.2% of population (2020 est.)
+
+Topic: Vietnamimproved: urban: 98.7% of population
+
+rural: 90% of population
+
+total: 93.3% of population
+
+unimproved: urban: 1.3% of population
+
+rural: 10% of population
+
+total: 6.7% of population (2020 est.)
+
+Topic: Virgin Islandsimproved: urban: NA
+
+rural: NA
+
+total: 99.4% of population
+
+unimproved: urban: NA
+
+rural: NA
+
+total: 0.6% of population (2020 est.)
+
+Topic: Wallis and Futunaimproved: urban: NA
+
+rural: 92.9% of population
+
+total: 92.9% of population
+
+unimproved: urban: NA
+
+rural: 7.1% of population
+
+total: 7.1% of population (2020 est.)
+
+Topic: West Bankimproved: urban: 99.9% of population
+
+rural: 98.6% of population
+
+total: 99.6% of population
+
+unimproved: urban: 0.1% of population
+
+rural: 1.4% of population
+
+total: 0.4% of population (2020 est.)
+
+note: note includes Gaza Strip and the West Bank
+
+Topic: Worldimproved: urban: 82.3% of population
+
+rural: 50.5% of population
+
+total: 67.7% of population
+
+unimproved: urban: 17.7% of population
+
+rural: 49.5% of population
+
+total: 32.3% of population (2015 est.)
+
+Topic: Yemenimproved: urban: 83.5% of population
+
+rural: 44.2% of population
+
+total: 59.1% of population
+
+unimproved: urban: 16.5% of population
+
+rural: 55.8% of population
+
+total: 40.9% of population (2020 est.)
+
+Topic: Zambiaimproved: urban: 76.3% of population
+
+rural: 31.9% of population
+
+total: 51.7% of population
+
+unimproved: urban: 23.7% of population
+
+rural: 68.1% of population
+
+total: 48.3% of population (2020 est.)
+
+Topic: Zimbabweimproved: urban: 96.1% of population
+
+rural: 49% of population
+
+total: 64.2% of population
+
+unimproved: urban: 3.9% of population
+
+rural: 51% of population
+
+total: 35.8% of population (2017 est.)

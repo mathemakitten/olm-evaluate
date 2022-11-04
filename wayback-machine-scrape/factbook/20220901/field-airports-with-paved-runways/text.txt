@@ -1,0 +1,2055 @@
+This entry gives the total number of airports with paved runways (concrete or asphalt surfaces) by length. For airports with more than one runway, only the longest runway is included according to the following five groups - (1) over 3,047 m (over 10,000 ft), (2) 2,438 to 3,047 m (8,000 to 10,000 ft), (3) 1,524 to 2,437 m (5,000 to 8,000 ft), (4) 914 to 1,523 m (3,000 to 5,000 ft), and (5) under 914 m (under 3,000 ft). Only airports with usable runways are included in this listing. Not all airports have facilities for refueling, maintenance, or air traffic control. The type of aircraft capable of operating from a runway of a given length is dependent upon a number of factors including elevation of the runway, runway gradient, average maximum daily temperature at the airport, engine types, flap settings, and take-off weight of the aircraft.
+
+Topic: Afghanistantotal: 29
+
+over 3,047 m: 4
+
+2,438 to 3,047 m: 8
+
+1,524 to 2,437 m: 12
+
+914 to 1,523 m: 2
+
+under 914 m: 3 (2021)
+
+Topic: Akrotiri2,438 to 3,047 m: 1 (2021)
+
+Topic: Albaniatotal: 3
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Algeriatotal: 67
+
+over 3,047 m: 14
+
+2,438 to 3,047 m: 27
+
+1,524 to 2,437 m: 18
+
+914 to 1,523 m: 6
+
+under 914 m: 2 (2021)
+
+Topic: American Samoatotal: 3
+
+over 3,047 m: 1
+
+914 to 1,523 m: 1
+
+under 914 m: 1 (2021)
+
+Topic: Angolatotal: 32
+
+over 3,047 m: 8
+
+2,438 to 3,047 m: 8
+
+1,524 to 2,437 m: 10
+
+914 to 1,523 m: 6 (2021)
+
+Topic: Anguillatotal: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Antigua and Barbudatotal: 2
+
+2,438 to 3,047 m: 1
+
+under 914 m: 1 (2021)
+
+Topic: Argentinatotal: 161
+
+over 3,047 m: 4
+
+2,438 to 3,047 m: 29
+
+1,524 to 2,437 m: 65
+
+914 to 1,523 m: 53
+
+under 914 m: 10 (2021)
+
+Topic: Armeniatotal: 10
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 4
+
+914 to 1,523 m: 2 (2021)
+
+Topic: Arubatotal: 1
+
+2,438 to 3,047 m: 1 (2021)
+
+Topic: Australiatotal: 349
+
+over 3,047 m: 11
+
+2,438 to 3,047 m: 14
+
+1,524 to 2,437 m: 155
+
+914 to 1,523 m: 155
+
+under 914 m: 14 (2021)
+
+Topic: Austriatotal: 24
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 5
+
+1,524 to 2,437 m: 1
+
+914 to 1,523 m: 4
+
+under 914 m: 13 (2021)
+
+Topic: Azerbaijantotal: 30
+
+over 3,047 m: 5
+
+2,438 to 3,047 m: 5
+
+1,524 to 2,437 m: 13
+
+914 to 1,523 m: 4
+
+under 914 m: 3 (2021)
+
+Topic: Bahamas, Thetotal: 24
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 13
+
+914 to 1,523 m: 7 (2021)
+
+Topic: Bahraintotal: 4
+
+over 3,047 m: 3
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Bangladeshtotal: 16
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 6
+
+914 to 1,523 m: 1
+
+under 914 m: 5 (2021)
+
+Topic: Barbadostotal: 1
+
+over 3,047 m: 1 (2021)
+
+Topic: Belarustotal: 33
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 20
+
+1,524 to 2,437 m: 4
+
+914 to 1,523 m: 1
+
+under 914 m: 7 (2021)
+
+Topic: Belgiumtotal: 26
+
+over 3,047 m: 6
+
+2,438 to 3,047 m: 9
+
+1,524 to 2,437 m: 2
+
+914 to 1,523 m: 1
+
+under 914 m: 8 (2021)
+
+Topic: Belizetotal: 6
+
+2,438 to 3,047 m: 1
+
+914 to 1,523 m: 2
+
+under 914 m: 3 (2021)
+
+Topic: Benintotal: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Bermudatotal: 1
+
+2,438 to 3,047 m: 1 (2021)
+
+Topic: Bhutantotal: 2
+
+1,524 to 2,437 m: 1
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Boliviatotal: 21
+
+over 3,047 m: 5
+
+2,438 to 3,047 m: 4
+
+1,524 to 2,437 m: 6
+
+914 to 1,523 m: 6 (2021)
+
+Topic: Bosnia and Herzegovinatotal: 7
+
+2,438 to 3,047 m: 4
+
+1,524 to 2,437 m: 1
+
+under 914 m: 2 (2021)
+
+Topic: Botswanatotal: 10
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 1
+
+1,524 to 2,437 m: 6
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Braziltotal: 698
+
+over 3,047 m: 7
+
+2,438 to 3,047 m: 27
+
+1,524 to 2,437 m: 179
+
+914 to 1,523 m: 436 (2017)
+
+under 914 m: 49 (2021)
+
+Topic: British Indian Ocean Territorytotal: 1
+
+over 3,047 m: 1 (2021)
+
+Topic: British Virgin Islandstotal: 2
+
+914 to 1,523 m: 1
+
+under 914 m: 1 (2021)
+
+Topic: Bruneitotal: 1
+
+over 3,047 m: 1 (2021)
+
+Topic: Bulgariatotal: 57
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 17
+
+1,524 to 2,437 m: 12
+
+under 914 m: 26 (2021)
+
+Topic: Burkina Fasototal: 2
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 1 (2021)
+
+Topic: Burmatotal: 36
+
+over 3,047 m: 12
+
+2,438 to 3,047 m: 11
+
+1,524 to 2,437 m: 12
+
+under 914 m: 1 (2021)
+
+Topic: Burunditotal: 1
+
+over 3,047 m: 1 (2021)
+
+Topic: Cabo Verdetotal: 9
+
+over 3,047 m: 1
+
+1,524 to 2,437 m: 3
+
+914 to 1,523 m: 3
+
+under 914 m: 2 (2021)
+
+Topic: Cambodiatotal: 6
+
+2,438 to 3,047 m: 3
+
+1,524 to 2,437 m: 2
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Cameroontotal: 11
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 5
+
+1,524 to 2,437 m: 3
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Canadatotal: 523
+
+over 3,047 m: 21
+
+2,438 to 3,047 m: 19
+
+1,524 to 2,437 m: 147
+
+914 to 1,523 m: 257
+
+under 914 m: 79 (2021)
+
+Topic: Cayman Islandstotal: 3
+
+1,524 to 2,437 m: 2
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Central African Republictotal: 1
+
+2,438 to 3,047 m: 1 (2021)
+
+Topic: Chadtotal: 9
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 4
+
+1,524 to 2,437 m: 2
+
+under 914 m: 1 (2021)
+
+Topic: Chiletotal: 90
+
+over 3,047 m: 5
+
+2,438 to 3,047 m: 7
+
+1,524 to 2,437 m: 23
+
+914 to 1,523 m: 31
+
+under 914 m: 24 (2021)
+
+Topic: Chinatotal: 510
+
+over 3,047 m: 87
+
+2,438 to 3,047 m: 187
+
+1,524 to 2,437 m: 109
+
+914 to 1,523 m: 43
+
+under 914 m: 84 (2021)
+
+Topic: Christmas Islandtotal: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Cocos (Keeling) Islandstotal: 1
+
+2,438 to 3,047 m: 1 (2021)
+
+Topic: Colombiatotal: 121
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 9
+
+1,524 to 2,437 m: 39
+
+914 to 1,523 m: 53
+
+under 914 m: 18 (2021)
+
+Topic: Comorostotal: 4
+
+2,438 to 3,047 m: 1
+
+914 to 1,523 m: 3 (2021)
+
+Topic: Congo, Democratic Republic of thetotal: 26
+
+over 3,047 m: 3
+
+2,438 to 3,047 m: 3
+
+1,524 to 2,437 m: 17
+
+914 to 1,523 m: 2
+
+under 914 m: 1 (2021)
+
+Topic: Congo, Republic of thetotal: 8
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 1
+
+1,524 to 2,437 m: 5 (2021)
+
+Topic: Cook Islandstotal: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Costa Ricatotal: 47
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 2
+
+914 to 1,523 m: 27
+
+under 914 m: 16 (2021)
+
+Topic: Cote d'Ivoiretotal: 7
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 4 (2021)
+
+Topic: Croatiatotal: 24
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 6
+
+1,524 to 2,437 m: 3
+
+914 to 1,523 m: 3
+
+under 914 m: 10 (2021)
+
+Topic: Cubatotal: 64
+
+over 3,047 m: 7
+
+2,438 to 3,047 m: 10
+
+1,524 to 2,437 m: 16
+
+914 to 1,523 m: 4
+
+under 914 m: 27 (2021)
+
+Topic: Curacaototal: 1
+
+over 3,047 m: 1 (2021)
+
+Topic: Cyprustotal: 13
+
+2,438 to 3,047 m: 7
+
+1,524 to 2,437 m: 2
+
+914 to 1,523 m: 3
+
+under 914 m: 1 (2021)
+
+Topic: Czechiatotal: 41
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 9
+
+1,524 to 2,437 m: 12
+
+914 to 1,523 m: 2
+
+under 914 m: 16 (2021)
+
+Topic: Denmarktotal: 28
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 7
+
+1,524 to 2,437 m: 5
+
+914 to 1,523 m: 12
+
+under 914 m: 2 (2021)
+
+Topic: Djiboutitotal: 3
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Dominicatotal: 2
+
+1,524 to 2,437 m: 1
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Dominican Republictotal: 16
+
+over 3,047 m: 3
+
+2,438 to 3,047 m: 4
+
+1,524 to 2,437 m: 4
+
+914 to 1,523 m: 4
+
+under 914 m: 1 (2021)
+
+Topic: Ecuadortotal: 104
+
+over 3,047 m: 4
+
+2,438 to 3,047 m: 5
+
+1,524 to 2,437 m: 18
+
+914 to 1,523 m: 26
+
+under 914 m: 51 (2021)
+
+Topic: Egypttotal: 72
+
+over 3,047 m: 15
+
+2,438 to 3,047 m: 36
+
+1,524 to 2,437 m: 15
+
+under 914 m: 6 (2021)
+
+Topic: El Salvadortotal: 5
+
+over 3,047 m: 1
+
+1,524 to 2,437 m: 1
+
+914 to 1,523 m: 2
+
+under 914 m: 1 (2021)
+
+Topic: Equatorial Guineatotal: 6
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 1
+
+under 914 m: 2 (2021)
+
+Topic: Eritreatotal: 4
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 2 (2021)
+
+Topic: Estoniatotal: 13
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 8
+
+1,524 to 2,437 m: 2
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Eswatinitotal: 2
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 1 (2021)
+
+Topic: Ethiopiatotal: 17
+
+over 3,047 m: 3
+
+2,438 to 3,047 m: 8
+
+1,524 to 2,437 m: 4
+
+under 914 m: 2 (2021)
+
+Topic: European Uniontotal: 1,882
+
+over 3,047 m: 120
+
+2,438 to 3,047 m: 341
+
+1,524 to 2,437 m: 507
+
+914 to 1,523 m: 425
+
+under 914 m: 489 (2017)
+
+Topic: Falkland Islands (Islas Malvinas)total: 2
+
+2,438 to 3,047 m: 1
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Faroe Islandstotal: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Fijitotal: 4
+
+over 3,047 m: 1
+
+1,524 to 2,437 m: 1
+
+914 to 1,523 m: 2 (2021)
+
+Topic: Finlandtotal: 74
+
+over 3,047 m: 3
+
+2,438 to 3,047 m: 26
+
+1,524 to 2,437 m: 10
+
+914 to 1,523 m: 21
+
+under 914 m: 14 (2021)
+
+Topic: Francetotal: 294
+
+over 3,047 m: 14
+
+2,438 to 3,047 m: 25
+
+1,524 to 2,437 m: 97
+
+914 to 1,523 m: 83
+
+under 914 m: 75 (2021)
+
+Topic: French Polynesiatotal: 45
+
+over 3,047 m: 2
+
+1,524 to 2,437 m: 5
+
+914 to 1,523 m: 33
+
+under 914 m: 5 (2021)
+
+Topic: Gabontotal: 14
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 9
+
+914 to 1,523 m: 1
+
+under 914 m: 1 (2021)
+
+Topic: Gambia, Thetotal: 1
+
+over 3,047 m: 1 (2021)
+
+Topic: Gaza Striptotal: 1
+
+under 914 m: 1 (2021)
+
+note - non-operational
+
+Topic: Georgiatotal: 18
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 7
+
+1,524 to 2,437 m: 3
+
+914 to 1,523 m: 5
+
+under 914 m: 2 (2021)
+
+Topic: Germanytotal: 318
+
+over 3,047 m: 14
+
+2,438 to 3,047 m: 49
+
+1,524 to 2,437 m: 60
+
+914 to 1,523 m: 70
+
+under 914 m: 125 (2021)
+
+Topic: Ghanatotal: 7
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 1
+
+1,524 to 2,437 m: 3
+
+914 to 1,523 m: 2 (2021)
+
+Topic: Gibraltartotal: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Greecetotal: 68
+
+over 3,047 m: 6
+
+2,438 to 3,047 m: 15
+
+1,524 to 2,437 m: 19
+
+914 to 1,523 m: 18
+
+under 914 m: 10 (2021)
+
+Topic: Greenlandtotal: 10
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 1
+
+914 to 1,523 m: 1
+
+under 914 m: 6 (2021)
+
+Topic: Grenadatotal: 3
+
+2,438 to 3,047 m: 1
+
+1,524 to 2,437 m: 1
+
+under 914 m: 1 (2021)
+
+Topic: Guamtotal: 4
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 1
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Guatemalatotal: 16
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 4
+
+914 to 1,523 m: 6
+
+under 914 m: 4 (2021)
+
+Topic: Guernseytotal: 2
+
+1,524 to 2,437 m: 1
+
+under 914 m: 1 (2021)
+
+Topic: Guineatotal: 4
+
+over 3,047 m: 1
+
+1,524 to 2,437 m: 3 (2021)
+
+Topic: Guinea-Bissautotal: 2
+
+over 3,047 m: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Guyanatotal: 11
+
+1,524 to 2,437 m: 2
+
+914 to 1,523 m: 1
+
+under 914 m: 8 (2021)
+
+Topic: Haititotal: 4
+
+2,438 to 3,047 m: 2
+
+914 to 1,523 m: 2 (2021)
+
+Topic: Hondurastotal: 13
+
+2,438 to 3,047 m: 3
+
+1,524 to 2,437 m: 3
+
+914 to 1,523 m: 4
+
+under 914 m: 3 (2021)
+
+Topic: Hong Kongtotal: 2
+
+over 3,047 m: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Hungarytotal: 20
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 6
+
+1,524 to 2,437 m: 6
+
+914 to 1,523 m: 5
+
+under 914 m: 1 (2021)
+
+Topic: Icelandtotal: 7
+
+over 3,047 m: 1
+
+1,524 to 2,437 m: 3
+
+914 to 1,523 m: 3 (2021)
+
+Topic: Indiatotal: 253
+
+over 3,047 m: 22
+
+2,438 to 3,047 m: 59
+
+1,524 to 2,437 m: 76
+
+914 to 1,523 m: 82
+
+under 914 m: 14 (2021)
+
+Topic: Indonesiatotal: 186
+
+over 3,047 m: 5
+
+2,438 to 3,047 m: 21
+
+1,524 to 2,437 m: 51
+
+914 to 1,523 m: 72
+
+under 914 m: 37 (2021)
+
+Topic: Irantotal: 140
+
+over 3,047 m: 42
+
+2,438 to 3,047 m: 29
+
+1,524 to 2,437 m: 26
+
+914 to 1,523 m: 36
+
+under 914 m: 7 (2021)
+
+Topic: Iraqtotal: 72
+
+over 3,047 m: 20
+
+2,438 to 3,047 m: 34
+
+1,524 to 2,437 m: 4
+
+914 to 1,523 m: 7
+
+under 914 m: 7 (2021)
+
+Topic: Irelandtotal: 16
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 1
+
+1,524 to 2,437 m: 4
+
+914 to 1,523 m: 5
+
+under 914 m: 5 (2021)
+
+Topic: Isle of Mantotal: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Israeltotal: 33
+
+over 3,047 m: 3
+
+2,438 to 3,047 m: 5
+
+1,524 to 2,437 m: 5
+
+914 to 1,523 m: 12
+
+under 914 m: 8 (2021)
+
+Topic: Italytotal: 98
+
+over 3,047 m: 9
+
+2,438 to 3,047 m: 31
+
+1,524 to 2,437 m: 18
+
+914 to 1,523 m: 29
+
+under 914 m: 11 (2021)
+
+Topic: Jamaicatotal: 11
+
+2,438 to 3,047 m: 2
+
+914 to 1,523 m: 4
+
+under 914 m: 5 (2021)
+
+Topic: Japantotal: 142
+
+over 3,047 m: 6
+
+2,438 to 3,047 m: 45
+
+1,524 to 2,437 m: 38
+
+914 to 1,523 m: 28
+
+under 914 m: 25 (2021)
+
+Topic: Jerseytotal: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Jordantotal: 16
+
+over 3,047 m: 8
+
+2,438 to 3,047 m: 5
+
+1,524 to 2,437 m: 2
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Kazakhstantotal: 63
+
+over 3,047 m: 10
+
+2,438 to 3,047 m: 25
+
+1,524 to 2,437 m: 15
+
+914 to 1,523 m: 5
+
+under 914 m: 8 (2021)
+
+Topic: Kenyatotal: 16
+
+over 3,047 m: 5
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 2
+
+914 to 1,523 m: 6
+
+under 914 m: 1 (2021)
+
+Topic: Kiribatitotal: 4
+
+1,524 to 2,437 m: 4 (2021)
+
+Topic: Korea, Northtotal: 39
+
+over 3,047 m: 3
+
+2,438 to 3,047 m: 22
+
+1,524 to 2,437 m: 8
+
+914 to 1,523 m: 2
+
+under 914 m: 4 (2021)
+
+Topic: Korea, Southtotal: 71
+
+over 3,047 m: 4
+
+2,438 to 3,047 m: 19
+
+1,524 to 2,437 m: 12
+
+914 to 1,523 m: 13
+
+under 914 m: 23 (2021)
+
+Topic: Kosovototal: 3
+
+2,438 to 3,047 m: 1
+
+1,524 to 2,437 m: 1
+
+under 914 m: 1 (2021)
+
+Topic: Kuwaittotal: 4
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 2
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Kyrgyzstantotal: 18
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 3
+
+1,524 to 2,437 m: 11
+
+under 914 m: 3 (2021)
+
+Topic: Laostotal: 8
+
+2,438 to 3,047 m: 3
+
+1,524 to 2,437 m: 4
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Latviatotal: 18
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 3
+
+1,524 to 2,437 m: 4
+
+914 to 1,523 m: 3
+
+under 914 m: 7 (2021)
+
+Topic: Lebanontotal: 5
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 1
+
+under 914 m: 1 (2021)
+
+Topic: Lesothototal: 3
+
+over 3,047 m: 1
+
+914 to 1,523 m: 1
+
+under 914 m: 1 (2021)
+
+Topic: Liberiatotal: 2
+
+over 3,047 m: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Libyatotal: 68
+
+over 3,047 m: 23
+
+2,438 to 3,047 m: 7
+
+1,524 to 2,437 m: 30
+
+914 to 1,523 m: 7
+
+under 914 m: 1 (2021)
+
+Topic: Lithuaniatotal: 22
+
+over 3,047 m: 3
+
+2,438 to 3,047 m: 1
+
+1,524 to 2,437 m: 7
+
+914 to 1,523 m: 2
+
+under 914 m: 9 (2021)
+
+Topic: Luxembourgtotal: 1
+
+over 3,047 m: 1 (2021)
+
+Topic: Macautotal: 1
+
+over 3,047 m: 1 (2021)
+
+Topic: Madagascartotal: 26
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 6
+
+914 to 1,523 m: 16
+
+under 914 m: 1 (2021)
+
+Topic: Malawitotal: 7
+
+over 3,047 m: 1
+
+1,524 to 2,437 m: 2
+
+914 to 1,523 m: 4 (2021)
+
+Topic: Malaysiatotal: 39
+
+over 3,047 m: 8
+
+2,438 to 3,047 m: 8
+
+1,524 to 2,437 m: 7
+
+914 to 1,523 m: 8
+
+under 914 m: 8 (2021)
+
+Topic: Maldivestotal: 7
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 1
+
+1,524 to 2,437 m: 1
+
+914 to 1,523 m: 4 (2021)
+
+Topic: Malitotal: 8
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 4
+
+1,524 to 2,437 m: 2
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Maltatotal: 1
+
+over 3,047 m: 1 (2021)
+
+Topic: Marshall Islandstotal: 4
+
+1,524 to 2,437 m: 3
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Mauritaniatotal: 9
+
+2,438 to 3,047 m: 5
+
+1,524 to 2,437 m: 4 (2021)
+
+Topic: Mauritiustotal: 2
+
+over 3,047 m: 1
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Mexicototal: 243
+
+over 3,047 m: 12
+
+2,438 to 3,047 m: 32
+
+1,524 to 2,437 m: 80
+
+914 to 1,523 m: 86
+
+under 914 m: 33 (2021)
+
+Topic: Micronesia, Federated States oftotal: 6
+
+1,524 to 2,437 m: 4
+
+914 to 1,523 m: 2 (2021)
+
+Topic: Moldovatotal: 5
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 2 (2021)
+
+Topic: Mongoliatotal: 15
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 10
+
+1,524 to 2,437 m: 3 (2021)
+
+Topic: Montenegrototal: 5
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 1
+
+914 to 1,523 m: 1
+
+under 914 m: 1 (2021)
+
+Topic: Montserrattotal: 1
+
+under 914 m: 1 (2021)
+
+Topic: Moroccototal: 36
+
+over 3,047 m: 13
+
+2,438 to 3,047 m: 12
+
+1,524 to 2,437 m: 6
+
+914 to 1,523 m: 4
+
+under 914 m: 1 (2021)
+
+Topic: Mozambiquetotal: 21
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 9
+
+914 to 1,523 m: 5
+
+under 914 m: 4 (2021)
+
+Topic: Namibiatotal: 19
+
+over 3,047 m: 4
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 12
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Naurutotal: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Nepaltotal: 11
+
+over 3,047 m: 1
+
+1,524 to 2,437 m: 3
+
+914 to 1,523 m: 6
+
+under 914 m: 1 (2021)
+
+Topic: Netherlandstotal: 23
+
+over 3,047 m: 3
+
+2,438 to 3,047 m: 11
+
+1,524 to 2,437 m: 1
+
+914 to 1,523 m: 6
+
+under 914 m: 2 (2021)
+
+Topic: New Caledoniatotal: 12
+
+over 3,047 m: 1
+
+914 to 1,523 m: 10
+
+under 914 m: 1 (2021)
+
+Topic: New Zealandtotal: 39
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 1
+
+1,524 to 2,437 m: 12
+
+914 to 1,523 m: 23
+
+under 914 m: 1 (2021)
+
+Topic: Nicaraguatotal: 12
+
+2,438 to 3,047 m: 3
+
+1,524 to 2,437 m: 2
+
+914 to 1,523 m: 3
+
+under 914 m: 4 (2021)
+
+Topic: Nigertotal: 10
+
+2,438 to 3,047 m: 3
+
+1,524 to 2,437 m: 6
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Nigeriatotal: 40
+
+over 3,047 m: 10
+
+2,438 to 3,047 m: 12
+
+1,524 to 2,437 m: 9
+
+914 to 1,523 m: 6
+
+under 914 m: 3 (2021)
+
+Topic: Niuetotal: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Norfolk Islandtotal: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: North Macedoniatotal: 8
+
+2,438 to 3,047 m: 2
+
+under 914 m: 6 (2021)
+
+Topic: Northern Mariana Islandstotal: 3
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Norwaytotal: 67
+
+2,438 to 3,047 m: 14
+
+1,524 to 2,437 m: 10
+
+914 to 1,523 m: 22
+
+under 914 m: 21 (2021)
+
+Topic: Omantotal: 13
+
+over 3,047 m: 7
+
+2,438 to 3,047 m: 5
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Pakistantotal: 108
+
+over 3,047 m: 15
+
+2,438 to 3,047 m: 20
+
+1,524 to 2,437 m: 43
+
+914 to 1,523 m: 20
+
+under 914 m: 10 (2021)
+
+Topic: Palautotal: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Panamatotal: 57
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 3
+
+1,524 to 2,437 m: 3
+
+914 to 1,523 m: 20
+
+under 914 m: 30 (2021)
+
+Topic: Papua New Guineatotal: 21
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 12
+
+914 to 1,523 m: 5
+
+under 914 m: 1 (2021)
+
+Topic: Paracel Islandstotal: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Paraguaytotal: 15
+
+over 3,047 m: 3
+
+1,524 to 2,437 m: 7
+
+914 to 1,523 m: 5 (2021)
+
+Topic: Perutotal: 59
+
+over 3,047 m: 5
+
+2,438 to 3,047 m: 21
+
+1,524 to 2,437 m: 16
+
+914 to 1,523 m: 12
+
+under 914 m: 5 (2021)
+
+Topic: Philippinestotal: 89
+
+over 3,047 m: 4
+
+2,438 to 3,047 m: 8
+
+1,524 to 2,437 m: 33
+
+914 to 1,523 m: 34
+
+under 914 m: 10 (2021)
+
+Topic: Polandtotal: 87
+
+over 3,047 m: 5
+
+2,438 to 3,047 m: 30
+
+1,524 to 2,437 m: 36
+
+914 to 1,523 m: 10
+
+under 914 m: 6 (2021)
+
+Topic: Portugaltotal: 43
+
+over 3,047 m: 5
+
+2,438 to 3,047 m: 7
+
+1,524 to 2,437 m: 8
+
+914 to 1,523 m: 15
+
+under 914 m: 8 (2021)
+
+Topic: Puerto Ricototal: 17
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 1
+
+1,524 to 2,437 m: 2
+
+914 to 1,523 m: 7
+
+under 914 m: 5 (2021)
+
+Topic: Qatartotal: 4
+
+over 3,047 m: 3
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Romaniatotal: 26
+
+over 3,047 m: 4
+
+2,438 to 3,047 m: 10
+
+1,524 to 2,437 m: 11
+
+under 914 m: 1 (2021)
+
+Topic: Russiatotal: 594
+
+over 3,047 m: 54
+
+2,438 to 3,047 m: 197
+
+1,524 to 2,437 m: 123
+
+914 to 1,523 m: 95
+
+under 914 m: 125 (2021)
+
+Topic: Rwandatotal: 4
+
+over 3,047 m: 1
+
+914 to 1,523 m: 2
+
+under 914 m: 1 (2021)
+
+Topic: Saint Barthelemytotal: 1
+
+under 914 m: 1 (2021)
+
+Topic: Saint Helena, Ascension, and Tristan da Cunhatotal: 2
+
+over 3,047 m: 1 Ascension Island - Wideawake Field (ASI)
+
+1,524 to 2,437 m: 1 (2021) Saint Helena (HLE);
+
+note - weekly commercial air service to South Africa via Namibia commenced on 14 October 2017
+
+Topic: Saint Kitts and Nevistotal: 2
+
+1,524 to 2,437 m: 1
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Saint Luciatotal: 2
+
+2,438 to 3,047 m: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Saint Martintotal: 1
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Saint Pierre and Miquelontotal: 2
+
+1,524 to 2,437 m: 1
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Saint Vincent and the Grenadinestotal: 5
+
+1,524 to 2,437 m: 1
+
+914 to 1,523 m: 3
+
+under 914 m: 1 (2021)
+
+Topic: Samoatotal: 1
+
+2,438 to 3,047 m: 1 (2021)
+
+Topic: Sao Tome and Principetotal: 2
+
+1,524 to 2,437 m: 1
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Saudi Arabiatotal: 82
+
+over 3,047 m: 33
+
+2,438 to 3,047 m: 16
+
+1,524 to 2,437 m: 27
+
+914 to 1,523 m: 2
+
+under 914 m: 4 (2021)
+
+Topic: Senegaltotal: 9
+
+over 3,047 m: 2
+
+1,524 to 2,437 m: 6
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Serbiatotal: 10
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 3
+
+1,524 to 2,437 m: 3
+
+914 to 1,523 m: 2 (2021)
+
+Topic: Seychellestotal: 7
+
+2,438 to 3,047 m: 1
+
+914 to 1,523 m: 5
+
+under 914 m: 1 (2021)
+
+Topic: Sierra Leonetotal: 1
+
+over 3,047 m: 1 (2021)
+
+Topic: Singaporetotal: 9
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 3
+
+914 to 1,523 m: 1
+
+under 914 m: 1 (2021)
+
+Topic: Sint Maartentotal: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+note: Princess Juliana International Airport (SXM) was severely damaged on 6 September 2017 by hurricane Irma, but resumed commercial operations on 10 October 2017
+
+Topic: Slovakiatotal: 19
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 3
+
+914 to 1,523 m: 3
+
+under 914 m: 9 (2021)
+
+Topic: Sloveniatotal: 9
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 2
+
+914 to 1,523 m: 3
+
+under 914 m: 3 (2021)
+
+Topic: Solomon Islandstotal: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Somaliatotal: 8
+
+over 3,047 m: 5
+
+2,438 to 3,047 m: 1
+
+1,524 to 2,437 m: 2 (2021)
+
+Topic: South Africatotal: 130
+
+over 3,047 m: 11
+
+2,438 to 3,047 m: 6
+
+1,524 to 2,437 m: 46
+
+914 to 1,523 m: 60
+
+under 914 m: 7 (2021)
+
+Topic: South Sudantotal: 4
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Spaintotal: 102
+
+over 3,047 m: 18
+
+2,438 to 3,047 m: 16
+
+1,524 to 2,437 m: 19
+
+914 to 1,523 m: 26
+
+under 914 m: 23 (2021)
+
+Topic: Spratly Islandstotal: 6
+
+2,438 to 3,047 m: 3
+
+914 to 1,523 m: 2
+
+under 914 m: 1 (2021)
+
+Topic: Sri Lankatotal: 11
+
+over 3,047 m: 2
+
+1,524 to 2,437 m: 5
+
+914 to 1,523 m: 4 (2021)
+
+Topic: Sudantotal: 17
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 11
+
+1,524 to 2,437 m: 2
+
+914 to 1,523 m: 1
+
+under 914 m: 1 (2021)
+
+Topic: Surinametotal: 6
+
+over 3,047 m: 1
+
+under 914 m: 5 (2021)
+
+Topic: Svalbardtotal: 1
+
+2,438 to 3,047 m: 1 (2021)
+
+Topic: Swedentotal: 149
+
+over 3,047 m: 3
+
+2,438 to 3,047 m: 12
+
+1,524 to 2,437 m: 75
+
+914 to 1,523 m: 22
+
+under 914 m: 37 (2021)
+
+Topic: Switzerlandtotal: 40
+
+over 3,047 m: 3
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 12
+
+914 to 1,523 m: 6
+
+under 914 m: 17 (2021)
+
+Topic: Syriatotal: 29
+
+over 3,047 m: 5
+
+2,438 to 3,047 m: 16
+
+914 to 1,523 m: 3
+
+under 914 m: 5 (2021)
+
+Topic: Taiwantotal: 35
+
+over 3,047 m: 8
+
+2,438 to 3,047 m: 7
+
+1,524 to 2,437 m: 10
+
+914 to 1,523 m: 8
+
+under 914 m: 2 (2021)
+
+Topic: Tajikistantotal: 17
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 4
+
+1,524 to 2,437 m: 5
+
+914 to 1,523 m: 3
+
+under 914 m: 3 (2021)
+
+Topic: Tanzaniatotal: 10
+
+over 3,047 m: 2
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 4
+
+914 to 1,523 m: 2 (2021)
+
+Topic: Thailandtotal: 63
+
+over 3,047 m: 8
+
+2,438 to 3,047 m: 12
+
+1,524 to 2,437 m: 23
+
+914 to 1,523 m: 14
+
+under 914 m: 6 (2021)
+
+Topic: Timor-Lestetotal: 2
+
+2,438 to 3,047 m: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Togototal: 2
+
+2,438 to 3,047 m: 2 (2021)
+
+Topic: Tongatotal: 1
+
+2,438 to 3,047 m: 1 (2021)
+
+Topic: Trinidad and Tobagototal: 2
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 1 (2021)
+
+Topic: Tunisiatotal: 15
+
+over 3,047 m: 4
+
+2,438 to 3,047 m: 6
+
+1,524 to 2,437 m: 2
+
+914 to 1,523 m: 3 (2021)
+
+Topic: Turkey (Turkiye)total: 91
+
+over 3,047 m: 16
+
+2,438 to 3,047 m: 38
+
+1,524 to 2,437 m: 17
+
+914 to 1,523 m: 16
+
+under 914 m: 4 (2021)
+
+Topic: Turkmenistantotal: 21
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 9
+
+1,524 to 2,437 m: 9
+
+914 to 1,523 m: 2 (2021)
+
+Topic: Turks and Caicos Islandstotal: 6
+
+2,438 to 3,047 m: 1
+
+1,524 to 2,437 m: 3
+
+914 to 1,523 m: 1
+
+under 914 m: 1 (2021)
+
+Topic: Ugandatotal: 5
+
+over 3,047 m: 3
+
+1,524 to 2,437 m: 1
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Ukrainetotal: 108
+
+over 3,047 m: 13
+
+2,438 to 3,047 m: 42
+
+1,524 to 2,437 m: 22
+
+914 to 1,523 m: 3
+
+under 914 m: 28 (2021)
+
+Topic: United Arab Emiratestotal: 25
+
+over 3,047 m: 12
+
+2,438 to 3,047 m: 3
+
+1,524 to 2,437 m: 5
+
+914 to 1,523 m: 3
+
+under 914 m: 2 (2021)
+
+Topic: United Kingdomtotal: 271
+
+over 3,047 m: 7
+
+2,438 to 3,047 m: 29
+
+1,524 to 2,437 m: 89
+
+914 to 1,523 m: 80
+
+under 914 m: 66 (2021)
+
+Topic: United Statestotal: 5,054
+
+over 3,047 m: 189
+
+2,438 to 3,047 m: 235
+
+1,524 to 2,437 m: 1,478
+
+914 to 1,523 m: 2,249
+
+under 914 m: 903 (2021)
+
+Topic: United States Pacific Island Wildlife Refuges2,438 to 3,047 m: 1 (2016) - Johnston Atoll;
+
+note - abandoned but usable
+
+Topic: Uruguaytotal: 11
+
+over 3,047 m: 1
+
+1,524 to 2,437 m: 4
+
+914 to 1,523 m: 4
+
+under 914 m: 2 (2021)
+
+Topic: Uzbekistantotal: 33
+
+over 3,047 m: 6
+
+2,438 to 3,047 m: 13
+
+1,524 to 2,437 m: 6
+
+914 to 1,523 m: 4
+
+under 914 m: 4 (2021)
+
+Topic: Vanuatutotal: 3
+
+2,438 to 3,047 m: 1
+
+1,524 to 2,437 m: 1
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Venezuelatotal: 127
+
+over 3,047 m: 6
+
+2,438 to 3,047 m: 9
+
+1,524 to 2,437 m: 33
+
+914 to 1,523 m: 62
+
+under 914 m: 17 (2021)
+
+Topic: Vietnamtotal: 38
+
+over 3,047 m: 10
+
+2,438 to 3,047 m: 6
+
+1,524 to 2,437 m: 13
+
+914 to 1,523 m: 9 (2021)
+
+Topic: Virgin Islandstotal: 2
+
+over 3,047 m: 1
+
+1,524 to 2,437 m: 1 (2021)
+
+Topic: Wake Islandtotal: 1
+
+2,438 to 3,047 m: 1 (2021)
+
+Topic: Wallis and Futunatotal: 2
+
+1,524 to 2,437 m: 1
+
+914 to 1,523 m: 1 (2021)
+
+Topic: West Banktotal: 2
+
+1,524 to 2,437 m: 1
+
+under 914 m: 1 (2021)
+
+Topic: Yementotal: 17
+
+over 3,047 m: 4
+
+2,438 to 3,047 m: 9
+
+1,524 to 2,437 m: 3
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Zambiatotal: 8
+
+over 3,047 m: 1
+
+2,438 to 3,047 m: 3
+
+1,524 to 2,437 m: 3
+
+914 to 1,523 m: 1 (2021)
+
+Topic: Zimbabwetotal: 17
+
+over 3,047 m: 3
+
+2,438 to 3,047 m: 2
+
+1,524 to 2,437 m: 5
+
+914 to 1,523 m: 7 (2021)

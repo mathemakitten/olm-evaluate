@@ -1,0 +1,2575 @@
+This entry shows who does the spending in an economy: consumers, businesses, government, and foreigners. The distribution gives the percentage contribution to total GDP of household consumption, government consumption, investment in fixed capital, investment in inventories, exports of goods and services, and imports of goods and services, and will total 100 percent of GDP if the data are complete.
+ 
+household consumption consists of expenditures by resident households, and by nonprofit institutions that serve households, on goods and services that are consumed by individuals. This includes consumption of both domestically produced and foreign goods and services. 
+
+government consumption consists of government expenditures on goods and services. These figures exclude government transfer payments, such as interest on debt, unemployment, and social security, since such payments are not made in exchange for goods and services supplied. 
+
+investment in fixed capital consists of total business spending on fixed assets, such as factories, machinery, equipment, dwellings, and inventories of raw materials, which provide the basis for future production. It is measured gross of the depreciation of the assets, i.e., it includes investment that merely replaces worn-out or scrapped capital. Earlier editions of The World Factbook referred to this concept as Investment (gross fixed) and that data now have been moved to this new field.
+
+investment in inventories consists of net changes to the stock of outputs that are still held by the units that produce them, awaiting further sale to an end user, such as automobiles sitting on a dealer’s lot or groceries on the store shelves. This figure may be positive or negative. If the stock of unsold output increases during the relevant time period, investment in inventories is positive, but, if the stock of unsold goods declines, it will be negative. Investment in inventories normally is an early indicator of the state of the economy. If the stock of unsold items increases unexpectedly – because people stop buying - the economy may be entering a recession; but if the stock of unsold items falls - and goods "go flying off the shelves" - businesses normally try to replace those stocks, and the economy is likely to accelerate.
+
+exports of goods and services consist of sales, barter, gifts, or grants of goods and services from residents to nonresidents.
+
+imports of goods and services consist of purchases, barter, or receipts of gifts, or grants of goods and services by residents from nonresidents. Exports are treated as a positive item, while imports are treated as a negative item. In a purely accounting sense, imports have no direct impact on GDP, which only measures output of the domestic economy. Imports are entered as a negative item to offset the fact that the expenditure figures for consumption, investment, government, and exports also include expenditures on imports. These imports contribute directly to foreign GDP but only indirectly to domestic GDP. Because of this negative offset for imports of goods and services, the sum of the other five items, excluding imports, will always total more than 100 percent of GDP. A surplus of exports of goods and services over imports indicates an economy is investing abroad, while a deficit indicates an economy is borrowing from abroad.
+
+Topic: Afghanistanhousehold consumption: 81.6% (2016 est.)
+
+government consumption: 12% (2016 est.)
+
+investment in fixed capital: 17.2% (2016 est.)
+
+investment in inventories: 30% (2016 est.)
+
+exports of goods and services: 6.7% (2016 est.)
+
+imports of goods and services: -47.6% (2016 est.)
+
+Topic: Albaniahousehold consumption: 78.1% (2017 est.)
+
+government consumption: 11.5% (2017 est.)
+
+investment in fixed capital: 25.2% (2017 est.)
+
+investment in inventories: 0.2% (2017 est.)
+
+exports of goods and services: 31.5% (2017 est.)
+
+imports of goods and services: -46.6% (2017 est.)
+
+Topic: Algeriahousehold consumption: 42.7% (2017 est.)
+
+government consumption: 20.2% (2017 est.)
+
+investment in fixed capital: 38.1% (2017 est.)
+
+investment in inventories: 11.2% (2017 est.)
+
+exports of goods and services: 23.6% (2017 est.)
+
+imports of goods and services: -35.8% (2017 est.)
+
+Topic: American Samoahousehold consumption: 66.4% (2016 est.)
+
+government consumption: 49.7% (2016 est.)
+
+investment in fixed capital: 7.3% (2016 est.)
+
+investment in inventories: 5.1% (2016 est.)
+
+exports of goods and services: 65% (2016 est.)
+
+imports of goods and services: -93.5% (2016 est.)
+
+Topic: Angolahousehold consumption: 80.6% (2017 est.)
+
+government consumption: 15.6% (2017 est.)
+
+investment in fixed capital: 10.3% (2017 est.)
+
+investment in inventories: -1.2% (2017 est.)
+
+exports of goods and services: 25.4% (2017 est.)
+
+imports of goods and services: -30.7% (2017 est.)
+
+Topic: Anguillahousehold consumption: 74.1% (2017 est.)
+
+government consumption: 18.3% (2017 est.)
+
+investment in fixed capital: 26.8% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 48.2% (2017 est.)
+
+imports of goods and services: -67.4% (2017 est.)
+
+Topic: Antigua and Barbudahousehold consumption: 53.5% (2017 est.)
+
+government consumption: 15.2% (2017 est.)
+
+investment in fixed capital: 23.9% (2017 est.)
+
+investment in inventories: 0.1% (2017 est.)
+
+exports of goods and services: 73.9% (2017 est.)
+
+imports of goods and services: -66.5% (2017 est.)
+
+Topic: Argentinahousehold consumption: 65.9% (2017 est.)
+
+government consumption: 18.2% (2017 est.)
+
+investment in fixed capital: 14.8% (2017 est.)
+
+investment in inventories: 3.7% (2017 est.)
+
+exports of goods and services: 11.2% (2017 est.)
+
+imports of goods and services: -13.8% (2017 est.)
+
+Topic: Armeniahousehold consumption: 76.7% (2017 est.)
+
+government consumption: 14.2% (2017 est.)
+
+investment in fixed capital: 17.3% (2017 est.)
+
+investment in inventories: 4.1% (2017 est.)
+
+exports of goods and services: 38.1% (2017 est.)
+
+imports of goods and services: -50.4% (2017 est.)
+
+Topic: Arubahousehold consumption: 60.3% (2014 est.)
+
+government consumption: 25.3% (2015 est.)
+
+investment in fixed capital: 22.3% (2014 est.)
+
+investment in inventories: 0% (2015 est.)
+
+exports of goods and services: 70.5% (2015 est.)
+
+imports of goods and services: -76.6% (2015 est.)
+
+Topic: Australiahousehold consumption: 56.9% (2017 est.)
+
+government consumption: 18.4% (2017 est.)
+
+investment in fixed capital: 24.1% (2017 est.)
+
+investment in inventories: 0.1% (2017 est.)
+
+exports of goods and services: 21.5% (2017 est.)
+
+imports of goods and services: -21% (2017 est.)
+
+Topic: Austriahousehold consumption: 52.1% (2017 est.)
+
+government consumption: 19.5% (2017 est.)
+
+investment in fixed capital: 23.5% (2017 est.)
+
+investment in inventories: 1.6% (2017 est.)
+
+exports of goods and services: 54.2% (2017 est.)
+
+imports of goods and services: -50.7% (2017 est.)
+
+Topic: Azerbaijanhousehold consumption: 57.6% (2017 est.)
+
+government consumption: 11.5% (2017 est.)
+
+investment in fixed capital: 23.6% (2017 est.)
+
+investment in inventories: 0.5% (2017 est.)
+
+exports of goods and services: 48.7% (2017 est.)
+
+imports of goods and services: -42% (2017 est.)
+
+Topic: Bahamas, Thehousehold consumption: 68% (2017 est.)
+
+government consumption: 13% (2017 est.)
+
+investment in fixed capital: 26.3% (2017 est.)
+
+investment in inventories: 0.7% (2017 est.)
+
+exports of goods and services: 33.7% (2017 est.)
+
+imports of goods and services: -41.8% (2017 est.)
+
+Topic: Bahrainhousehold consumption: 45.8% (2017 est.)
+
+government consumption: 15.5% (2017 est.)
+
+investment in fixed capital: 26.1% (2017 est.)
+
+investment in inventories: 0.4% (2017 est.)
+
+exports of goods and services: 80.2% (2017 est.)
+
+imports of goods and services: -67.9% (2017 est.)
+
+Topic: Bangladeshhousehold consumption: 68.7% (2017 est.)
+
+government consumption: 6% (2017 est.)
+
+investment in fixed capital: 30.5% (2017 est.)
+
+investment in inventories: 1% (2017 est.)
+
+exports of goods and services: 15% (2017 est.)
+
+imports of goods and services: -20.3% (2017 est.)
+
+Topic: Barbadoshousehold consumption: 84.2% (2017 est.)
+
+government consumption: 13.4% (2017 est.)
+
+investment in fixed capital: 17.6% (2017 est.)
+
+investment in inventories: 0.2% (2017 est.)
+
+exports of goods and services: 31.6% (2017 est.)
+
+imports of goods and services: -47% (2017 est.)
+
+Topic: Belarushousehold consumption: 54.8% (2017 est.)
+
+government consumption: 14.6% (2017 est.)
+
+investment in fixed capital: 24.9% (2017 est.)
+
+investment in inventories: 5.7% (2017 est.)
+
+exports of goods and services: 67% (2017 est.)
+
+imports of goods and services: -67% (2017 est.)
+
+Topic: Belgiumhousehold consumption: 51.2% (2017 est.)
+
+government consumption: 23.4% (2017 est.)
+
+investment in fixed capital: 23.3% (2017 est.)
+
+investment in inventories: 1.3% (2017 est.)
+
+exports of goods and services: 85.1% (2017 est.)
+
+imports of goods and services: -84.4% (2017 est.)
+
+Topic: Belizehousehold consumption: 75.1% (2017 est.)
+
+government consumption: 15.2% (2017 est.)
+
+investment in fixed capital: 22.5% (2017 est.)
+
+investment in inventories: 1.2% (2017 est.)
+
+exports of goods and services: 49.1% (2017 est.)
+
+imports of goods and services: -63.2% (2017 est.)
+
+Topic: Beninhousehold consumption: 70.5% (2017 est.)
+
+government consumption: 13.1% (2017 est.)
+
+investment in fixed capital: 27.6% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 31.6% (2017 est.)
+
+imports of goods and services: -43% (2017 est.)
+
+Topic: Bermudahousehold consumption: 51.3% (2017 est.)
+
+government consumption: 15.7% (2017 est.)
+
+investment in fixed capital: 13.7% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 49.8% (2017 est.)
+
+imports of goods and services: -30.4% (2017 est.)
+
+Topic: Bhutanhousehold consumption: 58% (2017 est.)
+
+government consumption: 16.8% (2017 est.)
+
+investment in fixed capital: 47.2% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 26% (2017 est.)
+
+imports of goods and services: -48% (2017 est.)
+
+Topic: Boliviahousehold consumption: 67.7% (2017 est.)
+
+government consumption: 17% (2017 est.)
+
+investment in fixed capital: 21.3% (2017 est.)
+
+investment in inventories: 3.8% (2017 est.)
+
+exports of goods and services: 21.7% (2017 est.)
+
+imports of goods and services: -31.3% (2017 est.)
+
+Topic: Bosnia and Herzegovinahousehold consumption: 77.4% (2017 est.)
+
+government consumption: 20% (2017 est.)
+
+investment in fixed capital: 16.6% (2017 est.)
+
+investment in inventories: 2.3% (2017 est.)
+
+exports of goods and services: 38.7% (2017 est.)
+
+imports of goods and services: -55.1% (2017 est.)
+
+Topic: Botswanahousehold consumption: 48.5% (2017 est.)
+
+government consumption: 18.4% (2017 est.)
+
+investment in fixed capital: 29% (2017 est.)
+
+investment in inventories: -1.8% (2017 est.)
+
+exports of goods and services: 39.8% (2017 est.)
+
+imports of goods and services: -33.9% (2017 est.)
+
+Topic: Brazilhousehold consumption: 63.4% (2017 est.)
+
+government consumption: 20% (2017 est.)
+
+investment in fixed capital: 15.6% (2017 est.)
+
+investment in inventories: -0.1% (2017 est.)
+
+exports of goods and services: 12.6% (2017 est.)
+
+imports of goods and services: -11.6% (2017 est.)
+
+Topic: British Virgin Islandshousehold consumption: 25.1% (2017 est.)
+
+government consumption: 7.5% (2017 est.)
+
+investment in fixed capital: 21.7% (2017 est.)
+
+investment in inventories: 20.4% (2017 est.)
+
+exports of goods and services: 94.7% (2017 est.)
+
+imports of goods and services: -69.4% (2017 est.)
+
+Topic: Bruneihousehold consumption: 25% (2017 est.)
+
+government consumption: 24.8% (2017 est.)
+
+investment in fixed capital: 32.6% (2017 est.)
+
+investment in inventories: 8.5% (2017 est.)
+
+exports of goods and services: 45.9% (2017 est.)
+
+imports of goods and services: -36.8% (2017 est.)
+
+Topic: Bulgariahousehold consumption: 61.6% (2017 est.)
+
+government consumption: 16% (2017 est.)
+
+investment in fixed capital: 19.2% (2017 est.)
+
+investment in inventories: 1.7% (2017 est.)
+
+exports of goods and services: 66.3% (2017 est.)
+
+imports of goods and services: -64.8% (2017 est.)
+
+Topic: Burkina Fasohousehold consumption: 56.5% (2017 est.)
+
+government consumption: 23.9% (2017 est.)
+
+investment in fixed capital: 24.6% (2017 est.)
+
+investment in inventories: 1% (2017 est.)
+
+exports of goods and services: 28.4% (2017 est.)
+
+imports of goods and services: -34.4% (2017 est.)
+
+Topic: Burmahousehold consumption: 59.2% (2017 est.)
+
+government consumption: 13.8% (2017 est.)
+
+investment in fixed capital: 33.5% (2017 est.)
+
+investment in inventories: 1.5% (2017 est.)
+
+exports of goods and services: 21.4% (2017 est.)
+
+imports of goods and services: -28.6% (2017 est.)
+
+Topic: Burundihousehold consumption: 83% (2017 est.)
+
+government consumption: 20.8% (2017 est.)
+
+investment in fixed capital: 16% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 5.5% (2017 est.)
+
+imports of goods and services: -25.3% (2017 est.)
+
+Topic: Cabo Verdehousehold consumption: 50.1% (2017 est.)
+
+government consumption: 18.3% (2017 est.)
+
+investment in fixed capital: 32.2% (2017 est.)
+
+investment in inventories: 1.9% (2017 est.)
+
+exports of goods and services: 48.6% (2017 est.)
+
+imports of goods and services: -51.1% (2017 est.)
+
+Topic: Cambodiahousehold consumption: 76% (2017 est.)
+
+government consumption: 5.4% (2017 est.)
+
+investment in fixed capital: 21.8% (2017 est.)
+
+investment in inventories: 1.2% (2017 est.)
+
+exports of goods and services: 68.6% (2017 est.)
+
+imports of goods and services: -73% (2017 est.)
+
+Topic: Cameroonhousehold consumption: 66.3% (2017 est.)
+
+government consumption: 11.8% (2017 est.)
+
+investment in fixed capital: 21.6% (2017 est.)
+
+investment in inventories: -0.3% (2017 est.)
+
+exports of goods and services: 21.6% (2017 est.)
+
+imports of goods and services: -20.9% (2017 est.)
+
+Topic: Canadahousehold consumption: 57.8% (2017 est.)
+
+government consumption: 20.8% (2017 est.)
+
+investment in fixed capital: 23% (2017 est.)
+
+investment in inventories: 0.7% (2017 est.)
+
+exports of goods and services: 30.9% (2017 est.)
+
+imports of goods and services: -33.2% (2017 est.)
+
+Topic: Cayman Islandshousehold consumption: 62.3% (2017 est.)
+
+government consumption: 14.5% (2017 est.)
+
+investment in fixed capital: 22.1% (2017 est.)
+
+investment in inventories: 0.1% (2017 est.)
+
+exports of goods and services: 65.4% (2017 est.)
+
+imports of goods and services: -64.2% (2017 est.)
+
+Topic: Central African Republichousehold consumption: 95.3% (2017 est.)
+
+government consumption: 8.5% (2017 est.)
+
+investment in fixed capital: 13.7% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 12% (2017 est.)
+
+imports of goods and services: -29.5% (2017 est.)
+
+Topic: Chadhousehold consumption: 75.1% (2017 est.)
+
+government consumption: 4.4% (2017 est.)
+
+investment in fixed capital: 24.1% (2017 est.)
+
+investment in inventories: 0.7% (2017 est.)
+
+exports of goods and services: 35.1% (2017 est.)
+
+imports of goods and services: -39.4% (2017 est.)
+
+Topic: Chilehousehold consumption: 62.3% (2017 est.)
+
+government consumption: 14% (2017 est.)
+
+investment in fixed capital: 21.5% (2017 est.)
+
+investment in inventories: 0.5% (2017 est.)
+
+exports of goods and services: 28.7% (2017 est.)
+
+imports of goods and services: -27% (2017 est.)
+
+Topic: Chinahousehold consumption: 39.1% (2017 est.)
+
+government consumption: 14.5% (2017 est.)
+
+investment in fixed capital: 42.7% (2017 est.)
+
+investment in inventories: 1.7% (2017 est.)
+
+exports of goods and services: 20.4% (2017 est.)
+
+imports of goods and services: -18.4% (2017 est.)
+
+Topic: Colombiahousehold consumption: 68.2% (2017 est.)
+
+government consumption: 14.8% (2017 est.)
+
+investment in fixed capital: 22.2% (2017 est.)
+
+investment in inventories: 0.2% (2017 est.)
+
+exports of goods and services: 14.6% (2017 est.)
+
+imports of goods and services: -19.7% (2017 est.)
+
+Topic: Comoroshousehold consumption: 92.6% (2017 est.)
+
+government consumption: 20.4% (2017 est.)
+
+investment in fixed capital: 20% (2017 est.)
+
+investment in inventories: -3.1% (2017 est.)
+
+exports of goods and services: 17.2% (2017 est.)
+
+imports of goods and services: -47.1% (2017 est.)
+
+Topic: Congo, Democratic Republic of thehousehold consumption: 78.5% (2017 est.)
+
+government consumption: 12.7% (2017 est.)
+
+investment in fixed capital: 15.9% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 25.7% (2017 est.)
+
+imports of goods and services: -32.8% (2017 est.)
+
+Topic: Congo, Republic of thehousehold consumption: 47.6% (2017 est.)
+
+government consumption: 9.6% (2017 est.)
+
+investment in fixed capital: 42.5% (2017 est.)
+
+investment in inventories: 0.1% (2017 est.)
+
+exports of goods and services: 62.9% (2017 est.)
+
+imports of goods and services: -62.7% (2017 est.)
+
+Topic: Costa Ricahousehold consumption: 64.2% (2017 est.)
+
+government consumption: 17.3% (2017 est.)
+
+investment in fixed capital: 17.1% (2017 est.)
+
+investment in inventories: 1% (2017 est.)
+
+exports of goods and services: 33.3% (2017 est.)
+
+imports of goods and services: -32.9% (2017 est.)
+
+Topic: Cote d'Ivoirehousehold consumption: 61.7% (2017 est.)
+
+government consumption: 14.9% (2017 est.)
+
+investment in fixed capital: 22.4% (2017 est.)
+
+investment in inventories: 0.3% (2017 est.)
+
+exports of goods and services: 30.8% (2017 est.)
+
+imports of goods and services: -30.1% (2017 est.)
+
+Topic: Croatiahousehold consumption: 57.3% (2017 est.)
+
+government consumption: 19.5% (2017 est.)
+
+investment in fixed capital: 20% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 51.1% (2017 est.)
+
+imports of goods and services: -48.8% (2017 est.)
+
+Topic: Cubahousehold consumption: 57% (2017 est.)
+
+government consumption: 31.6% (2017 est.)
+
+investment in fixed capital: 9.6% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 14.6% (2017 est.)
+
+imports of goods and services: -12.7% (2017 est.)
+
+Topic: Curacaohousehold consumption: 66.9% (2016 est.)
+
+government consumption: 33.6% (2016 est.)
+
+investment in fixed capital: 19.4% (2016 est.)
+
+investment in inventories: 0% (2016 est.)
+
+exports of goods and services: 17.5% (2016 est.)
+
+imports of goods and services: -37.5% (2016 est.)
+
+Topic: Cyprushousehold consumption: 68.7% (2017 est.)
+
+government consumption: 14.9% (2017 est.)
+
+investment in fixed capital: 21.1% (2017 est.)
+
+investment in inventories: -0.7% (2017 est.)
+
+exports of goods and services: 63.8% (2017 est.)
+
+imports of goods and services: -67.8% (2017 est.)
+
+Topic: Czechiahousehold consumption: 47.4% (2017 est.)
+
+government consumption: 19.2% (2017 est.)
+
+investment in fixed capital: 24.7% (2017 est.)
+
+investment in inventories: 1.1% (2017 est.)
+
+exports of goods and services: 79.9% (2017 est.)
+
+imports of goods and services: -72.3% (2017 est.)
+
+Topic: Denmarkhousehold consumption: 48% (2017 est.)
+
+government consumption: 25.2% (2017 est.)
+
+investment in fixed capital: 20% (2017 est.)
+
+investment in inventories: -0.2% (2017 est.)
+
+exports of goods and services: 54.5% (2017 est.)
+
+imports of goods and services: -47.5% (2017 est.)
+
+Topic: Djiboutihousehold consumption: 56.5% (2017 est.)
+
+government consumption: 29.2% (2017 est.)
+
+investment in fixed capital: 41.8% (2017 est.)
+
+investment in inventories: 0.3% (2017 est.)
+
+exports of goods and services: 38.6% (2017 est.)
+
+imports of goods and services: -66.4% (2017 est.)
+
+Topic: Dominicahousehold consumption: 60.6% (2017 est.)
+
+government consumption: 26.2% (2017 est.)
+
+investment in fixed capital: 21.5% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 54.4% (2017 est.)
+
+imports of goods and services: -62.7% (2017 est.)
+
+Topic: Dominican Republichousehold consumption: 69.3% (2017 est.)
+
+government consumption: 12.2% (2017 est.)
+
+investment in fixed capital: 21.9% (2017 est.)
+
+investment in inventories: -0.1% (2017 est.)
+
+exports of goods and services: 24.8% (2017 est.)
+
+imports of goods and services: -28.1% (2017 est.)
+
+Topic: Ecuadorhousehold consumption: 60.7% (2017 est.)
+
+government consumption: 14.4% (2017 est.)
+
+investment in fixed capital: 24.3% (2017 est.)
+
+investment in inventories: 1% (2017 est.)
+
+exports of goods and services: 20.8% (2017 est.)
+
+imports of goods and services: -21.3% (2017 est.)
+
+Topic: Egypthousehold consumption: 86.8% (2017 est.)
+
+government consumption: 10.1% (2017 est.)
+
+investment in fixed capital: 14.8% (2017 est.)
+
+investment in inventories: 0.5% (2017 est.)
+
+exports of goods and services: 16.3% (2017 est.)
+
+imports of goods and services: -28.5% (2017 est.)
+
+Topic: El Salvadorhousehold consumption: 84.5% (2017 est.)
+
+government consumption: 15.8% (2017 est.)
+
+investment in fixed capital: 16.9% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 27.6% (2017 est.)
+
+imports of goods and services: -44.9% (2017 est.)
+
+Topic: Equatorial Guineahousehold consumption: 50% (2017 est.)
+
+government consumption: 21.8% (2017 est.)
+
+investment in fixed capital: 10.2% (2017 est.)
+
+investment in inventories: 0.1% (2017 est.)
+
+exports of goods and services: 56.9% (2017 est.)
+
+imports of goods and services: -39% (2017 est.)
+
+Topic: Eritreahousehold consumption: 80.9% (2017 est.)
+
+government consumption: 24.3% (2017 est.)
+
+investment in fixed capital: 6.4% (2017 est.)
+
+investment in inventories: 0.1% (2017 est.)
+
+exports of goods and services: 10.9% (2017 est.)
+
+imports of goods and services: -22.5% (2017 est.)
+
+Topic: Estoniahousehold consumption: 50.3% (2017 est.)
+
+government consumption: 20.4% (2017 est.)
+
+investment in fixed capital: 24% (2017 est.)
+
+investment in inventories: 2.2% (2017 est.)
+
+exports of goods and services: 77.2% (2017 est.)
+
+imports of goods and services: -74% (2017 est.)
+
+Topic: Eswatinihousehold consumption: 64% (2017 est.)
+
+government consumption: 21.3% (2017 est.)
+
+investment in fixed capital: 13.4% (2017 est.)
+
+investment in inventories: -0.1% (2017 est.)
+
+exports of goods and services: 47.9% (2017 est.)
+
+imports of goods and services: -46.3% (2017 est.)
+
+Topic: Ethiopiahousehold consumption: 69.6% (2017 est.)
+
+government consumption: 10% (2017 est.)
+
+investment in fixed capital: 43.5% (2017 est.)
+
+investment in inventories: -0.1% (2017 est.)
+
+exports of goods and services: 8.1% (2017 est.)
+
+imports of goods and services: -31.2% (2017 est.)
+
+Topic: European Unionhousehold consumption: 54.4% (2016 est.)
+
+government consumption: 20.4% (2016 est.)
+
+investment in fixed capital: 19.8% (2016 est.)
+
+investment in inventories: 0.4% (2016 est.)
+
+exports of goods and services: 43.9% (2016 est.)
+
+imports of goods and services: -40.5% (2016 est.)
+
+Topic: Faroe Islandshousehold consumption: 52% (2013)
+
+government consumption: 29.6% (2013)
+
+investment in fixed capital: 18.4% (2013)
+
+Topic: Fijihousehold consumption: 81.3% (2017 est.)
+
+government consumption: 24.4% (2017 est.)
+
+investment in fixed capital: 16.9% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 29% (2017 est.)
+
+imports of goods and services: -51.6% (2017 est.)
+
+Topic: Finlandhousehold consumption: 54.4% (2017 est.)
+
+government consumption: 22.9% (2017 est.)
+
+investment in fixed capital: 22.1% (2017 est.)
+
+investment in inventories: 0.4% (2017 est.)
+
+exports of goods and services: 38.5% (2017 est.)
+
+imports of goods and services: -38.2% (2017 est.)
+
+Topic: Francehousehold consumption: 54.1% (2017 est.)
+
+government consumption: 23.6% (2017 est.)
+
+investment in fixed capital: 22.5% (2017 est.)
+
+investment in inventories: 0.9% (2017 est.)
+
+exports of goods and services: 30.9% (2017 est.)
+
+imports of goods and services: -32% (2017 est.)
+
+Topic: French Polynesiahousehold consumption: 66.9% (2014 est.)
+
+government consumption: 33.6% (2014 est.)
+
+investment in fixed capital: 19.4% (2014 est.)
+
+investment in inventories: 0.1% (2014 est.)
+
+exports of goods and services: 17.5% (2014 est.)
+
+imports of goods and services: -37.5% (2014 est.)
+
+Topic: Gabonhousehold consumption: 37.6% (2017 est.)
+
+government consumption: 14.1% (2017 est.)
+
+investment in fixed capital: 29% (2017 est.)
+
+investment in inventories: -0.6% (2016 est.)
+
+exports of goods and services: 46.7% (2017 est.)
+
+imports of goods and services: -26.8% (2017 est.)
+
+Topic: Gambia, Thehousehold consumption: 90.7% (2017 est.)
+
+government consumption: 12% (2017 est.)
+
+investment in fixed capital: 19.2% (2017 est.)
+
+investment in inventories: -2.7% (2017 est.)
+
+exports of goods and services: 20.8% (2017 est.)
+
+imports of goods and services: -40% (2017 est.)
+
+Topic: Gaza Striphousehold consumption: 88.6% (2017 est.)
+
+government consumption: 26.3% (2017 est.)
+
+investment in fixed capital: 22.4% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 18.6% (2017 est.)
+
+imports of goods and services: -55.6% (2017 est.)
+
+note: data exclude the West Bank
+
+Topic: Georgiahousehold consumption: 62.8% (2017 est.)
+
+government consumption: 17.1% (2017 est.)
+
+investment in fixed capital: 29.5% (2017 est.)
+
+investment in inventories: 2.4% (2017 est.)
+
+exports of goods and services: 50.4% (2017 est.)
+
+imports of goods and services: -62.2% (2017 est.)
+
+Topic: Germanyhousehold consumption: 53.1% (2017 est.)
+
+government consumption: 19.5% (2017 est.)
+
+investment in fixed capital: 20.4% (2017 est.)
+
+investment in inventories: -0.5% (2017 est.)
+
+exports of goods and services: 47.3% (2017 est.)
+
+imports of goods and services: -39.7% (2017 est.)
+
+Topic: Ghanahousehold consumption: 80.1% (2017 est.)
+
+government consumption: 8.6% (2017 est.)
+
+investment in fixed capital: 13.7% (2017 est.)
+
+investment in inventories: 1.1% (2017 est.)
+
+exports of goods and services: 43% (2017 est.)
+
+imports of goods and services: -46.5% (2017 est.)
+
+Topic: Greecehousehold consumption: 69.6% (2017 est.)
+
+government consumption: 20.1% (2017 est.)
+
+investment in fixed capital: 12.5% (2017 est.)
+
+investment in inventories: -1% (2017 est.)
+
+exports of goods and services: 33.4% (2017 est.)
+
+imports of goods and services: -34.7% (2017 est.)
+
+Topic: Greenlandhousehold consumption: 68.1% (2015 est.)
+
+government consumption: 28% (2015 est.)
+
+investment in fixed capital: 14.3% (2015 est.)
+
+investment in inventories: -13.9% (2015 est.)
+
+exports of goods and services: 18.2% (2015 est.)
+
+imports of goods and services: -28.6% (2015 est.)
+
+Topic: Grenadahousehold consumption: 63% (2017 est.)
+
+government consumption: 12% (2017 est.)
+
+investment in fixed capital: 20% (2017 est.)
+
+investment in inventories: -0.1% (2017 est.)
+
+exports of goods and services: 60% (2017 est.)
+
+imports of goods and services: -55% (2017 est.)
+
+Topic: Guamhousehold consumption: 56.2% (2016 est.)
+
+government consumption: 55% (2016 est.)
+
+investment in fixed capital: 20.6% (2016 est.)
+
+investment in inventories: NA (2016 est.)
+
+exports of goods and services: 19.4% (2016 est.)
+
+imports of goods and services: -51.2% (2016 est.)
+
+Topic: Guatemalahousehold consumption: 86.3% (2017 est.)
+
+government consumption: 9.7% (2017 est.)
+
+investment in fixed capital: 12.3% (2017 est.)
+
+investment in inventories: -0.2% (2017 est.)
+
+exports of goods and services: 18.8% (2017 est.)
+
+imports of goods and services: -26.9% (2017 est.)
+
+Topic: Guineahousehold consumption: 80.8% (2017 est.)
+
+government consumption: 6.6% (2017 est.)
+
+investment in fixed capital: 9.1% (2017 est.)
+
+investment in inventories: 18.5% (2017 est.)
+
+exports of goods and services: 21.9% (2017 est.)
+
+imports of goods and services: -36.9% (2017 est.)
+
+Topic: Guinea-Bissauhousehold consumption: 83.9% (2017 est.)
+
+government consumption: 12% (2017 est.)
+
+investment in fixed capital: 4.1% (2017 est.)
+
+investment in inventories: 0.2% (2017 est.)
+
+exports of goods and services: 26.4% (2017 est.)
+
+imports of goods and services: -26.5% (2017 est.)
+
+Topic: Guyanahousehold consumption: 71.1% (2017 est.)
+
+government consumption: 18.2% (2017 est.)
+
+investment in fixed capital: 25.4% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 47.8% (2017 est.)
+
+imports of goods and services: -63% (2017 est.)
+
+Topic: Haitihousehold consumption: 99.1% (2017 est.)
+
+government consumption: 10% (2016 est.)
+
+investment in fixed capital: 32.6% (2016 est.)
+
+investment in inventories: -1.4% (2017 est.)
+
+exports of goods and services: 20% (2017 est.)
+
+imports of goods and services: -60.3% (2017 est.)
+
+note: figure for household consumption also includes government consumption
+
+Topic: Hondurashousehold consumption: 77.7% (2017 est.)
+
+government consumption: 13.8% (2017 est.)
+
+investment in fixed capital: 23.1% (2017 est.)
+
+investment in inventories: 0.7% (2017 est.)
+
+exports of goods and services: 43.6% (2017 est.)
+
+imports of goods and services: -58.9% (2017 est.)
+
+Topic: Hong Konghousehold consumption: 67% (2017 est.)
+
+government consumption: 9.9% (2017 est.)
+
+investment in fixed capital: 21.8% (2017 est.)
+
+investment in inventories: 0.4% (2017 est.)
+
+exports of goods and services: 188% (2017 est.)
+
+imports of goods and services: -187.1% (2017 est.)
+
+Topic: Hungaryhousehold consumption: 49.6% (2017 est.)
+
+government consumption: 20% (2017 est.)
+
+investment in fixed capital: 21.6% (2017 est.)
+
+investment in inventories: 1% (2017 est.)
+
+exports of goods and services: 90.2% (2017 est.)
+
+imports of goods and services: -82.4% (2017 est.)
+
+Topic: Icelandhousehold consumption: 50.4% (2017 est.)
+
+government consumption: 23.3% (2017 est.)
+
+investment in fixed capital: 22.1% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 47% (2017 est.)
+
+imports of goods and services: -42.8% (2017 est.)
+
+Topic: Indiahousehold consumption: 59.1% (2017 est.)
+
+government consumption: 11.5% (2017 est.)
+
+investment in fixed capital: 28.5% (2017 est.)
+
+investment in inventories: 3.9% (2017 est.)
+
+exports of goods and services: 19.1% (2017 est.)
+
+imports of goods and services: -22% (2017 est.)
+
+Topic: Indonesiahousehold consumption: 57.3% (2017 est.)
+
+government consumption: 9.1% (2017 est.)
+
+investment in fixed capital: 32.1% (2017 est.)
+
+investment in inventories: 0.3% (2017 est.)
+
+exports of goods and services: 20.4% (2017 est.)
+
+imports of goods and services: -19.2% (2017 est.)
+
+Topic: Iranhousehold consumption: 49.7% (2017 est.)
+
+government consumption: 14% (2017 est.)
+
+investment in fixed capital: 20.6% (2017 est.)
+
+investment in inventories: 14.5% (2017 est.)
+
+exports of goods and services: 26% (2017 est.)
+
+imports of goods and services: -24.9% (2017 est.)
+
+Topic: Iraqhousehold consumption: 50.4% (2013 est.)
+
+government consumption: 22.9% (2016 est.)
+
+investment in fixed capital: 20.6% (2016 est.)
+
+investment in inventories: 0% (2016 est.)
+
+exports of goods and services: 32.5% (2016 est.)
+
+imports of goods and services: -40.9% (2016 est.)
+
+Topic: Irelandhousehold consumption: 34% (2017 est.)
+
+government consumption: 10.1% (2017 est.)
+
+investment in fixed capital: 23.4% (2017 est.)
+
+investment in inventories: 1.2% (2017 est.)
+
+exports of goods and services: 119.9% (2017 est.)
+
+imports of goods and services: -89.7% (2017 est.)
+
+Topic: Israelhousehold consumption: 55.1% (2017 est.)
+
+government consumption: 22.8% (2017 est.)
+
+investment in fixed capital: 20.1% (2017 est.)
+
+investment in inventories: 0.7% (2017 est.)
+
+exports of goods and services: 28.9% (2017 est.)
+
+imports of goods and services: -27.5% (2017 est.)
+
+Topic: Italyhousehold consumption: 61% (2017 est.)
+
+government consumption: 18.6% (2017 est.)
+
+investment in fixed capital: 17.5% (2017 est.)
+
+investment in inventories: -0.2% (2017 est.)
+
+exports of goods and services: 31.4% (2017 est.)
+
+imports of goods and services: -28.3% (2017 est.)
+
+Topic: Jamaicahousehold consumption: 81.9% (2017 est.)
+
+government consumption: 13.7% (2017 est.)
+
+investment in fixed capital: 21.3% (2017 est.)
+
+investment in inventories: 0.1% (2017 est.)
+
+exports of goods and services: 30.1% (2017 est.)
+
+imports of goods and services: -47.1% (2017 est.)
+
+Topic: Japanhousehold consumption: 55.5% (2017 est.)
+
+government consumption: 19.6% (2017 est.)
+
+investment in fixed capital: 24% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 17.7% (2017 est.)
+
+imports of goods and services: -16.8% (2017 est.)
+
+Topic: Jordanhousehold consumption: 80.5% (2017 est.)
+
+government consumption: 19.8% (2017 est.)
+
+investment in fixed capital: 22.8% (2017 est.)
+
+investment in inventories: 0.7% (2017 est.)
+
+exports of goods and services: 34.2% (2017 est.)
+
+imports of goods and services: -58% (2017 est.)
+
+Topic: Kazakhstanhousehold consumption: 53.2% (2017 est.)
+
+government consumption: 11.1% (2017 est.)
+
+investment in fixed capital: 22.5% (2017 est.)
+
+investment in inventories: 4.8% (2017 est.)
+
+exports of goods and services: 35.4% (2017 est.)
+
+imports of goods and services: -27.1% (2017 est.)
+
+Topic: Kenyahousehold consumption: 79.5% (2017 est.)
+
+government consumption: 14.3% (2017 est.)
+
+investment in fixed capital: 18.9% (2017 est.)
+
+investment in inventories: -1% (2017 est.)
+
+exports of goods and services: 13.9% (2017 est.)
+
+imports of goods and services: -25.5% (2017 est.)
+
+Topic: Korea, Northhousehold consumption: NA (2014 est.)
+
+government consumption: NA (2014 est.)
+
+investment in fixed capital: NA (2014 est.)
+
+investment in inventories: NA (2014 est.)
+
+exports of goods and services: 5.9% (2016 est.)
+
+imports of goods and services: -11.1% (2016 est.)
+
+Topic: Korea, Southhousehold consumption: 48.1% (2017 est.)
+
+government consumption: 15.3% (2017 est.)
+
+investment in fixed capital: 31.1% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 43.1% (2017 est.)
+
+imports of goods and services: -37.7% (2017 est.)
+
+Topic: Kosovohousehold consumption: 84.3% (2017 est.)
+
+government consumption: 13.6% (2017 est.)
+
+investment in fixed capital: 29% (2017 est.)
+
+investment in inventories: 0% (2016 est.)
+
+exports of goods and services: 27% (2017 est.)
+
+imports of goods and services: -53.8% (2017 est.)
+
+Topic: Kuwaithousehold consumption: 43.1% (2017 est.)
+
+government consumption: 24.5% (2017 est.)
+
+investment in fixed capital: 26.5% (2017 est.)
+
+investment in inventories: 3.5% (2017 est.)
+
+exports of goods and services: 49.4% (2017 est.)
+
+imports of goods and services: -47% (2017 est.)
+
+Topic: Kyrgyzstanhousehold consumption: 85.4% (2017 est.)
+
+government consumption: 18.9% (2017 est.)
+
+investment in fixed capital: 33.2% (2017 est.)
+
+investment in inventories: 1.8% (2017 est.)
+
+exports of goods and services: 39.7% (2017 est.)
+
+imports of goods and services: -79% (2017 est.)
+
+Topic: Laoshousehold consumption: 63.7% (2017 est.)
+
+government consumption: 14.1% (2017 est.)
+
+investment in fixed capital: 30.9% (2017 est.)
+
+investment in inventories: 3.1% (2017 est.)
+
+exports of goods and services: 34.6% (2017 est.)
+
+imports of goods and services: -43.2% (2017 est.)
+
+Topic: Latviahousehold consumption: 61.8% (2017 est.)
+
+government consumption: 18.2% (2017 est.)
+
+investment in fixed capital: 19.9% (2017 est.)
+
+investment in inventories: 1.5% (2017 est.)
+
+exports of goods and services: 60.6% (2017 est.)
+
+imports of goods and services: -61.9% (2017 est.)
+
+Topic: Lebanonhousehold consumption: 87.6% (2017 est.)
+
+government consumption: 13.3% (2017 est.)
+
+investment in fixed capital: 21.8% (2017 est.)
+
+investment in inventories: 0.5% (2017 est.)
+
+exports of goods and services: 23.6% (2017 est.)
+
+imports of goods and services: -46.4% (2017 est.)
+
+Topic: Lesothohousehold consumption: 69.2% (2017 est.)
+
+government consumption: 26.4% (2017 est.)
+
+investment in fixed capital: 31.4% (2017 est.)
+
+investment in inventories: -13.4% (2017 est.)
+
+exports of goods and services: 40.8% (2017 est.)
+
+imports of goods and services: -54.4% (2017 est.)
+
+Topic: Liberiahousehold consumption: 128.8% (2016 est.)
+
+government consumption: 16.7% (2016 est.)
+
+investment in fixed capital: 19.5% (2016 est.)
+
+investment in inventories: 6.7% (2016 est.)
+
+exports of goods and services: 17.5% (2016 est.)
+
+imports of goods and services: -89.2% (2016 est.)
+
+Topic: Libyahousehold consumption: 71.6% (2017 est.)
+
+government consumption: 19.4% (2017 est.)
+
+investment in fixed capital: 2.7% (2017 est.)
+
+investment in inventories: 1.3% (2016 est.)
+
+exports of goods and services: 38.8% (2017 est.)
+
+imports of goods and services: -33.8% (2017 est.)
+
+Topic: Lithuaniahousehold consumption: 63.9% (2017 est.)
+
+government consumption: 16.6% (2017 est.)
+
+investment in fixed capital: 18.8% (2017 est.)
+
+investment in inventories: -1.3% (2017 est.)
+
+exports of goods and services: 81.6% (2017 est.)
+
+imports of goods and services: -79.3% (2017 est.)
+
+Topic: Luxembourghousehold consumption: 30.2% (2017 est.)
+
+government consumption: 16.5% (2017 est.)
+
+investment in fixed capital: 16.2% (2017 est.)
+
+investment in inventories: 1.1% (2017 est.)
+
+exports of goods and services: 230% (2017 est.)
+
+imports of goods and services: -194% (2017 est.)
+
+Topic: Macauhousehold consumption: 24.2% (2017 est.)
+
+government consumption: 9.9% (2017 est.)
+
+investment in fixed capital: 18.5% (2017 est.)
+
+investment in inventories: 0.8% (2017 est.)
+
+exports of goods and services: 79.4% (2017 est.)
+
+imports of goods and services: -32% (2017 est.)
+
+Topic: Madagascarhousehold consumption: 67.1% (2017 est.)
+
+government consumption: 11.2% (2017 est.)
+
+investment in fixed capital: 15.1% (2017 est.)
+
+investment in inventories: 8.8% (2017 est.)
+
+exports of goods and services: 31.5% (2017 est.)
+
+imports of goods and services: -33.7% (2017 est.)
+
+Topic: Malawihousehold consumption: 84.3% (2017 est.)
+
+government consumption: 16.3% (2017 est.)
+
+investment in fixed capital: 15.3% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 27.9% (2017 est.)
+
+imports of goods and services: -43.8% (2017 est.)
+
+Topic: Malaysiahousehold consumption: 55.3% (2017 est.)
+
+government consumption: 12.2% (2017 est.)
+
+investment in fixed capital: 25.3% (2017 est.)
+
+investment in inventories: 0.3% (2017 est.)
+
+exports of goods and services: 71.4% (2017 est.)
+
+imports of goods and services: -64.4% (2017 est.)
+
+Topic: Maldiveshousehold consumption: NA (2016 est.)
+
+government consumption: NA (2016 est.)
+
+investment in fixed capital: NA (2016 est.)
+
+investment in inventories: NA (2016 est.)
+
+exports of goods and services: 93.6% (2016 est.)
+
+imports of goods and services: 89% (2016 est.)
+
+Topic: Malihousehold consumption: 82.9% (2017 est.)
+
+government consumption: 17.4% (2017 est.)
+
+investment in fixed capital: 19.3% (2017 est.)
+
+investment in inventories: -0.7% (2017 est.)
+
+exports of goods and services: 22.1% (2017 est.)
+
+imports of goods and services: -41.1% (2017 est.)
+
+Topic: Maltahousehold consumption: 45.2% (2017 est.)
+
+government consumption: 15.3% (2017 est.)
+
+investment in fixed capital: 21.1% (2017 est.)
+
+investment in inventories: 0.3% (2017 est.)
+
+exports of goods and services: 136.1% (2017 est.)
+
+imports of goods and services: -117.9% (2017 est.)
+
+Topic: Marshall Islandsgovernment consumption: 50% (2016 est.)
+
+investment in fixed capital: 17.8% (2016 est.)
+
+investment in inventories: 0.2% (2016 est.)
+
+exports of goods and services: 52.9% (2016 est.)
+
+imports of goods and services: -102.3% (2016 est.)
+
+Topic: Mauritaniahousehold consumption: 64.9% (2017 est.)
+
+government consumption: 21.8% (2017 est.)
+
+investment in fixed capital: 56.1% (2017 est.)
+
+investment in inventories: -3.2% (2017 est.)
+
+exports of goods and services: 39% (2017 est.)
+
+imports of goods and services: -78.6% (2017 est.)
+
+Topic: Mauritiushousehold consumption: 81% (2017 est.)
+
+government consumption: 15.1% (2017 est.)
+
+investment in fixed capital: 17.3% (2017 est.)
+
+investment in inventories: -0.4% (2017 est.)
+
+exports of goods and services: 42.1% (2017 est.)
+
+imports of goods and services: -55.1% (2017 est.)
+
+Topic: Mexicohousehold consumption: 67% (2017 est.)
+
+government consumption: 11.8% (2017 est.)
+
+investment in fixed capital: 22.3% (2017 est.)
+
+investment in inventories: 0.8% (2017 est.)
+
+exports of goods and services: 37.8% (2017 est.)
+
+imports of goods and services: -39.7% (2017 est.)
+
+Topic: Micronesia, Federated States ofhousehold consumption: 83.5% (2013 est.)
+
+government consumption: 48.4% (2016 est.)
+
+investment in fixed capital: 29.5% (2016 est.)
+
+investment in inventories: 1.9% (2016 est.)
+
+exports of goods and services: 27.5% (2016 est.)
+
+imports of goods and services: -77% (2016 est.)
+
+Topic: Moldovahousehold consumption: 85.8% (2017 est.)
+
+government consumption: 19% (2017 est.)
+
+investment in fixed capital: 21.9% (2017 est.)
+
+investment in inventories: 1.4% (2017 est.)
+
+exports of goods and services: 42.5% (2017 est.)
+
+imports of goods and services: -70.7% (2017 est.)
+
+Topic: Mongoliahousehold consumption: 49.2% (2017 est.)
+
+government consumption: 12.3% (2017 est.)
+
+investment in fixed capital: 23.8% (2017 est.)
+
+investment in inventories: 12.4% (2017 est.)
+
+exports of goods and services: 59.5% (2017 est.)
+
+imports of goods and services: -57.1% (2017 est.)
+
+Topic: Montenegrohousehold consumption: 76.8% (2016 est.)
+
+government consumption: 19.6% (2016 est.)
+
+investment in fixed capital: 23.2% (2016 est.)
+
+investment in inventories: 2.9% (2016 est.)
+
+exports of goods and services: 40.5% (2016 est.)
+
+imports of goods and services: -63% (2016 est.)
+
+Topic: Montserrathousehold consumption: 90.8% (2017 est.)
+
+government consumption: 50.4% (2017 est.)
+
+investment in fixed capital: 17.9% (2017 est.)
+
+investment in inventories: -0.1% (2017 est.)
+
+exports of goods and services: 29.5% (2017 est.)
+
+imports of goods and services: -88.6% (2017 est.)
+
+Topic: Moroccohousehold consumption: 58% (2017 est.)
+
+government consumption: 18.9% (2017 est.)
+
+investment in fixed capital: 28.4% (2017 est.)
+
+investment in inventories: 4.2% (2017 est.)
+
+exports of goods and services: 37.1% (2017 est.)
+
+imports of goods and services: -46.6% (2017 est.)
+
+Topic: Mozambiquehousehold consumption: 69.7% (2017 est.)
+
+government consumption: 27.2% (2017 est.)
+
+investment in fixed capital: 21.7% (2017 est.)
+
+investment in inventories: 13.9% (2017 est.)
+
+exports of goods and services: 38.3% (2017 est.)
+
+imports of goods and services: -70.6% (2017 est.)
+
+Topic: Namibiahousehold consumption: 68.7% (2017 est.)
+
+government consumption: 24.5% (2017 est.)
+
+investment in fixed capital: 16% (2017 est.)
+
+investment in inventories: 1.6% (2017 est.)
+
+exports of goods and services: 36.7% (2017 est.)
+
+imports of goods and services: -47.5% (2017 est.)
+
+Topic: Nauruhousehold consumption: 98% (2016 est.)
+
+government consumption: 37.6% (2016 est.)
+
+investment in fixed capital: 42.2% (2016 est.)
+
+exports of goods and services: 11.2% (2016 est.)
+
+imports of goods and services: -89.1% (2016 est.)
+
+Topic: Nepalhousehold consumption: 78% (2017 est.)
+
+government consumption: 11.7% (2017 est.)
+
+investment in fixed capital: 33.8% (2017 est.)
+
+investment in inventories: 8.7% (2017 est.)
+
+exports of goods and services: 9.8% (2017 est.)
+
+imports of goods and services: -42% (2017 est.)
+
+Topic: Netherlandshousehold consumption: 44.3% (2017 est.)
+
+government consumption: 24.2% (2017 est.)
+
+investment in fixed capital: 20.5% (2017 est.)
+
+investment in inventories: 0.2% (2017 est.)
+
+exports of goods and services: 83% (2017 est.)
+
+imports of goods and services: -72.3% (2017 est.)
+
+Topic: New Caledoniahousehold consumption: 64.3% (2017 est.)
+
+government consumption: 24% (2017 est.)
+
+investment in fixed capital: 38.4% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 18.7% (2017 est.)
+
+imports of goods and services: -45.5% (2017 est.)
+
+Topic: New Zealandhousehold consumption: 57.2% (2017 est.)
+
+government consumption: 18.2% (2017 est.)
+
+investment in fixed capital: 23.4% (2017 est.)
+
+investment in inventories: 0.3% (2017 est.)
+
+exports of goods and services: 27% (2017 est.)
+
+imports of goods and services: -26.1% (2017 est.)
+
+Topic: Nicaraguahousehold consumption: 69.9% (2017 est.)
+
+government consumption: 15.3% (2017 est.)
+
+investment in fixed capital: 28.1% (2017 est.)
+
+investment in inventories: 1.7% (2017 est.)
+
+exports of goods and services: 41.2% (2017 est.)
+
+imports of goods and services: -55.4% (2017 est.)
+
+Topic: Nigerhousehold consumption: 70.2% (2017 est.)
+
+government consumption: 9.4% (2017 est.)
+
+investment in fixed capital: 38.6% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 16.4% (2017 est.)
+
+imports of goods and services: -34.6% (2017 est.)
+
+Topic: Nigeriahousehold consumption: 80% (2017 est.)
+
+government consumption: 5.8% (2017 est.)
+
+investment in fixed capital: 14.8% (2017 est.)
+
+investment in inventories: 0.7% (2017 est.)
+
+exports of goods and services: 11.9% (2017 est.)
+
+imports of goods and services: -13.2% (2017 est.)
+
+Topic: North Macedoniahousehold consumption: 65.6% (2017 est.)
+
+government consumption: 15.6% (2017 est.)
+
+investment in fixed capital: 13.6% (2017 est.)
+
+investment in inventories: 20.2% (2017 est.)
+
+exports of goods and services: 54% (2017 est.)
+
+imports of goods and services: -69% (2017 est.)
+
+Topic: Northern Mariana Islandshousehold consumption: 43.1% (2016 est.)
+
+government consumption: 28.9% (2016 est.)
+
+investment in fixed capital: 26.3% (2016 est.)
+
+investment in inventories: NA (2016 est.)
+
+exports of goods and services: 73.6% (2016 est.)
+
+imports of goods and services: -71.9% (2016 est.)
+
+Topic: Norwayhousehold consumption: 44.8% (2017 est.)
+
+government consumption: 24% (2017 est.)
+
+investment in fixed capital: 24.1% (2017 est.)
+
+investment in inventories: 4.8% (2017 est.)
+
+exports of goods and services: 35.5% (2017 est.)
+
+imports of goods and services: -33.2% (2017 est.)
+
+Topic: Omanhousehold consumption: 36.8% (2017 est.)
+
+government consumption: 26.2% (2017 est.)
+
+investment in fixed capital: 27.8% (2017 est.)
+
+investment in inventories: 3% (2017 est.)
+
+exports of goods and services: 51.5% (2017 est.)
+
+imports of goods and services: -46.6% (2017 est.)
+
+Topic: Pakistanhousehold consumption: 82% (2017 est.)
+
+government consumption: 11.3% (2017 est.)
+
+investment in fixed capital: 14.5% (2017 est.)
+
+investment in inventories: 1.6% (2017 est.)
+
+exports of goods and services: 8.2% (2017 est.)
+
+imports of goods and services: -17.6% (2017 est.)
+
+Topic: Palauhousehold consumption: 60.5% (2016 est.)
+
+government consumption: 27.2% (2016 est.)
+
+investment in fixed capital: 22.7% (2016 est.)
+
+investment in inventories: 1.9% (2016 est.)
+
+exports of goods and services: 55.2% (2016 est.)
+
+imports of goods and services: -67.6% (2016 est.)
+
+Topic: Panamahousehold consumption: 45.6% (2017 est.)
+
+government consumption: 10.7% (2017 est.)
+
+investment in fixed capital: 42.9% (2017 est.)
+
+investment in inventories: 3% (2017 est.)
+
+exports of goods and services: 41.9% (2017 est.)
+
+imports of goods and services: -44.2% (2017 est.)
+
+Topic: Papua New Guineahousehold consumption: 43.7% (2017 est.)
+
+government consumption: 19.7% (2017 est.)
+
+investment in fixed capital: 10% (2017 est.)
+
+investment in inventories: 0.4% (2017 est.)
+
+exports of goods and services: 49.3% (2017 est.)
+
+imports of goods and services: -22.3% (2017 est.)
+
+Topic: Paraguayhousehold consumption: 66.7% (2017 est.)
+
+government consumption: 11.3% (2017 est.)
+
+investment in fixed capital: 17.3% (2017 est.)
+
+investment in inventories: 0.3% (2017 est.)
+
+exports of goods and services: 46.6% (2017 est.)
+
+imports of goods and services: -42.2% (2017 est.)
+
+Topic: Peruhousehold consumption: 64.9% (2017 est.)
+
+government consumption: 11.7% (2017 est.)
+
+investment in fixed capital: 21.7% (2017 est.)
+
+investment in inventories: -0.2% (2017 est.)
+
+exports of goods and services: 24% (2017 est.)
+
+imports of goods and services: -22% (2017 est.)
+
+Topic: Philippineshousehold consumption: 73.5% (2017 est.)
+
+government consumption: 11.3% (2017 est.)
+
+investment in fixed capital: 25.1% (2017 est.)
+
+investment in inventories: 0.1% (2017 est.)
+
+exports of goods and services: 31% (2017 est.)
+
+imports of goods and services: -40.9% (2017 est.)
+
+Topic: Polandhousehold consumption: 58.6% (2017 est.)
+
+government consumption: 17.7% (2017 est.)
+
+investment in fixed capital: 17.7% (2017 est.)
+
+investment in inventories: 2% (2017 est.)
+
+exports of goods and services: 54% (2017 est.)
+
+imports of goods and services: -49.9% (2017 est.)
+
+Topic: Portugalhousehold consumption: 65.1% (2017 est.)
+
+government consumption: 17.6% (2017 est.)
+
+investment in fixed capital: 16.2% (2017 est.)
+
+investment in inventories: 0.1% (2017 est.)
+
+exports of goods and services: 43.1% (2017 est.)
+
+imports of goods and services: -42.1% (2017 est.)
+
+Topic: Puerto Ricohousehold consumption: 87.7% (2017 est.)
+
+government consumption: 12.2% (2017 est.)
+
+investment in fixed capital: 11.7% (2017 est.)
+
+investment in inventories: 0.5% (2017 est.)
+
+exports of goods and services: 117.8% (2017 est.)
+
+imports of goods and services: -129.8% (2017 est.)
+
+Topic: Qatarhousehold consumption: 24.6% (2017 est.)
+
+government consumption: 17% (2017 est.)
+
+investment in fixed capital: 43.1% (2017 est.)
+
+investment in inventories: 1.5% (2017 est.)
+
+exports of goods and services: 51% (2017 est.)
+
+imports of goods and services: -37.3% (2017 est.)
+
+Topic: Romaniahousehold consumption: 70% (2017 est.)
+
+government consumption: 7.7% (2017 est.)
+
+investment in fixed capital: 22.6% (2017 est.)
+
+investment in inventories: 1.9% (2017 est.)
+
+exports of goods and services: 41.4% (2017 est.)
+
+imports of goods and services: -43.6% (2017 est.)
+
+Topic: Russiahousehold consumption: 52.4% (2017 est.)
+
+government consumption: 18% (2017 est.)
+
+investment in fixed capital: 21.6% (2017 est.)
+
+investment in inventories: 2.3% (2017 est.)
+
+exports of goods and services: 26.2% (2017 est.)
+
+imports of goods and services: -20.6% (2017 est.)
+
+Topic: Rwandahousehold consumption: 75.9% (2017 est.)
+
+government consumption: 15.2% (2017 est.)
+
+investment in fixed capital: 22.9% (2017 est.)
+
+investment in inventories: 0.5% (2017 est.)
+
+exports of goods and services: 18.2% (2017 est.)
+
+imports of goods and services: -32.8% (2017 est.)
+
+Topic: Saint Kitts and Nevishousehold consumption: 41.4% (2017 est.)
+
+government consumption: 25.9% (2017 est.)
+
+investment in fixed capital: 30.8% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 62.5% (2017 est.)
+
+imports of goods and services: -60.4% (2017 est.)
+
+Topic: Saint Luciahousehold consumption: 66.1% (2017 est.)
+
+government consumption: 11.2% (2017 est.)
+
+investment in fixed capital: 16.9% (2017 est.)
+
+investment in inventories: 0.1% (2017 est.)
+
+exports of goods and services: 62.7% (2017 est.)
+
+imports of goods and services: -56.9% (2017 est.)
+
+Topic: Saint Vincent and the Grenadineshousehold consumption: 87.3% (2017 est.)
+
+government consumption: 16.6% (2017 est.)
+
+investment in fixed capital: 10.8% (2017 est.)
+
+investment in inventories: -0.2% (2017 est.)
+
+exports of goods and services: 37.1% (2017 est.)
+
+imports of goods and services: -51.7% (2017 est.)
+
+Topic: Samoahousehold consumption: NA
+
+government consumption: NA
+
+investment in fixed capital: NA
+
+investment in inventories: NA
+
+exports of goods and services: 27.2% (2015 est.)
+
+imports of goods and services: -50.5% (2015 est.)
+
+Topic: San Marinohousehold consumption: NA (2011 est.)
+
+government consumption: NA (2011 est.)
+
+investment in fixed capital: NA (2011 est.)
+
+investment in inventories: NA (2011 est.)
+
+exports of goods and services: 176.6% (2011)
+
+imports of goods and services: -153.3% (2011)
+
+Topic: Sao Tome and Principehousehold consumption: 81.4% (2017 est.)
+
+government consumption: 17.6% (2017 est.)
+
+investment in fixed capital: 33.4% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 7.9% (2017 est.)
+
+imports of goods and services: -40.4% (2017 est.)
+
+Topic: Saudi Arabiahousehold consumption: 41.3% (2017 est.)
+
+government consumption: 24.5% (2017 est.)
+
+investment in fixed capital: 23.2% (2017 est.)
+
+investment in inventories: 4.7% (2017 est.)
+
+exports of goods and services: 34.8% (2017 est.)
+
+imports of goods and services: -28.6% (2017 est.)
+
+Topic: Senegalhousehold consumption: 71.9% (2017 est.)
+
+government consumption: 15.2% (2017 est.)
+
+investment in fixed capital: 25.1% (2017 est.)
+
+investment in inventories: 3.4% (2017 est.)
+
+exports of goods and services: 27% (2017 est.)
+
+imports of goods and services: -42.8% (2017 est.)
+
+Topic: Serbiahousehold consumption: 78.2% (2017 est.)
+
+government consumption: 10.1% (2017 est.)
+
+investment in fixed capital: 18.5% (2017 est.)
+
+investment in inventories: 2% (2017 est.)
+
+exports of goods and services: 52.5% (2017 est.)
+
+imports of goods and services: -61.3% (2017 est.)
+
+Topic: Seychelleshousehold consumption: 52.7% (2017 est.)
+
+government consumption: 34.4% (2017 est.)
+
+investment in fixed capital: 26.7% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 79.4% (2017 est.)
+
+imports of goods and services: -93.2% (2017 est.)
+
+Topic: Sierra Leonehousehold consumption: 97.9% (2017 est.)
+
+government consumption: 12.1% (2017 est.)
+
+investment in fixed capital: 18.1% (2017 est.)
+
+investment in inventories: 0.4% (2017 est.)
+
+exports of goods and services: 26.8% (2017 est.)
+
+imports of goods and services: -55.3% (2017 est.)
+
+Topic: Singaporehousehold consumption: 35.6% (2017 est.)
+
+government consumption: 10.9% (2017 est.)
+
+investment in fixed capital: 24.8% (2017 est.)
+
+investment in inventories: 2.8% (2017 est.)
+
+exports of goods and services: 173.3% (2017 est.)
+
+imports of goods and services: -149.1% (2017 est.)
+
+Topic: Slovakiahousehold consumption: 54.7% (2017 est.)
+
+government consumption: 19.2% (2017 est.)
+
+investment in fixed capital: 21.2% (2017 est.)
+
+investment in inventories: 1.2% (2017 est.)
+
+exports of goods and services: 96.3% (2017 est.)
+
+imports of goods and services: -92.9% (2017 est.)
+
+Topic: Sloveniahousehold consumption: 52.6% (2017 est.)
+
+government consumption: 18.2% (2017 est.)
+
+investment in fixed capital: 18.4% (2017 est.)
+
+investment in inventories: 1.1% (2017 est.)
+
+exports of goods and services: 82.3% (2017 est.)
+
+imports of goods and services: -72.6% (2017 est.)
+
+Topic: Solomon Islandshousehold consumption: NA
+
+government consumption: NA
+
+investment in fixed capital: NA
+
+investment in inventories: NA
+
+exports of goods and services: 25.8% (2011 est.)
+
+imports of goods and services: -49.6% (2011 est.)
+
+Topic: Somaliahousehold consumption: 72.6% (2015 est.)
+
+government consumption: 8.7% (2015 est.)
+
+investment in fixed capital: 20% (2015 est.)
+
+investment in inventories: 0.8% (2016 est.)
+
+exports of goods and services: 0.3% (2015 est.)
+
+imports of goods and services: -1.6% (2015 est.)
+
+Topic: South Africahousehold consumption: 59.4% (2017 est.)
+
+government consumption: 20.9% (2017 est.)
+
+investment in fixed capital: 18.7% (2017 est.)
+
+investment in inventories: -0.1% (2017 est.)
+
+exports of goods and services: 29.8% (2017 est.)
+
+imports of goods and services: -28.4% (2017 est.)
+
+Topic: South Sudanhousehold consumption: 34.9% (2011 est.)
+
+government consumption: 17.1% (2011 est.)
+
+investment in fixed capital: 10.4% (2011 est.)
+
+exports of goods and services: 64.9% (2011 est.)
+
+imports of goods and services: -27.2% (2011 est.)
+
+Topic: Spainhousehold consumption: 57.7% (2017 est.)
+
+government consumption: 18.5% (2017 est.)
+
+investment in fixed capital: 20.6% (2017 est.)
+
+investment in inventories: 0.6% (2017 est.)
+
+exports of goods and services: 34.1% (2017 est.)
+
+imports of goods and services: -31.4% (2017 est.)
+
+Topic: Sri Lankahousehold consumption: 62% (2017 est.)
+
+government consumption: 8.5% (2017 est.)
+
+investment in fixed capital: 26.3% (2017 est.)
+
+investment in inventories: 10.2% (2017 est.)
+
+exports of goods and services: 21.9% (2017 est.)
+
+imports of goods and services: -29.1% (2017 est.)
+
+Topic: Sudanhousehold consumption: 77.3% (2017 est.)
+
+government consumption: 5.8% (2017 est.)
+
+investment in fixed capital: 18.4% (2017 est.)
+
+investment in inventories: 0.6% (2017 est.)
+
+exports of goods and services: 9.7% (2017 est.)
+
+imports of goods and services: -11.8% (2017 est.)
+
+Topic: Surinamehousehold consumption: 27.6% (2017 est.)
+
+government consumption: 11.7% (2017 est.)
+
+investment in fixed capital: 52.5% (2017 est.)
+
+investment in inventories: 26.5% (2017 est.)
+
+exports of goods and services: 68.9% (2017 est.)
+
+imports of goods and services: -60.6% (2017 est.)
+
+Topic: Swedenhousehold consumption: 44.1% (2017 est.)
+
+government consumption: 26% (2017 est.)
+
+investment in fixed capital: 24.9% (2017 est.)
+
+investment in inventories: 0.8% (2017 est.)
+
+exports of goods and services: 45.3% (2017 est.)
+
+imports of goods and services: -41.1% (2017 est.)
+
+Topic: Switzerlandhousehold consumption: 53.7% (2017 est.)
+
+government consumption: 12% (2017 est.)
+
+investment in fixed capital: 24.5% (2017 est.)
+
+investment in inventories: -1.4% (2017 est.)
+
+exports of goods and services: 65.1% (2017 est.)
+
+imports of goods and services: -54% (2017 est.)
+
+Topic: Syriahousehold consumption: 73.1% (2017 est.)
+
+government consumption: 26% (2017 est.)
+
+investment in fixed capital: 18.6% (2017 est.)
+
+investment in inventories: 12.3% (2017 est.)
+
+exports of goods and services: 16.1% (2017 est.)
+
+imports of goods and services: -46.1% (2017 est.)
+
+Topic: Taiwanhousehold consumption: 53% (2017 est.)
+
+government consumption: 14.1% (2017 est.)
+
+investment in fixed capital: 20.5% (2017 est.)
+
+investment in inventories: -0.2% (2017 est.)
+
+exports of goods and services: 65.2% (2017 est.)
+
+imports of goods and services: -52.6% (2017 est.)
+
+Topic: Tajikistanhousehold consumption: 98.4% (2017 est.)
+
+government consumption: 13.3% (2017 est.)
+
+investment in fixed capital: 11.7% (2017 est.)
+
+investment in inventories: 2.5% (2017 est.)
+
+exports of goods and services: 10.7% (2017 est.)
+
+imports of goods and services: -36.6% (2017 est.)
+
+Topic: Tanzaniahousehold consumption: 62.4% (2017 est.)
+
+government consumption: 12.5% (2017 est.)
+
+investment in fixed capital: 36.1% (2017 est.)
+
+investment in inventories: -8.7% (2017 est.)
+
+exports of goods and services: 18.1% (2017 est.)
+
+imports of goods and services: -20.5% (2017 est.)
+
+Topic: Thailandhousehold consumption: 48.8% (2017 est.)
+
+government consumption: 16.4% (2017 est.)
+
+investment in fixed capital: 23.2% (2017 est.)
+
+investment in inventories: -0.4% (2017 est.)
+
+exports of goods and services: 68.2% (2017 est.)
+
+imports of goods and services: -54.6% (2017 est.)
+
+Topic: Timor-Lestehousehold consumption: 33% (2017 est.)
+
+government consumption: 30% (2017 est.)
+
+investment in fixed capital: 10.6% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 78.4% (2017 est.)
+
+imports of goods and services: -52% (2017 est.)
+
+Topic: Togohousehold consumption: 84.5% (2017 est.)
+
+government consumption: 11.4% (2017 est.)
+
+investment in fixed capital: 23.4% (2017 est.)
+
+investment in inventories: -1.4% (2017 est.)
+
+exports of goods and services: 43.1% (2017 est.)
+
+imports of goods and services: -61% (2017 est.)
+
+Topic: Tongahousehold consumption: 99.4% (2017 est.)
+
+government consumption: 21.9% (2017 est.)
+
+investment in fixed capital: 24.1% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 22.8% (2017 est.)
+
+imports of goods and services: -68.5% (2017 est.)
+
+Topic: Trinidad and Tobagohousehold consumption: 78.9% (2017 est.)
+
+government consumption: 16.4% (2017 est.)
+
+investment in fixed capital: 8.2% (2017 est.)
+
+investment in inventories: 0.6% (2017 est.)
+
+exports of goods and services: 45.4% (2017 est.)
+
+imports of goods and services: -48.7% (2017 est.)
+
+Topic: Tunisiahousehold consumption: 71.7% (2017 est.)
+
+government consumption: 20.8% (2017 est.)
+
+investment in fixed capital: 19.4% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 43.2% (2017 est.)
+
+imports of goods and services: -55.2% (2017 est.)
+
+Topic: Turkeyhousehold consumption: 59.1% (2017 est.)
+
+government consumption: 14.5% (2017 est.)
+
+investment in fixed capital: 29.8% (2017 est.)
+
+investment in inventories: 1.1% (2017 est.)
+
+exports of goods and services: 24.9% (2017 est.)
+
+imports of goods and services: -29.4% (2017 est.)
+
+Topic: Turkmenistanhousehold consumption: 50% (2017 est.)
+
+government consumption: 10% (2017 est.)
+
+investment in fixed capital: 28.2% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 26.2% (2017 est.)
+
+imports of goods and services: -14.3% (2017 est.)
+
+Topic: Turks and Caicos Islandshousehold consumption: 49% (2017 est.)
+
+government consumption: 21.5% (2017 est.)
+
+investment in fixed capital: 16.5% (2017 est.)
+
+investment in inventories: -0.1% (2017 est.)
+
+exports of goods and services: 69.5% (2017 est.)
+
+imports of goods and services: -56.4% (2017 est.)
+
+Topic: Tuvalugovernment consumption: 87% (2016 est.)
+
+investment in fixed capital: 24.3% (2016 est.)
+
+exports of goods and services: 43.7% (2016 est.)
+
+imports of goods and services: -66.1% (2016 est.)
+
+Topic: Ugandahousehold consumption: 74.3% (2017 est.)
+
+government consumption: 8% (2017 est.)
+
+investment in fixed capital: 23.9% (2017 est.)
+
+investment in inventories: 0.3% (2017 est.)
+
+exports of goods and services: 18.8% (2017 est.)
+
+imports of goods and services: -25.1% (2017 est.)
+
+Topic: Ukrainehousehold consumption: 66.5% (2017 est.)
+
+government consumption: 20.4% (2017 est.)
+
+investment in fixed capital: 16% (2017 est.)
+
+investment in inventories: 4.7% (2017 est.)
+
+exports of goods and services: 47.9% (2017 est.)
+
+imports of goods and services: -55.6% (2017 est.)
+
+Topic: United Arab Emirateshousehold consumption: 34.9% (2017 est.)
+
+government consumption: 12.3% (2017 est.)
+
+investment in fixed capital: 23% (2017 est.)
+
+investment in inventories: 1.8% (2017 est.)
+
+exports of goods and services: 100.4% (2017 est.)
+
+imports of goods and services: -72.4% (2017 est.)
+
+Topic: United Kingdomhousehold consumption: 65.8% (2017 est.)
+
+government consumption: 18.3% (2017 est.)
+
+investment in fixed capital: 17.2% (2017 est.)
+
+investment in inventories: 0.2% (2017 est.)
+
+exports of goods and services: 30.2% (2017 est.)
+
+imports of goods and services: -31.5% (2017 est.)
+
+Topic: United Stateshousehold consumption: 68.4% (2017 est.)
+
+government consumption: 17.3% (2017 est.)
+
+investment in fixed capital: 17.2% (2017 est.)
+
+investment in inventories: 0.1% (2017 est.)
+
+exports of goods and services: 12.1% (2017 est.)
+
+imports of goods and services: -15% (2017 est.)
+
+Topic: Uruguayhousehold consumption: 66.8% (2017 est.)
+
+government consumption: 14.3% (2017 est.)
+
+investment in fixed capital: 16.7% (2017 est.)
+
+investment in inventories: -1% (2017 est.)
+
+exports of goods and services: 21.6% (2017 est.)
+
+imports of goods and services: -18.4% (2017 est.)
+
+Topic: Uzbekistanhousehold consumption: 59.5% (2017 est.)
+
+government consumption: 16.3% (2017 est.)
+
+investment in fixed capital: 25.3% (2017 est.)
+
+investment in inventories: 3% (2017 est.)
+
+exports of goods and services: 19% (2017 est.)
+
+imports of goods and services: -20% (2017 est.)
+
+Topic: Vanuatuhousehold consumption: 59.9% (2017 est.)
+
+government consumption: 17.4% (2017 est.)
+
+investment in fixed capital: 28.7% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 42.5% (2017 est.)
+
+imports of goods and services: -48.5% (2017 est.)
+
+Topic: Venezuelahousehold consumption: 68.5% (2017 est.)
+
+government consumption: 19.6% (2017 est.)
+
+investment in fixed capital: 13.9% (2017 est.)
+
+investment in inventories: 1.7% (2017 est.)
+
+exports of goods and services: 7% (2017 est.)
+
+imports of goods and services: -10.7% (2017 est.)
+
+Topic: Vietnamhousehold consumption: 66.9% (2017 est.)
+
+government consumption: 6.5% (2017 est.)
+
+investment in fixed capital: 24.2% (2017 est.)
+
+investment in inventories: 2.8% (2017 est.)
+
+exports of goods and services: 100% (2017 est.)
+
+imports of goods and services: -101% (2017 est.)
+
+Topic: Virgin Islandshousehold consumption: 68.2% (2016 est.)
+
+government consumption: 26.8% (2016 est.)
+
+investment in fixed capital: 7.5% (2016 est.)
+
+investment in inventories: 15% NA (2016 est.)
+
+exports of goods and services: 46.7% (2016 est.)
+
+imports of goods and services: -64.3% (2016 est.)
+
+Topic: Wallis and Futunahousehold consumption: 26% (2005)
+
+government consumption: 54% (2005)
+
+Topic: West Bankhousehold consumption: 91.3% (2017 est.)
+
+government consumption: 26.7% (2017 est.)
+
+investment in fixed capital: 23% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 20% (2017 est.)
+
+imports of goods and services: -61% (2017 est.)
+
+note: excludes Gaza Strip
+
+Topic: Worldhousehold consumption: 56.4% (2017 est.)
+
+government consumption: 16.1% (2017 est.)
+
+investment in fixed capital: 25.7% (2017 est.)
+
+investment in inventories: 1.4% (2017 est.)
+
+exports of goods and services: 28.8% (2017 est.)
+
+imports of goods and services: -28.3% (2017 est.)
+
+Topic: Yemenhousehold consumption: 116.6% (2017 est.)
+
+government consumption: 17.6% (2017 est.)
+
+investment in fixed capital: 2.2% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 7.5% (2017 est.)
+
+imports of goods and services: -43.9% (2017 est.)
+
+Topic: Zambiahousehold consumption: 52.6% (2017 est.)
+
+government consumption: 21% (2017 est.)
+
+investment in fixed capital: 27.1% (2017 est.)
+
+investment in inventories: 1.2% (2017 est.)
+
+exports of goods and services: 43% (2017 est.)
+
+imports of goods and services: -44.9% (2017 est.)
+
+Topic: Zimbabwehousehold consumption: 77.6% (2017 est.)
+
+government consumption: 24% (2017 est.)
+
+investment in fixed capital: 12.6% (2017 est.)
+
+investment in inventories: 0% (2017 est.)
+
+exports of goods and services: 25.6% (2017 est.)
+
+imports of goods and services: -39.9% (2017 est.)
