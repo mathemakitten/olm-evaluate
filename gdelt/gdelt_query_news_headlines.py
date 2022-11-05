@@ -28,7 +28,7 @@ for d in cc_dates[1:]:
 
     print(f"date range: {prev_scrape_end_date} to {cc_scrape_start_date}")
     # query past 30 days worth of headlines prior to the 1st of the month of the new scrape
-    query = f"SELECT date, url, domain, outletName, title FROM `gdelt-bq.gdeltv2.gal` WHERE DATE(date) > '{prev_scrape_end_date}' and DATE(date) <= '{cc_scrape_start_date}' and lang = 'en' limit 4"
+    query = f"SELECT date, url, domain, outletName, title FROM `gdelt-bq.gdeltv2.gal` WHERE DATE(date) > '{prev_scrape_end_date}' and DATE(date) <= '{cc_scrape_start_date}' and lang = 'en'"
 
     query_job = client.query(query)
 
