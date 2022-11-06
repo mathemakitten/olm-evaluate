@@ -26,20 +26,27 @@ lines_for_jsonl = []
 for d in cc_dates[1:]:
     cc_scrape_start_date, cc_scrape_end_date = reformat_date_for_sql(d[1]), reformat_date_for_sql(d[2])
 
+    query_num_rows_to_process = f"SELECT count(*) FROM `gdelt-bq.gdeltv2.gal` WHERE DATE(date) > '{prev_scrape_end_date}' and DATE(date) <= '{cc_scrape_start_date}' and lang = 'en'"
+    num_rows_query = client.query(query_num_rows_to_process)
+    for r in num_rows_query:
+        num_rows = r[0]
+
     print(f"date range: {prev_scrape_end_date} to {cc_scrape_start_date}")
     # query past 30 days worth of headlines prior to the 1st of the month of the new scrape
     query = f"SELECT date, url, domain, outletName, title FROM `gdelt-bq.gdeltv2.gal` WHERE DATE(date) > '{prev_scrape_end_date}' and DATE(date) <= '{cc_scrape_start_date}' and lang = 'en'"
 
     query_job = client.query(query)
 
-    for row in query_job:
+    for i, row in enumerate(query_job):
+        if i % 500000 == 0:
+            print(f"Row {i} of {num_rows}")
         jsondict = {'snapshot_date': d[-1], 'article_date': row[0].strftime("%Y%m%d"), 'domain': row[2], 'url': row[1], 'outlet_name': row[3], 'title': row[4]}
         # Row values can be accessed by field name or index.
         lines_for_jsonl.append(jsondict)
 
     prev_scrape_end_date = cc_scrape_end_date
 
-with open('gdelt/gdelt_data.jsonl', 'a') as f:
-    for d in lines_for_jsonl:
-        json.dump(d, f)
-        f.write('\n')
+    with open(f'gdelt/gdelt_data_{d[-1]}.jsonl', 'a') as f:
+        for d in lines_for_jsonl:
+            json.dump(d, f)
+            f.write('\n')
