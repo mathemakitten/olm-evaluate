@@ -38,6 +38,9 @@ class GdeltEvaluation:
         tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
         model = BertForPreTraining.from_pretrained('bert-base-uncased')
 
+        tokenizer = BertTokenizer.from_pretrained('Tristan/olm-bert-base-uncased-oct-2022')
+        model = BertForPreTraining.from_pretrained('Tristan/olm-bert-base-uncased-oct-2022')
+
         model = model.to(device)
 
         # if batch_size > 1 (which generally leads to padding being required), and
@@ -58,7 +61,7 @@ class GdeltEvaluation:
         for example in x:
             headline = example['title']
             pseudoperplexity = pppl.pseudo_perplexity(model, tokenizer, headline)
-            print(f"ppl: {pseudoperplexity}")
+            print(f"text: {headline} | ppl: {pseudoperplexity}")
 
         # while not
         # try:
