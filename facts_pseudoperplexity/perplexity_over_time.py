@@ -14,7 +14,7 @@ def pseudo_perplexity(model, tokenizer, sentence):
     masked_input = repeat_input.masked_fill(mask == 1, tokenizer.mask_token_id)
     labels = repeat_input.masked_fill(masked_input != tokenizer.mask_token_id, -100)
 
-    print(f"masked input: {masked_input}\n\nlabels: {labels}\n\nmask: {mask}")
+    # print(f"masked input: {masked_input}\n\nlabels: {labels}\n\nmask: {mask}")
 
     with torch.no_grad():
         outputs = model(masked_input)
