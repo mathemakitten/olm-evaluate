@@ -4,19 +4,12 @@ import numpy as np
 import facts_pseudoperplexity.perplexity_over_time as pppl
 import json
 
-class Dataloader:
-    def __init__(self, data='20220501'):
-
-        with open(f'/home/helen_huggingface_co/olm-evaluate/gdelt/gdelt_data_{data}.jsonl', 'r') as f:
-            for line in f:
-                self.datalines.append(json.loads(line))
-
-
+from transformers import BertTokenizer, BertForPreTraining
 
 
 class GdeltEvaluation:
 
-    def __init__(self, data='20220501', device=None, batch_size=16, model="roberta-base"):
+    def __init__(self, data='20220501', device=None, batch_size=16, model="bert-base-uncased"):
         #
         # self.datalines = []
         # with open(f'/home/helen_huggingface_co/olm-evaluate/gdelt/gdelt_data_{data}.jsonl', 'r') as f:
@@ -37,9 +30,14 @@ class GdeltEvaluation:
         else:
             device = "cuda" if torch.cuda.is_available() else "cpu"
 
+        """
         tokenizer = AutoTokenizer.from_pretrained(model)
-        # hf_config = AutoConfig.from_pretrained(model)
         model = AutoModelForMaskedLM.from_pretrained(model)
+        """
+
+        tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+        model = BertForPreTraining.from_pretrained('bert-base-uncased')
+
         model = model.to(device)
 
         # if batch_size > 1 (which generally leads to padding being required), and
@@ -55,12 +53,20 @@ class GdeltEvaluation:
             tokenizer.add_special_tokens({"pad_token": existing_special_tokens[0]})
 
         ppls = []
-        try:
-            example = next(gendata)['title']    # TODO: batch this
-            pseudoperplexity = pppl.pseudo_perplexity(model, tokenizer, example)
+        x = gendata('blah')
+
+        for example in x:
+            headline = example['title']
+            pseudoperplexity = pppl.pseudo_perplexity(model, tokenizer, headline)
             print(f"ppl: {pseudoperplexity}")
-        except Exception as e:
-            print(e)
+
+        # while not
+        # try:
+        #     example = next(x)['title']    # TODO: batch this
+        #     pseudoperplexity = pppl.pseudo_perplexity(model, tokenizer, example)
+        #     print(f"ppl: {pseudoperplexity}")
+        # except Exception as e:
+        #     print(e)
 
         # return {"pseudo_perplexities": ppls, "mean_pseudo_perplexity": np.mean(ppls)}
 

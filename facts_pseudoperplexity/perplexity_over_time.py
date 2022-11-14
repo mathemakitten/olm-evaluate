@@ -25,10 +25,10 @@ def pseudo_perplexity(model, tokenizer, sentence):
 
 
 # For pages over time, do perplexity
-print(pseudo_perplexity(sentence='London is the capital of the United Kingdom.', model=model, tokenizer=tokenizer))  # 1.0597
-print(pseudo_perplexity(sentence='London is the capital of England.', model=model, tokenizer=tokenizer))  # 1.2914
-print(pseudo_perplexity(sentence='London is the capital of Great Britain.', model=model, tokenizer=tokenizer))  # 1.0969
-print(pseudo_perplexity(sentence='London is the capital of South America.', model=model, tokenizer=tokenizer))  # 6.0143
-print(pseudo_perplexity(sentence='London is the capital of China.', model=model, tokenizer=tokenizer))  # 11.1210
-
-print('gello')
+# print(pseudo_perplexity(sentence='London is the capital of the United Kingdom.', model=model, tokenizer=tokenizer))  # 1.0597
+# print(pseudo_perplexity(sentence='London is the capital of England.', model=model, tokenizer=tokenizer))  # 1.2914
+# print(pseudo_perplexity(sentence='London is the capital of Great Britain.', model=model, tokenizer=tokenizer))  # 1.0969
+# print(pseudo_perplexity(sentence='London is the capital of South America.', model=model, tokenizer=tokenizer))  # 6.0143
+# print(pseudo_perplexity(sentence='London is the capital of China.', model=model, tokenizer=tokenizer))  # 11.1210
+#
+# print('gello')
