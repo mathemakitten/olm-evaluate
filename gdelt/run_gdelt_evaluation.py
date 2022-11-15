@@ -1,11 +1,11 @@
-from transformers import AutoConfig, AutoModelForMaskedLM, AutoTokenizer
-from tensorflow.io.gfile import GFile as gfile
-import torch
-import numpy as np
-import facts_pseudoperplexity.perplexity_over_time as pppl
 import json
 
+import numpy as np
+import torch
+from tensorflow.io import gfile
 from transformers import BertTokenizer, BertForPreTraining
+
+import facts_pseudoperplexity.perplexity_over_time as pppl
 
 
 class GdeltEvaluation:
@@ -44,7 +44,7 @@ class GdeltEvaluation:
         print(f'RUNNING MONTH: {self.data}')
 
         def datagen():
-            with gfile(f'gs://hugginghelen/olm/gdelt/gdelt_data_{self.data}.jsonl', 'r') as f:
+            with gfile.GFile(f'gs://hugginghelen/olm/gdelt/gdelt_data_{self.data}.jsonl', 'r') as f:
                 line = f.readline()
                 while line:
                     yield json.loads(line)
