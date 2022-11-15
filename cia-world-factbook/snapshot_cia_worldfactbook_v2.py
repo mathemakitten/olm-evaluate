@@ -17,7 +17,7 @@ class SnapshotOverTime:
 
     def __init__(self):
         self.timestamps = ['20220901', '20220501', '20220601', '20220801']  # internet archive format is YYYYMMDDhhmmss
-        with open('/home/helen_huggingface_co/wayback-machine-scrape/links_scraped_cia_world_factbook.txt', 'r') as f:
+        with open('/home/helen_huggingface_co/cia-world-factbook/links_scraped_cia_world_factbook.txt', 'r') as f:
             pages = set(f.read().split('\n'))
         # pages = ['https://www.cia.gov/the-world-factbook/countries/turkey-turkiye/']
         self.pages_queue = queue.Queue()

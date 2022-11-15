@@ -3,10 +3,10 @@ import glob
 import os
 
 dates = os.listdir('factbook')
-page_ids = [i.split('/')[-1] for i in glob.glob('/home/helen_huggingface_co/wayback-machine-scrape/factbook/20220901/*')]
+page_ids = [i.split('/')[-1] for i in glob.glob('/home/helen_huggingface_co/cia-world-factbook/factbook/20220901/*')]
 
 has_any_page_changed_in_four_months = 0
-total_distinct_pages = len(set([i.split('/')[-1] for i in glob.glob('/home/helen_huggingface_co/wayback-machine-scrape/factbook/*/*')]))
+total_distinct_pages = len(set([i.split('/')[-1] for i in glob.glob('/home/helen_huggingface_co/cia-world-factbook/factbook/*/*')]))
 
 for page in page_ids:
     files = [os.path.join('factbook', d, page, 'text.txt') for d in dates]
