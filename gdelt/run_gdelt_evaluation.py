@@ -1,4 +1,5 @@
 from transformers import AutoConfig, AutoModelForMaskedLM, AutoTokenizer
+from tensorflow.io.gfile import GFile as gfile
 import torch
 import numpy as np
 import facts_pseudoperplexity.perplexity_over_time as pppl
@@ -38,8 +39,9 @@ class GdeltEvaluation:
             self.tokenizer.add_special_tokens({"pad_token": existing_special_tokens[0]})
 
     def run(self):
+
         def datagen(data):
-            with open(f'gdelt/gdelt_data_{data}.jsonl', 'r') as f:
+            with gfile(f'gs://hugginghelen/olm/gdelt/gdelt_data_{data}.jsonl', 'r') as f:
                 line = f.readline()
                 while line:
                     yield json.loads(line)
