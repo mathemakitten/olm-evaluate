@@ -10,7 +10,7 @@ naive approach: feed in all news headlines, calculate perplexity, return average
 from gdelt.run_gdelt_evaluation import GdeltEvaluation
 
 for month in ['20220501', '20220601', '20220801', '20220901']:
-    gd = GdeltEvaluation()
+    gd = GdeltEvaluation(month)
     results = gd.run()
     print(f"results for month {month}: {results}")
 

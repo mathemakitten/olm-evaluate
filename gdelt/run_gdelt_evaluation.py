@@ -17,9 +17,11 @@ class GdeltEvaluation:
         if device is not None:
             assert device in ["gpu", "cpu", "cuda"], "device should be either gpu or cpu."
             if device == "gpu":
-                device = "cuda"
+                self.device = "cuda"
         else:
-            device = "cuda" if torch.cuda.is_available() else "cpu"
+            self.device = "cuda" if torch.cuda.is_available() else "cpu"
+
+        print(f"DEVICE: {self.device}")
 
         self.tokenizer = BertTokenizer.from_pretrained(model)
         model = BertForPreTraining.from_pretrained(model)
@@ -39,20 +41,24 @@ class GdeltEvaluation:
             self.tokenizer.add_special_tokens({"pad_token": existing_special_tokens[0]})
 
     def run(self):
+        print(f'RUNNING MONTH: {self.data}')
 
-        def datagen(data):
-            with gfile(f'gs://hugginghelen/olm/gdelt/gdelt_data_{data}.jsonl', 'r') as f:
+        def datagen():
+            with gfile(f'gs://hugginghelen/olm/gdelt/gdelt_data_{self.data}.jsonl', 'r') as f:
                 line = f.readline()
                 while line:
                     yield json.loads(line)
                     line = f.readline()
 
         ppls = []
-        x = datagen(self.data)
+        x = datagen()
 
         for i, example in enumerate(x):
             headline = example['title']
-            pseudoperplexity = pppl.pseudo_perplexity(self.model, self.tokenizer, headline)
+            pseudoperplexity = pppl.pseudo_perplexity(self.model, self.tokenizer, headline, self.device)
             ppls.append(pseudoperplexity)
+            print(pseudoperplexity)
+            if i == 10:
+                break
 
         return {"pseudo_perplexities": ppls, "mean_pseudo_perplexity": np.mean(ppls)}

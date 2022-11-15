@@ -7,7 +7,7 @@ tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 model = BertForPreTraining.from_pretrained('bert-base-uncased')
 
 
-def pseudo_perplexity(model, tokenizer, sentence):
+def pseudo_perplexity(model, tokenizer, sentence, device):
     tensor_input = tokenizer.encode(sentence, return_tensors='pt')
     repeat_input = tensor_input.repeat(tensor_input.size(-1)-2, 1)
     mask = torch.ones(tensor_input.size(-1) - 1).diag(1)[:-2]
@@ -15,6 +15,8 @@ def pseudo_perplexity(model, tokenizer, sentence):
     labels = repeat_input.masked_fill(masked_input != tokenizer.mask_token_id, -100)
 
     # print(f"masked input: {masked_input}\n\nlabels: {labels}\n\nmask: {mask}")
+
+    masked_input.to(device)
 
     with torch.no_grad():
         outputs = model(masked_input)
