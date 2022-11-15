@@ -10,8 +10,10 @@ naive approach: feed in all news headlines, calculate perplexity, return average
 from gdelt.run_gdelt_evaluation import GdeltEvaluation
 
 gd = GdeltEvaluation()
+results = gd.run()
 
-print('ugh')
+print(f"results: {results}")
+print('Evaluation complete!')
 
 
 """Run evaluation on CIA World Factbook latest scrape via pseudologlikelihood
