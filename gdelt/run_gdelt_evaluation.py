@@ -57,8 +57,8 @@ class GdeltEvaluation:
             headline = example['title']
             pseudoperplexity = pppl.pseudo_perplexity(self.model, self.tokenizer, headline, self.device)
             ppls.append(pseudoperplexity)
-            print(pseudoperplexity)
-            if i == 10:
-                break
+            # print(pseudoperplexity)
+            # if i == 10:
+            #     break
 
         return {"pseudo_perplexities": ppls, "mean_pseudo_perplexity": np.mean(ppls)}

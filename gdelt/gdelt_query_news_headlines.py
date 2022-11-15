@@ -22,8 +22,9 @@ def reformat_date_for_sql(date):
     return str(date[:4] + '-' + date[4:6] + '-' + date[6:])
 
 prev_scrape_end_date = '2022-01-29'
-lines_for_jsonl = []
 for d in cc_dates[1:]:
+    lines_for_jsonl = []
+
     cc_scrape_start_date, cc_scrape_end_date = reformat_date_for_sql(d[1]), reformat_date_for_sql(d[2])
 
     query_num_rows_to_process = f"SELECT count(*) FROM `gdelt-bq.gdeltv2.gal` WHERE DATE(date) > '{prev_scrape_end_date}' and DATE(date) <= '{cc_scrape_start_date}' and lang = 'en'"
@@ -46,6 +47,7 @@ for d in cc_dates[1:]:
 
     prev_scrape_end_date = cc_scrape_end_date
 
+    # Fixed malformed data due to quotes in the headline; replace double quotes w single quotes
     with open(f'gdelt/gdelt_data_{d[-1]}.jsonl', 'a') as f:
         for d in lines_for_jsonl:
             json.dump(d, f)
