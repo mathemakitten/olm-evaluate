@@ -10,6 +10,8 @@ import jiant.scripts.download_data.runscript as downloader
 # TASK_NAME = "mrpc"
 TASKS = "boolq,mrpc,copa,multirc,record,rte,wic,wsc"
 
+TASKS = "record"
+
 # See https://huggingface.co/models for supported models
 # HF_PRETRAINED_MODEL_NAME = "roberta-base"
 HF_PRETRAINED_MODEL_NAME = "Tristan/olm-bert-base-uncased-oct-2022"
@@ -32,9 +34,10 @@ args = simple_run.RunConfiguration(
     data_dir=DATA_DIR,
     hf_pretrained_model_name_or_path=HF_PRETRAINED_MODEL_NAME,
     tasks=TASKS,
-    train_batch_size=1024,
-    num_train_epochs=1,
+    train_batch_size=32,
+    num_train_epochs=10,
     do_save_last=True,
+    max_seq_length=512
 
 )
 simple_run.run_simple(args)

@@ -4,14 +4,18 @@ import numpy as np
 import torch
 from tensorflow.io import gfile
 from transformers import BertTokenizer, BertForPreTraining
+from transformers import AutoModelForCausalLM, AutoTokenizer
 
 import facts_pseudoperplexity.perplexity_over_time as pppl
+
+from evaluate import load
 
 
 class GdeltEvaluation:
 
-    def __init__(self, data='20220501', device=None, batch_size=16, model='Tristan/olm-bert-base-uncased-oct-2022'):
+    def __init__(self, data='20220901', device=None, batch_size=16, model='Tristan/olm-bert-base-uncased-oct-2022'):
 
+        self.model_name = model
         self.data = data
 
         if device is not None:
@@ -21,13 +25,21 @@ class GdeltEvaluation:
         else:
             self.device = "cuda" if torch.cuda.is_available() else "cpu"
 
-        print(f"DEVICE: {self.device}")
+        if 'bert' in model:
+            self.model_type = 'bert'
+        elif 'gpt' in model:
+            self.model_type = 'gpt'
 
-        self.tokenizer = BertTokenizer.from_pretrained(model)
-        model = BertForPreTraining.from_pretrained(model)
+        if self.model_type == 'bert':
+            self.tokenizer = BertTokenizer.from_pretrained(model)
+            model = BertForPreTraining.from_pretrained(model)
+        elif self.model_type == 'gpt':
+            self.tokenizer = AutoTokenizer.from_pretrained(model, use_fast=False, use_auth_token=True)
+            model = AutoModelForCausalLM.from_pretrained(model, use_auth_token=True)
+
         self.model = model.to(device)
 
-        # TODO: fix this lol there's no batching
+        # TODO: fix this lol there's no batching, need pad n batch
         # if batch_size > 1 (which generally leads to padding being required), and
         # if there is not an already assigned pad_token, assign an existing
         # special token to also be the padding token
@@ -53,12 +65,20 @@ class GdeltEvaluation:
         ppls = []
         x = datagen()
 
+        perplexity = load("perplexity", module_type="metric")
+        # TODO: FIX THIS TO CHOP OFF AT MAX-SEQ-LEN OR ELSE IT BREAKS
         for i, example in enumerate(x):
             headline = example['title']
-            pseudoperplexity = pppl.pseudo_perplexity(self.model, self.tokenizer, headline, self.device)
-            ppls.append(pseudoperplexity)
+            # CHANGE THIS TO INCLUDE PPL FOR GPT
+
+            if self.model_type == 'gpt':
+                p = perplexity.compute(predictions=[headline], model_id=self.model_name)
+                ppls.append(p['perplexities'])
+            elif self.model_type == 'bert':
+                pseudoperplexity = pppl.pseudo_perplexity(self.model, self.tokenizer, headline, self.device)
+                ppls.append(pseudoperplexity)
             # print(pseudoperplexity)
             # if i == 10:
             #     break
 
-        return {"pseudo_perplexities": ppls, "mean_pseudo_perplexity": np.mean(ppls)}
+        return {"perplexities": ppls, "mean_perplexity": np.mean(ppls)}
