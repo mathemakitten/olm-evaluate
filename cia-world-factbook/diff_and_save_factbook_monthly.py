@@ -1,6 +1,7 @@
 import glob
 import os
 import json
+import filecmp
 
 import tensorflow as tf
 import tensorflow_hub as hub
@@ -13,7 +14,7 @@ dates = sorted(os.listdir('factbook'))
 PREV_SNAPSHOT_DATE = dates[dates.index(SNAPSHOT_DATE) - 1]
 
 page_ids = [i.split('/')[-1] for i in
-            glob.glob(f'/home/helen_huggingface_co/wayback-machine-scrape/factbook/{SNAPSHOT_DATE}/*')]
+            gfile.glob(f'gs://hugginghelen/olm/factbook/{SNAPSHOT_DATE}/*')]
 
 sentence_embedder = hub.load("https://tfhub.dev/google/universal-sentence-encoder/4")
 
@@ -23,9 +24,11 @@ PAGE_IDS_TO_EXCLUDE = ['field-electricity-access']
 page_ids = [page for page in page_ids if page not in PAGE_IDS_TO_EXCLUDE]
 
 print(f"Running for {len(page_ids)} pages")
-for page in page_ids[:50]:
+different_lines = []
+for i, page in enumerate(page_ids):
 
-    print(f"\n\nRUNNING PAGE: {page}")
+    if i % 100 == 0:
+        print(f"Page {i} of {len(page_ids)}")
 
     # page = 'countries-cambodia'
     files = gfile.glob(f'gs://hugginghelen/olm/factbook/*/{page}/text.txt')
@@ -36,6 +39,16 @@ for page in page_ids[:50]:
     curr_file = files[curr_file_index]
     prev_file = files[prev_file_index]
 
+    # check that they both exist
+    if not gfile.exists(curr_file) or not gfile.exists(prev_file):
+        print(f'Skipped page {curr_file} because prev doesnt exist')
+        continue
+
+    # TODO REFACTOR TO BE GFILE FRIENDLY AND FAST, UNFORTUNATELY IT'S ON THE CLOUD
+    # if filecmp.cmp(prev_file, curr_file):  # save computation if they're just the same page
+    #     print(f'Skipped page {curr_file} because theyre the same')
+    #     continue
+
     with gfile.GFile(curr_file, 'r') as f:
         current = f.readlines()
         current = [s for s in current if len(s) > 2]
@@ -44,20 +57,20 @@ for page in page_ids[:50]:
         prev = f.readlines()
         prev = [s for s in prev if len(s) > 2]
 
-    if current == prev:  # save computation if they're just the same page
-        continue
-
     # Cannot diff entire file because nonsense like `'Khmer Will Party, : -,;,;IiCcEeIiTtFfNnSsWwHhTtGgBbPpCcEeIiP'`
     # Some paragraphs only have periods or single characters changed
 
     # Calculate the normalized summed logprobs for each version, see if current one is more updated
-    different_lines = []
+
+    if not prev:  # sometimes pages are new and have no prior snapshots
+        continue
+
+    if prev == current: # if they're duplicate
+        # print("Skipping because no data has changed")
+        continue
 
     # Find most-likely-to-be-matched sentence via sentence embedding matrix for this doc to surface most likely corresponding in prev
     for i, current_sentence in enumerate(current):
-
-        if not prev:  # sometimes pages are new and have no prior snapshots
-            continue
 
         # For this line, find the closest matching line in the previous doc. If none, skip
         curr_embedding = sentence_embedder([current_sentence])
@@ -72,7 +85,7 @@ for page in page_ids[:50]:
         if current_sentence != most_similar_sentence and float(similarity) > 0.8 and float(similarity) < 0.94 and len(
                 most_similar_sentence) > 2 and len(current_sentence) > 2 and "est." not in current_sentence:
             # if "Topic: " in current_sentence and similarity >
-            print(f"\n\nv0: {current_sentence}\nv1: {most_similar_sentence}\nsimilarity: {similarity}")
+            # print(f"\n\nv0: {current_sentence}\nv1: {most_similar_sentence}\nsimilarity: {similarity}")
             different_lines.append({"snapshot_date": SNAPSHOT_DATE, "previous": most_similar_sentence, "current": current_sentence})
 
         # Dedupe since there's a lot of duplicated boilerplate on factbook, like the telecommunications COVID message
@@ -80,8 +93,9 @@ for page in page_ids[:50]:
 
         different_lines = [dict(t) for t in {tuple(d.items()) for d in different_lines}]
         # print(different_lines)
-    print("===========================================================================")
+    # print("===========================================================================")
 
+print('Writing file')
 with open(f'factbook_diffs_{SNAPSHOT_DATE}.jsonl', 'a') as f:
     for d in different_lines:
         json.dump(d, f)

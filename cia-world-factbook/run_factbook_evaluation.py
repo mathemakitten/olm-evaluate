@@ -1,22 +1,14 @@
-import glob
-import os
-
 import tensorflow as tf
-import tensorflow_hub as hub
 import torch.nn.functional as F
+import json
 from tensorflow.io import gfile
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 # Configure which snapshot date
 # TODO: turn this into a script usable w fire.Fire
-dates = sorted(os.listdir('factbook'))
 SNAPSHOT_DATE = '20220901'
-PREV_SNAPSHOT_DATE = dates[dates.index(SNAPSHOT_DATE) - 1]
 
-page_ids = [i.split('/')[-1] for i in
-            glob.glob('/home/helen_huggingface_co/wayback-machine-scrape/factbook/20220901/*')]
-
-device = None  # "cuda"
+device = "cpu"  # "cuda"
 model_name = "mathemakitten/olm-gpt2-baseline-oct-2022"
 model_name = 'gpt2'
 model_name = 'Tristan/olm-gpt2-oct-2022'
@@ -30,15 +22,12 @@ if tokenizer.pad_token is None:  # and batch_size > 1:
     # assign one of the special tokens to also be the pad token
     tokenizer.add_special_tokens({"pad_token": existing_special_tokens[0]})
 
-sentence_embedder = hub.load("https://tfhub.dev/google/universal-sentence-encoder/4")
-
 # These are calculated over the total number of changed examples, NOT documents
 num_times_more_current_chosen, total = 0.0, 0.0
 
-
-def compare_llhs(most_similar_sentence, current_sentence):
+def compare_llhs(x):
     # Get model llhs of both of these and compare
-    previous_line, current_line = most_similar_sentence, current_sentence
+    previous_line, current_line = x['previous'], x['current']
     tokenized_inputs0 = tokenizer(previous_line, return_tensors="pt", padding=True).to(device=device)
     tokenized_inputs1 = tokenizer(current_line, return_tensors="pt", padding=True).to(device=device)
     logits0 = model(**tokenized_inputs0).logits  # .detach().to(device="cpu", dtype=torch.float32)
@@ -60,7 +49,28 @@ def compare_llhs(most_similar_sentence, current_sentence):
     print(f"logprobs: {logprobs}")
     return num_times_more_current_chosen
 
+with gfile.GFile(f'gs://hugginghelen/olm/factbook/diffs/factbook_diffs_{SNAPSHOT_DATE}_sample.jsonl', 'r') as f:
+    data = f.readlines()
 
+eval_data = []
+
+for i, line in enumerate(data):
+    x = json.loads(line)
+    eval_data.append(x)
+
+for i, x in enumerate(eval_data):
+    total += 1.0  # valid example
+    # print(f"\n\nv0: {current_sentence}\nv1: {most_similar_sentence}\nsimilarity: {similarity}")
+    num_times_more_current_chosen = compare_llhs(x)
+
+print(
+    f"How often did this model choose the current one? {num_times_more_current_chosen / total} ({num_times_more_current_chosen} correct, {total} total examples)")
+
+
+
+
+
+"""
 # countries-cambodia has changes for sure between 20220901 and 20220801
 for page in page_ids[:10]:
 
@@ -120,3 +130,4 @@ for page in page_ids[:10]:
 
 print(
     f"How often did this model choose the current one? {num_times_more_current_chosen / total} ({num_times_more_current_chosen} correct, {total} total examples)")
+"""
