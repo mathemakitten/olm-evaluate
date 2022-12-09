@@ -59,7 +59,6 @@ for i, page in enumerate(page_ids):
 
     # Cannot diff entire file because nonsense like `'Khmer Will Party, : -,;,;IiCcEeIiTtFfNnSsWwHhTtGgBbPpCcEeIiP'`
     # Some paragraphs only have periods or single characters changed
-
     # Calculate the normalized summed logprobs for each version, see if current one is more updated
 
     if not prev:  # sometimes pages are new and have no prior snapshots
@@ -91,7 +90,7 @@ for i, page in enumerate(page_ids):
         # Dedupe since there's a lot of duplicated boilerplate on factbook, like the telecommunications COVID message
         # different_lines = list(set(different_lines))
 
-        different_lines = [dict(t) for t in {tuple(d.items()) for d in different_lines}]
+        # different_lines = [dict(t) for t in {tuple(d.items()) for d in different_lines}]
         # print(different_lines)
     # print("===========================================================================")
 

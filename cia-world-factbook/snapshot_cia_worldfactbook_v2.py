@@ -16,8 +16,8 @@ import time
 class SnapshotOverTime:
 
     def __init__(self):
-        self.timestamps = ['20220901', '20220501', '20220601', '20220801']  # internet archive format is YYYYMMDDhhmmss
-        with open('/home/helen_huggingface_co/cia-world-factbook/links_scraped_cia_world_factbook.txt', 'r') as f:
+        self.timestamps = ['20220901'] #, '20220501', '20220601', '20220801']  # internet archive format is YYYYMMDDhhmmss
+        with open('../links_scraped_cia_world_factbook.txt', 'r') as f:
             pages = set(f.read().split('\n'))
         # pages = ['https://www.cia.gov/the-world-factbook/countries/turkey-turkiye/']
         self.pages_queue = queue.Queue()
@@ -83,7 +83,7 @@ class SnapshotOverTime:
                 # print(f"Broken json for page {page_id}: {x.text}")
                 return
 
-    def run(self, num_workers=2):
+    def run(self, num_workers=1):
         with concurrent.futures.ThreadPoolExecutor(max_workers=num_workers) as executor:
             futures = [executor.submit(self.worker) for _ in range(num_workers)]
 
