@@ -38,6 +38,10 @@ def compare_llhs(x):
     logits0 = model(**tokenized_inputs0).logits  # .detach().to(device="cpu", dtype=torch.float32)
     logits1 = model(**tokenized_inputs1).logits  # .detach().to(device="cpu", dtype=torch.float32)
 
+    # Slice off for max_seq_len
+    tokenized_inputs0['input_ids'] = tokenized_inputs0['input_ids'][:, 1024]
+    tokenized_inputs1['input_ids'] = tokenized_inputs1['input_ids'][:, 1024]
+
     # turn logits into logprobs
     logits0 = F.log_softmax(logits0, dim=-1)
     logits1 = F.log_softmax(logits1, dim=-1)
