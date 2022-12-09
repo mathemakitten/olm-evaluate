@@ -10,9 +10,9 @@ SNAPSHOT_DATE = '20220901'
 
 device = "cuda"  # "cuda"
 model_name = "mathemakitten/olm-gpt2-baseline-oct-2022"
-model_name = 'gpt2'
+# model_name = 'gpt2'
 # model_name = 'Tristan/olm-gpt2-oct-2022'
-# model_name = 'gpt2-medium'
+model_name = 'gpt2-medium'
 
 tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=False, use_auth_token=True)
 model = AutoModelForCausalLM.from_pretrained(model_name, use_auth_token=True)
@@ -33,14 +33,19 @@ num_times_more_current_chosen, total = 0.0, 0.0
 def compare_llhs(x):
     # Get model llhs of both of these and compare
     previous_line, current_line = x['previous'], x['current']
+
+    # print(f"prev {len(previous_line)} curr {len(current_line)}")
     tokenized_inputs0 = tokenizer(previous_line, return_tensors="pt", padding=True).to(device=device)
     tokenized_inputs1 = tokenizer(current_line, return_tensors="pt", padding=True).to(device=device)
-    logits0 = model(**tokenized_inputs0).logits  # .detach().to(device="cpu", dtype=torch.float32)
-    logits1 = model(**tokenized_inputs1).logits  # .detach().to(device="cpu", dtype=torch.float32)
 
     # Slice off for max_seq_len
-    tokenized_inputs0['input_ids'] = tokenized_inputs0['input_ids'][:, 1024]
-    tokenized_inputs1['input_ids'] = tokenized_inputs1['input_ids'][:, 1024]
+    tokenized_inputs0['input_ids'] = tokenized_inputs0['input_ids'][:, :1024]
+    tokenized_inputs1['input_ids'] = tokenized_inputs1['input_ids'][:, :1024]
+    tokenized_inputs0['attention_mask'] = tokenized_inputs0['attention_mask'][:, :1024]
+    tokenized_inputs1['attention_mask'] = tokenized_inputs1['attention_mask'][:, :1024]
+
+    logits0 = model(**tokenized_inputs0).logits  # .detach().to(device="cpu", dtype=torch.float32)
+    logits1 = model(**tokenized_inputs1).logits  # .detach().to(device="cpu", dtype=torch.float32)
 
     # turn logits into logprobs
     logits0 = F.log_softmax(logits0, dim=-1)
@@ -78,7 +83,7 @@ import time
 st = time.time()
 print('Running inference')
 for i, x in enumerate(eval_data):
-    if i % 20000 == 0:
+    if i % 100 == 0:
         print(f"Example {i} of {len(eval_data)}")
     total += 1.0  # valid example
     # print(f"\n\nv0: {current_sentence}\nv1: {most_similar_sentence}\nsimilarity: {similarity}")
