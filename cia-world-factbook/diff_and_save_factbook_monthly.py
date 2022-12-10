@@ -25,6 +25,34 @@ page_ids = [page for page in page_ids if page not in PAGE_IDS_TO_EXCLUDE]
 
 print(f"Running for {len(page_ids)} pages")
 different_lines = set()
+
+
+def format_lines_with_metadata(curr_file):
+    with gfile.GFile(curr_file, 'r') as f:
+        page_id_reconstructed = " - ".join([x.capitalize() for x in curr_file.split('/')[-2].split('-')])
+        current = f.read()
+        current = current.split('Topic: ')
+        sections = [c.split('\n\n') for c in current]
+
+        sections_to_keep = []
+        for s in sections:
+            section_tmp = []
+            for line in s:
+                if len(line) > 2:
+                    section_tmp.append(line)
+            sections_to_keep.append(section_tmp)
+        sections_to_keep = [s for s in sections_to_keep if s != []]
+        sections_with_header_metadata = []
+        for final_text in sections_to_keep:
+            # extract topic
+            topic = final_text.pop(0)
+            for s in final_text:
+                sections_with_header_metadata.append(f"{page_id_reconstructed} | Topic: {topic}\n{s}")
+        return sections_with_header_metadata
+        # print("HERE")
+        # print(sections_with_header_metadata)
+        # current = [s for s in current if len(s) > 50]
+
 for i, page in enumerate(page_ids):
 
     # Pages to skip to save compute
@@ -60,15 +88,8 @@ for i, page in enumerate(page_ids):
     #     print(f'Skipped page {curr_file} because theyre the same')
     #     continue
 
-    with gfile.GFile(curr_file, 'r') as f:
-        current = f.read()
-        current = current.split('Topic: ')
-        current = [s for s in current if len(s) > 50]
-
-    with gfile.GFile(prev_file, 'r') as f:
-        prev = f.read()
-        prev = prev.split('Topic: ')
-        prev = [s for s in prev if len(s) > 50]
+    current = format_lines_with_metadata(curr_file)
+    prev = format_lines_with_metadata(prev_file)
 
     # Cannot diff entire file because nonsense like `'Khmer Will Party, : -,;,;IiCcEeIiTtFfNnSsWwHhTtGgBbPpCcEeIiP'`
     # Some paragraphs only have periods or single characters changed
@@ -81,8 +102,9 @@ for i, page in enumerate(page_ids):
         # print("Skipping because no data has changed")
         continue
 
-    if current[0][:19] == 'CIA.gov has changed' or 'Photos of ' in current:
-        continue
+    # TODO: fix this
+    # if current[0][:19] == 'CIA.gov has changed' or 'Photos of ' in current:
+    #     continue
 
     # Find most-likely-to-be-matched sentence via sentence embedding matrix for this doc to surface most likely corresponding in prev
     for i, current_sentence in enumerate(current):
@@ -96,22 +118,16 @@ for i, page in enumerate(page_ids):
         likelihoods = tf.matmul(curr_embedding, embeddings_for_previous, transpose_b=True)
         similarity = tf.reduce_max(likelihoods[0])  # how similar is the most similar one?
         most_similar_id = sorted(range(len(likelihoods[0])), key=lambda i: likelihoods[0][i], reverse=True)[0]
-        most_similar_sentence = prev[most_similar_id]
+        most_similar_sentence = sentences_from_previous[most_similar_id]
 
         # print(f"\n\nv0: {current_sentence}\nv1: {most_similar_sentence}\nsimilarity: {similarity}")
-        if current_sentence != most_similar_sentence and float(similarity) > 0.8 and float(similarity) < 0.94 and len(
-                most_similar_sentence) > 2 and len(current_sentence) > 2 and "est." not in current_sentence:
+        if current_sentence != most_similar_sentence and similarity < 0.99:
             # if "Topic: " in current_sentence and similarity >
-            # print(f"\n\nv0: {current_sentence}\nv1: {most_similar_sentence}\nsimilarity: {similarity}")
+            print(f"\n\nv0: {current_sentence}\nv1: {most_similar_sentence}\nsimilarity: {similarity}")
             # different_lines.append({"snapshot_date": SNAPSHOT_DATE, "previous": most_similar_sentence, "current": current_sentence})
 
             different_lines.add((SNAPSHOT_DATE, most_similar_sentence, current_sentence))  # need to be hashable
 
-        # Dedupe since there's a lot of duplicated boilerplate on factbook, like the telecommunications COVID message
-        # different_lines = list(set(different_lines))
-
-        # different_lines = [dict(t) for t in {tuple(d.items()) for d in different_lines}]
-        # print(different_lines)
     # print("===========================================================================")
 
 different_lines = list(different_lines)
