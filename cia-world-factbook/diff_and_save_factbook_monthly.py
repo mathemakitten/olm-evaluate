@@ -53,6 +53,7 @@ def format_lines_with_metadata(curr_file):
         # print(sections_with_header_metadata)
         # current = [s for s in current if len(s) > 50]
 
+# TODO: multiprocess this
 for i, page in enumerate(page_ids):
 
     # Pages to skip to save compute
@@ -123,7 +124,7 @@ for i, page in enumerate(page_ids):
         # print(f"\n\nv0: {current_sentence}\nv1: {most_similar_sentence}\nsimilarity: {similarity}")
         if current_sentence != most_similar_sentence and similarity < 0.99:
             # if "Topic: " in current_sentence and similarity >
-            print(f"\n\nv0: {current_sentence}\nv1: {most_similar_sentence}\nsimilarity: {similarity}")
+            # print(f"\n\nv0: {current_sentence}\nv1: {most_similar_sentence}\nsimilarity: {similarity}")
             # different_lines.append({"snapshot_date": SNAPSHOT_DATE, "previous": most_similar_sentence, "current": current_sentence})
 
             different_lines.add((SNAPSHOT_DATE, most_similar_sentence, current_sentence))  # need to be hashable
