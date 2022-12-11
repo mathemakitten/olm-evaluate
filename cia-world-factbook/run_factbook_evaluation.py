@@ -8,11 +8,12 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 # TODO: turn this into a script usable w fire.Fire
 SNAPSHOT_DATE = '20220901'
 
-device = "cpu"  # "cuda"
-model_name = "mathemakitten/olm-gpt2-baseline-oct-2022"
-# model_name = 'gpt2'
-# model_name = 'Tristan/olm-gpt2-oct-2022'
+device = "cuda"  # "cuda"
+# model_name = "mathemakitten/olm-gpt2-baseline-oct-2022"
+model_name = 'gpt2'
+model_name = 'Tristan/olm-gpt2-oct-2022'
 # model_name = 'gpt2-medium'
+model_name = 'facebook/opt-350m'
 
 tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=False, use_auth_token=True)
 model = AutoModelForCausalLM.from_pretrained(model_name, use_auth_token=True)
