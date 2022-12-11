@@ -13,10 +13,14 @@ from evaluate import load
 
 class GdeltEvaluation:
 
-    def __init__(self, data='20220901', device=None, batch_size=16, model='Tristan/olm-bert-base-uncased-oct-2022'):
+    def __init__(self, data='20220901', device=None, batch_size=16, model='Tristan/olm-gpt2-oct-2022'):
+
+        model = "gpt2"
 
         self.model_name = model
         self.data = data
+
+        print(f'RUNNING MONTH: {self.data} with model {self.model_name}')
 
         if device is not None:
             assert device in ["gpu", "cpu", "cuda"], "device should be either gpu or cpu."
@@ -53,10 +57,9 @@ class GdeltEvaluation:
             self.tokenizer.add_special_tokens({"pad_token": existing_special_tokens[0]})
 
     def run(self):
-        print(f'RUNNING MONTH: {self.data}')
 
         def datagen():
-            with gfile.GFile(f'gs://hugginghelen/olm/gdelt/gdelt_data_{self.data}.jsonl', 'r') as f:
+            with gfile.GFile(f'gs://hugginghelen/olm/gdelt/filtered/gdelt_data_{self.data}_english_reliable.jsonl', 'r') as f:
                 line = f.readline()
                 while line:
                     yield json.loads(line)
@@ -65,20 +68,27 @@ class GdeltEvaluation:
         ppls = []
         x = datagen()
 
-        perplexity = load("perplexity", module_type="metric")
+        if self.model_type == 'gpt':
+            headlines = []
+            with gfile.GFile(f'gs://hugginghelen/olm/gdelt/filtered/gdelt_data_{self.data}_english_reliable.jsonl', 'r') as f:
+                lines = f.readlines()
+                for l in lines:
+                    x = json.loads(l)
+                    headlines.append(x['title'])
+            perplexity = load("perplexity", module_type="metric")
+            results = perplexity.compute(predictions=headlines, model_id=self.model_name, batch_size=32)
+            return results
+        else:
         # TODO: FIX THIS TO CHOP OFF AT MAX-SEQ-LEN OR ELSE IT BREAKS
-        for i, example in enumerate(x):
-            headline = example['title']
-            # CHANGE THIS TO INCLUDE PPL FOR GPT
+            for i, example in enumerate(x):
+                headline = example['title']
 
-            if self.model_type == 'gpt':
-                p = perplexity.compute(predictions=[headline], model_id=self.model_name)
-                ppls.append(p['perplexities'])
-            elif self.model_type == 'bert':
                 pseudoperplexity = pppl.pseudo_perplexity(self.model, self.tokenizer, headline, self.device)
                 ppls.append(pseudoperplexity)
-            # print(pseudoperplexity)
-            # if i == 10:
-            #     break
 
-        return {"perplexities": ppls, "mean_perplexity": np.mean(ppls)}
+                return {"perplexities": ppls, "mean_perplexity": np.mean(ppls)}
+
+for month in ['20220901']:
+    gd = GdeltEvaluation(month)
+    results = gd.run()
+    print(f"results for month {month}: {results}")
